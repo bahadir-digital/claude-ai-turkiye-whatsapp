@@ -1,5 +1,5 @@
-/* Ana sayfa: grupları yükle, çift butonlu kartları oluştur, kuralları göster,
-   her grubun export'unu okuyup üye/mesaj sayısını hesapla. */
+/* Ana sayfa: grupları yükle, çift butonlu kartlar, üye/mesaj DOLAN BAR gösterimi
+   (tüm grupların en yükseğine göre dolar), kurallar kartı. */
 
 (function () {
   "use strict";
@@ -13,8 +13,21 @@
     });
   }
   function fmt(n) { return n.toLocaleString("tr-TR"); }
-  function statBlock(v, l) { return '<div class="stat"><b>' + v + '</b><small>' + l + "</small></div>"; }
   function groupUrl(slug) { return "group.html?g=" + encodeURIComponent(slug); }
+
+  // value: gösterilecek metin, kind: members|messages, pct: 0-100 doluluk
+  function statBar(value, label, kind, pct) {
+    return (
+      '<div class="stat stat--' + kind + '">' +
+        '<div class="stat__top"><b>' + value + '</b><small>' + label + "</small></div>" +
+        '<div class="stat__bar"><i style="width:' + pct + '%"></i></div>' +
+      "</div>"
+    );
+  }
+  function statsHTML(memberTxt, msgTxt, mPct, sPct) {
+    return statBar(memberTxt, "üye", "members", mPct || 0) +
+           statBar(msgTxt, "mesaj", "messages", sPct || 0);
+  }
 
   function loadStats(slug) {
     return fetch("data/chats/" + slug + ".txt", { cache: "no-cache" })
@@ -58,7 +71,7 @@
         "</div>" +
         '<p class="card__desc">' + esc(g.description) + "</p>" +
         '<div class="card__stats" id="stats-' + g.slug + '">' +
-          statBlock("—", "üye") + statBlock("—", "mesaj") +
+          statsHTML("—", "—", 0, 0) +
         "</div>" +
       "</a>" +
       '<div class="card__actions">' +
@@ -69,18 +82,37 @@
     return el;
   }
 
-  function buildRules(rules) {
-    if (!rules || !rules.length) return;
-    var d = document.getElementById("rules-slot");
-    d.innerHTML =
-      "<details class='rules'><summary>Topluluk Kuralları</summary><ol>" +
-      rules.map(function (r) { return "<li>" + esc(r) + "</li>"; }).join("") +
-      "</ol></details>";
+  function buildRules(cfg) {
+    if (!cfg.rules || !cfg.rules.length) return;
+    var site = cfg.website || "";
+    var items = cfg.rules.map(function (r, i) {
+      return (
+        "<li>" +
+          '<span class="rulescard__num">' + (i + 1) + "</span>" +
+          "<div>" +
+            '<div class="rulescard__t">' + esc(r.t) + "</div>" +
+            '<div class="rulescard__d">' + esc(r.d) + "</div>" +
+          "</div>" +
+        "</li>"
+      );
+    }).join("");
+
+    var footLink = site
+      ? 'Daha fazla kaynak için: <a href="' + esc(site) + '" target="_blank" rel="noopener">bahadir.digital</a> 📚<br />'
+      : "";
+
+    document.getElementById("rules-slot").innerHTML =
+      '<section class="rulescard">' +
+        '<h2 class="rulescard__title">' + esc(cfg.rulesTitle || "Topluluk Kuralları") + "</h2>" +
+        (cfg.rulesIntro ? '<p class="rulescard__intro">' + esc(cfg.rulesIntro) + "</p>" : "") +
+        '<ol class="rulescard__list">' + items + "</ol>" +
+        '<div class="rulescard__foot">' + footLink + esc(cfg.rulesFooter || "") + "</div>" +
+      "</section>";
   }
 
   function init(cfg) {
     document.getElementById("intro-note").textContent = cfg.note || "";
-    buildRules(cfg.rules);
+    buildRules(cfg);
 
     var main = cfg.groups.filter(function (g) { return g.main; })[0];
     var rest = cfg.groups.filter(function (g) { return !g.main; });
@@ -89,12 +121,21 @@
     var grid = document.getElementById("grid");
     rest.forEach(function (g) { grid.appendChild(buildCard(g)); });
 
-    cfg.groups.forEach(function (g) {
-      if (g.main) return;
-      loadStats(g.slug).then(function (s) {
-        if (!s) return;
-        var el = document.getElementById("stats-" + g.slug);
-        if (el) el.innerHTML = statBlock(fmt(s.members), "üye") + statBlock(fmt(s.messages), "mesaj");
+    // Tüm sayıları yükle, sonra en yükseğe göre barları doldur.
+    Promise.all(rest.map(function (g) {
+      return loadStats(g.slug).then(function (s) { return { g: g, s: s }; });
+    })).then(function (results) {
+      var maxM = 1, maxS = 1;
+      results.forEach(function (r) {
+        if (r.s) { maxM = Math.max(maxM, r.s.members); maxS = Math.max(maxS, r.s.messages); }
+      });
+      results.forEach(function (r) {
+        var el = document.getElementById("stats-" + r.g.slug);
+        if (!el) return;
+        if (!r.s) { el.innerHTML = statsHTML("—", "—", 0, 0); return; }
+        var mPct = Math.max(4, Math.round((r.s.members / maxM) * 100));
+        var sPct = Math.max(4, Math.round((r.s.messages / maxS) * 100));
+        el.innerHTML = statsHTML(fmt(r.s.members), fmt(r.s.messages), mPct, sPct);
       });
     });
   }

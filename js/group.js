@@ -196,7 +196,10 @@
     if (!panel) return;
     if (!rules || !rules.length) { panel.style.display = "none"; return; }
     $("rules-list").innerHTML = rules.map(function (r) {
-      return "<li>" + esc(r) + "</li>";
+      if (r && typeof r === "object") {
+        return "<li><b>" + esc(r.t) + "</b><span>" + esc(r.d) + "</span></li>";
+      }
+      return "<li><span>" + esc(r) + "</span></li>";
     }).join("");
   }
 
