@@ -1,82 +1,659 @@
-08.02.2025 09:15 - Mesajlar ve aramalar uçtan uca şifrelidir. Topluluk dışındaki kimse, WhatsApp dahil, bunları okuyamaz veya dinleyemez.
-08.02.2025 09:17 - Ahmet Yılmaz grubu oluşturdu
-08.02.2025 15:03 - Ahmet Yılmaz gruba davet bağlantısı aracılığıyla katıldı
-08.02.2025 18:27 - Zeynep Kaya gruba davet bağlantısı aracılığıyla katıldı
-08.02.2025 19:40 - Mert Demir gruba davet bağlantısı aracılığıyla katıldı
-08.02.2025 23:12 - Elif Şahin gruba davet bağlantısı aracılığıyla katıldı
-09.02.2025 03:23 - Burak Çelik gruba davet bağlantısı aracılığıyla katıldı
-09.02.2025 08:28 - Selin Arslan gruba davet bağlantısı aracılığıyla katıldı
-09.02.2025 09:13 - Can Öztürk gruba davet bağlantısı aracılığıyla katıldı
-09.02.2025 14:54 - Deniz Aydın gruba davet bağlantısı aracılığıyla katıldı
-09.02.2025 15:23 - Ece Yıldız gruba davet bağlantısı aracılığıyla katıldı
-09.02.2025 18:06 - Ece Yıldız: Git diff'leri özetletmek harika çalışıyor.
-09.02.2025 18:09 - Deniz Aydın: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-09.02.2025 20:20 - Ece Yıldız: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-09.02.2025 20:39 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-09.02.2025 21:49 - Elif Şahin: Git diff'leri özetletmek harika çalışıyor.
-10.02.2025 00:38 - Deniz Aydın: Bu komutu denedim, sorunu hemen buldu 🙏
-10.02.2025 01:00 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-10.02.2025 03:40 - Elif Şahin: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-10.02.2025 05:07 - Burak Çelik: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-10.02.2025 05:44 - Ahmet Yılmaz: Bu komutu denedim, sorunu hemen buldu 🙏
-10.02.2025 06:55 - Zeynep Kaya: Git diff'leri özetletmek harika çalışıyor.
-10.02.2025 08:12 - Ece Yıldız: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-10.02.2025 10:14 - Zeynep Kaya: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-10.02.2025 10:38 - Deniz Aydın: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
-10.02.2025 11:00 - Ece Yıldız: Bu komutu denedim, sorunu hemen buldu 🙏
-10.02.2025 12:42 - Elif Şahin: Git diff'leri özetletmek harika çalışıyor.
-10.02.2025 13:08 - Mert Demir: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-10.02.2025 14:43 - Mert Demir: Konfigürasyon dosyasını paylaşır mısın?
-10.02.2025 16:56 - Burak Çelik: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-10.02.2025 17:58 - Deniz Aydın: Bu komutu denedim, sorunu hemen buldu 🙏
-10.02.2025 18:41 - Ahmet Yılmaz: Bu komutu denedim, sorunu hemen buldu 🙏
-10.02.2025 20:27 - Burak Çelik: Büyük repoda refactor için ciddi zaman kazandırdı.
-10.02.2025 22:06 - Selin Arslan: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-10.02.2025 22:09 - Selin Arslan: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
-10.02.2025 22:42 - Elif Şahin: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
-10.02.2025 23:59 - Burak Çelik: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
-11.02.2025 01:41 - Zeynep Kaya: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
-11.02.2025 02:54 - Ahmet Yılmaz: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-11.02.2025 05:46 - Burak Çelik: Büyük repoda refactor için ciddi zaman kazandırdı.
-11.02.2025 06:57 - Can Öztürk: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-11.02.2025 08:35 - Can Öztürk: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
-11.02.2025 11:19 - Can Öztürk: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-11.02.2025 11:42 - Ahmet Yılmaz: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
-11.02.2025 12:20 - Burak Çelik: Bu komutu denedim, sorunu hemen buldu 🙏
-11.02.2025 14:43 - Mert Demir: Büyük repoda refactor için ciddi zaman kazandırdı.
-11.02.2025 16:13 - Burak Çelik: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-11.02.2025 19:03 - Burak Çelik: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
-11.02.2025 20:23 - Deniz Aydın: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-11.02.2025 20:56 - Mert Demir: Büyük repoda refactor için ciddi zaman kazandırdı.
-11.02.2025 23:07 - Deniz Aydın: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-12.02.2025 00:35 - Deniz Aydın: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
-12.02.2025 01:27 - Elif Şahin: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-12.02.2025 03:52 - Zeynep Kaya: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
-12.02.2025 05:01 - Elif Şahin: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
-12.02.2025 06:49 - Can Öztürk: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
-12.02.2025 07:45 - Can Öztürk: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-12.02.2025 08:03 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-12.02.2025 09:38 - Mert Demir: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-12.02.2025 10:36 - Zeynep Kaya: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-12.02.2025 12:17 - Can Öztürk: Bu komutu denedim, sorunu hemen buldu 🙏
-12.02.2025 13:39 - Ahmet Yılmaz: Büyük repoda refactor için ciddi zaman kazandırdı.
-12.02.2025 13:44 - Onur Korkmaz ayrıldı
-12.02.2025 15:48 - Deniz Aydın: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
-12.02.2025 16:09 - Can Öztürk: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-12.02.2025 18:11 - Deniz Aydın: Git diff'leri özetletmek harika çalışıyor.
-12.02.2025 18:41 - Elif Şahin: Büyük repoda refactor için ciddi zaman kazandırdı.
-12.02.2025 19:22 - Ece Yıldız: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-12.02.2025 22:10 - Deniz Aydın: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-13.02.2025 00:34 - Ahmet Yılmaz: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
-13.02.2025 01:09 - Elif Şahin: Konfigürasyon dosyasını paylaşır mısın?
-13.02.2025 01:21 - Burak Çelik: Büyük repoda refactor için ciddi zaman kazandırdı.
-13.02.2025 04:04 - Burak Çelik: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-13.02.2025 06:49 - Can Öztürk: MCP server bağlamak isteyenler nasıl bir akış izliyor?
-13.02.2025 07:17 - Zeynep Kaya: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-13.02.2025 09:34 - Elif Şahin: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
-13.02.2025 10:43 - Elif Şahin: Konfigürasyon dosyasını paylaşır mısın?
-13.02.2025 10:46 - Ahmet Yılmaz: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-13.02.2025 12:06 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
-13.02.2025 13:29 - Elif Şahin: Bu komutu denedim, sorunu hemen buldu 🙏
-13.02.2025 15:46 - Elif Şahin: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
-13.02.2025 16:52 - Ahmet Yılmaz: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
+[2.03.2026 20:49:45] Claude Code 👩‍💻👨‍💻: ‎Claude Code 👩‍💻👨‍💻 grubunu oluşturdunuz
+[2.03.2026 20:49:45] Claude Code 👩‍💻👨‍💻: ‎Mesajlar ve aramalar uçtan uca şifrelidir. Yalnızca bu sohbetteki kişiler bu içerikleri okuyabilir, dinleyebilir veya paylaşabilir.
+[2.03.2026 20:54:00] Claude Code 👩‍💻👨‍💻: ‎Grup açıklamasını değiştirdiniz
+[2.03.2026 20:54:18] Claude Code 👩‍💻👨‍💻: ‎Grup adını "Claude ile Kodlama 💻⚡" olarak değiştirdiniz
+[2.03.2026 21:02:55] Claude Code 👩‍💻👨‍💻: ‎Alaattin Erdemli, Cem Aktan ve 3diğer kişiyi eklediniz
+[2.03.2026 21:10:27] Kürşat Koca: ‎Kürşat Koca topluluk üzerinden katıldı
+[2.03.2026 21:13:28] Niyazi Öksüzoğlu: ‎Niyazi Öksüzoğlu topluluk üzerinden katıldı
+[2.03.2026 21:15:15] Berke Ocak: ‎Berke Ocak topluluk üzerinden katıldı
+[2.03.2026 21:19:14] Claude Code 👩‍💻👨‍💻: ‎Grup adını "Claude Code 💻⚡" olarak değiştirdiniz
+[2.03.2026 21:27:45] Claude Code 👩‍💻👨‍💻: ‎Grup adını "Claude Code 👩‍💻👨‍💻" olarak değiştirdiniz
+[2.03.2026 21:38:18] Melih Aslıhan: ‎Melih Aslıhan topluluk üzerinden katıldı
+[2.03.2026 21:39:21] Pascal Baerlocher: ‎Pascal Baerlocher topluluk üzerinden katıldı
+[2.03.2026 21:40:00] Emre Dolkundarı: ‎Emre Dolkundarı topluluk üzerinden katıldı
+[2.03.2026 21:41:50] ~ Mustafa: ‎~ Mustafa topluluk üzerinden katıldı
+[2.03.2026 21:44:41] Arzu Kalkan: ‎Arzu Kalkan topluluk üzerinden katıldı
+[2.03.2026 21:44:53] Sadık Iriş: ‎Sadık Iriş topluluk üzerinden katıldı
+[2.03.2026 21:50:07] Semra Turkmen: ‎Semra Turkmen topluluk üzerinden katıldı
+[2.03.2026 21:51:39] Alper Altun: ‎Alper Altun topluluk üzerinden katıldı
+[2.03.2026 21:54:47] Serhan Backend: ‎Serhan Backend topluluk üzerinden katıldı
+[2.03.2026 21:55:25] ‪+90 541 250 08 50‬: ‎‪+90 541 250 08 50‬ topluluk üzerinden katıldı
+[2.03.2026 21:55:38] ~ EA: ‎~ EA topluluk üzerinden katıldı
+[2.03.2026 22:02:01] ~ Uğur Aydoğan: ‎~ Uğur Aydoğan topluluk üzerinden katıldı
+[2.03.2026 22:02:35] Mert Medetoğlu: ‎Mert Medetoğlu topluluk üzerinden katıldı
+[2.03.2026 22:03:38] Mert Mutlu: ‎Mert Mutlu topluluk üzerinden katıldı
+[2.03.2026 22:05:56] Erdem Bostancı: ‎Erdem Bostancı topluluk üzerinden katıldı
+[2.03.2026 22:31:20] Tayfun Dumlupinar: ‎Tayfun Dumlupinar topluluk üzerinden katıldı
+[2.03.2026 22:32:23] Ümran Aktepe: ‎Ümran Aktepe topluluk üzerinden katıldı
+[2.03.2026 22:34:10] ‪+90 507 831 80 33‬: ‎‪+90 507 831 80 33‬ topluluk üzerinden katıldı
+[2.03.2026 22:35:49] Tahir YILDIZ: ‎Tahir YILDIZ topluluk üzerinden katıldı
+[2.03.2026 22:37:01] Okan Fidanlı: ‎Okan Fidanlı topluluk üzerinden katıldı
+[2.03.2026 22:51:43] Recep Göçen: ‎Recep Göçen topluluk üzerinden katıldı
+[2.03.2026 22:54:24] Zeynep Güler: ‎Zeynep Güler topluluk üzerinden katıldı
+[2.03.2026 23:01:34] Kadir Sinan Dönmez: ‎Kadir Sinan Dönmez topluluk üzerinden katıldı
+[2.03.2026 23:06:13] ~ Metin E.: ‎~ Metin E. topluluk üzerinden katıldı
+[2.03.2026 23:08:11] ‪+90 553 102 41 55‬: ‎‪+90 553 102 41 55‬ topluluk üzerinden katıldı
+[2.03.2026 23:24:32] Alper Altun: https://claudish.com/
+
+15+ provider ve OpenRouter üzerinden 580+ model desteği var.
+
+Asıl güzel kısmı şu: Aboneliğinizi proxyleyerek çalışmıyor. Claude Code'un subagent özelliğini skills ile birlikte kullanıyor. Diğer providerlardaki Api Key lerinizi ekleyebiliyorsunuz
+
+Mesela testleri yazdırırken ana modelinizden token harcamak istemiyorsanız, OpenRouter'daki ücretsiz kredilerinizle ucuz bir modele paralel olarak yazdırabilirsiniz.
+
+Kullanılacak modeli otomatik belirleyebiliyor ya da prompt içinde model adı geçiyorsa direkt onu kullanıyor.
+
+Ollama desteği de bulunuyor, kısmi işleri lokal bilgisayarınızdan çalıştırabiliyorsunuz.
+
+Ben GLM-5, Opus 4.6, Sonnet 4.6 modellerini bu şekilde paralell kullanabiliyorum.  Opus her şeyi orkestra ederken,  Sonnet paralelde kod yazıyor, GLM-5 testleri yazıp çalıştırabiliyor. ‎<Bu mesaj düzenlendi>
+[2.03.2026 23:32:03] Alper Altun: Claduish'in geliştiricilerinden;
+
+https://github.com/MadAppGang/claude-code
+
+Claude Code'u tek başına kullanıyorsanız masada çok şey bırakıyorsunuz. Bu plugin seti gerçek projelerde test edilmiş workflow'ları hazır paket olarak sunuyor.
+
+Var olan ana özellikler:
+→ Frontend Plugin — /implement yazıyorsun, mimari planlama, kod yazma, 3 aşamalı review (manual + AI + browser test), test üretimi, cleanup hepsini sırayla yapıyor. Figma'dan direkt import desteği var.
+→ Code Analysis — Semantic search ile codebase'i taratıyorsun, bug takibi, pattern keşfi, legacy kod analizi. Token tüketimini %40 azaltan bir yaklaşımla çalışıyor.
+→ Bun Backend — Hono + Prisma + Zod stack'iyle API geliştirme. Route'tan controller'a, service'ten repository'ye clean architecture. Apidog entegrasyonu ile dökümantasyon otomatik senkronize.
+→ Orchestration — Multi-agent koordinasyon, paralel çalıştırma pattern'leri, quality gate'ler. Birden fazla AI modelini aynı anda çalıştırıp sonuçları karşılaştırabiliyorsun.
+
+Kurulum:
+/plugin marketplace add MadAppGang/claude-code
+
+Architect, Frontend Developer, Backend Developer, Tester gibi özelleşmiş agent'lar marketplace içinde hazır.
+[2.03.2026 23:32:10] ‪+90 507 831 80 33‬: ‎‪+90 507 831 80 33‬ ayrıldı
+[2.03.2026 23:41:55] ~ Burak: ‎~ Burak topluluk üzerinden katıldı
+[2.03.2026 23:52:03] Mehmet Ongan: ‎Mehmet Ongan topluluk üzerinden katıldı
+[2.03.2026 23:52:13] Veysel Dalga: ‎Veysel Dalga topluluk üzerinden katıldı
+[2.03.2026 23:58:17] ~ İrfan Çözge: ‎~ İrfan Çözge topluluk üzerinden katıldı
+[3.03.2026 00:04:36] Kuddusi Savaş: ‎Kuddusi Savaş topluluk üzerinden katıldı
+[3.03.2026 00:26:31] ~ Doğukan: ‎~ Doğukan topluluk üzerinden katıldı
+[3.03.2026 00:36:20] Ali Atakan Gürbüz: ‎Ali Atakan Gürbüz topluluk üzerinden katıldı
+[3.03.2026 01:09:23] ~ Uğur Aydoğan: ‎~ Uğur Aydoğan ayrıldı
+[3.03.2026 01:14:39] Gürkan Göl: ‎Gürkan Göl topluluk üzerinden katıldı
+[3.03.2026 02:06:51] ~ Ahmet Pirimoğlu: ‎~ Ahmet Pirimoğlu topluluk üzerinden katıldı
+[3.03.2026 02:50:38] Habibe Nur Biçer: ‎Habibe Nur Biçer topluluk üzerinden katıldı
+[3.03.2026 02:58:10] ~ Cemali: ‎~ Cemali topluluk üzerinden katıldı
+[3.03.2026 05:01:29] ~ İhsan Çungay: ‎~ İhsan Çungay topluluk üzerinden katıldı
+[3.03.2026 05:50:35] ~ Kadir: ‎~ Kadir topluluk üzerinden katıldı
+[3.03.2026 06:41:03] ‪+90 531 665 09 29‬: ‎‪+90 531 665 09 29‬ topluluk üzerinden katıldı
+[3.03.2026 07:36:15] ~ Metin B: ‎~ Metin B topluluk üzerinden katıldı
+[3.03.2026 07:37:56] ~ Aşkın Yaprak: ‎~ Aşkın Yaprak topluluk üzerinden katıldı
+[3.03.2026 07:55:05] ~ fht: ‎~ fht topluluk üzerinden katıldı
+[3.03.2026 08:14:03] ~ Hasan: ‎~ Hasan topluluk üzerinden katıldı
+[3.03.2026 08:19:48] ‪+90 534 501 91 37‬: ‎‪+90 534 501 91 37‬ topluluk üzerinden katıldı
+[3.03.2026 08:20:35] ‪+90 531 665 09 29‬: ‎‪+90 531 665 09 29‬ ayrıldı
+[3.03.2026 08:20:58] Cem Sadaka: ‎Cem Sadaka topluluk üzerinden katıldı
+[3.03.2026 08:36:49] Arslan Tosun: ‎Arslan Tosun topluluk üzerinden katıldı
+[3.03.2026 08:48:17] ~ Kerem: ‎~ Kerem topluluk üzerinden katıldı
+[3.03.2026 09:12:24] Osman Sayın: ‎Osman Sayın topluluk üzerinden katıldı
+[3.03.2026 09:24:38] ~ EA: ‎~ EA topluluk üzerinden katıldı
+[3.03.2026 09:27:41] Hasan Bozdağ: ‎Hasan Bozdağ topluluk üzerinden katıldı
+[3.03.2026 09:37:17] ~ Alperen Bilgehan Dede: ‎~ Alperen Bilgehan Dede topluluk üzerinden katıldı
+[3.03.2026 09:45:24] ‪+90 537 732 22 83‬: ‎‪+90 537 732 22 83‬ topluluk üzerinden katıldı
+[3.03.2026 10:38:55] ‪+90 536 420 12 08‬: ‎‪+90 536 420 12 08‬ topluluk üzerinden katıldı
+[3.03.2026 10:59:26] ‪+90 536 472 01 17‬: ‎‪+90 536 472 01 17‬ topluluk üzerinden katıldı
+[3.03.2026 11:00:06] ~ Berat Özmen: ‎~ Berat Özmen topluluk üzerinden katıldı
+[3.03.2026 11:00:52] ~ Gamze Kışçı Aslan: ‎~ Gamze Kışçı Aslan topluluk üzerinden katıldı
+[3.03.2026 11:06:09] ‪+90 537 336 41 69‬: ‎‪+90 537 336 41 69‬ topluluk üzerinden katıldı
+[3.03.2026 11:44:19] Merih Tüdiş: ‎Merih Tüdiş topluluk üzerinden katıldı
+[3.03.2026 13:14:28] Gurkan Oktay: ‎Gurkan Oktay topluluk üzerinden katıldı
+[3.03.2026 14:16:07] ‪+90 534 832 10 02‬: ‎‪+90 534 832 10 02‬ topluluk üzerinden katıldı
+[3.03.2026 17:17:12] ‪+90 534 832 10 02‬: ‎‪+90 534 832 10 02‬ ayrıldı
+[3.03.2026 17:25:50] ‪+90 551 215 02 16‬: ‎‪+90 551 215 02 16‬ topluluk üzerinden katıldı
+[3.03.2026 18:17:18] ‪+90 534 511 41 53‬: ‎‪+90 534 511 41 53‬ topluluk üzerinden katıldı
+[3.03.2026 20:03:21] ‪+90 535 319 81 05‬: ‎‪+90 535 319 81 05‬ topluluk üzerinden katıldı
+[3.03.2026 20:46:03] ~ İlker: ‎~ İlker topluluk üzerinden katıldı
+[3.03.2026 21:23:57] Defne İncekara: ‎Defne İncekara topluluk üzerinden katıldı
+[3.03.2026 21:30:11] Dilara Kahraman: ‎Dilara Kahraman topluluk üzerinden katıldı
+[4.03.2026 14:58:02] ~ Batuhan E.: ‎~ Batuhan E. topluluk üzerinden katıldı
+[4.03.2026 15:30:13] ~ Samet: ‎~ Samet topluluk üzerinden katıldı
+[4.03.2026 18:06:15] Berke Sevim: ‎Berke Sevim topluluk üzerinden katıldı
+[4.03.2026 18:27:33] Burak Ergül: ‎Burak Ergül topluluk üzerinden katıldı
+[4.03.2026 19:08:54] Oğuzhan ırvanalıoğlu: ‎Oğuzhan ırvanalıoğlu topluluk üzerinden katıldı
+[4.03.2026 20:50:05] ~ Serkan Koyun: ‎~ Serkan Koyun topluluk üzerinden katıldı
+[4.03.2026 21:01:06] ~ Demet Yel: ‎~ Demet Yel topluluk üzerinden katıldı
+[4.03.2026 22:26:56] ~ ~~: ‎~ ~~ topluluk üzerinden katıldı
+[4.03.2026 22:33:02] Selvi Uzun: ‎Selvi Uzun topluluk üzerinden katıldı
+[4.03.2026 22:51:26] ‪+90 553 263 23 99‬: ‎‪+90 553 263 23 99‬ topluluk üzerinden katıldı
+[4.03.2026 23:39:06] ‪+90 552 169 84 94‬: ‎‪+90 552 169 84 94‬ topluluk üzerinden katıldı
+[4.03.2026 23:51:31] ‪+90 532 637 54 97‬: ‎‪+90 532 637 54 97‬ topluluk üzerinden katıldı
+[4.03.2026 23:56:41] ~ Oğuzhan Uygul: ‎~ Oğuzhan Uygul topluluk üzerinden katıldı
+[5.03.2026 00:39:30] ~ Oytun: ‎~ Oytun topluluk üzerinden katıldı
+[5.03.2026 07:05:46] ~ Kürşat: ‎~ Kürşat topluluk üzerinden katıldı
+[5.03.2026 08:11:17] ~ Zafer Çalışkan: ‎~ Zafer Çalışkan topluluk üzerinden katıldı
+[5.03.2026 08:44:42] ‪+90 554 483 37 22‬: ‎‪+90 554 483 37 22‬ topluluk üzerinden katıldı
+[5.03.2026 10:06:10] ‪+90 532 682 53 39‬: ‎‪+90 532 682 53 39‬ topluluk üzerinden katıldı
+[5.03.2026 10:49:05] Emre Özdemir - cloudmetrik: ‎Emre Özdemir - cloudmetrik topluluk üzerinden katıldı
+[5.03.2026 10:52:33] ‪+90 506 650 72 89‬: ‎‪+90 506 650 72 89‬ topluluk üzerinden katıldı
+[5.03.2026 11:24:32] ~ RBNGAME: ‎~ RBNGAME topluluk üzerinden katıldı
+[5.03.2026 12:28:11] ‪+90 506 924 58 89‬: ‎‪+90 506 924 58 89‬ topluluk üzerinden katıldı
+[5.03.2026 14:35:18] ~ Burak: ‎~ Burak ayrıldı
+[5.03.2026 18:16:23] ‪+90 532 637 54 97‬: ‎‪+90 532 637 54 97‬ ayrıldı
+[5.03.2026 19:04:00] ~ anl: ‎~ anl topluluk üzerinden katıldı
+[5.03.2026 22:16:56] ~ Hüdo: ‎~ Hüdo topluluk üzerinden katıldı
+[6.03.2026 09:00:00] ‪+90 532 562 14 81‬: ‎‪+90 532 562 14 81‬ topluluk üzerinden katıldı
+[6.03.2026 09:49:13] ‪+90 531 781 99 72‬: ‎‪+90 531 781 99 72‬ topluluk üzerinden katıldı
+[6.03.2026 10:11:31] ~ Elif Kirmizikan: ‎~ Elif Kirmizikan topluluk üzerinden katıldı
+[6.03.2026 15:17:27] ‪+90 555 371 97 57‬: ‎‪+90 555 371 97 57‬ topluluk üzerinden katıldı
+[6.03.2026 16:05:40] ‪+90 531 797 73 19‬: ‎‪+90 531 797 73 19‬ topluluk üzerinden katıldı
+[7.03.2026 11:35:25] ~ Oğuzhan Oruç: ‎~ Oğuzhan Oruç topluluk üzerinden katıldı
+[7.03.2026 16:24:25] ~ Erdi: ‎~ Erdi topluluk üzerinden katıldı
+[7.03.2026 20:07:42] ~ Abdüssamed Tezer: ‎~ Abdüssamed Tezer topluluk üzerinden katıldı
+[8.03.2026 00:38:02] ~ Kader: ‎~ Kader topluluk üzerinden katıldı
+[8.03.2026 20:24:17] ~ Sinem ~: ‎~ Sinem ~ topluluk üzerinden katıldı
+[9.03.2026 23:11:50] Tahir YILDIZ: Claude Code’a Code Review geliyor, şu anda sadece Enterprise’da geçerli, yakında önce Max’e sonra herkese açılacaktır:
+https://x.com/claudeai/status/2031088171262554195
+[9.03.2026 23:16:11] ~ Serkan Koyun: İlk etapta GitHub için geliyor gördüğüm kadarıyla.Umarım diğer repolara da gelir
+[9.03.2026 23:59:49] Emre Özdemir - cloudmetrik: Merhaba grup çok pasif 😄 herkes bence birbirinden bir işaret bekliyor, bunu ben başlatmak istedim. Grubun amacı bilgi paylaşımı ve best practice leri uygulayarak daha iyi Claude deneyimi yaşamak. Bugün şöyle bir içeriğe denk geldim, oldukça faydalı olduğuna inanıyorum. Bu ve buna benzer içeriklerle topluluktan daha aktif olarak yararlanabileceğimize inanıyorum. İyi aksamlar dilerim
+[9.03.2026 23:59:52] Emre Özdemir - cloudmetrik: https://x.com/devneeddev/status/2030877537262305760?s=46
+[10.03.2026 00:27:56] ‪+90 541 448 34 53‬: ‎‪+90 541 448 34 53‬ topluluk üzerinden katıldı
+[10.03.2026 09:18:47] ~ EA: ‎~ EA ayrıldı
+[10.03.2026 15:43:57] ~ Cem Güngör: ‎~ Cem Güngör topluluk üzerinden katıldı
+[10.03.2026 21:22:24] ‪+90 544 214 93 96‬: ‎‪+90 544 214 93 96‬ topluluk üzerinden katıldı
+[11.03.2026 04:49:29] ‪+90 535 465 03 23‬: ‎‪+90 535 465 03 23‬ topluluk üzerinden katıldı
+[13.03.2026 23:13:33] ~ Ülviye: ‎~ Ülviye topluluk üzerinden katıldı
+[13.03.2026 23:15:56] Serhan Backend: https://www.youtube.com/watch?v=QUHrntlfPo4
+[14.03.2026 11:53:56] ~ Emrah Cebecioğlu: ‎~ Emrah Cebecioğlu topluluk üzerinden katıldı
+[14.03.2026 13:06:03] ~ Said: ‎~ Said topluluk üzerinden katıldı
+[14.03.2026 13:42:44] Kızım 🌸: ‎Kızım 🌸 topluluk üzerinden katıldı
+[15.03.2026 13:20:35] ‪+90 534 511 41 53‬: ‎‪+90 534 511 41 53‬ ayrıldı
+[15.03.2026 16:29:17] Ertuğrul Cöre: ‎Ertuğrul Cöre topluluk üzerinden katıldı
+[17.03.2026 01:27:25] Burak Eltas: ‎Burak Eltas topluluk üzerinden katıldı
+[18.03.2026 10:10:33] ‪+90 541 263 14 33‬: ‎‪+90 541 263 14 33‬ topluluk üzerinden katıldı
+[18.03.2026 13:32:05] ‪+90 530 647 60 44‬: ‎‪+90 530 647 60 44‬ topluluk üzerinden katıldı
+[19.03.2026 10:49:20] Timur Nihat Vreskala: ‎Timur Nihat Vreskala topluluk üzerinden katıldı
+[19.03.2026 10:51:44] ~ Semih: ‎~ Semih topluluk üzerinden katıldı
+[19.03.2026 11:28:10] ‪+90 541 583 30 15‬: ‎‪+90 541 583 30 15‬ topluluk üzerinden katıldı
+[19.03.2026 12:22:12] Birgül Önal: ‎Birgül Önal topluluk üzerinden katıldı
+[19.03.2026 14:02:02] Tahir YILDIZ: Dün Twitter’da yazmıştım, basit bir şey ama çok ilgi çekti :)
+
+Claude code'da aklınıza bir soru geldiğinde işlemi bölmeden /btw komutuyla bir şeyler sorabiliyorsunuz, aklınızda olsun :)
+[19.03.2026 14:02:39] Timur Nihat Vreskala: Takdir edilesi bir yetkinlik kazandirmislar.. ‎<Bu mesaj düzenlendi>
+[19.03.2026 16:51:48] Ertuğrul Cöre: Geçen yıl 1 haftada yazdığım webgl shaderlarını claude 2dk da yazdi 🥲
+[19.03.2026 17:59:04] ‪+90 544 467 18 67‬: ‎‪+90 544 467 18 67‬ topluluk üzerinden katıldı
+[19.03.2026 19:09:53] ~ Osman Barkın ARAN: ‎~ Osman Barkın ARAN topluluk üzerinden katıldı
+[19.03.2026 21:09:29] ‪+90 539 815 12 34‬: ‎‪+90 539 815 12 34‬ topluluk üzerinden katıldı
+[20.03.2026 20:19:40] Kubilay Öz: ‎Kubilay Öz topluluk üzerinden katıldı
+[20.03.2026 20:26:12] Tahir YILDIZ: code tarafinda calisan herkesin kafasinin yanik oldugunu tahmin ediyorum, mutlu, biraz baska seyler dusunebildiginiz bayramlar diliyorum ♥️ sadece claude code degil vibecodingin tüm elementleri hayatimizi değiştirebilir, ama bir yandan da akil sagligi onemli. Aramizda growthcu varsa  birlikte calisabilecegim bir ekip kurmak istiyorum, hackathlonlara da birlikte girebiliriz, gunumuzde onemli olan urunden cok distribution ve urunun son kullaniciya anlatim sekli. Eminim herkesin bu konularda derdi vardir, yuvarlak masa yapip dertlesebiliriz 😂 Herkese hayat değiştiren insanlarla tanisma sansi diliyorum, en cok buna ihtiyacımız olacak
+[20.03.2026 20:26:58] Arslan Tosun: Hayırlı bayramlar herkese
+[20.03.2026 20:27:49] Veysel Dalga: Hayırlı bayramlar herkese
+Çok güzel yazdınız, yolumuz her zaman güzel insanlarla kesişsin 🦚
+‎[20.03.2026 20:32:48] Bahadır: ‎görüntü dahil edilmedi
+[20.03.2026 20:32:54] Timur Nihat Vreskala: Herkese iyi bayramlar dilerim
+[20.03.2026 21:03:12] Mustafa Coşkun: ‎Mustafa Coşkun topluluk üzerinden katıldı
+‎[20.03.2026 21:05:06] Defne İncekara: ‎video dahil edilmedi
+[20.03.2026 21:24:10] ~ Alican: ‎~ Alican topluluk üzerinden katıldı
+[20.03.2026 21:54:16] ~ Elgin Eray Erdem: ‎~ Elgin Eray Erdem topluluk üzerinden katıldı
+[21.03.2026 08:48:37] ~ Barış Cihan: ‎~ Barış Cihan topluluk üzerinden katıldı
+[21.03.2026 10:17:23] ~ Ergün Karahan: ‎~ Ergün Karahan topluluk üzerinden katıldı
+[21.03.2026 10:25:45] ‪+90 530 140 75 42‬: ‎‪+90 530 140 75 42‬ topluluk üzerinden katıldı
+[21.03.2026 10:29:32] ~ Kemal Müderrisoğlu: ‎~ Kemal Müderrisoğlu topluluk üzerinden katıldı
+‎[21.03.2026 11:42:56] Tahir YILDIZ: Claude Code için 1727 skill, 9 agent, kalıcı hafıza sunduğunu öneren bir servise denk geldim, değer mi veya çok context alır mı emin değilim ama denemeye değebilir: https://claudify.tech/# ‎görüntü dahil edilmedi
+[21.03.2026 13:06:13] ‪+90 536 548 12 18‬: ‎‪+90 536 548 12 18‬ topluluk üzerinden katıldı
+[21.03.2026 15:00:51] ~ Yahya: ‎~ Yahya topluluk üzerinden katıldı
+[21.03.2026 23:15:37] ‪+90 537 257 05 02‬: ‎‪+90 537 257 05 02‬ topluluk üzerinden katıldı
+[22.03.2026 11:38:28] ~ Tansel: ‎~ Tansel topluluk üzerinden katıldı
+[22.03.2026 12:27:45] ‪+90 535 682 86 57‬: ‎‪+90 535 682 86 57‬ topluluk üzerinden katıldı
+[22.03.2026 14:47:06] ~ Mehmet Ergül: ‎~ Mehmet Ergül topluluk üzerinden katıldı
+[22.03.2026 15:21:33] ‪+90 553 169 49 65‬: ‎‪+90 553 169 49 65‬ topluluk üzerinden katıldı
+[22.03.2026 19:34:08] ~ Mehmet Ergül: ‎Yönetici olarak bu mesajı sildiniz
+[22.03.2026 20:25:31] ~ M. Furkan: ‎~ M. Furkan topluluk üzerinden katıldı
+[22.03.2026 20:28:20] ~ Yahya: Merhaba ben Yahya, claude code ile yeni tanisma firsatim oldu. Bilgisayar muhendisiyim. 12 yildir cesitli sektorlerde ve kamuda yazilim uzerine calistim. Ben boyle bisey görmedim:) şaşkınlığımi gizleyemiyorum. Cunku muthis bir hizda yeni proje yaptim ve isyerime(sahsi) ihtiyaclarim dogrultusunda masaustu uygulamasi yaptirdim. Ek olrak vps kiralayi icerisinde agent kullanarak bazi verilerin db ye islenmesinde mail hareketini kullandim. Cok keyifli bir is çıktı.  Merak edenlerle detayini gorusebilirim. Sizlerinde projeleri varsa ogrenmeyi cok isterim. Herkese iyi bayramlar.
+[22.03.2026 20:28:50] Bahadır: Hoş geldiniz Yahya Bey 👋🏻
+[22.03.2026 20:30:03] Bahadır: Acaba aranızda Microsoft ekosisteminde çalışan (PowerApps, Sharepoint, PowerAutomate, Adaptive Cards, PowerBI vb kombinasyonu), tamamen Teams ile entegre çözüm üreten oldu mu Claude ile?
+[22.03.2026 20:30:15] Bahadır: Şu anda üzerinde çalıştığım bir şey var, umarım başarılı olacağım
+[22.03.2026 20:30:28] Bahadır: Amaç, şirket içi talep yönetim sistemini otomatize etmek
+[22.03.2026 20:31:10] Bahadır: Bir proje planın çıkarttım Claude üzerinden. Mantıklı geldi, şu an oluşturmaya başladım.
+[22.03.2026 20:31:48] Habibe Nur Biçer: Selamlar bahadır bey ben inner toollardan biri için üzerinden çalışıyorum plan çıkartıyorum
+[22.03.2026 20:32:03] Bahadır: Talepleri Sharepoint lists form üzerinden alıyorum (ilk defa yaptığım bir şey değil) ama devamında Approvals + Automate + Adaptive Cards (çok iyi, JSON formatında ve görselliği yüksek) şekilde Teams’e mesaj olarak push ediyor ‎<Bu mesaj düzenlendi>
+[22.03.2026 20:32:25] Bahadır: Ve aldığı yanıtları bir tabloya işliyor. Devamında da Powerbi ile bunu görselleştirme kalıyor
+[22.03.2026 20:32:38] Bahadır: İçinde admin paneli, “bekleyen taleplerim” sekmesi bile var
+[22.03.2026 20:32:57] Bahadır: Evet ideal çözüm bu değil ama sıfırdan yazılım yapmak veya yazılım satın almak yerine işe yarar sanki
+[22.03.2026 20:34:49] ‪+90 535 319 81 05‬: ‎‪+90 535 319 81 05‬ ayrıldı
+[22.03.2026 20:35:11] Kubilay Öz: Selamlar ben Kubilay öz. Ben de data scientistim. Ağırlıklı olarak Python ve iş zekası ve otomasyon uygulamaları kullanıyorum. Claude ai’ı @⁨Bahadır⁩’den duydum ve mutlaka iyi bişi olmalı dedim. Bu ara biraz gözlem ve okuma yapıcam sizlerin paylaştıklarını. Daha sonra ben de üretip paylaşmaya başlayacağım umarım 🙏
+[22.03.2026 20:40:33] ~ Enes Döke: ‎~ Enes Döke topluluk üzerinden katıldı
+[22.03.2026 20:44:05] Emre Özdemir - cloudmetrik: Merhaba projelerinizde kullanmak için Türkiye sınırları içerinde sanal sunucu ihtiyacınız varsa uygun fiyatlarla destek olabiliriz, özelden yazabilirsiniz
+[22.03.2026 21:58:48] ~ Sabina A: ‎~ Sabina A topluluk üzerinden katıldı
+[22.03.2026 23:57:10] ~ Selvi: ‎~ Selvi topluluk üzerinden katıldı
+[23.03.2026 09:01:36] ‪+90 505 731 39 40‬: ‎‪+90 505 731 39 40‬ topluluk üzerinden katıldı
+[23.03.2026 20:46:00] Arslan Tosun: https://x.com/i/status/2036103229327790560
+[23.03.2026 20:47:02] Arslan Tosun: Bu ve bunun gibi exprimental özellikler var , claudenin kendisine settings json parametreleri nelerdir neleri ayarlayabilirim diye sorarsanız sonuçları gösterir
+[23.03.2026 21:07:08] ~ Yahya: Arkadaslar bu claude skills nedir nasil kullanilir? Bilgi alabilirsem memnun olurum.
+[23.03.2026 21:08:10] ~ Semih: Bu konuyu ben de merak ediyorum, mesela skill bulabileceğimiz marketplace gibi birsey var mı
+[23.03.2026 21:09:25] Bahadır: https://x.com/zodchiii/status/2034924354337714642?s=46
+[23.03.2026 21:09:35] Bahadır: Geçenlerde şu yazı denk gelmişti kaydetmiştim
+[23.03.2026 21:09:43] Bahadır: Epey kapsamlı skill repoları var
+[23.03.2026 21:09:56] Alper Altun: Skiller, bir konunun inceliklerinin yer aldığı .md dosyası, metin. Birçok skill ai ile yazılıp içinde mantıklı içerik olmayan dosyalar.
+[23.03.2026 21:10:48] Alper Altun: Bir mikroişlemci özelinde skill yüklediniz, dosyanın içerisinde o mikroişlemcinin sınırları zaafiyetleri tasarım detayları yazar
+[23.03.2026 21:12:05] Alper Altun: Code reviewer skilleri yüklediniz, güvenlik açıdından bir skill yükledi iseniz güvenlik incelikleri ve incelemenin nasıl yapılacağı yazar
+[23.03.2026 21:12:36] Alper Altun: Bir kodlama skilli yüklediniz içinde mimari patternler bulunur
+[23.03.2026 21:12:47] Bahadır: Basit bir anlatım yer alıyor burada Yahya Bey. İzlemenizi tavsiye ederim. Claude’ın en önemli getirilerinden biri bu skill yapısı. Ben kendimce bunu “bir işi her seferinde tariflemeye gerek bıraktırmayan, adeta benim birer çalışanım gibi davranan ve ihtiyaç halinde devreye giren ajanlar” olarak tarifliyorum. Video linki: https://youtu.be/L3des8g36D0?si=2HLiKc1v2sTqoESt
+[23.03.2026 21:13:48] Alper Altun: Bu skiller faydalımıdır? Evet, kodun bir kısmının farklı tasarım deseninde olmasını engellersiniz mesela. Çünkü yönetgeler zaten yüklüdür sizden input beklemez
+[23.03.2026 21:16:22] Tahir YILDIZ: Cok fazla skill yuklemek aşırı context yiyor, isinize yaramayacaksa pek girmeyin toplu repolara derim. Bu skill'lere sanki ilk chatgpt zamanindaki prompt engineeringler gibi fazla anlam yukleniyor gibi gorunuyor. Etkilesim biraz :) sadece ustte bahsedilen devamli ayni isi yapıyorsanız bir kisayol olarak kullanilabilir
+[23.03.2026 21:18:24] Alper Altun: Rafine etmek için kullanılması gereken çok güzel bir araç. Toplu repolar  biraz "acele" ile oluşturulduğu için içlerinde genel geçer şeyler yazıyor ama claude ın toplu repolardaki genel geçer şeylere ihtiyacı yok ‎<Bu mesaj düzenlendi>
+[24.03.2026 12:32:54] ~ Eren Kumcuoglu: ‎~ Eren Kumcuoglu topluluk üzerinden katıldı
+[25.03.2026 21:18:08] ~ Serkan Koyun: https://anthropic.ondemand.goldcast.io/on-demand/f52c4cc3-7b23-4ab8-93f3-d202706dd62b
+[26.03.2026 11:03:46] ~ Gamze Okyanus Gündoğdu: ‎~ Gamze Okyanus Gündoğdu topluluk üzerinden katıldı
+[27.03.2026 17:25:26] Can Deveci: ‎Can Deveci topluluk üzerinden katıldı
+[27.03.2026 18:23:47] ‪+90 536 404 09 93‬: ‎‪+90 536 404 09 93‬ topluluk üzerinden katıldı
+[29.03.2026 12:41:11] ‪+90 539 373 64 69‬: ‎‪+90 539 373 64 69‬ topluluk üzerinden katıldı
+[29.03.2026 14:45:18] ~ Şebnem: ‎~ Şebnem topluluk üzerinden katıldı
+[29.03.2026 21:09:41] ‪+90 530 140 75 42‬: ‎‎‪+90 530 140 75 42‬ telefon numarasını yeni bir numaraya değiştirdi. ‎Mesaj göndermek veya yeni numarayı eklemek için dokunun.
+[30.03.2026 05:04:19] Sadık Tuncer Donmez: ‎Sadık Tuncer Donmez topluluk üzerinden katıldı
+[30.03.2026 16:22:57] Ahmet Önder San: ‎Ahmet Önder San topluluk üzerinden katıldı
+[30.03.2026 18:37:36] Ertuğrul Cöre: Yazılım sektöründe tecrübeli arkadaşlar Claude Code'u nasıl kullanıyor merak ediyorum. Şahsen adım adım, ne yazılıp ekleneceğini söyleyerek, her adımda yaptığı işi okuyup kontrol ederek geliştirme yapmayı güvenilir buluyorum. Ama bunu yapmak çok yavaşlatıyor. Aynı sürede kendim de yazarım zaten. Genel mimariyi anlatıp high-level direktifler verdiğimde ise çok fazla bug çıkıyor. Chrome extension ile user-testing yaptırıp hatalarını düzelttiriyorum. Bu sefer de nasıl çalıştığını hiç bilmediğim, okumaya üşendiğim 20-30k satır kodla karşılaşıyorum. Bu paradoksları henüz çözemedim açıkçası. ‎<Bu mesaj düzenlendi>
+[30.03.2026 18:38:21] Alper Altun: Claude code abstract net olmayan içerikte çıktı üretmekte 1 numara
+[30.03.2026 18:38:54] Alper Altun: Yeni iseniz tavsiyem görsel bir çıktı görmeye odaklanmak olur, o sırada skill agent memory yapılarını öğrenirsiniz
+[30.03.2026 18:41:22] ~ RBNGAME: Skills ve workflows bi nebze ise yariyor en azindan mimariyi duzgun isliyor.ozeelikle backend icin claude bende begenmiyorum
+[30.03.2026 18:45:43] Arslan Tosun: Skills ile bir sistem yaparsan onu bible olarak algıliyor kolaya kaçmıyor , aynı şeyi yüz kere yazarsan daha fazla hata alıyor. Adr methodolojisiyle ilerlemek mimariyi tasarladiktan sonra işi parçalara bölmek hem okumayı hem de planlı çalıştırmayı arttiriyo
+[30.03.2026 18:46:14] Arslan Tosun: Cli her zaman desktoptan daha iyi performansa sahip ayrıca settings.json dosyasından ayarlar yaparak daha iyi performansa sahip olabilirsiniz
+[30.03.2026 18:46:52] Arslan Tosun: Protokol ve prosedür serisi tasarladiktan sonra projeye başlamak daha iyi sonuçlar veriyor benim gozlemledigime gore
+[30.03.2026 18:47:51] Arslan Tosun: Agentlari generic tasarlamamak, prensipler ve persona yerleştirmek generic agent sisteminden daha iyi oluyor
+[30.03.2026 18:48:00] Ertuğrul Cöre: Galiba Claude Code'u kullanmak için yazılımcı kafasından çıkıp yazılım müdürü kafasına girmek lazım.  Mesela AI'dan %80 code coverage, %100 dökümantasyon, OOP ve 0'a yakın *coupled* kodlama yapmasını istemek olabilir. Sadece TDD değil, black-box testing eklemek, hatta "claude --chrome" ile bu testleri AI'ya yaptırmak olabilir. ‎<Bu mesaj düzenlendi>
+[30.03.2026 18:48:52] Arslan Tosun: Micro management yerine onu özgür bırakmak özellikle kodun nasıl yazılacağı hakkında daha iyi sonuç veriyor evet
+[30.03.2026 18:49:10] Arslan Tosun: Borisde gecenlerde bununla ilgili bı röportaj yaptı
+[30.03.2026 18:49:25] ~ Yahya: Acikcasi ben isi adimlara bolup yaptiriyorum. Sonra kontrol ediyorum bir sonraki isi veriyorum. Kod okumuyorum. Ancak profesyonel bir is cikarmak gibi bir amacim yok. Kendi isyerimizde isimizi gorelim yeter simdilik..
+[30.03.2026 18:55:34] Alper Altun: Bu anlatılanları anlamak için biraz yaşamak gerekiyor, düz vibe ile bir çıktı üretmeye çalışmayı tavsiye ediyorum bir yandan da öğrenmek için içerik takip edebilirsiniz
+[30.03.2026 18:56:38] Arslan Tosun: claude en iyi claudeyeyle konuşarak öğrenilir bu zamana kadar yaratılan bütün araçlar dilsizdi, kürek kazma konuşamıyordu. ama yapay zeka onu nasıl kullanacağınızı size anlatabiliyor, konuştukça daha çok öğrenebilirsiniz
+[30.03.2026 18:56:47] ~ Ahmet Pirimoğlu: online tecrübe paylaşımı session ları düzenlense güzel olurdu 😊
+[30.03.2026 18:57:04] ~ Yahya: Super olur
+[30.03.2026 18:57:09] Alper Altun: Test driven development gibi nihai çıktının ne olacağını önceden tarifleyebilmek, istere en çok yaklaştıran nokta. Bir seviyeye getirdiğiniz çıktıyı projeye tekrar başlarken business logic i anlaması için kullanabilirsiniz
+[30.03.2026 18:58:09] Alper Altun: Claude code kendi agentını skillini yazabilen, bu tarz geliştirmelet anlamında çok açık ve kolaylaştırıcı parçalar barındıran bir ürün.
+[30.03.2026 18:58:29] Alper Altun: Mimari de iyi değil kısmına da katılamıyorum
+[30.03.2026 18:58:56] Alper Altun: 20 yıllık developer in üretemediği çıktıyı tekte anlayıp, ürün analizleri de gerçekleştirip verebiliyor
+[30.03.2026 18:59:18] Alper Altun: Brm kendi araç gereç setimi yazıyorum 3.5 dan bu yana
+[30.03.2026 18:59:50] Alper Altun: Her versiyon çıktığında yeniledim, parallelde memory proje falan yazmaya çalıştım
+[30.03.2026 19:00:11] Alper Altun: Opus 4.6 ile yan ürünlerimin hepsi kıymetsiz hale geldi
+[30.03.2026 19:00:20] ‪+90 535 682 86 57‬: ‎‪+90 535 682 86 57‬ ayrıldı
+[30.03.2026 19:00:29] Arslan Tosun: mythosta aynı şeyi opus için dicez
+[30.03.2026 19:00:41] Alper Altun: Hiçbirşey gelişmesin
+[30.03.2026 19:01:11] Alper Altun: Opus 4.6 kendi başına yazılım sektöründeki kişilerin iyi ihtimal yarısını elemeye yeter
+[30.03.2026 19:01:43] Arslan Tosun: bütün yapay sistemleri şu an model olarak ne kadar hızlı cevap veriyorsan o kadar ödül alırsına programlı, bu yüzden zaten halüsünasyon, varsayım yalan konuşma gibi şeyler yapıyor. sistemi file driven kurmak enterprise proje geliştirmek için çok önemli olduğunu düşünüyorum, evet token daha fazla yer ama bağlam kopukluğunu büyük oranda azaltır.
+[30.03.2026 19:01:53] Alper Altun: Eskiden 3 turn sonrasını hatırlamayan sistemlerle mğcadele ediyorduk. 1 aydır ide açmadım ben
+[30.03.2026 19:05:41] Alper Altun: Özetle tavsiyem ilk seferde ürüne gitmeye odaklanmayın. Kod artık işin en ucuz parçası
+[30.03.2026 19:13:35] Ertuğrul Cöre: https://claude.ai/share/60945dd6-21ef-4393-8440-70a99bb1b63d
+
+Şöyle bir dialog yaşandı. Türkçe'ye çevirtebilirsiniz. Spec driven konusunu araştırcağım, mantıklı geldi. Farkında olmadan bazı promptlarımı .txt dosyası olarak kaydediyordum. Özellikle yazarken yüksek mental efor sarfettiysem, ve sonucun neredeyse deterministik olduğuna şahit olduysam, o promptu kaybetmek istemiyordum, meğer specmiş 😂 Tabi bunun metodolojisi mutlaka vardır. Sektör liderlerinin varsa yayınladığı yazılar/paper'ları okumak gerek. Bulduklarımı paylaşacağım
+[30.03.2026 20:08:08] ~ Ahmet Pirimoğlu: https://anthropic.skilljar.com/introduction-to-agent-skills
+‎[31.03.2026 16:39:09] Arslan Tosun: npx ccusage@latest monthly yazarak aylık claude code harcamalarınızı görebilirsiniz ‎görüntü dahil edilmedi
+[31.03.2026 16:41:09] Ertuğrul Cöre: LiteLLM kullaniyor yakin zamanda virus bulasmisti.. arslan yaktin bizi
+[31.03.2026 16:43:45] Ertuğrul Cöre: pip install yapincaymis tamam sorun yok😂
+‎[31.03.2026 16:46:07] Ertuğrul Cöre: 1027$ kârdayım ‎görüntü dahil edilmedi
+[31.03.2026 16:53:24] Arslan Tosun: 2x yaradı bize masallah
+‎[31.03.2026 17:06:30] Tahir YILDIZ: Mart <3 ‎görüntü dahil edilmedi
+[31.03.2026 17:08:40] Erdem Bostancı: Pronun içinden credit olarak gidiyor bu dimi ürküttü bi miktar 🤣
+[31.03.2026 17:10:18] Arslan Tosun: evet o kadar para istemiyorlar, üyelik kadar istiyorlar sadece apı token maaliyetini gösteriyor bu
+[31.03.2026 17:11:23] Erdem Bostancı: Ben de tokenlara bakmadan kullandım ama anlık ter bastı teşekkür ederim 😅
+[31.03.2026 18:51:18] Ertuğrul Cöre: Mythos çıkınca 10k$yı görürüz heralde
+[1.04.2026 20:20:53] Serhan Backend: https://x.com/lydiahallie/status/2038686571676008625?s=46
+[1.04.2026 20:34:23] ~ Yahya: Ne demek istiyor acaba? Neden kota hizli doluyor bilinmiyor mu yani?
+[1.04.2026 20:35:48] Serhan Backend: evet uzerinde calisiyorlarmis daha neden oldugunu cozememisler
+[1.04.2026 20:47:47] ‪+90 542 797 42 82‬: ‎‪+90 542 797 42 82‬ ayrıldı
+[1.04.2026 20:54:00] Ertuğrul Cöre: Claude Code'un kaynak kodları internete sızdı, 8 saat içinde Rust'ta ve Pythonda tekrar yazdılar
+[1.04.2026 20:54:41] Ertuğrul Cöre: https://www.reddit.com/r/ClaudeCode/comments/1s8j10r/someone_just_leaked_claude_codes_source_code_on_x/
+[1.04.2026 21:02:58] Okan Fidanlı: https://www.instagram.com/p/DWjjpHtiQLd/?img_index=3&igsh=MTNmbmNkd2dpZW04NA==
+[1.04.2026 21:03:29] Okan Fidanlı: Evet github üzerinde birisi kopyalamış bazı dahili modellerden bahsediliyor
+[2.04.2026 15:13:26] Claude Code 👩‍💻👨‍💻: ‎~ Aşkın Yaprak; ~ Kaan Pekiçten, ~ Ömer Bilge ve 3 diğer kişiyi ekledi
+[2.04.2026 15:15:16] ~ BG: ‎~ Aşkın Yaprak, ~ BG kişisini ekledi
+[2.04.2026 23:21:19] ~ Türkay Karatekin: ‎~ Türkay Karatekin topluluk üzerinden katıldı
+[3.04.2026 11:13:56] ‪+90 538 028 08 13‬: ‎‪+90 538 028 08 13‬ topluluk üzerinden katıldı
+[5.04.2026 17:27:18] ~ A. Gürkan Kuşcu: ‎~ A. Gürkan Kuşcu topluluk üzerinden katıldı
+‎[5.04.2026 23:47:49] ~ Yahya: Her site de bu bilgi ekrani cikiyor. Sorun nedir? Yardimci olabilecek kimse var mi? ‎görüntü dahil edilmedi
+[5.04.2026 23:48:50] Bahadır: Şirketinizin IT departmanı bazı siteleri bloklayan bir yazılım (örneğin; zscaler) kullanıyor. Onlara ulaşın
+[5.04.2026 23:49:37] Bahadır: Zaten içinde de yazıyor “blocked by your organization’s policy” diye :) ‎<Bu mesaj düzenlendi>
+[5.04.2026 23:50:19] ~ Yahya: Ev kullanicisiyim. Daha once sorun yoktu. Simdi google da bile bu hata cikiyor.
+[5.04.2026 23:51:19] Bahadır: Kullandığınız bilgisayar şirket bilgisayarı değil mi? Öyle olmasa bile şirket mail adresi ile Outlook vb kullanıyorsanız otomatikman PC sisteme kaydolur
+[5.04.2026 23:51:38] Bahadır: Bir network içindesiniz illa ki
+[5.04.2026 23:51:41] ~ RBNGAME: window lisans şirket adındadır
+[5.04.2026 23:52:30] Alper Altun: Bu doğru, outlook oturum açınca politikayı da yüklüyor
+[5.04.2026 23:53:27] ~ Ahmet Pirimoğlu: ‎~ Ahmet Pirimoğlu ayrıldı
+[5.04.2026 23:53:38] ~ Yahya: yok şirket bilgisayarı değil üstelik şuan işsizim:D Şİrketim yok. gmail hesaplarım dışında bir girişim yok
+[5.04.2026 23:54:07] Bahadır: Hayda :)
+[5.04.2026 23:54:06] ~ RBNGAME: hocam siz işşsiz olabilirsiniz. pc değil :)
+[5.04.2026 23:54:47] Bahadır: Siz yine de giriş yaptığınız tüm accountlara bakın, browser üzerinden de olabilir. Pc accountlarına bakın. Belki bir Chrome plugini de olabilir
+[5.04.2026 23:55:27] ~ Yahya: tamam kontrol edeceğim.Teşekkürler
+[5.04.2026 23:55:33] Bahadır: Açtığınız sayfa incognito değil dimi
+[5.04.2026 23:55:56] ~ Yahya: değil
+[5.04.2026 23:58:13] ~ Yahya: sadece şöyle bir ilerlemem vardı. Pc yi hiç tam olarak kapatmadım ve bir seo çalışması ve bazı site sorunları için hosting wordpress ekranları açıktı. 3-4 gün sonra bir aksam konusurken  bir  anda baktım böyle oldu
+[5.04.2026 23:58:54] Arslan Tosun: böyle sorunlarda her zaman türk usulu fix denemek lazım ilk
+[5.04.2026 23:58:56] Arslan Tosun: açıp kapatın
+[5.04.2026 23:59:08] ~ Yahya: :D bak onu yapmadım hiç:D
+[5.04.2026 23:59:13] ~ Yahya: deneyeceğim.
+[5.04.2026 23:59:33] Bahadır: O olmuyorsa browserı silip baştan yükleyin Ahshs :)
+[5.04.2026 23:59:53] Ertuğrul Cöre: bunu derste gördük biz😂
+[6.04.2026 00:00:12] ~ Yahya: Teşekkür ederim. =) İyi geceler herkese
+[6.04.2026 12:46:45] ~ Burak: ‎~ Burak topluluk üzerinden katıldı
+[6.04.2026 13:53:26] ~ Demet Yel: ‎‎‎~ Demet Yel süreli mesajları etkinleştirdi. ‎Tutulmadığı takdirde yeni mesajlar gönderildikten ‎24 saat sonra bu sohbetten kaybolacak. ‎Süreyi değiştir
+[6.04.2026 16:11:05] ‪+90 532 202 71 63‬: ‎‪+90 532 202 71 63‬ ayrıldı
+[7.04.2026 12:10:50] ‪+90 532 555 12 23‬: ‎‪+90 532 555 12 23‬ ayrıldı
+[7.04.2026 19:04:45] ~ Serkan Koyun: ‎‎~ Serkan Koyun süreli mesajları devre dışı bıraktı. ‎Süreyi değiştir
+[7.04.2026 20:42:06] Arslan Tosun: 2 3 saatt'r bash falan calismiyor bende yasayan oldu mu ‎<Bu mesaj düzenlendi>
+[7.04.2026 20:42:10] Arslan Tosun: bazi toollar iptal ‎<Bu mesaj düzenlendi>
+[7.04.2026 20:42:54] Arslan Tosun: Bash, view, str_replace, file create
+[7.04.2026 20:59:13] Berke Sevim: Az önce başıma geldi de düzeldi sonradan
+[7.04.2026 20:59:55] Alper Altun: 1 aydır ne fix çıktılar be
+[7.04.2026 21:00:06] Alper Altun: Bu vakte kod base tekrar yazılır
+[8.04.2026 10:30:25] Alper Altun: Claude yine tatile çıktı
+[8.04.2026 10:31:08] Berke Sevim: API Error: 529 {"type":"error","error":{"type":"overloaded_error","message":"Overloaded"},"reques
+     t_id":"req_011CZquDiu2b8UwmmJRTcRUB"}
+[8.04.2026 10:32:56] ~ Serkan Koyun: Sonnet te sorun var
+[8.04.2026 10:32:59] Alper Altun: Opus çalışıyor
+[8.04.2026 10:33:00] Habibe Nur Biçer: Haftafa bir gelen Overloaded :D
+[8.04.2026 11:02:18] Alper Altun: Sonnet hala yok
+[8.04.2026 11:02:58] Berke Sevim: Sonnet şuan düzeldi çalışıyor bende relog atıp tekrar deneyebilirsiniz ‎<Bu mesaj düzenlendi>
+[8.04.2026 11:04:09] Alper Altun: Overload
+[8.04.2026 11:19:36] Bahadır: Opus şu an aktif çalışıyor sorunsuz
+‎[8.04.2026 12:03:53] Berke Sevim: ‎görüntü dahil edilmedi
+[13.04.2026 14:34:49] ~ A. Gürkan Kuşcu: Merhaba bu aralar claude gereksiz konuları uzatıyor gibi geldi benzeri fikri paylaşan var mı ? Cevabı almak için yalvartıyor gibi
+[13.04.2026 14:53:37] ~ Serkan Koyun: Var birşeyler bugün . Dediklerimi tam anlamıyor . Uzatıyor . Önce iş yapmaktan kaçıyor sonra da overengineering yapıyor
+[13.04.2026 14:55:00] ~ A. Gürkan Kuşcu: Evet evet tam da öyle
+[13.04.2026 14:56:18] ~ Serkan Koyun: Yani mythos u getirecekler diye bu tarafın ayarlarını mı kıstılar anlamadım :( ama yoruyor
+[13.04.2026 15:12:24] Defne İncekara: Reasoning tarafinda yuzde 25e dusurmusler performansi
+[13.04.2026 15:33:29] Alper Altun: Ben şuanlık subscription ı iptal ettim codex i deniyorum
+[13.04.2026 15:33:51] Alper Altun: 31 mayısa kadar 100 dolarlık paket öıkardılar 2 kat kulanım veriyorlar
+[13.04.2026 15:35:17] Alper Altun: Ekosistem zenginliğini pek beğenmedim, subagent skilli yazdırdım claude code  orchestrator olarak çalışıyor şimdi ama bakacağız nasıl gidicek
+[13.04.2026 18:16:47] Arslan Tosun: Bende 4 gündür çalışmayı bıraktım acikcasi risk almıyorum cidden beyin ölümü gerçekleşti
+[13.04.2026 18:19:46] Bahadır: Gelinen nokta üzücü. Umarım toparlar
+[13.04.2026 18:44:05] ~ İhsan Çungay: Codex işe yariyor mu ? Yani daha çok enterprise mimari işlerde ? Bende düşünebilirim eğer iyiyse
+[13.04.2026 19:07:28] Alper Altun: Claude code  araçlarına hatta cli ına çok alışmışım garipseme fazındayım ama evet token/s ve çıktı iyi
+[13.04.2026 19:24:18] ~ Serkan Koyun: Codex te nedense istediğim gibi ilerleyemiyorum ben :( sürekli bazı şeyleri tekrarlamak zorunda kalıyorum . Çok net todo laf oluşturuyorum ama bir türlü tamamlatamıyorum . Sonra tekrar Claude ye dönüyprum . Bu arada gemini da var bende ama çok kullanamıyorum. Claude ye bak codex yaptığını böyle yorumladı deyince daha il çıkarıyor gibi :)
+[13.04.2026 19:24:32] ~ Serkan Koyun: Bu arada gerçekten codex r review ettiriyorum
+‎[13.04.2026 23:03:51] Ertuğrul Cöre: biraz abartmışlar.. ‎görüntü dahil edilmedi
+[14.04.2026 12:30:56] ~ Kemal Müderrisoğlu: dünden beri aşırı bir yavaşlık sizde de var mı? çok uzun sürüyor işlemler
+[14.04.2026 13:25:37] ~ Serkan Koyun: UI tasarımını için kullandığınız farklı skill ler vs var mı? ui çıktıları birbirine çok benziyor
+[14.04.2026 13:28:34] ~ Ömer Bilge: Ben şöyle yapıyorum tavsiye ederim;
+
+Gemini Gem’ler bölümünden canvas ile birlikte projemin tasarımını taslak olarak çıkartıp kaynak kodlarını VS code üzerinden claude opus veya codex ile ilerletiyorum.
+
+Tasarım olarak kesinlikle Gemini beni daha iyi anlıyor ve uyguluyor.
+[14.04.2026 13:31:24] ~ Serkan Koyun: mantıklı denenebilir
+[14.04.2026 13:34:23] Alper Altun: Stitch şuan için mcp kullanıtken bir kaç sorun var onları da halledersek iyi
+[14.04.2026 15:25:58] ~ Serkan Koyun: Deneyceğim
+[14.04.2026 20:45:55] Bahadır: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?tab=readme-ov-file
+https://github.com/Dammyjay93/interface-design
+[14.04.2026 20:51:10] Alper Altun: Hazineymiş
+[14.04.2026 20:52:56] ~ Serkan Koyun: Teşekkürler
+[14.04.2026 22:19:00] ~ Serkan Koyun: https://github.com/Donchitos/Claude-Code-Game-Studios
+[14.04.2026 22:19:16] ~ Serkan Koyun: Oyunla uğraşanların ilgisini çekebilir :)
+[14.04.2026 22:19:51] Arslan Tosun: Bu hafta yeni Opus versiyonu gelebilir bir hafta içinde geleceğini düşünüyorum komplex işlerinizi askıya alma ihtimaliniz varsa tavsiye ederim
+[14.04.2026 22:25:12] Alper Altun: Beraberinde promosyon kullanım verirler mi :)
+[14.04.2026 22:32:37] Alper Altun: Hazır tasarımda net bir şekilde refaktör et bunu beğenmiyorum dediğim parçayı baştan tasarlamadı, ama gitti responsive yaptı light tema ekledi, css hatalarını düzeltti :)) hardcoded formatları kaldırdı bütünlük oluşturdu :))
+[14.04.2026 23:20:44] Arslan Tosun: Ben beğendiğim templateleri örnek olarak atıp analiz ettirmis sonra skills yapmıştım ama çok kullanmadım ihtiyacım olmadığından belki o şekilde güzel olabilir
+[14.04.2026 23:28:39] Alper Altun: ‎Bu mesaj silindi.
+[15.04.2026 09:23:13] Alper Altun: Claude yine gitti...
+[15.04.2026 09:34:12] ~ EA: Ben artık stratejik işlerimde claude kullanmayı bıraktım. Geliştirme aşamasına kadar claude ile gelip geliştirmeyi farklı araçlarla yapmak daha güvenli geliyor
+[15.04.2026 09:34:20] ~ EA: bir gün biri fişi çekerse kalmayalım
+[15.04.2026 11:54:31] Ezgi Elverişli: ‎Ezgi Elverişli topluluk üzerinden katıldı
+[15.04.2026 16:36:36] Ertuğrul Cöre: mac mini alip qwen 3.5 27b kurmak lazim..
+[15.04.2026 17:56:00] ~ Gamze Kışçı Aslan: Erişebilen var mı
+[15.04.2026 17:56:34] ~ Gamze Kışçı Aslan:
+‎[15.04.2026 17:56:35] ~ Gamze Kışçı Aslan: ‎görüntü dahil edilmedi
+‎[15.04.2026 17:56:36] ~ Gamze Kışçı Aslan: ‎görüntü dahil edilmedi
+[15.04.2026 17:56:48] ~ Gamze Kışçı Aslan: Hem masaüstü hem App çalışmıyor
+[15.04.2026 18:23:16] ~ ea: ‎~ ea topluluk üzerinden katıldı
+[15.04.2026 18:11:34] Arslan Tosun: 2000lerin internet kafesine döndü Claude 😅
+[15.04.2026 18:12:30] Arslan Tosun: Bu ihtimal kuvvetlendi bu arada
+‎[15.04.2026 18:14:15] ~ Kadir: baya vahim görünüyor :) ‎görüntü dahil edilmedi
+[15.04.2026 18:16:23] ~ Gamze Kışçı Aslan: Evet gördüm maşallah ama ödeme gününde hiç aksatmadan çalışıyorlar  :)
+[15.04.2026 18:17:09] Alper Altun: Bu fix de implement et et bitmedi :)
+[15.04.2026 18:17:37] Alper Altun: Bu mantıkla vibe kötüdür çok bug çıkıyor diyecek insanlar :)
+[15.04.2026 18:20:35] ~ Kadir: ben de henüz plan yükseltme yaptım, karşılaştığımız manzara bu. bu arada usage sayfasına 100 dolar sundu free, belki herkese sunmuştur diye söylüyorum, kontrol edin. tabi sunucunun kötü anına denk geldiğimden vermemekte baya direndi hatalarla 🙂
+[15.04.2026 18:33:15] Alper Altun: Yıldırdılar gerçekten
+[15.04.2026 18:33:49] Alper Altun: Openai nin iç maili sızdı diye bir haber çıkmıştı
+[15.04.2026 18:35:17] Alper Altun: Onlar alt yapı yatırımı yapmadı diye bir metin vardı antropic için söylemiş openai
+[15.04.2026 18:40:01] ~ Mehmet Ergül: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?tab=readme-ov-file
+https://github.com/Dammyjay93/interface-design
+[15.04.2026 20:48:24] ~ Yahya: Arkadaslar selam, agent teams kullanan var mi? Daha cok ne amacli tercih ediyorsunuz? Ogrenmek icin bir agent team kurmak istiyorum . Bu agent isi ne asamada? Internette goruyorum, gorsel ofis yapmislar, mudur odasi fln var:) bunu nasil yapiyorlar?
+[16.04.2026 10:57:04] ~ Serkan Koyun: Günaydın. Bugün benim şansıma mı bilmiyorum ama claude code ekstra bir iyi çalışıyor :)
+[16.04.2026 17:36:57] ‪+90 506 924 58 89‬: ‎‪+90 506 924 58 89‬ ayrıldı
+[16.04.2026 17:32:59] Arslan Tosun: https://x.com/claudeai/status/2044785261393977612
+[16.04.2026 17:33:26] Arslan Tosun: opus 4.7 geldi
+[16.04.2026 17:45:36] ~ Serkan Koyun: Hadi canım :)
+[16.04.2026 17:46:00] Arslan Tosun: Geldi valla abi tekrar yeni opus 4.6 miz hayırlı olsun
+[16.04.2026 17:46:07] Arslan Tosun: 4.7 pardon 😁😁
+[16.04.2026 17:46:17] Veysel Dalga: Bunun yeni özelliği ne başkanım :).
+[16.04.2026 17:46:37] Arslan Tosun: muhtemelen eskisi gibi devam etmesi :D
+[16.04.2026 17:46:42] Veysel Dalga: Yüzdelikler baya artmış 😋
+[16.04.2026 17:47:13] Arslan Tosun: agenttic search azalmış nasıl oluyorsa
+‎[16.04.2026 17:47:47] ~ Serkan Koyun: chatta çıktı new diye ama modeller arasında yoktu :) ‎görüntü dahil edilmedi
+[16.04.2026 17:59:16] Berke Sevim: Token limiti sizde de çabuk bitiyor mu  ?
+‎[16.04.2026 18:07:09] Arslan Tosun: Sabır ‎görüntü dahil edilmedi
+‎[16.04.2026 18:12:47] Berke Sevim: ‎görüntü dahil edilmedi
+[16.04.2026 18:13:05] Ertuğrul Cöre: arabayi yikatmaya yuruyerek mi gidiyomuşuz😂
+[16.04.2026 18:17:29] ~ Serkan Koyun: Chat e geldi şimdi :) code cli a da gelse de 4.6 ile yaptırdığım şeyleri bir analiz ettirsem
+[16.04.2026 18:18:51] Arslan Tosun: Ben başladım bir haftadir kullanmiyordum bakalım analizleri nasil
+[16.04.2026 21:22:33] ~ Serkan Koyun: Claude nin developerlar için yeni x hesabı .
+
+https://x.com/claudedevs/status/2044780198722498580?s=48&t=zBprVkfkuwqe3_B7w2CvDw
+[16.04.2026 21:28:30] ‪+90 539 886 52 86‬: ‎‪+90 539 886 52 86‬ topluluk üzerinden katıldı
+[16.04.2026 21:52:01] ~ Nezihe: ‎~ Nezihe topluluk üzerinden katıldı
+[17.04.2026 08:35:00] Kızım 🌸: ‎Kızım 🌸 ayrıldı
+[17.04.2026 09:03:10] ~ EA: Olaya felsefik yaklaşmış 😄
+[17.04.2026 11:05:19] Murat Arslan: ‎Murat Arslan topluluk üzerinden katıldı
+[17.04.2026 11:05:31] ~ Maysaa: ‎~ Maysaa topluluk üzerinden katıldı
+[17.04.2026 13:20:34] Ertuğrul Cöre: Claudu baya quantized etmişler, 4bit kullanıyoruz muhtemelen
+[17.04.2026 16:38:07] Serhan Backend: Opus 4.6 dan 4.7 e otomatik olarak geçiyor değil mi?
+[17.04.2026 17:32:58] ~ ea: Modeli seçiyorsunuz
+[17.04.2026 17:59:36] Serhan Backend: 4.6 cıkıyor bende hala
+[17.04.2026 18:00:24] Tahir YILDIZ: Bende de 4.6 var Serhan
+[17.04.2026 18:00:41] Serhan Backend: bizim şirket komple 4.7 e geçti uyuz oldumda :D
+[17.04.2026 18:00:45] Serhan Backend: o yüzden sorayım dedim
+[17.04.2026 18:01:07] Arslan Tosun: Manuel update yapın isterseniz
+‎[17.04.2026 22:19:28] Berke Sevim: ‎görüntü dahil edilmedi
+[18.04.2026 01:31:56] ‪+90 554 967 88 92‬: ‎‪+90 554 967 88 92‬ topluluk üzerinden katıldı
+[19.04.2026 15:56:26] Serkan Gül: ‎Serkan Gül topluluk üzerinden katıldı
+[19.04.2026 19:29:38] Cenk Soyak: ‎Cenk Soyak topluluk üzerinden katıldı
+‎[19.04.2026 21:18:15] Berke Sevim: Böyle bir şey okudum twitterda ve güvenilirlik konusunda soru işareti yaratti ‎görüntü dahil edilmedi
+[19.04.2026 21:18:38] Berke Sevim: Claude bir şirketin tüm aboneliklerini hiçbir gerekçe göstermeden kapatmış.
+
+Tüm geçmiş kayıtlara da erişimini engellemiş.
+
+İtiraz için bir Google form doldurmalarını söyleyip muhatap bile olmadan ellerindeki her şeyi yok etmişler.
+[19.04.2026 21:19:17] Arslan Tosun: Sonradan açtılar viral olunca ama baya farklı şikayetler de almaya devam ediyorlar
+[19.04.2026 21:19:31] Berke Sevim: Bu yazı alıntı postu paylaşandan
+[19.04.2026 21:20:01] Berke Sevim: Gerekce göstermeden kapatmak ve muhatap bulamamak kötü.
+[19.04.2026 21:21:02] Arslan Tosun: Umarım düzeltirler bir çok açıdan kötü gidiyorlar
+[19.04.2026 21:21:28] Berke Sevim: Zirveye giderken böyle saçma sapan nedenlerle kendi ayaklarına basiyorlar
+‎[19.04.2026 21:35:25] Berke Sevim: Appstore’da claude için token kullanımını daha iyi takip edebilmemiz için uygulama geliştirmişler :) ‎görüntü dahil edilmedi
+[19.04.2026 21:49:39] ~ BG: ‎~ BG ayrıldı
+[19.04.2026 23:35:53] ‪+90 534 342 86 39‬: ‎‪+90 534 342 86 39‬ topluluk üzerinden katıldı
+[20.04.2026 08:21:56] ‪+90 538 048 96 25‬: ‎‪+90 538 048 96 25‬ topluluk üzerinden katıldı
+[20.04.2026 09:21:00] ~ fecy: ‎~ fecy topluluk üzerinden katıldı
+[20.04.2026 13:42:36] ‪+90 532 555 72 52‬: ‎‪+90 532 555 72 52‬ topluluk üzerinden katıldı
+[21.04.2026 09:12:07] Cenk Soyak: https://www.linkedin.com/posts/eordax_ai-claude-ugcPost-7452089307017904128-E5TH?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAAAK4asBeeMHYSTnjgjebtBQJj1qEJPstcU&utm_campaign=copy_link
+[21.04.2026 09:14:41] Cenk Soyak: Claude Code'un yaratıcısı...
+[21.04.2026 09:14:51] Cenk Soyak: https://m.youtube.com/watch?v=6eBSHbLKuN0&pp=iggCQAE%3D
+[22.04.2026 12:48:57] Berke Sevim: gece claude pro sürümü için claude code kullanımını kaldırmışlar twitterdan gördüm. haberi bu sabah gördüğüm için kontrol etmek istedim düzeltmişler. artık gelen tepkilerden dolayı mı yoksa bu bir test miydi orası soru işareti
+‎[22.04.2026 12:49:07] Berke Sevim: ‎görüntü dahil edilmedi
+[22.04.2026 12:49:57] Bahadır: Cebimizden 100’er doları almadan rahat etmeyecekler :)
+[22.04.2026 12:50:17] Berke Sevim: https://x.com/i/status/2046742491651575961
+[22.04.2026 19:25:29] Alper Altun: Benden helalinden 200 götürdü yine
+[22.04.2026 23:50:26] Arslan Tosun: öğrendiğime göre ücretleri de arttırıcaklarmış iptal ettiğim üyeliğimi yeniledim nolur nolmaz diye..
+[22.04.2026 23:51:41] Berke Sevim: zaten %20 si vergiye gidiyor ne arttırması ya
+[22.04.2026 23:52:26] Ertuğrul Cöre: 200$ api kredisi hediye ettiler bana
+[22.04.2026 23:56:35] Alper Altun: Openclaw ı engelledikleri için yaptılar onu
+[23.04.2026 21:41:28] Arslan Tosun: Open ai 5.5 çıkarınca claudeden peş peşe model kalitesi düşmüş ya bakıyoruz hemen diyip haftalık resete 2 saat kala iyi niyet göstergesi olarak limitleri resetlediler :)
+‎[23.04.2026 21:43:08] Arslan Tosun: ‎görüntü dahil edilmedi
+[24.04.2026 02:59:55] ~ Metin E.: ‎~ Metin E. ayrıldı
+[24.04.2026 13:39:03] ~ GM: ‎~ GM topluluk üzerinden katıldı
+[29.04.2026 19:21:27] ~ Serkan Koyun: Claude nin hackatlonu nu Türkiye den biri kazanmış . Bu gruptan biri mi acaba :)
+
+https://www.instagram.com/p/DXuNT6njjvk/?img_index=1&igsh=azMzemVkMXduYWJr
+[29.04.2026 23:27:54] ‪+90 532 354 45 72‬: ‎‪+90 532 354 45 72‬ topluluk üzerinden katıldı
+[30.04.2026 00:27:42] ~ eko: ‎~ eko topluluk üzerinden katıldı
+[5.05.2026 22:05:24] Can Karapire: ‎Can Karapire topluluk üzerinden katıldı
+[6.05.2026 19:54:35] ~ Serkan Koyun: https://x.com/claudeai/status/2052060693269008586?s=46&t=zBprVkfkuwqe3_B7w2CvDw
+[6.05.2026 19:54:41] ~ Serkan Koyun: Güzel gelişme
+[6.05.2026 20:02:09] Bahadır: Çok şükür
+[6.05.2026 20:38:44] ~ Serkan Koyun: Claude şu anda baya güzel şeyler açıklıyor
+[6.05.2026 20:39:10] ~ Serkan Koyun: https://claude.com/blog/new-in-claude-managed-agents
+[6.05.2026 20:59:50] Arslan Tosun: Eskisi kadar zeki olsa kafi valla
+[7.05.2026 02:10:34] Ertuğrul Cöre: ben codexe gectim, claude code'u aradim valla :(
+[7.05.2026 20:48:54] ‪+90 539 361 69 11‬: ‎‪+90 539 361 69 11‬ topluluk üzerinden katıldı
+[13.05.2026 19:19:52] ~ Şeyda Çalışkan Aran: ‎~ Şeyda Çalışkan Aran topluluk üzerinden katıldı
+[15.05.2026 13:35:27] ~ Eren Kumcuoglu: ‎~ Eren Kumcuoglu ayrıldı
+[20.05.2026 13:27:32] ‪+90 534 501 91 37‬: ‎‪+90 534 501 91 37‬ ayrıldı
+[22.05.2026 14:26:04] Ali Murat Alkan: ‎Ali Murat Alkan topluluk üzerinden katıldı
+[22.05.2026 23:28:53] ~ ea: ‎~ ea ayrıldı
+[23.05.2026 19:32:19] ~ Ünal: ‎~ Ünal bir grup bağlantısıyla katıldı
+[23.05.2026 19:32:19] Claude Code 👩‍💻👨‍💻: ‎Bu gruptaki herkes grup bağlantısı kullanarak yeni üyeler davet edebilir
+[23.05.2026 19:36:13] ~ Mehmet: ‎~ Mehmet bir grup bağlantısıyla katıldı
+[23.05.2026 19:38:34] ~ Rahmi: ‎~ Rahmi topluluk üzerinden katıldı
+[24.05.2026 14:17:43] ‪+90 531 780 17 50‬: ‎‪+90 531 780 17 50‬ topluluk üzerinden katıldı
+[24.05.2026 15:17:16] ~ LKD: ‎~ LKD topluluk üzerinden katıldı
+[24.05.2026 22:34:50] ‪+90 545 675 15 48‬: ‎‪+90 545 675 15 48‬ topluluk üzerinden katıldı
+[25.05.2026 01:00:00] ~ Okan Demirel: ‎~ Okan Demirel topluluk üzerinden katıldı
+[25.05.2026 10:09:27] ‪+90 531 780 17 50‬: ‎‪+90 531 780 17 50‬ ayrıldı
+[25.05.2026 10:14:38] ~ Nejdet ÖKTEM Öğretmen: ‎~ Nejdet ÖKTEM Öğretmen topluluk üzerinden katıldı
+[25.05.2026 19:23:24] ‪+90 530 348 90 75‬: ‎‪+90 530 348 90 75‬ topluluk üzerinden katıldı
+[25.05.2026 21:12:54] ~ Mehmet Ergül: ‎~ Mehmet Ergül ayrıldı
+[29.05.2026 10:03:09] ~ Emel Toprak: ‎~ Emel Toprak bir grup bağlantısıyla katıldı
+[31.05.2026 16:32:04] ~ Hasan KILINÇ: ‎~ Hasan KILINÇ topluluk üzerinden katıldı
+[31.05.2026 21:15:29] ~ Mine Guda: ‎~ Mine Guda topluluk üzerinden katıldı
+[1.06.2026 14:10:17] ‪+90 543 285 61 16‬: ‎‪+90 543 285 61 16‬ topluluk üzerinden katıldı
+[2.06.2026 08:08:37] ~ M.Said Seven: ‎~ M.Said Seven topluluk üzerinden katıldı
+[2.06.2026 08:41:00] ~ Onur: ‎~ Onur topluluk üzerinden katıldı
+[6.06.2026 20:26:30] Ceyhun Güler/Tecmony: ‎Ceyhun Güler/Tecmony topluluk üzerinden katıldı
+[6.06.2026 21:11:23] ~ Demet Yel: ‎~ Demet Yel ayrıldı
+[7.06.2026 00:27:27] Claude Code 👩‍💻👨‍💻: ‎Bu grubun simgesini değiştirdiniz
+[7.06.2026 09:28:31] ~ Sema Dilek: ‎~ Sema Dilek topluluk üzerinden katıldı
+[7.06.2026 09:29:23] ‪+90 544 531 63 00‬: ‎‪+90 544 531 63 00‬ topluluk üzerinden katıldı
+[7.06.2026 09:31:25] ~ Şinasi Muhammet Horuz: ‎~ Şinasi Muhammet Horuz topluluk üzerinden katıldı
+[7.06.2026 09:44:28] ‪+90 554 262 29 99‬: ‎‪+90 554 262 29 99‬ topluluk üzerinden katıldı
+[7.06.2026 09:46:20] ~ İbrahim Aktaş: ‎~ İbrahim Aktaş topluluk üzerinden katıldı
+[7.06.2026 10:11:27] ~ Murat: ‎~ Murat topluluk üzerinden katıldı
+[7.06.2026 10:19:55] ~ Erol: ‎~ Erol topluluk üzerinden katıldı
+[7.06.2026 10:48:51] ~ İbrahim: ‎~ İbrahim topluluk üzerinden katıldı
+[7.06.2026 11:14:10] ‪+90 532 514 05 35‬: ‎‪+90 532 514 05 35‬ bir grup bağlantısıyla katıldı
+[7.06.2026 11:24:00] ~ 🌲: ‎~ 🌲 bir grup bağlantısıyla katıldı
+[7.06.2026 11:24:41] ~ kedimühendisi: ‎~ kedimühendisi bir grup bağlantısıyla katıldı
+[7.06.2026 11:28:36] ‪+90 553 676 58 81‬: ‎‪+90 553 676 58 81‬ bir grup bağlantısıyla katıldı
+[7.06.2026 11:40:28] ~ Miralem Doğan Aktas: ‎~ Miralem Doğan Aktas topluluk üzerinden katıldı
+[7.06.2026 11:43:08] ~ Şeref Ege: ‎~ Şeref Ege topluluk üzerinden katıldı
+[7.06.2026 11:47:57] ‪+90 552 169 84 94‬: ‎‪+90 552 169 84 94‬ ayrıldı
+[7.06.2026 12:47:28] ~ Ege Çağatay TÜRKER: ‎~ Ege Çağatay TÜRKER topluluk üzerinden katıldı
+[7.06.2026 12:50:48] ‪+90 532 559 04 32‬: ‎‪+90 532 559 04 32‬ topluluk üzerinden katıldı
+[7.06.2026 12:53:06] Elif Hanım AlphaHR: ‎Elif Hanım AlphaHR topluluk üzerinden katıldı
+[7.06.2026 13:26:16] ~ Azer: ‎~ Azer topluluk üzerinden katıldı
+[7.06.2026 13:34:58] ‪+90 543 934 62 84‬: ‎‪+90 543 934 62 84‬ topluluk üzerinden katıldı
+[7.06.2026 14:00:41] ‪+90 532 555 11 64‬: ‎‪+90 532 555 11 64‬ bir grup bağlantısıyla katıldı
+[7.06.2026 14:08:42] ~ Metin B: ‎~ Metin B ayrıldı
+[7.06.2026 14:34:50] ~ Serkan: ‎~ Serkan topluluk üzerinden katıldı
+[7.06.2026 14:50:32] ‪+90 532 775 86 02‬: ‎‪+90 532 775 86 02‬ topluluk üzerinden katıldı
+[7.06.2026 15:02:49] ~ Murat: ‎~ Murat topluluk üzerinden katıldı
+[7.06.2026 15:26:35] Özgür Yüksel TP Helpdesk: ‎Özgür Yüksel TP Helpdesk topluluk üzerinden katıldı
+[7.06.2026 17:16:37] ‪+90 532 163 87 58‬: ‎‪+90 532 163 87 58‬ topluluk üzerinden katıldı
+[7.06.2026 18:37:18] ‪+90 530 607 05 90‬: ‎‪+90 530 607 05 90‬ topluluk üzerinden katıldı
+[7.06.2026 20:09:02] ~ Ersin S.: ‎~ Ersin S. topluluk üzerinden katıldı
+[7.06.2026 21:32:22] ~ Deniz: ‎~ Deniz topluluk üzerinden katıldı
+[7.06.2026 21:51:35] ‪+90 505 900 06 78‬: ‎‪+90 505 900 06 78‬ topluluk üzerinden katıldı
+[7.06.2026 22:06:06] ~ Şinasi Muhammet Horuz: ‎~ Şinasi Muhammet Horuz ayrıldı
+[7.06.2026 22:43:20] ~ Yusuf: ‎~ Yusuf topluluk üzerinden katıldı
+[7.06.2026 23:09:09] ~ Firat: ‎~ Firat topluluk üzerinden katıldı
+[7.06.2026 23:49:44] ‪+90 506 429 27 47‬: ‎‪+90 506 429 27 47‬ topluluk üzerinden katıldı
+[7.06.2026 23:52:54] ~ İlter Yazar: ‎~ İlter Yazar topluluk üzerinden katıldı
+[8.06.2026 01:23:43] ‪+90 541 381 44 95‬: ‎‪+90 541 381 44 95‬ topluluk üzerinden katıldı
+[8.06.2026 06:40:23] ~ Txx: ‎~ Txx topluluk üzerinden katıldı
+[8.06.2026 06:42:23] ~ Ali Tursun: ‎~ Ali Tursun topluluk üzerinden katıldı
+[8.06.2026 08:04:35] ‪+90 530 157 42 64‬: ‎‪+90 530 157 42 64‬ topluluk üzerinden katıldı
+[8.06.2026 08:08:39] ‪+90 507 044 00 11‬: ‎‪+90 507 044 00 11‬ topluluk üzerinden katıldı
+[8.06.2026 08:51:06] ‪+90 544 746 65 28‬: ‎‪+90 544 746 65 28‬ topluluk üzerinden katıldı
+[8.06.2026 09:40:22] ‪+90 531 663 86 71‬: ‎‪+90 531 663 86 71‬ topluluk üzerinden katıldı
+[8.06.2026 09:55:33] ~ Alper: ‎~ Alper topluluk üzerinden katıldı
+[8.06.2026 09:57:42] ‪+90 541 616 00 97‬: ‎‪+90 541 616 00 97‬ topluluk üzerinden katıldı
+[8.06.2026 10:03:38] ~ Kaan: ‎~ Kaan topluluk üzerinden katıldı
+[8.06.2026 10:08:46] ~ Rauf Emir: ‎~ Rauf Emir topluluk üzerinden katıldı
+[8.06.2026 10:09:16] ~ Kaan Civan: ‎~ Kaan Civan topluluk üzerinden katıldı
+[8.06.2026 10:11:57] ~ Bekir Can Türkmen: ‎~ Bekir Can Türkmen topluluk üzerinden katıldı
+[8.06.2026 10:19:09] ~ Alp Dilgen: ‎~ Alp Dilgen topluluk üzerinden katıldı
+[8.06.2026 10:24:19] ~ Kagan: ‎~ Kagan topluluk üzerinden katıldı
+[8.06.2026 10:26:24] ‪+90 538 095 57 58‬: ‎‪+90 538 095 57 58‬ topluluk üzerinden katıldı
+[8.06.2026 10:30:24] ‪+90 507 888 50 51‬: ‎‪+90 507 888 50 51‬ topluluk üzerinden katıldı
+[8.06.2026 10:44:25] ‪+7 985 772‑51‑63‬: ‎‪+7 985 772‑51‑63‬ topluluk üzerinden katıldı
+[8.06.2026 10:46:41] ‪+90 531 970 88 93‬: ‎‪+90 531 970 88 93‬ topluluk üzerinden katıldı
+[8.06.2026 11:06:13] ~ ...: ‎~ ... topluluk üzerinden katıldı
+[8.06.2026 11:06:35] ~ Cto: ‎~ Cto topluluk üzerinden katıldı
+[8.06.2026 11:10:55] ‪+90 536 324 09 33‬: ‎‪+90 536 324 09 33‬ topluluk üzerinden katıldı
+[8.06.2026 11:24:12] ‪+90 538 926 26 99‬: ‎‪+90 538 926 26 99‬ topluluk üzerinden katıldı
+[8.06.2026 11:35:57] ‪+90 507 485 23 64‬: ‎‪+90 507 485 23 64‬ topluluk üzerinden katıldı
+[8.06.2026 12:38:40] ‪+90 542 288 68 04‬: ‎‪+90 542 288 68 04‬ bir grup bağlantısıyla katıldı
+[8.06.2026 12:47:21] ~ Erdoğan: ‎~ Erdoğan topluluk üzerinden katıldı
+[8.06.2026 13:04:57] ~ Ufuk Koç: ‎~ Ufuk Koç topluluk üzerinden katıldı
+[8.06.2026 13:09:19] ‪+90 544 388 31 32‬: ‎‪+90 544 388 31 32‬ topluluk üzerinden katıldı
+[8.06.2026 14:18:40] ~ AOY: ‎~ AOY topluluk üzerinden katıldı
+[8.06.2026 15:26:44] ~ İlhan Atar: ‎~ İlhan Atar topluluk üzerinden katıldı
+[8.06.2026 15:35:36] ‪+7 985 772‑51‑63‬: ‎‪+7 985 772‑51‑63‬ ayrıldı
+[8.06.2026 20:27:12] ~ Mustafa: ‎~ Mustafa topluluk üzerinden katıldı
+[9.06.2026 13:50:02] Serkut Doğan: ‎Serkut Doğan topluluk üzerinden katıldı
+[9.06.2026 16:43:54] ~ Umut: ‎~ Umut topluluk üzerinden katıldı
+[9.06.2026 20:53:03] ‪+90 541 381 44 95‬: ‎‪+90 541 381 44 95‬ ayrıldı
+[10.06.2026 10:09:13] ‪+90 553 093 01 01‬: ‎‪+90 553 093 01 01‬ topluluk üzerinden katıldı
+[10.06.2026 10:38:17] ~ İsa: ‎~ İsa topluluk üzerinden katıldı
+[10.06.2026 14:03:31] ~ volkan: ‎~ volkan topluluk üzerinden katıldı
+[10.06.2026 16:28:03] ‪+90 506 250 00 25‬: ‎‪+90 506 250 00 25‬ topluluk üzerinden katıldı
+[12.06.2026 08:55:23] Onur Sayin: ‎Onur Sayin topluluk üzerinden katıldı
+[12.06.2026 15:56:53] ~ Onur: ‎~ Onur ayrıldı
+[14.06.2026 12:32:50] ‪+90 531 780 58 75‬: ‎‪+90 531 780 58 75‬ topluluk üzerinden katıldı
+[14.06.2026 12:39:35] ~ Hasan: ‎~ Hasan ayrıldı
+[14.06.2026 12:53:39] ‪+90 543 440 10 11‬: ‎‪+90 543 440 10 11‬ topluluk üzerinden katıldı
+[15.06.2026 22:41:27] ~ Sema Dilek: ‎~ Sema Dilek ayrıldı
+[16.06.2026 09:06:44] Ferit Gülaçtı: ‎~ Şeyda Çalışkan Aran, Ferit Gülaçtı kişisini ekledi
+[18.06.2026 11:59:57] ‪+90 532 559 04 32‬: ‎‪+90 532 559 04 32‬ ayrıldı
+[19.06.2026 18:21:10] ~ Can Bagci: ‎~ Can Bagci topluluk üzerinden katıldı
+[21.06.2026 16:17:24] ‪+90 530 432 89 49‬: ‎‪+90 530 432 89 49‬ topluluk üzerinden katıldı
+[21.06.2026 21:13:07] ‪+90 532 701 43 15‬: ‎‪+90 532 701 43 15‬ topluluk üzerinden katıldı
+[21.06.2026 23:15:17] ‪+90 542 277 96 96‬: ‎‪+90 542 277 96 96‬ topluluk üzerinden katıldı
+[22.06.2026 00:41:26] ‪+90 553 655 98 11‬: ‎‪+90 553 655 98 11‬ topluluk üzerinden katıldı
+[22.06.2026 08:24:01] ‪+90 539 200 28 17‬: ‎‪+90 539 200 28 17‬ topluluk üzerinden katıldı
+[22.06.2026 09:32:14] Burç Sezişli: ‎Burç Sezişli topluluk üzerinden katıldı
+[22.06.2026 11:26:39] ~ Alperen: ‎~ Alperen topluluk üzerinden katıldı
+[22.06.2026 15:44:56] ‪+90 545 894 55 50‬: ‎‪+90 545 894 55 50‬ topluluk üzerinden katıldı
+[22.06.2026 15:46:18] ‪+90 545 894 55 50‬: ‎‪+90 545 894 55 50‬ ayrıldı
+[22.06.2026 22:17:25] ‪+90 553 655 98 11‬: ‎‪+90 553 655 98 11‬ ayrıldı
+[23.06.2026 00:35:09] ~ KorayO: ‎~ KorayO topluluk üzerinden katıldı
+[23.06.2026 08:34:35] ~ Mustafa Öztürk: ‎~ Mustafa Öztürk topluluk üzerinden katıldı
+[23.06.2026 20:39:12] ‪+44 7899 762688‬: ‎‪+44 7899 762688‬ topluluk üzerinden katıldı
+[23.06.2026 22:37:50] ‪+90 530 911 98 91‬: ‎‪+90 530 911 98 91‬ topluluk üzerinden katıldı
+[23.06.2026 23:24:50] ~ il_ han: ‎~ il_ han topluluk üzerinden katıldı
+[23.06.2026 23:26:21] Claude Code 👩‍💻👨‍💻: ‎Bu grupta 256 üzerinde üye olduğundan bundan böyle grup ayarlarını yalnızca yöneticiler düzenleyebilir
+[23.06.2026 23:26:21] ‪+49 173 1394015‬: ‎‪+49 173 1394015‬ topluluk üzerinden katıldı
+[24.06.2026 06:42:20] ‪+90 532 302 02 50‬: ‎‪+90 532 302 02 50‬ topluluk üzerinden katıldı
+[24.06.2026 10:57:01] ‪+90 507 732 20 73‬: ‎‪+90 507 732 20 73‬ topluluk üzerinden katıldı
+[24.06.2026 13:05:25] ~ Ferit Kantarcı: ‎~ Ferit Kantarcı topluluk üzerinden katıldı
+[24.06.2026 14:01:37] ~ Məxmər Əhmədzadə: ‎~ Məxmər Əhmədzadə topluluk üzerinden katıldı
+[24.06.2026 14:18:36] ~ Okan Demirel: ‎~ Okan Demirel ayrıldı
+‎[24.06.2026 14:51:19] Arslan Tosun: Var mı böylelerimiz ? ‎görüntü dahil edilmedi
+[24.06.2026 14:53:52] ‪+90 543 934 62 84‬: ‎‪+90 543 934 62 84‬ ayrıldı
+[24.06.2026 15:41:13] ~ Gonul: ‎~ Gonul topluluk üzerinden katıldı
+[24.06.2026 16:02:37] ‪+90 533 373 40 02‬: ‎‪+90 533 373 40 02‬ topluluk üzerinden katıldı
+[24.06.2026 16:10:14] ‪+90 501 486 70 06‬: ‎‪+90 501 486 70 06‬ topluluk üzerinden katıldı
+[24.06.2026 16:47:10] ‪+90 507 732 20 73‬: ‎‪+90 507 732 20 73‬ ayrıldı
+[24.06.2026 19:10:14] ~ Bilgin Küçükyaşar: ‎~ Bilgin Küçükyaşar topluluk üzerinden katıldı
+[24.06.2026 20:02:15] ‪+90 546 277 71 51‬: ‎‪+90 546 277 71 51‬ topluluk üzerinden katıldı
+[24.06.2026 20:49:44] ~ Bilgin: ‎~ Bilgin topluluk üzerinden katıldı
+[25.06.2026 00:18:07] ‪+90 532 257 01 28‬: ‎‪+90 532 257 01 28‬ topluluk üzerinden katıldı
+[25.06.2026 03:26:34] ‪+90 507 754 80 11‬: ‎‪+90 507 754 80 11‬ topluluk üzerinden katıldı
+[25.06.2026 07:46:39] Dragoman Translation: ‎Dragoman Translation topluluk üzerinden katıldı
+[25.06.2026 09:51:21] ~ İsmet Türker: ‎~ İsmet Türker topluluk üzerinden katıldı
+[25.06.2026 12:30:22] ‪+30 699 355 8969‬: ‎‪+30 699 355 8969‬ topluluk üzerinden katıldı
+[25.06.2026 12:46:24] ‪+90 536 569 85 38‬: ‎‪+90 536 569 85 38‬ topluluk üzerinden katıldı
+[25.06.2026 15:13:35] ‪+90 536 569 85 38‬: ‎‪+90 536 569 85 38‬ ayrıldı
+[25.06.2026 15:23:41] ~ Ersin S.: ‎~ Ersin S. ayrıldı
+[26.06.2026 08:48:00] ‪+90 555 101 99 58‬: ‎‪+90 555 101 99 58‬ topluluk üzerinden katıldı
+[26.06.2026 11:36:03] Gürkan Platin: ‎Gürkan Platin topluluk üzerinden katıldı
+[26.06.2026 12:02:18] ‪+90 536 548 12 18‬: ‎‪+90 536 548 12 18‬ ayrıldı
+[26.06.2026 21:37:56] ~ Semih Güllüoğlu: ‎~ Semih Güllüoğlu topluluk üzerinden katıldı
+[27.06.2026 10:22:11] Dragoman Translation: ‎Dragoman Translation kişisini çıkardınız
+[27.06.2026 10:38:20] Claude Code 👩‍💻👨‍💻: ‎Bu gruba katılmak için yönetici onayını etkinleştirdiniz
+[27.06.2026 11:05:39] ‪+90 555 101 99 58‬: ‎‪+90 555 101 99 58‬ ayrıldı
+[27.06.2026 12:49:53] ~ İsmet Türker: ‎~ İsmet Türker ayrıldı
+[27.06.2026 13:40:33] ‪+90 544 214 93 96‬: ‎‪+90 544 214 93 96‬ ayrıldı
+[27.06.2026 23:32:11] ~ MURAT - DGM: ‎~ MURAT - DGM katılma isteği gönderdi
+[27.06.2026 23:51:58] ~ MURAT - DGM: ‎~ MURAT - DGM topluluk üzerinden katıldı
+[28.06.2026 00:59:14] ~ Deniz: ‎~ Deniz ayrıldı
+[28.06.2026 10:08:11] ~ Bahar Toprakci: ‎~ Bahar Toprakci katılma isteği gönderdi
+[28.06.2026 10:34:20] ~ Bahar Toprakci: ‎~ Bahar Toprakci topluluk üzerinden katıldı
+[28.06.2026 13:40:06] ~ RBNGAME: ‎~ RBNGAME ayrıldı
+[28.06.2026 14:24:00] Claude Code 👩‍💻👨‍💻: ‎Bu gruba katılmak için yönetici onayını devre dışı bıraktınız
