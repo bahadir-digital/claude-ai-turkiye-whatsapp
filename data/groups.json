@@ -1,0 +1,78 @@
+{
+  "communityName": "Claude.ai Türkiye",
+  "tagline": "WhatsApp Topluluğu Arşivi",
+  "note": "Buradaki konuşma geçmişleri, gruplara sonradan katılan üyelerin daha önce neler konuşulduğunu görebilmesi için derlenmiştir.",
+  "groups": [
+    {
+      "slug": "ana-community",
+      "emoji": "🇹🇷",
+      "name": "Claude.ai Türkiye",
+      "description": "Topluluğun ana linki. Önce buraya katıl, sonra ilgilendiğin alt gruplara geç.",
+      "invite": "https://chat.whatsapp.com/I2763pKIpmS9xADAHLaGPE",
+      "main": true
+    },
+    {
+      "slug": "genel-claude",
+      "emoji": "📚💬",
+      "name": "Genel Bilgi Paylaşımı (Claude)",
+      "description": "Genel Claude paylaşımları",
+      "invite": "https://chat.whatsapp.com/EdVFHCewYIjB2B8yWLEZgK?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "genel-diger-ai",
+      "emoji": "🔘🔹",
+      "name": "Genel Bilgi Paylaşımı (ChatGPT, Gemini, Grok vb.)",
+      "description": "Diğer AI araçları üzerine paylaşımlar",
+      "invite": "https://chat.whatsapp.com/GjTxOtZYy1j4fuACSUr7Mw?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "skills",
+      "emoji": "🧠✨",
+      "name": "Claude Skills",
+      "description": "Skill kullanımı ve üretimi",
+      "invite": "https://chat.whatsapp.com/HHrGa5uJKRAHRqoBI3b2XA?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "projects",
+      "emoji": "🚀📊",
+      "name": "Claude Projects",
+      "description": "Projects kullanımı ve örnek projeler",
+      "invite": "https://chat.whatsapp.com/JU4bLRCPt27IgItbJNcAH8?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "excel-powerpoint",
+      "emoji": "📊",
+      "name": "Claude in Excel & PowerPoint",
+      "description": "Excel ve PowerPoint entegrasyonları",
+      "invite": "https://chat.whatsapp.com/E8gJdy9teehLFtvhFgkizn?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "code",
+      "emoji": "👩‍💻",
+      "name": "Claude Code",
+      "description": "Claude Code ve geliştirici konuları",
+      "invite": "https://chat.whatsapp.com/IMCUcg4SNVtDZ0HtJg8Abo?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "cowork",
+      "emoji": "🖥️⚡",
+      "name": "Claude Cowork",
+      "description": "Cowork ile masaüstü otomasyonu",
+      "invite": "https://chat.whatsapp.com/HDQzHdXmj8PD2lsyjMiCld?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "artifacts",
+      "emoji": "🧩📄",
+      "name": "Claude Artifacts",
+      "description": "Artifacts ve uygulama üretimi",
+      "invite": "https://chat.whatsapp.com/GGIg8vlLiwYInpAlh0CUzT?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "design",
+      "emoji": "🎨",
+      "name": "Claude Design",
+      "description": "Tasarım ve görsel üretim",
+      "invite": "https://chat.whatsapp.com/Ldpn43i3HFvK754KiQEEXu?s=cl&p=i&ilr=1"
+    }
+  ]
+}

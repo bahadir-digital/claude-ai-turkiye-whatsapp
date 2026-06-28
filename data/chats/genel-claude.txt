@@ -1,0 +1,105 @@
+03.02.2025 09:15 - Mesajlar ve aramalar uçtan uca şifrelidir. Topluluk dışındaki kimse, WhatsApp dahil, bunları okuyamaz veya dinleyemez.
+03.02.2025 09:17 - Ahmet Yılmaz grubu oluşturdu
+03.02.2025 12:22 - Ahmet Yılmaz gruba davet bağlantısı aracılığıyla katıldı
+03.02.2025 13:59 - Zeynep Kaya gruba davet bağlantısı aracılığıyla katıldı
+03.02.2025 17:41 - Mert Demir gruba davet bağlantısı aracılığıyla katıldı
+03.02.2025 23:34 - Elif Şahin gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 00:18 - Burak Çelik gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 01:15 - Selin Arslan gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 06:09 - Can Öztürk gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 07:17 - Deniz Aydın gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 10:44 - Ece Yıldız gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 16:02 - Kaan Polat gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 16:51 - Gizem Doğan gruba davet bağlantısı aracılığıyla katıldı
+04.02.2025 19:03 - Elif Şahin: Selam, yeni katıldım. Claude'u ilk kez deneyenler için nereden başlamak iyi olur?
+04.02.2025 20:53 - Zeynep Kaya: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+04.02.2025 22:44 - Ahmet Yılmaz: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+04.02.2025 23:44 - Gizem Doğan: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+05.02.2025 02:14 - Kaan Polat: Türkçe çıktılarda son dönemde gözle görülür iyileşme var.
+05.02.2025 03:13 - Ahmet Yılmaz: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+05.02.2025 04:30 - Can Öztürk: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+05.02.2025 06:59 - Burak Çelik: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+05.02.2025 07:48 - Zeynep Kaya: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+05.02.2025 08:39 - Selin Arslan: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+05.02.2025 08:58 - Kaan Polat: Selam, yeni katıldım. Claude'u ilk kez deneyenler için nereden başlamak iyi olur?
+05.02.2025 11:08 - Gizem Doğan: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+05.02.2025 12:31 - Deniz Aydın: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+05.02.2025 14:06 - Burak Çelik: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+05.02.2025 15:11 - Zeynep Kaya: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+05.02.2025 17:20 - Selin Arslan: Stil ayarlarından tonu sadeleştirince işime çok yaradı.
+05.02.2025 17:41 - Zeynep Kaya: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+05.02.2025 19:11 - Mert Demir: Stil ayarlarından tonu sadeleştirince işime çok yaradı.
+05.02.2025 22:05 - Zeynep Kaya: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+05.02.2025 23:28 - Selin Arslan: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+06.02.2025 01:59 - Deniz Aydın: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+06.02.2025 03:11 - Deniz Aydın: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+06.02.2025 04:33 - Gizem Doğan: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+06.02.2025 06:30 - Burak Çelik: Türkçe çıktılarda son dönemde gözle görülür iyileşme var.
+06.02.2025 08:01 - Ahmet Yılmaz: Stil ayarlarından tonu sadeleştirince işime çok yaradı.
+06.02.2025 10:40 - Zeynep Kaya: Stil ayarlarından tonu sadeleştirince işime çok yaradı.
+06.02.2025 11:56 - Mert Demir: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+06.02.2025 14:06 - Zeynep Kaya: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+06.02.2025 16:29 - Burak Çelik: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+06.02.2025 18:52 - Burak Çelik: Türkçe çıktılarda son dönemde gözle görülür iyileşme var.
+06.02.2025 21:49 - Can Öztürk: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+06.02.2025 22:37 - Mert Demir: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+06.02.2025 22:43 - Deniz Aydın: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+06.02.2025 23:58 - Ahmet Yılmaz: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+07.02.2025 01:35 - Kaan Polat: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+07.02.2025 02:10 - Ece Yıldız: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+07.02.2025 02:26 - Deniz Aydın: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+07.02.2025 04:11 - Can Öztürk: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+07.02.2025 05:56 - Ahmet Yılmaz: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+07.02.2025 06:52 - Deniz Aydın: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+07.02.2025 09:28 - Ahmet Yılmaz: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+07.02.2025 09:33 - Emre Taş ayrıldı
+07.02.2025 10:14 - Ece Yıldız: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+07.02.2025 12:54 - Ahmet Yılmaz: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+07.02.2025 15:34 - Can Öztürk: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+07.02.2025 17:05 - Kaan Polat: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+07.02.2025 17:37 - Deniz Aydın: Stil ayarlarından tonu sadeleştirince işime çok yaradı.
+07.02.2025 18:59 - Zeynep Kaya: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+07.02.2025 20:29 - Burak Çelik: Stil ayarlarından tonu sadeleştirince işime çok yaradı.
+07.02.2025 21:13 - Ece Yıldız: Selam, yeni katıldım. Claude'u ilk kez deneyenler için nereden başlamak iyi olur?
+07.02.2025 23:31 - Selin Arslan: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+07.02.2025 23:40 - Ece Yıldız: Web arama açıkken güncel bilgiyi gayet iyi getiriyor.
+08.02.2025 00:06 - Burak Çelik: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+08.02.2025 00:51 - Selin Arslan: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+08.02.2025 03:02 - Selin Arslan: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+08.02.2025 03:54 - Elif Şahin: Türkçe çıktılarda son dönemde gözle görülür iyileşme var.
+08.02.2025 04:55 - Elif Şahin: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+08.02.2025 05:05 - Ahmet Yılmaz: Web arama açıkken güncel bilgiyi gayet iyi getiriyor.
+08.02.2025 05:57 - Kaan Polat: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+08.02.2025 07:29 - Selin Arslan: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+08.02.2025 08:30 - Deniz Aydın: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+08.02.2025 10:36 - Kaan Polat: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+08.02.2025 12:41 - Gizem Doğan: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+08.02.2025 13:05 - Gizem Doğan: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+08.02.2025 13:59 - Deniz Aydın: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+08.02.2025 16:44 - Selin Arslan: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+08.02.2025 18:28 - Deniz Aydın: Türkçe çıktılarda son dönemde gözle görülür iyileşme var.
+08.02.2025 18:52 - Mert Demir: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+08.02.2025 19:02 - Mert Demir: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+08.02.2025 21:52 - Mert Demir: Hangi model hangi iş için daha uygun, kısaca özetleyebilen var mı?
+08.02.2025 23:56 - Gizem Doğan: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+09.02.2025 02:19 - Mert Demir: Selam, yeni katıldım. Claude'u ilk kez deneyenler için nereden başlamak iyi olur?
+09.02.2025 02:24 - Kaan Polat ayrıldı
+09.02.2025 05:13 - Zeynep Kaya: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+09.02.2025 05:51 - Can Öztürk: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+09.02.2025 06:48 - Ahmet Yılmaz: Web arama açıkken güncel bilgiyi gayet iyi getiriyor.
+09.02.2025 07:45 - Burak Çelik: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+09.02.2025 08:49 - Gizem Doğan: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+09.02.2025 09:58 - Ece Yıldız: Türkçe çıktılarda son dönemde gözle görülür iyileşme var.
+09.02.2025 10:34 - Ahmet Yılmaz: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+09.02.2025 12:34 - Gizem Doğan: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+09.02.2025 14:24 - Ece Yıldız: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+09.02.2025 16:43 - Mert Demir: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+09.02.2025 18:56 - Ahmet Yılmaz: Stil ayarlarından tonu sadeleştirince işime çok yaradı.
+09.02.2025 19:45 - Gizem Doğan: Selam, yeni katıldım. Claude'u ilk kez deneyenler için nereden başlamak iyi olur?
+09.02.2025 20:26 - Mert Demir: Uzun dökümanları özetletirken hangi prompt yapısını kullanıyorsunuz?
+09.02.2025 22:30 - Gizem Doğan: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+10.02.2025 00:55 - Ahmet Yılmaz: Bir PDF'i analiz ettirdim, tabloları bile düzgün okudu 👍
+10.02.2025 03:52 - Ece Yıldız: Bunu denedim, teşekkürler! Çok daha temiz sonuç aldım.
+10.02.2025 06:17 - Deniz Aydın: Projects özelliğini kullanıyor musunuz? Bilgi tabanı yüklemek çok işime yaradı.
+10.02.2025 08:43 - Ahmet Yılmaz: Bence sistemli prompt yazmak çıktı kalitesini ciddi artırıyor.
+10.02.2025 09:34 - Burak Çelik: Selam, yeni katıldım. Claude'u ilk kez deneyenler için nereden başlamak iyi olur?

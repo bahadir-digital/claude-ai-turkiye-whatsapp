@@ -1,0 +1,82 @@
+08.02.2025 09:15 - Mesajlar ve aramalar uçtan uca şifrelidir. Topluluk dışındaki kimse, WhatsApp dahil, bunları okuyamaz veya dinleyemez.
+08.02.2025 09:17 - Ahmet Yılmaz grubu oluşturdu
+08.02.2025 15:03 - Ahmet Yılmaz gruba davet bağlantısı aracılığıyla katıldı
+08.02.2025 18:27 - Zeynep Kaya gruba davet bağlantısı aracılığıyla katıldı
+08.02.2025 19:40 - Mert Demir gruba davet bağlantısı aracılığıyla katıldı
+08.02.2025 23:12 - Elif Şahin gruba davet bağlantısı aracılığıyla katıldı
+09.02.2025 03:23 - Burak Çelik gruba davet bağlantısı aracılığıyla katıldı
+09.02.2025 08:28 - Selin Arslan gruba davet bağlantısı aracılığıyla katıldı
+09.02.2025 09:13 - Can Öztürk gruba davet bağlantısı aracılığıyla katıldı
+09.02.2025 14:54 - Deniz Aydın gruba davet bağlantısı aracılığıyla katıldı
+09.02.2025 15:23 - Ece Yıldız gruba davet bağlantısı aracılığıyla katıldı
+09.02.2025 18:06 - Ece Yıldız: Git diff'leri özetletmek harika çalışıyor.
+09.02.2025 18:09 - Deniz Aydın: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+09.02.2025 20:20 - Ece Yıldız: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+09.02.2025 20:39 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+09.02.2025 21:49 - Elif Şahin: Git diff'leri özetletmek harika çalışıyor.
+10.02.2025 00:38 - Deniz Aydın: Bu komutu denedim, sorunu hemen buldu 🙏
+10.02.2025 01:00 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+10.02.2025 03:40 - Elif Şahin: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+10.02.2025 05:07 - Burak Çelik: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+10.02.2025 05:44 - Ahmet Yılmaz: Bu komutu denedim, sorunu hemen buldu 🙏
+10.02.2025 06:55 - Zeynep Kaya: Git diff'leri özetletmek harika çalışıyor.
+10.02.2025 08:12 - Ece Yıldız: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+10.02.2025 10:14 - Zeynep Kaya: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+10.02.2025 10:38 - Deniz Aydın: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
+10.02.2025 11:00 - Ece Yıldız: Bu komutu denedim, sorunu hemen buldu 🙏
+10.02.2025 12:42 - Elif Şahin: Git diff'leri özetletmek harika çalışıyor.
+10.02.2025 13:08 - Mert Demir: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+10.02.2025 14:43 - Mert Demir: Konfigürasyon dosyasını paylaşır mısın?
+10.02.2025 16:56 - Burak Çelik: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+10.02.2025 17:58 - Deniz Aydın: Bu komutu denedim, sorunu hemen buldu 🙏
+10.02.2025 18:41 - Ahmet Yılmaz: Bu komutu denedim, sorunu hemen buldu 🙏
+10.02.2025 20:27 - Burak Çelik: Büyük repoda refactor için ciddi zaman kazandırdı.
+10.02.2025 22:06 - Selin Arslan: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+10.02.2025 22:09 - Selin Arslan: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
+10.02.2025 22:42 - Elif Şahin: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
+10.02.2025 23:59 - Burak Çelik: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
+11.02.2025 01:41 - Zeynep Kaya: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
+11.02.2025 02:54 - Ahmet Yılmaz: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+11.02.2025 05:46 - Burak Çelik: Büyük repoda refactor için ciddi zaman kazandırdı.
+11.02.2025 06:57 - Can Öztürk: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+11.02.2025 08:35 - Can Öztürk: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
+11.02.2025 11:19 - Can Öztürk: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+11.02.2025 11:42 - Ahmet Yılmaz: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
+11.02.2025 12:20 - Burak Çelik: Bu komutu denedim, sorunu hemen buldu 🙏
+11.02.2025 14:43 - Mert Demir: Büyük repoda refactor için ciddi zaman kazandırdı.
+11.02.2025 16:13 - Burak Çelik: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+11.02.2025 19:03 - Burak Çelik: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
+11.02.2025 20:23 - Deniz Aydın: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+11.02.2025 20:56 - Mert Demir: Büyük repoda refactor için ciddi zaman kazandırdı.
+11.02.2025 23:07 - Deniz Aydın: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+12.02.2025 00:35 - Deniz Aydın: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
+12.02.2025 01:27 - Elif Şahin: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+12.02.2025 03:52 - Zeynep Kaya: Mobil uygulamadan da çalıştırılabiliyormuş, denedim.
+12.02.2025 05:01 - Elif Şahin: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
+12.02.2025 06:49 - Can Öztürk: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
+12.02.2025 07:45 - Can Öztürk: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+12.02.2025 08:03 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+12.02.2025 09:38 - Mert Demir: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+12.02.2025 10:36 - Zeynep Kaya: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+12.02.2025 12:17 - Can Öztürk: Bu komutu denedim, sorunu hemen buldu 🙏
+12.02.2025 13:39 - Ahmet Yılmaz: Büyük repoda refactor için ciddi zaman kazandırdı.
+12.02.2025 13:44 - Onur Korkmaz ayrıldı
+12.02.2025 15:48 - Deniz Aydın: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
+12.02.2025 16:09 - Can Öztürk: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+12.02.2025 18:11 - Deniz Aydın: Git diff'leri özetletmek harika çalışıyor.
+12.02.2025 18:41 - Elif Şahin: Büyük repoda refactor için ciddi zaman kazandırdı.
+12.02.2025 19:22 - Ece Yıldız: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+12.02.2025 22:10 - Deniz Aydın: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+13.02.2025 00:34 - Ahmet Yılmaz: Claude Code'u terminalde kurdum, Node sürümü için bir uyarı aldım.
+13.02.2025 01:09 - Elif Şahin: Konfigürasyon dosyasını paylaşır mısın?
+13.02.2025 01:21 - Burak Çelik: Büyük repoda refactor için ciddi zaman kazandırdı.
+13.02.2025 04:04 - Burak Çelik: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+13.02.2025 06:49 - Can Öztürk: MCP server bağlamak isteyenler nasıl bir akış izliyor?
+13.02.2025 07:17 - Zeynep Kaya: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+13.02.2025 09:34 - Elif Şahin: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.
+13.02.2025 10:43 - Elif Şahin: Konfigürasyon dosyasını paylaşır mısın?
+13.02.2025 10:46 - Ahmet Yılmaz: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+13.02.2025 12:06 - Deniz Aydın: Test yazdırırken hangi yaklaşımı tercih ediyorsunuz?
+13.02.2025 13:29 - Elif Şahin: Bu komutu denedim, sorunu hemen buldu 🙏
+13.02.2025 15:46 - Elif Şahin: CLI mı yoksa masaüstü mü, ikisini de kullanan var mı?
+13.02.2025 16:52 - Ahmet Yılmaz: Hata ayıklarken adım adım gitmesini istemek daha iyi sonuç verdi.

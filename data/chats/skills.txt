@@ -1,0 +1,71 @@
+13.02.2025 09:15 - Mesajlar ve aramalar uçtan uca şifrelidir. Topluluk dışındaki kimse, WhatsApp dahil, bunları okuyamaz veya dinleyemez.
+13.02.2025 09:17 - Ahmet Yılmaz grubu oluşturdu
+13.02.2025 10:27 - Ahmet Yılmaz gruba davet bağlantısı aracılığıyla katıldı
+13.02.2025 15:06 - Zeynep Kaya gruba davet bağlantısı aracılığıyla katıldı
+13.02.2025 19:17 - Mert Demir gruba davet bağlantısı aracılığıyla katıldı
+14.02.2025 00:24 - Elif Şahin gruba davet bağlantısı aracılığıyla katıldı
+14.02.2025 00:58 - Burak Çelik gruba davet bağlantısı aracılığıyla katıldı
+14.02.2025 01:50 - Selin Arslan gruba davet bağlantısı aracılığıyla katıldı
+14.02.2025 05:56 - Can Öztürk gruba davet bağlantısı aracılığıyla katıldı
+14.02.2025 09:02 - Deniz Aydın gruba davet bağlantısı aracılığıyla katıldı
+14.02.2025 11:41 - Elif Şahin: Birden fazla skill aynı anda tetikleniyor, bu normal mi?
+14.02.2025 14:00 - Deniz Aydın: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+14.02.2025 16:16 - Burak Çelik: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+14.02.2025 17:10 - Deniz Aydın: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
+14.02.2025 18:53 - Deniz Aydın: skill-creator ile başlamak işi baya hızlandırıyor.
+14.02.2025 19:57 - Can Öztürk: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+14.02.2025 21:17 - Zeynep Kaya: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
+15.02.2025 00:04 - Selin Arslan: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
+15.02.2025 00:42 - Deniz Aydın: Skill içinde örnek girdi/çıktı vermek sonucu netleştiriyor.
+15.02.2025 01:09 - Can Öztürk: Paylaşılan örnek için teşekkürler, hemen deniyorum.
+15.02.2025 04:02 - Elif Şahin: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
+15.02.2025 06:16 - Can Öztürk: skill-creator ile başlamak işi baya hızlandırıyor.
+15.02.2025 07:50 - Selin Arslan: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+15.02.2025 07:57 - Selin Arslan: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+15.02.2025 08:04 - Can Öztürk: skill-creator ile başlamak işi baya hızlandırıyor.
+15.02.2025 09:22 - Zeynep Kaya: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+15.02.2025 10:23 - Zeynep Kaya: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+15.02.2025 10:36 - Mert Demir: Birden fazla skill aynı anda tetikleniyor, bu normal mi?
+15.02.2025 12:27 - Burak Çelik: Description'ı kısaltınca yanlış tetikleme azaldı.
+15.02.2025 14:41 - Deniz Aydın: skill-creator ile başlamak işi baya hızlandırıyor.
+15.02.2025 14:58 - Mert Demir: Description'ı kısaltınca yanlış tetikleme azaldı.
+15.02.2025 16:09 - Ahmet Yılmaz: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+15.02.2025 16:33 - Elif Şahin: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+15.02.2025 17:07 - Deniz Aydın: Skill yazmaya yeni başladım, SKILL.md yapısını biri açıklayabilir mi?
+15.02.2025 19:31 - Can Öztürk: Birden fazla skill aynı anda tetikleniyor, bu normal mi?
+15.02.2025 19:45 - Elif Şahin: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+15.02.2025 20:55 - Ahmet Yılmaz: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
+15.02.2025 22:17 - Burak Çelik: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+15.02.2025 23:34 - Deniz Aydın: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+16.02.2025 00:46 - Selin Arslan: Skill yazmaya yeni başladım, SKILL.md yapısını biri açıklayabilir mi?
+16.02.2025 00:58 - Ahmet Yılmaz: Skill yazmaya yeni başladım, SKILL.md yapısını biri açıklayabilir mi?
+16.02.2025 03:22 - Elif Şahin: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+16.02.2025 05:19 - Zeynep Kaya: Description'ı kısaltınca yanlış tetikleme azaldı.
+16.02.2025 07:41 - Can Öztürk: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+16.02.2025 08:39 - Elif Şahin: skill-creator ile başlamak işi baya hızlandırıyor.
+16.02.2025 11:24 - Mert Demir: Description'ı kısaltınca yanlış tetikleme azaldı.
+16.02.2025 11:40 - Mert Demir: Skill yazmaya yeni başladım, SKILL.md yapısını biri açıklayabilir mi?
+16.02.2025 12:48 - Can Öztürk: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
+16.02.2025 15:41 - Can Öztürk: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+16.02.2025 16:56 - Elif Şahin: Birden fazla skill aynı anda tetikleniyor, bu normal mi?
+16.02.2025 17:46 - Mert Demir: Birden fazla skill aynı anda tetikleniyor, bu normal mi?
+16.02.2025 18:56 - Selin Arslan: skill-creator ile başlamak işi baya hızlandırıyor.
+16.02.2025 21:19 - Selin Arslan: Skill içinde örnek girdi/çıktı vermek sonucu netleştiriyor.
+16.02.2025 21:24 - Buse Aksoy ayrıldı
+16.02.2025 22:46 - Elif Şahin: skill-creator ile başlamak işi baya hızlandırıyor.
+16.02.2025 23:35 - Ahmet Yılmaz: skill-creator ile başlamak işi baya hızlandırıyor.
+17.02.2025 01:15 - Zeynep Kaya: Paylaşılan örnek için teşekkürler, hemen deniyorum.
+17.02.2025 02:29 - Elif Şahin: Skill içinde örnek girdi/çıktı vermek sonucu netleştiriyor.
+17.02.2025 04:41 - Ahmet Yılmaz: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+17.02.2025 05:51 - Zeynep Kaya: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
+17.02.2025 07:36 - Ahmet Yılmaz: Description'ı kısaltınca yanlış tetikleme azaldı.
+17.02.2025 07:44 - Burak Çelik: Birden fazla skill aynı anda tetikleniyor, bu normal mi?
+17.02.2025 10:28 - Elif Şahin: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+17.02.2025 13:00 - Mert Demir: Bir sk's eval ile test etmek güven veriyor.
+17.02.2025 14:42 - Selin Arslan: Paylaşılan örnek için teşekkürler, hemen deniyorum.
+17.02.2025 15:23 - Burak Çelik: Bir sk's eval ile test etmek güven veriyor.
+17.02.2025 18:10 - Mert Demir: Skill yazmaya yeni başladım, SKILL.md yapısını biri açıklayabilir mi?
+17.02.2025 20:24 - Can Öztürk: Klasör yapısını nasıl kuruyorsunuz, public mi user mı?
+17.02.2025 21:02 - Ahmet Yılmaz: Bir sk's eval ile test etmek güven veriyor.
+17.02.2025 23:59 - Elif Şahin: Description alanını iyi yazmak tetiklenme doğruluğunu çok etkiliyor.
+18.02.2025 00:09 - Ahmet Yılmaz: Kendi skill'imi oluşturdum, dosya üretimini otomatikleştirdi 🎉
