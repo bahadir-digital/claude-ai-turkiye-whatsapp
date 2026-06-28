@@ -1,5 +1,5 @@
-/* Ana sayfa: grupları yükle, kartları oluştur, her grubun export'unu okuyup
-   üye/mesaj sayısını hesapla. Dosya henüz yüklenmemişse "—" gösterir. */
+/* Ana sayfa: grupları yükle, çift butonlu kartları oluştur, her grubun
+   export'unu okuyup üye/mesaj sayısını hesapla. Dosya yoksa "—" gösterir. */
 
 (function () {
   "use strict";
@@ -12,27 +12,20 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   }
+  function fmt(n) { return n.toLocaleString("tr-TR"); }
 
-  function logoMarkup(slug, emoji, cls) {
-    // Logo varsa göster; yoksa emoji'ye düş.
-    var src = "data/logos/" + slug + ".png";
-    return (
-      '<img src="' + src + '" alt="" loading="lazy" ' +
-      'onerror="this.style.display=\'none\';this.parentNode.textContent=\'' + emoji + '\'">'
-    );
+  function logoMarkup(slug, emoji) {
+    return '<img src="data/logos/' + slug + '.png" alt="" loading="lazy" ' +
+           'onerror="this.style.display=\'none\';this.parentNode.textContent=\'' + emoji + '\'">';
   }
-
   function statBlock(value, label) {
     return '<div class="stat"><b>' + value + '</b><small>' + label + "</small></div>";
   }
+  function groupUrl(slug) { return "group.html?g=" + encodeURIComponent(slug); }
 
-  // Bir grubun export dosyasını oku, sayıları döndür. Yoksa null.
   function loadStats(slug) {
     return fetch("data/chats/" + slug + ".txt", { cache: "no-cache" })
-      .then(function (r) {
-        if (!r.ok) return null;
-        return r.text();
-      })
+      .then(function (r) { return r.ok ? r.text() : null; })
       .then(function (txt) {
         if (txt == null || !txt.trim()) return null;
         var p = WAParser.parse(txt);
@@ -41,61 +34,59 @@
       .catch(function () { return null; });
   }
 
-  function fmt(n) {
-    return n.toLocaleString("tr-TR");
-  }
-
   function buildHero(g) {
-    var slot = document.getElementById("hero-slot");
-    var a = document.createElement("a");
-    a.className = "hero";
-    a.href = "group.html?g=" + encodeURIComponent(g.slug);
-    a.innerHTML =
+    var el = document.createElement("div");
+    el.className = "hero";
+    el.innerHTML =
       '<div class="hero__row">' +
         '<div class="hero__logo">' + logoMarkup(g.slug, g.emoji) + "</div>" +
         '<div class="hero__body">' +
           '<span class="hero__badge">Ana Topluluk</span>' +
-          '<h2 class="hero__name">' + esc(g.name) + "</h2>" +
+          '<div class="hero__name">' + esc(g.name) + "</div>" +
           '<p class="hero__desc">' + esc(g.description) + "</p>" +
-          '<span class="hero__cta">Konuşma geçmişini gör →</span>' +
+          '<div class="hero__actions">' +
+            '<a class="btn btn--ghost" href="' + groupUrl(g.slug) + '">Konuşma geçmişini gör</a>' +
+            '<a class="btn btn--join" href="' + esc(g.invite) + '" target="_blank" rel="noopener">' + WA_ICON + " Gruba Katıl</a>" +
+          "</div>" +
         "</div>" +
       "</div>";
-    slot.appendChild(a);
+    document.getElementById("hero-slot").appendChild(el);
   }
 
   function buildCard(g) {
-    var a = document.createElement("a");
-    a.className = "card";
-    a.href = "group.html?g=" + encodeURIComponent(g.slug);
-    a.innerHTML =
-      '<div class="card__top">' +
-        '<div class="card__logo">' + logoMarkup(g.slug, g.emoji) + "</div>" +
-        '<div class="card__name">' + esc(g.name) + "</div>" +
-      "</div>" +
-      '<p class="card__desc">' + esc(g.description) + "</p>" +
-      '<div class="card__stats" id="stats-' + g.slug + '">' +
-        statBlock("—", "üye") + statBlock("—", "mesaj") +
-      "</div>" +
-      '<div class="card__cta">' + WA_ICON + " Geçmişi gör</div>";
-    return a;
+    var el = document.createElement("div");
+    el.className = "card";
+    el.innerHTML =
+      '<a class="card__link" href="' + groupUrl(g.slug) + '">' +
+        '<div class="card__top">' +
+          '<div class="card__logo">' + logoMarkup(g.slug, g.emoji) + "</div>" +
+          '<div class="card__name">' + esc(g.name) + "</div>" +
+        "</div>" +
+        '<p class="card__desc">' + esc(g.description) + "</p>" +
+        '<div class="card__stats" id="stats-' + g.slug + '">' +
+          statBlock("—", "üye") + statBlock("—", "mesaj") +
+        "</div>" +
+      "</a>" +
+      '<div class="card__actions">' +
+        '<a class="btn btn--ghost" href="' + groupUrl(g.slug) + '">Geçmişi gör</a>' +
+        '<a class="btn btn--join" href="' + esc(g.invite) + '" target="_blank" rel="noopener">' + WA_ICON + " Gruba Katıl</a>" +
+      "</div>";
+    return el;
   }
 
   function init(cfg) {
     document.getElementById("intro-note").textContent = cfg.note || "";
-
     var main = cfg.groups.filter(function (g) { return g.main; })[0];
     var rest = cfg.groups.filter(function (g) { return !g.main; });
 
     if (main) buildHero(main);
-
     var grid = document.getElementById("grid");
     rest.forEach(function (g) { grid.appendChild(buildCard(g)); });
 
-    // Sayıları paralel yükle
     cfg.groups.forEach(function (g) {
+      if (g.main) return;
       loadStats(g.slug).then(function (s) {
         if (!s) return;
-        if (g.main) return; // ana kart hero, sayı göstermiyor
         var el = document.getElementById("stats-" + g.slug);
         if (el) el.innerHTML = statBlock(fmt(s.members), "üye") + statBlock(fmt(s.messages), "mesaj");
       });

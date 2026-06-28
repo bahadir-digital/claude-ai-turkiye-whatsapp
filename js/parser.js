@@ -1,17 +1,21 @@
 /* =========================================================================
-   WhatsApp konuşma geçmişi ayrıştırıcı (parser)
+   WhatsApp konuşma geçmişi ayrıştırıcı (parser) — v3
    -------------------------------------------------------------------------
-   - iOS ve Android, Türkçe ve İngilizce export formatlarını destekler.
-   - "katıldı / ayrıldı / ekledi / çıkardı" gibi sistem mesajlarını
-     SOHBET AKIŞINDAN TEMİZLER, ama üye sayısını hesaplamak için kullanır.
-   - Çıktı: { messages, memberCount, messageCount, contributors }
+   - iOS/Android, Türkçe/İngilizce, 24 saat ve AM/PM.
+   - "katıldı / ayrıldı / ekledi / çıkardı / oluşturdu" sistem satırlarını
+     SOHBETTEN TEMİZLER, ÜYE SAYISINI bunlardan hesaplar:
+        üye = (katılan ∪ eklenen ∪ oluşturan ∪ mesaj atan) − (ayrılan ∪ çıkarılan)
+   - NOT: JS'te \b, Türkçe ı/ş/ğ/ç harflerinden sonra çalışmaz. Bu yüzden
+     kelime sınırı için NB (Türkçe-güvenli lookahead) kullanılır.
    ========================================================================= */
 
 (function (global) {
   "use strict";
 
-  // WhatsApp export'larında satır içine serpiştirilen görünmez yön/biçim
-  // karakterleri (LRM, RLM, narrow no-break space vb.) ayrıştırmayı bozar.
+  // Türkçe-güvenli kelime sınırı (kelimeden sonra başka harf gelmesin).
+  var NB = "(?![A-Za-zÇĞİıÖŞÜçğıöşü])";
+  function rx(body, flags) { return new RegExp(body, flags || "i"); }
+
   function clean(str) {
     return str
       .replace(/[\u200e\u200f\u202a-\u202e\u2066-\u2069]/g, "")
@@ -19,227 +23,150 @@
       .replace(/\r/g, "");
   }
 
-  // Bir satırın yeni bir mesajla mı başladığını yakalar.
-  // Örnekler:
-  //   12.06.2024 14:30 - Ahmet: Merhaba           (Android)
-  //   12.06.2024, 14:30 - Ahmet: Merhaba          (Android, virgüllü)
-  //   [12.06.2024 14:30:00] Ahmet: Merhaba         (iOS)
-  //   [12.06.2024, 14:30:00] Ahmet: Merhaba        (iOS, virgüllü)
-  const LINE_START = /^\[?\s*(\d{1,2})[.\/-](\d{1,2})[.\/-](\d{2,4})[,]?\s+(\d{1,2}):(\d{2})(?::(\d{2}))?\s*(?:\]|\s)\s*[-–]?\s*/;
+  function norm(name) {
+    return (name || "")
+      .replace(/^[\s,~"'•·-]+|[\s,.:;~"'•·-]+$/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
 
-  // Türkçe + İngilizce sistem mesajı kalıpları (katılma/ayrılma/diğer).
-  // Sıralama önemli: önce kişiyi sayıma ekleyen/çıkaranları test ederiz.
-  const SYS = {
-    // Katılım (kişiyi gruba ekler)
-    joined: [
-      /^(.+?)\s+(?:gruba\s+)?(?:bu\s+gruba\s+)?(?:davet\s+bağlantısı\s+(?:aracılığıyla|kullanarak|üzerinden)\s+)?katıldı\.?$/i,
-      /^(.+?)\s+joined(?:\s+using\s+this\s+group's\s+invite\s+link)?\.?$/i
-    ],
-    // "Siz katıldınız" / "You joined"
-    selfJoined: [
-      /^Siz\s+katıldınız\.?$/i,
-      /^You\s+joined\.?$/i,
-      /^Bu\s+gruba\s+(?:davet\s+bağlantısı.*)?katıldınız\.?$/i
-    ],
-    // Grup oluşturma -> oluşturan kişi üyedir
-    created: [
-      /^(.+?)\s+(?:".+?"\s+)?grubu(?:nu)?\s+oluşturdu\.?$/i,
-      /^(.+?)\s+created\s+(?:this\s+)?group\.?$/i,
-      /^(.+?)\s+created\s+group\s+".+?"\.?$/i
-    ],
-    // Birini ekleme: "Ahmet, Mehmet'i ekledi"  /  "Ahmet, Mehmet ve Ayşe'yi ekledi"
-    added: [
-      /^(.+?),\s+(.+?)\s+ekledi\.?$/i,
-      /^(.+?)\s+added\s+(.+?)\.?$/i
-    ],
-    // Ayrılma (kişiyi gruptan çıkarır)
-    left: [
-      /^(.+?)\s+(?:gruptan\s+)?ayrıldı\.?$/i,
-      /^(.+?)\s+left\.?$/i
-    ],
-    // Çıkarılma: "Ahmet, Mehmet'i çıkardı"
-    removed: [
-      /^(.+?),\s+(.+?)\s+(?:gruptan\s+)?çıkardı\.?$/i,
-      /^(.+?)\s+removed\s+(.+?)\.?$/i
-    ],
-    // Sayımı etkilemeyen ama yine de temizlenecek diğer sistem mesajları
-    ignore: [
-      /uçtan\s+uca\s+şifreli/i,
-      /end-to-end\s+encrypted/i,
-      /güvenlik\s+kodun?u?z?\s+değişti/i,
-      /security\s+code\s+changed/i,
-      /grup\s+açıklamasını\s+değiştirdi/i,
-      /changed\s+the\s+group\s+description/i,
-      /grup\s+(?:simgesini|resmini|fotoğrafını)\s+değiştirdi/i,
-      /changed\s+this\s+group's\s+icon/i,
-      /(?:grubun\s+)?konusunu\s+.+\s+olarak\s+değiştirdi/i,
-      /changed\s+the\s+subject/i,
-      /grup\s+ayarlarını\s+değiştirdi/i,
-      /changed\s+the\s+group\s+settings/i,
-      /mesajların\s+süresi\s+dol/i,
-      /disappearing\s+messages/i,
-      /telefon\s+numarası(?:nı)?\s+değiştirdi/i,
-      /changed\s+(?:their|to)\s+(?:phone\s+)?number/i,
-      /bu\s+mesajı\s+sildiniz?/i,
-      /this\s+message\s+was\s+deleted/i,
-      /bu\s+gruba\s+eklendiniz/i,
-      /you\s+were\s+added/i,
-      /yönetici\s+(?:yapıldı|olarak)/i,
-      /(?:is\s+now\s+an?\s+)?admin/i
-    ]
-  };
+  // Satır başı: tarih + saat (+ opsiyonel AM/PM). iOS köşeli parantez de olur.
+  var LINE_START =
+    /^\[?\s*(\d{1,2})[.\/-](\d{1,2})[.\/-](\d{2,4})[,.]?\s+(\d{1,2})[:.](\d{2})(?:[:.](\d{2}))?\s*([APap])?\.?\s*([Mm])?\.?\s*\]?\s*[-–]?\s*/;
 
-  // "Mehmet'i", "Ayşe'yi", "Ali ve Veli'yi" gibi ifadelerden isimleri ayıkla.
-  function extractNames(chunk) {
+  // ---- Sistem mesajı kalıpları (satırın TAMAMINA bakılır) ----
+  var RE_JOINED   = rx("^(.*?)\\s+(?:bu\\s+)?(?:gruba\\s+)?(?:davet\\s+bağlantısı\\s+(?:aracılığıyla|kullanarak|üzerinden)\\s+)?(?:telefon\\s+numarası(?:nı)?\\s+kullanan\\s+kişi\\s+)?katıldı" + NB + ".*$");
+  var RE_JOINED_EN= rx("^(.*?)\\s+joined" + NB + ".*$");
+  var RE_SELFJOIN = rx("^(?:siz\\s+katıldınız|you\\s+joined|bu\\s+gruba\\s+(?:davet.*)?katıldınız)");
+  var RE_CREATED  = rx("^(.*?)\\s+(?:\".+?\"\\s+)?(?:grubu(?:nu)?|group)\\s+(?:oluşturdu|created)" + NB + ".*$");
+  var RE_CREATED2 = rx("^(.*?)\\s+created\\s+(?:this\\s+)?group" + NB + ".*$");
+  var RE_ADDED    = rx("^(.*?),\\s+(.+?)(?:'[^\\s]*)?\\s+(?:gruba\\s+)?ekledi" + NB + ".*$");
+  var RE_ADDED_EN = rx("^(.*?)\\s+added\\s+(.+?)\\.?$");
+  var RE_YOUADDED = rx("^(?:bu\\s+gruba\\s+eklendiniz|you\\s+were\\s+added|.*\\s+sizi\\s+ekledi)");
+  var RE_ADDED_PASSIVE = rx("^(.*?)\\s+(?:bu\\s+)?(?:gruba\\s+)?eklendi" + NB + ".*$");
+
+  var RE_LEFT     = rx("^(.*?)\\s+(?:gruptan\\s+)?ayrıldı" + NB + ".*$");
+  var RE_LEFT_EN  = rx("^(.*?)\\s+left" + NB + ".*$");
+  var RE_REMOVED  = rx("^(.*?),\\s+(.+?)(?:'[^\\s]*)?\\s+(?:gruptan\\s+)?çıkardı" + NB + ".*$");
+  var RE_REMOVED_EN = rx("^(.*?)\\s+removed\\s+(.+?)\\.?$");
+  var RE_REMOVED_PASSIVE = rx("^(.*?)\\s+(?:gruptan\\s+)?çıkarıldı" + NB + ".*$");
+
+  var RE_IGNORE = [
+    /uçtan\s+uca\s+şifreli/i, /end-to-end\s+encrypted/i,
+    /güvenlik\s+kodun?u?z?\s+değişti/i, /security\s+code\s+changed/i,
+    /grup\s+açıklamasını\s+(?:değiştirdi|güncelledi)/i, /changed\s+the\s+group\s+description/i,
+    /grup\s+(?:simgesini|resmini|fotoğrafını)\s+(?:değiştirdi|sildi)/i, /changed\s+this\s+group'?s?\s+icon/i,
+    /(?:grubun\s+)?konusunu\s+.*\s+olarak\s+değiştirdi/i, /grup\s+adını\s+.*\s+değiştirdi/i, /changed\s+the\s+subject/i,
+    /grup\s+ayarlarını\s+değiştirdi/i, /changed\s+the\s+group\s+settings/i,
+    /sadece\s+yöneticiler/i, /yalnızca\s+yöneticiler/i,
+    /mesajların\s+süresi\s+dol/i, /disappearing\s+messages/i, /kaybolan\s+mesaj/i,
+    /telefon\s+numarası(?:nı)?\s+değiştirdi/i, /changed\s+(?:their|to)\s+(?:a\s+new\s+)?(?:phone\s+)?number/i,
+    /bu\s+mesajı?\s+sildi/i, /this\s+message\s+was\s+deleted/i, /you\s+deleted\s+this\s+message/i,
+    /(?:bir\s+mesaj|mesaj)\s+sabitledi/i, /pinned\s+a\s+message/i,
+    /(?:artık\s+)?yönetici\s+(?:yapıldı|oldu|değil)/i, /(?:is\s+now\s+an?|no\s+longer)\s+admin/i,
+    /davet\s+bağlantısını\s+sıfırladı/i, /reset\s+(?:this\s+group'?s?\s+)?invite\s+link/i,
+    /güvenlik\s+numaranız/i
+  ];
+
+  function names(chunk) {
     if (!chunk) return [];
     return chunk
       .split(/,|\s+ve\s+|\s+and\s+/i)
-      .map(function (n) {
-        return n
-          .replace(/['’][^\s]*$/u, "") // sondaki ekleri at: Mehmet'i -> Mehmet
-          .replace(/[.]+$/, "")
-          .trim();
-      })
+      .map(function (n) { return norm(n.replace(/['’][^\s]*$/u, "")); })
       .filter(Boolean);
   }
 
-  function tryMatch(patterns, text) {
-    for (var i = 0; i < patterns.length; i++) {
-      var m = text.match(patterns[i]);
-      if (m) return m;
-    }
-    return null;
-  }
-
-  // Bir sistem mesajını sınıflandır. Sohbette gösterilmeyecekse true döner
-  // ve "present" / "left" setlerini günceller.
   function handleSystem(text, present, removed) {
     var m;
-
-    if ((m = tryMatch(SYS.selfJoined, text))) {
-      present.add("Siz");
-      return true;
+    if (RE_SELFJOIN.test(text)) { present.add("Siz"); return true; }
+    if (RE_YOUADDED.test(text)) { present.add("Siz"); return true; }
+    if ((m = text.match(RE_CREATED)) || (m = text.match(RE_CREATED2))) {
+      var c = norm(m[1]); if (c) { present.add(c); removed.delete(c); } return true;
     }
-    if ((m = tryMatch(SYS.created, text))) {
-      present.add(m[1].trim());
-      return true;
+    if ((m = text.match(RE_ADDED)) || (m = text.match(RE_ADDED_EN))) {
+      names(m[2]).forEach(function (n) { present.add(n); removed.delete(n); }); return true;
     }
-    if ((m = tryMatch(SYS.added, text))) {
-      extractNames(m[2]).forEach(function (n) { present.add(n); removed.delete(n); });
-      return true;
+    if ((m = text.match(RE_REMOVED)) || (m = text.match(RE_REMOVED_EN))) {
+      names(m[2]).forEach(function (n) { removed.add(n); present.delete(n); }); return true;
     }
-    if ((m = tryMatch(SYS.joined, text))) {
-      present.add(m[1].trim());
-      removed.delete(m[1].trim());
-      return true;
+    if ((m = text.match(RE_JOINED)) || (m = text.match(RE_JOINED_EN))) {
+      var j = norm(m[1]); if (j) { present.add(j); removed.delete(j); } return true;
     }
-    if ((m = tryMatch(SYS.removed, text))) {
-      extractNames(m[2]).forEach(function (n) { removed.add(n); present.delete(n); });
-      return true;
+    if ((m = text.match(RE_ADDED_PASSIVE))) {
+      var a = norm(m[1]); if (a) { present.add(a); removed.delete(a); } return true;
     }
-    if ((m = tryMatch(SYS.left, text))) {
-      var name = m[1].trim();
-      removed.add(name);
-      present.delete(name);
-      return true;
+    if ((m = text.match(RE_LEFT)) || (m = text.match(RE_LEFT_EN))) {
+      var l = norm(m[1]); if (l) { removed.add(l); present.delete(l); } return true;
     }
-    if (tryMatch(SYS.ignore, text)) {
-      return true; // temizle ama sayımı etkileme
+    if ((m = text.match(RE_REMOVED_PASSIVE))) {
+      var r = norm(m[1]); if (r) { removed.add(r); present.delete(r); } return true;
     }
+    for (var i = 0; i < RE_IGNORE.length; i++) if (RE_IGNORE[i].test(text)) return true;
     return false;
   }
 
   function parse(raw) {
-    var text = clean(raw || "");
-    var rawLines = text.split("\n");
+    var lines = clean(raw || "").split("\n");
+    var entries = [];
+    var cur = null;
 
-    var entries = []; // ham giriş: { date, time, body }
-    var current = null;
-
-    for (var i = 0; i < rawLines.length; i++) {
-      var line = rawLines[i];
-      var m = line.match(LINE_START);
+    for (var i = 0; i < lines.length; i++) {
+      var m = lines[i].match(LINE_START);
       if (m) {
-        if (current) entries.push(current);
+        if (cur) entries.push(cur);
         var yyyy = m[3].length === 2 ? "20" + m[3] : m[3];
-        current = {
-          d: parseInt(m[1], 10),
-          mo: parseInt(m[2], 10),
-          y: parseInt(yyyy, 10),
-          hh: parseInt(m[4], 10),
-          mi: parseInt(m[5], 10),
-          body: line.slice(m[0].length)
+        var hh = parseInt(m[4], 10);
+        var ap = (m[7] || "").toUpperCase();
+        if (ap === "P" && hh < 12) hh += 12;
+        if (ap === "A" && hh === 12) hh = 0;
+        cur = {
+          d: parseInt(m[1], 10), mo: parseInt(m[2], 10), y: parseInt(yyyy, 10),
+          hh: hh, mi: parseInt(m[5], 10),
+          body: lines[i].slice(m[0].length)
         };
-      } else if (current) {
-        current.body += "\n" + line; // çok satırlı mesajın devamı
+      } else if (cur) {
+        cur.body += "\n" + lines[i];
       }
-      // current yoksa (dosya başındaki başlıklar vb.) satırı yok say
     }
-    if (current) entries.push(current);
+    if (cur) entries.push(cur);
 
-    var present = new Set(); // gruptaki kişiler
-    var removed = new Set(); // ayrılan/çıkarılan kişiler
+    var present = new Set();
+    var removed = new Set();
     var messages = [];
-    var counts = {}; // gönderen -> mesaj sayısı
+    var counts = {};
 
     for (var j = 0; j < entries.length; j++) {
-      var e = entries[j];
-      var body = e.body;
+      var e = entries[j], body = e.body, t = body.trim();
 
-      // "Gönderen: mesaj" ayrımı. İlk ": " bölmesini dene.
+      if (handleSystem(t, present, removed)) continue; // sistem satırı: gizle, say
+
       var sep = body.indexOf(": ");
-      var sender = null, content = null;
-      if (sep > -1 && sep < 80 && body.slice(0, sep).indexOf("\n") === -1) {
-        sender = body.slice(0, sep).trim();
-        content = body.slice(sep + 2);
-      }
+      if (sep < 0 || sep > 60 || body.slice(0, sep).indexOf("\n") !== -1) continue;
+      var sender = norm(body.slice(0, sep));
+      if (!sender) continue;
+      var content = body.slice(sep + 2).trim();
 
-      if (sender === null) {
-        // Gönderen ayrımı yok -> büyük olasılıkla sistem mesajı
-        handleSystem(body.trim(), present, removed);
-        continue;
-      }
-
-      // Gönderen ayrımı olsa da bazı sistem mesajları ": " içerebilir
-      // (örn. "... açıklamasını değiştirdi: ..."). Yine de eleyelim.
-      if (handleSystem(body.trim(), present, removed)) continue;
-
-      // Gerçek kullanıcı mesajı
       present.add(sender);
       removed.delete(sender);
       counts[sender] = (counts[sender] || 0) + 1;
 
-      var msgText = content.trim();
       var isMedia =
-        /<\s*medya\s+dahil\s+edilmedi\s*>/i.test(msgText) ||
-        /<\s*media\s+omitted\s*>/i.test(msgText) ||
-        /görsel\s+dahil\s+edilmedi|video\s+dahil\s+edilmedi|ses\s+dahil\s+edilmedi|belge\s+dahil\s+edilmedi/i.test(msgText) ||
-        /image\s+omitted|video\s+omitted|audio\s+omitted|document\s+omitted|sticker\s+omitted|gif\s+omitted/i.test(msgText);
+        /<\s*medya\s+dahil\s+edilmedi\s*>/i.test(content) ||
+        /<\s*media\s+omitted\s*>/i.test(content) ||
+        /(görsel|video|ses|belge|çıkartma|gif|sticker)\s+dahil\s+edilmedi/i.test(content) ||
+        /(image|video|audio|document|sticker|gif)\s+omitted/i.test(content);
 
-      messages.push({
-        sender: sender,
-        text: msgText,
-        media: isMedia,
-        y: e.y, mo: e.mo, d: e.d, hh: e.hh, mi: e.mi
-      });
+      messages.push({ sender: sender, text: content, media: isMedia,
+                      y: e.y, mo: e.mo, d: e.d, hh: e.hh, mi: e.mi });
     }
 
-    // Üye sayısı: sayıma giren kişiler eksi ayrılanlar.
-    // (Mesaj gönderen herkes zaten "present" içinde.)
-    var memberCount = present.size;
-
-    // Top contributor listesi
     var contributors = Object.keys(counts)
-      .map(function (name) { return { name: name, count: counts[name] }; })
+      .map(function (n) { return { name: n, count: counts[n] }; })
       .sort(function (a, b) { return b.count - a.count; });
 
-    return {
-      messages: messages,
-      memberCount: memberCount,
-      messageCount: messages.length,
-      contributors: contributors
-    };
+    return { messages: messages, memberCount: present.size,
+             messageCount: messages.length, contributors: contributors };
   }
 
-  global.WAParser = { parse: parse, clean: clean };
+  global.WAParser = { parse: parse, clean: clean, norm: norm };
 })(window);
