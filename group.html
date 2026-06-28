@@ -10,18 +10,8 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div class="wrap">
-      <div class="topbar__logo">🇹🇷</div>
-      <div>
-        <div class="topbar__title">Claude.ai Türkiye</div>
-        <div class="topbar__sub">Topluluk Arşivi</div>
-      </div>
-      <a class="topbar__back" href="index.html">← Tüm gruplar</a>
-    </div>
-  </header>
-
   <main class="wrap">
+    <a class="backlink" href="index.html">← Tüm gruplar</a>
     <div class="gp">
       <!-- Sohbet paneli -->
       <section class="chatcard">
@@ -51,8 +41,8 @@
         <div class="panel">
           <h3>Grup</h3>
           <div class="side-stats">
-            <div class="stat"><b id="s-members">—</b><small>üye</small></div>
-            <div class="stat"><b id="s-messages">—</b><small>mesaj</small></div>
+            <div class="stat"><div class="stat__top"><b id="s-members">—</b><small>üye</small></div></div>
+            <div class="stat"><div class="stat__top"><b id="s-messages">—</b><small>mesaj</small></div></div>
           </div>
           <p class="card__desc" id="s-desc" style="margin-top:14px;"></p>
         </div>
@@ -69,6 +59,12 @@
       </aside>
     </div>
   </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      Daha fazla kaynak: <a href="https://bahadir.digital/" target="_blank" rel="noopener">bahadir.digital</a>
+    </div>
+  </footer>
 
   <script src="js/parser.js"></script>
   <script src="js/logo.js"></script>
