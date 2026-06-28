@@ -174,11 +174,7 @@
     $("join").href = g.invite;
 
     var logo = $("ch-logo");
-    var img = new Image();
-    img.onload = function () { logo.innerHTML = ""; logo.appendChild(img); };
-    img.onerror = function () { logo.textContent = g.emoji || "💬"; };
-    img.alt = "";
-    img.src = "data/logos/" + g.slug + ".png";
+    loadLogo(logo, g.slug, g.emoji);
 
     if (stats) {
       $("ch-meta").textContent = fmt(stats.memberCount) + " üye · " + fmt(stats.messageCount) + " mesaj";
@@ -193,6 +189,17 @@
     $("chat").innerHTML = '<div class="chat-error"><b>' + esc(msg) + "</b></div>";
   }
 
+  // Kuralları göster: gruba özel kural varsa onu, yoksa topluluk kurallarını.
+  function renderRules(communityRules, groupRules) {
+    var rules = (groupRules && groupRules.length) ? groupRules : communityRules;
+    var panel = $("rules-panel");
+    if (!panel) return;
+    if (!rules || !rules.length) { panel.style.display = "none"; return; }
+    $("rules-list").innerHTML = rules.map(function (r) {
+      return "<li>" + esc(r) + "</li>";
+    }).join("");
+  }
+
   // --- Başlat ---
   var slug = param("g");
   if (!slug) { location.href = "index.html"; return; }
@@ -204,6 +211,7 @@
       if (!g) { showError("Grup bulunamadı."); return; }
       state.group = g;
       setHeader(g, null);
+      renderRules(cfg.rules, g.rules);
 
       return fetch("data/chats/" + slug + ".txt", { cache: "no-cache" }).then(function (r) {
         if (!r.ok) { setHeader(g, null); renderInitial(); return; }

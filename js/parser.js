@@ -51,7 +51,19 @@
   var RE_REMOVED_EN = rx("^(.*?)\\s+removed\\s+(.+?)\\.?$");
   var RE_REMOVED_PASSIVE = rx("^(.*?)\\s+(?:gruptan\\s+)?çıkarıldı" + NB + ".*$");
 
+  // "Ahmet kişisini çıkardınız" (siz/admin çıkardı) -> çıkarılan = isim
+  var RE_REMOVED_YOU = rx("^(.*?)\\s+kişisini\\s+(?:gruptan\\s+)?çıkardın(?:ız)?" + NB + ".*$");
+  // "Ahmet kişisini eklediniz" (siz/admin ekledi) -> eklenen = isim
+  var RE_ADDED_YOU = rx("^(.*?)\\s+kişisini\\s+(?:gruba\\s+)?ekledin(?:iz)?" + NB + ".*$");
+
   var RE_IGNORE = [
+    // Katılma isteği GÖNDEREN kişi henüz ÜYE DEĞİLDİR; gizle ve sayma.
+    /katılma\s+isteği\s+gönderdi/i, /requested\s+to\s+join/i,
+    /katılma\s+isteğini?\s+(?:onayladı|reddetti|geri\s+çek|iptal)/i,
+    /approved\s+(?:the\s+)?(?:join\s+)?request/i, /rejected\s+(?:the\s+)?(?:join\s+)?request/i,
+    // Yönetici onayı / grup ayarları
+    /katılmak\s+için\s+yönetici\s+onay/i, /yönetici\s+onayın?ı?\s+(?:etkinleştir|devre\s+dışı|kapat|aç)/i,
+    /admin\s+approval/i,
     /uçtan\s+uca\s+şifreli/i, /end-to-end\s+encrypted/i,
     /güvenlik\s+kodun?u?z?\s+değişti/i, /security\s+code\s+changed/i,
     /grup\s+açıklamasını\s+(?:değiştirdi|güncelledi)/i, /changed\s+the\s+group\s+description/i,
@@ -88,6 +100,12 @@
     }
     if ((m = text.match(RE_REMOVED)) || (m = text.match(RE_REMOVED_EN))) {
       names(m[2]).forEach(function (n) { removed.add(n); present.delete(n); }); return true;
+    }
+    if ((m = text.match(RE_REMOVED_YOU))) {
+      var ry = norm(m[1]); if (ry) { removed.add(ry); present.delete(ry); } return true;
+    }
+    if ((m = text.match(RE_ADDED_YOU))) {
+      var ay = norm(m[1]); if (ay) { present.add(ay); removed.delete(ay); } return true;
     }
     if ((m = text.match(RE_JOINED)) || (m = text.match(RE_JOINED_EN))) {
       var j = norm(m[1]); if (j) { present.add(j); removed.delete(j); } return true;

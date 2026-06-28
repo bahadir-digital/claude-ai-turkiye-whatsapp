@@ -1,5 +1,5 @@
-/* Ana sayfa: grupları yükle, çift butonlu kartları oluştur, her grubun
-   export'unu okuyup üye/mesaj sayısını hesapla. Dosya yoksa "—" gösterir. */
+/* Ana sayfa: grupları yükle, çift butonlu kartları oluştur, kuralları göster,
+   her grubun export'unu okuyup üye/mesaj sayısını hesapla. */
 
 (function () {
   "use strict";
@@ -13,14 +13,7 @@
     });
   }
   function fmt(n) { return n.toLocaleString("tr-TR"); }
-
-  function logoMarkup(slug, emoji) {
-    return '<img src="data/logos/' + slug + '.png" alt="" loading="lazy" ' +
-           'onerror="this.style.display=\'none\';this.parentNode.textContent=\'' + emoji + '\'">';
-  }
-  function statBlock(value, label) {
-    return '<div class="stat"><b>' + value + '</b><small>' + label + "</small></div>";
-  }
+  function statBlock(v, l) { return '<div class="stat"><b>' + v + '</b><small>' + l + "</small></div>"; }
   function groupUrl(slug) { return "group.html?g=" + encodeURIComponent(slug); }
 
   function loadStats(slug) {
@@ -39,7 +32,7 @@
     el.className = "hero";
     el.innerHTML =
       '<div class="hero__row">' +
-        '<div class="hero__logo">' + logoMarkup(g.slug, g.emoji) + "</div>" +
+        '<div class="hero__logo"></div>' +
         '<div class="hero__body">' +
           '<span class="hero__badge">Ana Topluluk</span>' +
           '<div class="hero__name">' + esc(g.name) + "</div>" +
@@ -51,6 +44,7 @@
         "</div>" +
       "</div>";
     document.getElementById("hero-slot").appendChild(el);
+    loadLogo(el.querySelector(".hero__logo"), g.slug, g.emoji);
   }
 
   function buildCard(g) {
@@ -59,7 +53,7 @@
     el.innerHTML =
       '<a class="card__link" href="' + groupUrl(g.slug) + '">' +
         '<div class="card__top">' +
-          '<div class="card__logo">' + logoMarkup(g.slug, g.emoji) + "</div>" +
+          '<div class="card__logo"></div>' +
           '<div class="card__name">' + esc(g.name) + "</div>" +
         "</div>" +
         '<p class="card__desc">' + esc(g.description) + "</p>" +
@@ -71,11 +65,23 @@
         '<a class="btn btn--ghost" href="' + groupUrl(g.slug) + '">Geçmişi gör</a>' +
         '<a class="btn btn--join" href="' + esc(g.invite) + '" target="_blank" rel="noopener">' + WA_ICON + " Gruba Katıl</a>" +
       "</div>";
+    loadLogo(el.querySelector(".card__logo"), g.slug, g.emoji);
     return el;
+  }
+
+  function buildRules(rules) {
+    if (!rules || !rules.length) return;
+    var d = document.getElementById("rules-slot");
+    d.innerHTML =
+      "<details class='rules'><summary>Topluluk Kuralları</summary><ol>" +
+      rules.map(function (r) { return "<li>" + esc(r) + "</li>"; }).join("") +
+      "</ol></details>";
   }
 
   function init(cfg) {
     document.getElementById("intro-note").textContent = cfg.note || "";
+    buildRules(cfg.rules);
+
     var main = cfg.groups.filter(function (g) { return g.main; })[0];
     var rest = cfg.groups.filter(function (g) { return !g.main; });
 
