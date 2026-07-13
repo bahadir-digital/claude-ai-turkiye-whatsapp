@@ -81,7 +81,7 @@
 [3.03.2026 16:28:23] ‪+90 553 676 58 81‬: ‎‪+90 553 676 58 81‬ topluluk üzerinden katıldı
 [3.03.2026 17:17:12] ‪+90 534 832 10 02‬: ‎‪+90 534 832 10 02‬ ayrıldı
 [3.03.2026 17:27:02] ‪+90 551 215 02 16‬: ‎‪+90 551 215 02 16‬ topluluk üzerinden katıldı
-[3.03.2026 18:45:23] ~ Gözde: ‎~ Gözde topluluk üzerinden katıldı
+[3.03.2026 18:45:23] ~ Gözde Yavuz Doğan: ‎~ Gözde Yavuz Doğan topluluk üzerinden katıldı
 [3.03.2026 20:28:48] ~ Ömer Urhan: ‎~ Ömer Urhan topluluk üzerinden katıldı
 [3.03.2026 20:45:56] ~ İlker: ‎~ İlker topluluk üzerinden katıldı
 [3.03.2026 21:29:30] Dilara Kahraman: ‎Dilara Kahraman topluluk üzerinden katıldı
@@ -159,7 +159,7 @@ Ersan
 [14.03.2026 23:16:49] Kızım 🌸: ‎Kızım 🌸 topluluk üzerinden katıldı
 [15.03.2026 13:20:35] ‪+90 534 511 41 53‬: ‎‪+90 534 511 41 53‬ ayrıldı
 [17.03.2026 01:27:43] Burak Eltas: ‎Burak Eltas topluluk üzerinden katıldı
-[18.03.2026 10:14:24] ‪+90 541 263 14 33‬: ‎‪+90 541 263 14 33‬ topluluk üzerinden katıldı
+[18.03.2026 10:14:24] ~ Sahin: ‎~ Sahin topluluk üzerinden katıldı
 [18.03.2026 13:31:30] ‪+90 530 647 60 44‬: ‎‪+90 530 647 60 44‬ topluluk üzerinden katıldı
 [19.03.2026 06:21:20] ~ Kubra Kabaoğlu: ‎~ Kubra Kabaoğlu topluluk üzerinden katıldı
 [19.03.2026 10:49:15] Timur Nihat Vreskala: ‎Timur Nihat Vreskala topluluk üzerinden katıldı
@@ -210,7 +210,7 @@ https://t.me/puzzle2048_stars_bot
 [22.03.2026 21:35:58] ~ RBNGAME: ‎~ RBNGAME topluluk üzerinden katıldı
 [22.03.2026 21:58:37] ~ Sabina A: ‎~ Sabina A topluluk üzerinden katıldı
 [22.03.2026 23:58:14] ~ Cellman: ‎~ Cellman topluluk üzerinden katıldı
-[23.03.2026 09:01:47] ‪+90 505 731 39 40‬: ‎‪+90 505 731 39 40‬ topluluk üzerinden katıldı
+[23.03.2026 09:01:47] ~ Sinan: ‎~ Sinan topluluk üzerinden katıldı
 [24.03.2026 00:32:47] ~ Umutcan Duman: ‎~ Umutcan Duman topluluk üzerinden katıldı
 [24.03.2026 12:32:32] ~ Eren Kumcuoglu: ‎~ Eren Kumcuoglu topluluk üzerinden katıldı
 [24.03.2026 22:45:36] ‪+90 555 643 65 09‬: ‎‪+90 555 643 65 09‬ topluluk üzerinden katıldı
@@ -242,7 +242,7 @@ https://t.me/puzzle2048_stars_bot
 [17.04.2026 11:05:38] Murat Arslan: ‎Murat Arslan topluluk üzerinden katıldı
 [17.04.2026 11:05:54] ~ Maysaa: ‎~ Maysaa topluluk üzerinden katıldı
 [18.04.2026 01:31:51] ‪+90 554 967 88 92‬: ‎‪+90 554 967 88 92‬ topluluk üzerinden katıldı
-[19.04.2026 15:29:37] ‪+90 533 693 12 03‬: ‎‪+90 533 693 12 03‬ topluluk üzerinden katıldı
+[19.04.2026 15:29:37] ~ Hakan Demirci: ‎~ Hakan Demirci topluluk üzerinden katıldı
 [19.04.2026 15:52:27] ~ ERKAN: ‎~ ERKAN topluluk üzerinden katıldı
 [19.04.2026 15:56:14] Serkan Gül: ‎Serkan Gül topluluk üzerinden katıldı
 [19.04.2026 18:43:00] ~ Hakan Köksal: ‎~ Hakan Köksal topluluk üzerinden katıldı
@@ -260,7 +260,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [30.04.2026 00:27:49] ~ eko: ‎~ eko topluluk üzerinden katıldı
 [30.04.2026 10:07:32] ~ Akay: ‎~ Akay topluluk üzerinden katıldı
 [30.04.2026 15:15:10] Murat Kamil Öztürk: ‎Murat Kamil Öztürk topluluk üzerinden katıldı
-[1.05.2026 22:40:15] ‪+90 543 820 11 86‬: ‎‪+90 543 820 11 86‬ topluluk üzerinden katıldı
+[1.05.2026 22:40:15] ~ Ata Ağaç: ‎~ Ata Ağaç topluluk üzerinden katıldı
 [2.05.2026 09:59:13] ~ Cemali: ‎~ Cemali topluluk üzerinden katıldı
 [3.05.2026 09:25:44] ~ Ünal: ‎~ Ünal topluluk üzerinden katıldı
 [5.05.2026 22:05:02] Can Karapire: ‎Can Karapire topluluk üzerinden katıldı
@@ -275,13 +275,13 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [24.05.2026 22:34:31] ‪+90 545 675 15 48‬: ‎‪+90 545 675 15 48‬ topluluk üzerinden katıldı
 [25.05.2026 00:58:29] ~ Okan Demirel: ‎~ Okan Demirel topluluk üzerinden katıldı
 [25.05.2026 10:14:32] ~ Nejdet ÖKTEM Öğretmen: ‎~ Nejdet ÖKTEM Öğretmen topluluk üzerinden katıldı
-[25.05.2026 19:23:17] ‪+90 530 348 90 75‬: ‎‪+90 530 348 90 75‬ topluluk üzerinden katıldı
+[25.05.2026 19:23:17] ~ Hekimoğlu: ‎~ Hekimoğlu topluluk üzerinden katıldı
 [25.05.2026 21:12:54] ~ Mehmet Ergül: ‎~ Mehmet Ergül ayrıldı
 [27.05.2026 21:42:28] ~ Kerem: ‎~ Kerem topluluk üzerinden katıldı
 [29.05.2026 10:02:57] ~ Emel Toprak: ‎~ Emel Toprak bir grup bağlantısıyla katıldı
 [31.05.2026 01:37:37] ~ Mehmet: ‎~ Mehmet topluluk üzerinden katıldı
 [31.05.2026 16:31:52] ~ Hasan KILINÇ: ‎~ Hasan KILINÇ topluluk üzerinden katıldı
-[1.06.2026 14:10:09] ‪+90 543 285 61 16‬: ‎‪+90 543 285 61 16‬ topluluk üzerinden katıldı
+[1.06.2026 14:10:09] ~ Ufuk: ‎~ Ufuk topluluk üzerinden katıldı
 [2.06.2026 08:40:52] ~ Onur: ‎~ Onur topluluk üzerinden katıldı
 [6.06.2026 20:25:55] Ceyhun Güler/Tecmony: ‎Ceyhun Güler/Tecmony topluluk üzerinden katıldı
 [6.06.2026 21:11:23] ~ Demet Yel: ‎~ Demet Yel ayrıldı
@@ -292,13 +292,13 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [7.06.2026 09:46:15] ~ İbrahim Aktaş: ‎~ İbrahim Aktaş topluluk üzerinden katıldı
 [7.06.2026 09:51:49] ‪+90 507 022 28 20‬: ‎‪+90 507 022 28 20‬ topluluk üzerinden katıldı
 [7.06.2026 10:03:50] ‪+90 555 515 68 23‬: ‎‪+90 555 515 68 23‬ topluluk üzerinden katıldı
-[7.06.2026 10:04:10] ‪+90 532 732 31 74‬: ‎‪+90 532 732 31 74‬ topluluk üzerinden katıldı
+[7.06.2026 10:04:10] ~ Salih Yıldız: ‎~ Salih Yıldız topluluk üzerinden katıldı
 [7.06.2026 10:11:21] ~ Murat: ‎~ Murat topluluk üzerinden katıldı
 [7.06.2026 10:19:48] ~ Erol: ‎~ Erol topluluk üzerinden katıldı
 [7.06.2026 10:48:45] ~ İbrahim: ‎~ İbrahim topluluk üzerinden katıldı
 [7.06.2026 10:59:49] ~ Erdem: ‎~ Erdem topluluk üzerinden katıldı
 [7.06.2026 11:14:51] ‪+90 554 202 34 17‬: ‎‪+90 554 202 34 17‬ topluluk üzerinden katıldı
-[7.06.2026 11:24:12] ~ kedimühendisi: ‎~ kedimühendisi bir grup bağlantısıyla katıldı
+[7.06.2026 11:24:12] ~ kedimuhendisi: ‎~ kedimuhendisi bir grup bağlantısıyla katıldı
 [7.06.2026 11:24:15] ~ 🌲: ‎~ 🌲 bir grup bağlantısıyla katıldı
 [7.06.2026 11:28:26] ‪+90 553 676 58 81‬: ‎‪+90 553 676 58 81‬ bir grup bağlantısıyla katıldı
 [7.06.2026 11:40:19] ~ Miralem Doğan Aktas: ‎~ Miralem Doğan Aktas topluluk üzerinden katıldı
@@ -308,11 +308,11 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [7.06.2026 12:26:18] ‪+90 539 631 23 37‬: ‎‪+90 539 631 23 37‬ topluluk üzerinden katıldı
 [7.06.2026 12:47:17] ~ Ege Çağatay TÜRKER: ‎~ Ege Çağatay TÜRKER topluluk üzerinden katıldı
 [7.06.2026 12:50:21] ‪+90 532 559 04 32‬: ‎‪+90 532 559 04 32‬ topluluk üzerinden katıldı
-[7.06.2026 12:53:00] Elif Hanım AlphaHR: ‎Elif Hanım AlphaHR topluluk üzerinden katıldı
+[7.06.2026 12:53:00] Esra Gedik: ‎Esra Gedik topluluk üzerinden katıldı
 [7.06.2026 13:26:00] ~ Azer: ‎~ Azer topluluk üzerinden katıldı
 [7.06.2026 13:29:50] ‪+90 501 152 00 17‬: ‎‪+90 501 152 00 17‬ topluluk üzerinden katıldı
 [7.06.2026 13:34:30] ‪+90 543 934 62 84‬: ‎‪+90 543 934 62 84‬ topluluk üzerinden katıldı
-[7.06.2026 14:00:30] ‪+90 532 555 11 64‬: ‎‪+90 532 555 11 64‬ bir grup bağlantısıyla katıldı
+[7.06.2026 14:00:30] ~ Hilâl: ‎~ Hilâl bir grup bağlantısıyla katıldı
 [7.06.2026 14:08:42] ~ Metin B: ‎~ Metin B ayrıldı
 [7.06.2026 14:11:54] ‪+90 530 062 02 16‬: ‎‪+90 530 062 02 16‬ topluluk üzerinden katıldı
 [7.06.2026 14:34:55] ~ Serkan: ‎~ Serkan topluluk üzerinden katıldı
@@ -324,13 +324,13 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [7.06.2026 17:16:27] ‪+90 532 163 87 58‬: ‎‪+90 532 163 87 58‬ topluluk üzerinden katıldı
 [7.06.2026 17:23:13] ‪+90 536 337 92 25‬: ‎‪+90 536 337 92 25‬ topluluk üzerinden katıldı
 [7.06.2026 18:36:59] ‪+90 530 607 05 90‬: ‎‪+90 530 607 05 90‬ topluluk üzerinden katıldı
-[7.06.2026 18:58:04] ‪+90 544 388 31 32‬: ‎‪+90 544 388 31 32‬ topluluk üzerinden katıldı
+[7.06.2026 18:58:04] ~ Sedat Can: ‎~ Sedat Can topluluk üzerinden katıldı
 [7.06.2026 19:23:01] ~ Kivanc SOLAK: ‎~ Kivanc SOLAK topluluk üzerinden katıldı
 [7.06.2026 19:24:06] ~ 𝓐𝑠𝑎𝑤𝑒𝑟 🕊️: ‎~ 𝓐𝑠𝑎𝑤𝑒𝑟 🕊️ topluluk üzerinden katıldı
 [7.06.2026 19:32:02] ~ Pınar: ‎~ Pınar topluluk üzerinden katıldı
 [7.06.2026 20:08:54] ~ Ersin S.: ‎~ Ersin S. topluluk üzerinden katıldı
 [7.06.2026 21:32:11] ~ Deniz: ‎~ Deniz topluluk üzerinden katıldı
-[7.06.2026 21:51:31] ‪+90 505 900 06 78‬: ‎‪+90 505 900 06 78‬ topluluk üzerinden katıldı
+[7.06.2026 21:51:31] ~ Mustafa Alkan: ‎~ Mustafa Alkan topluluk üzerinden katıldı
 [7.06.2026 22:06:21] ‪+1 (437) 766‑8983‬: ‎‪+1 (437) 766‑8983‬ topluluk üzerinden katıldı
 [7.06.2026 22:43:41] ~ Yusuf: ‎~ Yusuf topluluk üzerinden katıldı
 [7.06.2026 23:02:36] ~ Can Karaduman: ‎~ Can Karaduman topluluk üzerinden katıldı
@@ -344,7 +344,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [8.06.2026 09:55:48] ~ Alper: ‎~ Alper topluluk üzerinden katıldı
 [8.06.2026 09:55:48] Claude Projects 🚀📊: ‎Bu grupta 256 üzerinde üye olduğundan bundan böyle grup ayarlarını yalnızca yöneticiler düzenleyebilir
 [8.06.2026 10:03:15] Ethem Yigit: ‎Ethem Yigit topluluk üzerinden katıldı
-[8.06.2026 10:03:27] ‪+90 554 853 06 87‬: ‎‪+90 554 853 06 87‬ topluluk üzerinden katıldı
+[8.06.2026 10:03:27] ~ Selen: ‎~ Selen topluluk üzerinden katıldı
 [8.06.2026 10:03:46] ~ Kaan: ‎~ Kaan topluluk üzerinden katıldı
 [8.06.2026 10:09:35] ~ Rauf Emir: ‎~ Rauf Emir topluluk üzerinden katıldı
 [8.06.2026 10:19:02] ~ Alp Dilgen: ‎~ Alp Dilgen topluluk üzerinden katıldı
@@ -356,15 +356,15 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [8.06.2026 11:06:17] ~ Cto: ‎~ Cto topluluk üzerinden katıldı
 [8.06.2026 11:15:59] ‪+90 506 586 46 18‬: ‎‪+90 506 586 46 18‬ topluluk üzerinden katıldı
 [8.06.2026 12:38:27] ‪+90 542 288 68 04‬: ‎‪+90 542 288 68 04‬ bir grup bağlantısıyla katıldı
-[8.06.2026 12:47:07] ‪+90 532 210 09 58‬: ‎‪+90 532 210 09 58‬ topluluk üzerinden katıldı
+[8.06.2026 12:47:07] ~ .: ‎~ . topluluk üzerinden katıldı
 [8.06.2026 12:47:15] ~ Erdoğan: ‎~ Erdoğan topluluk üzerinden katıldı
 [8.06.2026 13:04:13] ~ Ufuk Koç: ‎~ Ufuk Koç topluluk üzerinden katıldı
 [8.06.2026 13:04:29] ‪+90 541 560 49 76‬: ‎‪+90 541 560 49 76‬ topluluk üzerinden katıldı
 [8.06.2026 14:18:08] ~ AOY: ‎~ AOY topluluk üzerinden katıldı
 [8.06.2026 15:23:16] ~ İlhan Atar: ‎~ İlhan Atar topluluk üzerinden katıldı
 [8.06.2026 15:35:36] ‪+7 985 772‑51‑63‬: ‎‪+7 985 772‑51‑63‬ ayrıldı
-[8.06.2026 16:15:14] ~ Mustafa: ‎~ Mustafa topluluk üzerinden katıldı
-[8.06.2026 21:23:33] ‪+90 554 678 99 59‬: ‎‪+90 554 678 99 59‬ topluluk üzerinden katıldı
+[8.06.2026 16:15:14] ~ Mustafa ✌️🐑👂: ‎~ Mustafa ✌️🐑👂 topluluk üzerinden katıldı
+[8.06.2026 21:23:33] ~ Kaan Nalbant: ‎~ Kaan Nalbant topluluk üzerinden katıldı
 [8.06.2026 22:21:19] ~ Hakki: ‎~ Hakki topluluk üzerinden katıldı
 [9.06.2026 07:56:28] ~ İpek Bilge: ‎~ İpek Bilge topluluk üzerinden katıldı
 [9.06.2026 11:49:02] ‪+90 538 926 26 99‬: ‎‪+90 538 926 26 99‬ topluluk üzerinden katıldı
@@ -380,7 +380,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [10.06.2026 10:27:27] ‪+90 532 545 37 57‬: ‎‪+90 532 545 37 57‬ ayrıldı
 [10.06.2026 10:37:55] ~ İsa: ‎~ İsa topluluk üzerinden katıldı
 [10.06.2026 11:10:27] ‪+90 534 693 82 18‬: ‎‪+90 534 693 82 18‬ topluluk üzerinden katıldı
-[10.06.2026 16:28:15] ‪+90 506 250 00 25‬: ‎‪+90 506 250 00 25‬ topluluk üzerinden katıldı
+[10.06.2026 16:28:15] ~ EYMEN  ALİ: ‎~ EYMEN  ALİ topluluk üzerinden katıldı
 [10.06.2026 18:21:31] ~ Gökçe Urhan: ‎~ Gökçe Urhan ayrıldı
 [10.06.2026 21:55:24] ~ Selvi: ‎~ Selvi topluluk üzerinden katıldı
 [11.06.2026 08:48:46] ‪+90 532 292 49 39‬: ‎‪+90 532 292 49 39‬ topluluk üzerinden katıldı
@@ -409,16 +409,16 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [22.06.2026 12:18:52] ‪+90 542 519 44 28‬: ‎‪+90 542 519 44 28‬ topluluk üzerinden katıldı
 [22.06.2026 15:29:02] ‪+90 535 044 87 88‬: ‎‪+90 535 044 87 88‬ ayrıldı
 [22.06.2026 22:17:19] ‪+90 553 655 98 11‬: ‎‪+90 553 655 98 11‬ ayrıldı
-[23.06.2026 00:27:46] ‪+90 533 407 59 33‬: ‎‪+90 533 407 59 33‬ topluluk üzerinden katıldı
+[23.06.2026 00:27:46] Millennium Akhisar: ‎Millennium Akhisar topluluk üzerinden katıldı
 [23.06.2026 00:34:54] ~ KorayO: ‎~ KorayO topluluk üzerinden katıldı
 [23.06.2026 09:55:23] ~ Hasan: ‎~ Hasan topluluk üzerinden katıldı
-[23.06.2026 13:10:43] ‪+90 542 230 55 13‬: ‎‪+90 542 230 55 13‬ topluluk üzerinden katıldı
+[23.06.2026 13:10:43] ~ Burak Üzeyr Sarı: ‎~ Burak Üzeyr Sarı topluluk üzerinden katıldı
 [23.06.2026 16:26:28] ~ Alperen: ‎~ Alperen topluluk üzerinden katıldı
-[23.06.2026 20:39:26] ‪+44 7899 762688‬: ‎‪+44 7899 762688‬ topluluk üzerinden katıldı
-[23.06.2026 20:56:14] ‪+49 173 1394015‬: ‎‪+49 173 1394015‬ topluluk üzerinden katıldı
+[23.06.2026 20:39:26] ~ Erdi Akkus: ‎~ Erdi Akkus topluluk üzerinden katıldı
+[23.06.2026 20:56:14] ~ Fatih ŞAHAN: ‎~ Fatih ŞAHAN topluluk üzerinden katıldı
 [23.06.2026 22:37:42] ‪+90 530 911 98 91‬: ‎‪+90 530 911 98 91‬ topluluk üzerinden katıldı
-[23.06.2026 22:54:23] ‪+90 505 033 46 12‬: ‎‪+90 505 033 46 12‬ topluluk üzerinden katıldı
-[24.06.2026 00:42:33] ‪+90 552 876 76 76‬: ‎‪+90 552 876 76 76‬ topluluk üzerinden katıldı
+[23.06.2026 22:54:23] ~ Rumeysa: ‎~ Rumeysa topluluk üzerinden katıldı
+[24.06.2026 00:42:33] ~ Korhan: ‎~ Korhan topluluk üzerinden katıldı
 [24.06.2026 10:58:00] ‪+90 507 732 20 73‬: ‎‪+90 507 732 20 73‬ topluluk üzerinden katıldı
 [24.06.2026 13:04:28] ~ Ferit Kantarcı: ‎~ Ferit Kantarcı topluluk üzerinden katıldı
 [24.06.2026 14:01:14] ~ Məxmər Əhmədzadə: ‎~ Məxmər Əhmədzadə topluluk üzerinden katıldı
@@ -426,24 +426,24 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [24.06.2026 14:54:06] ‪+90 543 934 62 84‬: ‎‪+90 543 934 62 84‬ ayrıldı
 [24.06.2026 15:41:40] ~ Gonul: ‎~ Gonul topluluk üzerinden katıldı
 [24.06.2026 16:04:44] ‪+90 542 519 44 28‬: ‎‪+90 542 519 44 28‬ ayrıldı
-[24.06.2026 16:05:56] ‪+90 507 974 41 74‬: ‎‪+90 507 974 41 74‬ topluluk üzerinden katıldı
+[24.06.2026 16:05:56] ~ Levent Güçlü: ‎~ Levent Güçlü topluluk üzerinden katıldı
 [24.06.2026 16:09:03] ~ Hakki: ‎~ Hakki ayrıldı
 [24.06.2026 16:09:44] ‪+90 501 486 70 06‬: ‎‪+90 501 486 70 06‬ topluluk üzerinden katıldı
-[24.06.2026 16:15:17] ‪+90 555 383 56 06‬: ‎‪+90 555 383 56 06‬ topluluk üzerinden katıldı
+[24.06.2026 16:15:17] ~ Mustafa Konuk: ‎~ Mustafa Konuk topluluk üzerinden katıldı
 [24.06.2026 16:47:10] ‪+90 507 732 20 73‬: ‎‪+90 507 732 20 73‬ ayrıldı
 [24.06.2026 19:08:49] ~ Bilgin Küçükyaşar: ‎~ Bilgin Küçükyaşar topluluk üzerinden katıldı
 [24.06.2026 19:11:59] ~ Murat D. Sümer: ‎~ Murat D. Sümer topluluk üzerinden katıldı
 [24.06.2026 20:04:27] ~ il_ han: ‎~ il_ han topluluk üzerinden katıldı
 [24.06.2026 20:48:31] ‪+90 535 340 49 48‬: ‎‪+90 535 340 49 48‬ topluluk üzerinden katıldı
 [24.06.2026 20:49:29] ~ Bilgin: ‎~ Bilgin topluluk üzerinden katıldı
-[24.06.2026 20:58:47] ‪+49 176 43295923‬: ‎‪+49 176 43295923‬ topluluk üzerinden katıldı
+[24.06.2026 20:58:47] ~ Ich: ‎~ Ich topluluk üzerinden katıldı
 [24.06.2026 21:32:19] ‪+90 536 770 75 37‬: ‎‪+90 536 770 75 37‬ topluluk üzerinden katıldı
 [25.06.2026 00:18:55] ‪+90 532 257 01 28‬: ‎‪+90 532 257 01 28‬ topluluk üzerinden katıldı
-[25.06.2026 01:07:22] ‪+90 530 035 71 43‬: ‎‪+90 530 035 71 43‬ topluluk üzerinden katıldı
+[25.06.2026 01:07:22] ~ Özlem Ersoylu Mutluer: ‎~ Özlem Ersoylu Mutluer topluluk üzerinden katıldı
 [25.06.2026 07:32:59] ‪+90 535 340 49 48‬: ‎‪+90 535 340 49 48‬ ayrıldı
 [25.06.2026 09:33:53] ‪+90 531 455 90 39‬: ‎‪+90 531 455 90 39‬ topluluk üzerinden katıldı
 [25.06.2026 09:50:57] ~ İsmet Türker: ‎~ İsmet Türker topluluk üzerinden katıldı
-[25.06.2026 11:09:36] ‪+90 555 383 56 06‬: ‎‪+90 555 383 56 06‬ ayrıldı
+[25.06.2026 11:09:36] ~ Mustafa Konuk: ‎~ Mustafa Konuk ayrıldı
 [25.06.2026 12:29:56] ‪+30 699 355 8969‬: ‎‪+30 699 355 8969‬ topluluk üzerinden katıldı
 [25.06.2026 14:19:41] ‪+90 533 496 88 44‬: ‎‪+90 533 496 88 44‬ topluluk üzerinden katıldı
 [25.06.2026 15:23:41] ~ Ersin S.: ‎~ Ersin S. ayrıldı
@@ -464,3 +464,198 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [28.06.2026 12:01:39] ~ bykupa: ‎~ bykupa katılma isteği gönderdi
 [28.06.2026 12:30:36] ~ bykupa: ‎~ bykupa topluluk üzerinden katıldı
 [28.06.2026 13:39:48] ~ RBNGAME: ‎~ RBNGAME ayrıldı
+[28.06.2026 14:23:50] Claude Projects 🚀📊: ‎Bu gruba katılmak için yönetici onayını devre dışı bıraktınız
+[28.06.2026 14:33:36] ~ Anıl Çağlar Topçu: ‎~ Anıl Çağlar Topçu topluluk üzerinden katıldı
+[28.06.2026 14:34:26] ~ Burak Efe: ‎~ Burak Efe topluluk üzerinden katıldı
+[28.06.2026 14:38:35] ~ 🙈🙉🙊: ‎~ 🙈🙉🙊 topluluk üzerinden katıldı
+[28.06.2026 15:03:09] ~ Abella: ‎~ Abella topluluk üzerinden katıldı
+[28.06.2026 15:43:36] Claude Projects 🚀📊: ‎Grup açıklamasını değiştirdiniz
+[28.06.2026 15:45:20] ~ Yusuf: ‎~ Yusuf ayrıldı
+[28.06.2026 15:50:18] ~ Veysel: ‎~ Veysel topluluk üzerinden katıldı
+[28.06.2026 15:50:54] Remzi Akat: ‎Remzi Akat bir grup bağlantısıyla katıldı
+[28.06.2026 15:50:56] ~ Oguzhan Kaya: ‎~ Oguzhan Kaya topluluk üzerinden katıldı
+[28.06.2026 15:55:08] ~ Hisham Moussa: ‎~ Hisham Moussa topluluk üzerinden katıldı
+[28.06.2026 15:57:44] Benan Bilsel: ‎Benan Bilsel topluluk üzerinden katıldı
+[28.06.2026 15:57:45] ~ Sendemix: ‎~ Sendemix topluluk üzerinden katıldı
+[28.06.2026 16:00:30] ~ Emir 🤍: ‎~ Emir 🤍 topluluk üzerinden katıldı
+[28.06.2026 16:01:53] Ayşenur Gözden: ‎Ayşenur Gözden topluluk üzerinden katıldı
+[28.06.2026 16:10:20] ~ Muammer: ‎~ Muammer topluluk üzerinden katıldı
+[28.06.2026 16:19:55] Berat Bozacı: ‎Berat Bozacı topluluk üzerinden katıldı
+[28.06.2026 17:05:53] ~ Levent ERK.: ‎~ Levent ERK. topluluk üzerinden katıldı
+[28.06.2026 17:49:33] ‪+90 544 903 44 96‬: ‎‪+90 544 903 44 96‬ topluluk üzerinden katıldı
+[28.06.2026 18:04:13] Tahsin Dinçer: ‎Tahsin Dinçer topluluk üzerinden katıldı
+[28.06.2026 19:03:12] ~ Emre Sarısoy: ‎~ Emre Sarısoy topluluk üzerinden katıldı
+[28.06.2026 19:15:29] ~ Şeref: ‎~ Şeref bir grup bağlantısıyla katıldı
+[28.06.2026 19:15:53] ‪+44 7765 473187‬: ‎‪+44 7765 473187‬ topluluk üzerinden katıldı
+[28.06.2026 20:06:02] ‪+90 532 701 43 15‬: ‎‪+90 532 701 43 15‬ ayrıldı
+[28.06.2026 20:50:24] ~ Muammer: ‎~ Muammer ayrıldı
+[28.06.2026 21:09:25] ~ Ad Astra: ‎~ Ad Astra topluluk üzerinden katıldı
+[28.06.2026 21:34:32] ~ Ertuğ D.: ‎~ Ertuğ D. topluluk üzerinden katıldı
+[28.06.2026 21:35:00] ~ Ertuğ D.: İyi akşamlar herkese
+[28.06.2026 21:37:45] ‪+90 531 455 90 39‬: ‎‪+90 531 455 90 39‬ ayrıldı
+[28.06.2026 21:38:28] ~ Ertuğ D.: Hukuk ve Compliance Asistanı, 20+ jurisdiction tanımlı. Courthouse profili de var.
+
+https://github.com/beerbottle90/ArthurLegal
+[28.06.2026 21:42:49] ~ Ertuğ D.: Non profit bu işe "ben de destek olurum fikir geliştirir bakım ve geliştirme yaparım gönüllü olarak" diyen arkadaşlar varsa şuraya ulaşabilir:
+
+https://www.linkedin.com/company/arthurlegal-claude/
+[28.06.2026 22:26:12] ‪+31 6 54372780‬: ‎‪+31 6 54372780‬ topluluk üzerinden katıldı
+[28.06.2026 22:35:46] ~ Ferhat DEĞİRMENCİOĞLU: ‎~ Ferhat DEĞİRMENCİOĞLU topluluk üzerinden katıldı
+[28.06.2026 22:35:50] ~ Melisa: ‎~ Melisa topluluk üzerinden katıldı
+[28.06.2026 22:37:04] ‪+90 553 621 19 90‬: ‎‪+90 553 621 19 90‬ topluluk üzerinden katıldı
+[28.06.2026 23:24:26] ~ Emre Köymen: ‎~ Emre Köymen topluluk üzerinden katıldı
+[28.06.2026 23:25:53] ‪+90 554 333 33 41‬: ‎‪+90 554 333 33 41‬ topluluk üzerinden katıldı
+[28.06.2026 23:37:41] ~ Mustafa Yasin Başçetin: ‎~ Mustafa Yasin Başçetin bir grup bağlantısıyla katıldı
+[29.06.2026 00:10:34] ~ Mürsel: ‎~ Mürsel bir grup bağlantısıyla katıldı
+[29.06.2026 00:29:02] ‪+90 506 994 21 63‬: ‎‪+90 506 994 21 63‬ topluluk üzerinden katıldı
+[29.06.2026 00:50:36] ‪+90 535 951 81 08‬: ‎‪+90 535 951 81 08‬ topluluk üzerinden katıldı
+[29.06.2026 01:08:28] ‪+90 507 159 26 36‬: ‎‪+90 507 159 26 36‬ topluluk üzerinden katıldı
+[29.06.2026 01:12:00] ~ O. Gulseni: ‎~ O. Gulseni topluluk üzerinden katıldı
+[29.06.2026 02:20:10] ‪+90 533 360 15 28‬: ‎‪+90 533 360 15 28‬ topluluk üzerinden katıldı
+[29.06.2026 03:47:26] ‪+1 (832) 588‑4031‬: ‎‪+1 (832) 588‑4031‬ topluluk üzerinden katıldı
+[29.06.2026 03:48:32] ~ Ömer: ‎~ Ömer topluluk üzerinden katıldı
+[29.06.2026 07:21:17] ‪+90 542 235 63 15‬: ‎‪+90 542 235 63 15‬ topluluk üzerinden katıldı
+[29.06.2026 08:23:27] ~ Taha GÜR: ‎~ Taha GÜR topluluk üzerinden katıldı
+[29.06.2026 09:02:04] ~ Bekir Otrkc: ‎~ Bekir Otrkc topluluk üzerinden katıldı
+[29.06.2026 09:31:30] ‪+90 506 457 20 42‬: ‎‪+90 506 457 20 42‬ topluluk üzerinden katıldı
+[29.06.2026 11:00:03] ‪+90 541 324 50 40‬: ‎‪+90 541 324 50 40‬ topluluk üzerinden katıldı
+[29.06.2026 12:34:51] ~ Uğur: ‎~ Uğur topluluk üzerinden katıldı
+[29.06.2026 13:52:31] Gürkan Platin: ‎Gürkan Platin ayrıldı
+[29.06.2026 14:12:00] ~ Asuman-Dijital Branding
+WebDesign • MetaBusiness • Ads •SosyalMedya Youtube: ‎~ Asuman-Dijital Branding
+WebDesign • MetaBusiness • Ads •SosyalMedya Youtube topluluk üzerinden katıldı
+[29.06.2026 14:19:04] ‪+90 549 800 57 73‬: ‎‪+90 549 800 57 73‬ topluluk üzerinden katıldı
+[29.06.2026 14:33:45] ‪+90 530 288 28 88‬: ‎‪+90 530 288 28 88‬ topluluk üzerinden katıldı
+[29.06.2026 14:51:02] ‪+90 507 085 51 01‬: ‎‪+90 507 085 51 01‬ topluluk üzerinden katıldı
+[29.06.2026 15:10:43] ‪+90 533 323 79 58‬: ‎~ Kivanc SOLAK, ‪+90 533 323 79 58‬ kişisini ekledi
+[29.06.2026 15:22:39] ~ Can Topsakal: ‎~ Can Topsakal topluluk üzerinden katıldı
+[29.06.2026 15:25:08] ‪+90 553 384 69 77‬: ‎‪+90 553 384 69 77‬ topluluk üzerinden katıldı
+[29.06.2026 15:27:55] ‪+90 543 784 25 18‬: ‎‪+90 543 784 25 18‬ topluluk üzerinden katıldı
+[29.06.2026 16:20:29] ~ Özge Özkan Gezergen: ‎~ Özge Özkan Gezergen topluluk üzerinden katıldı
+[29.06.2026 16:54:54] ~ Sendemix: ‎~ Sendemix ayrıldı
+[29.06.2026 17:41:16] ~ Mustafa Konuk: ‎~ Mustafa Konuk topluluk üzerinden katıldı
+[29.06.2026 18:13:07] ‪+90 555 515 68 23‬: ‎‪+90 555 515 68 23‬ ayrıldı
+[29.06.2026 18:32:48] ‪+90 530 208 89 55‬: ‎‪+90 530 208 89 55‬ topluluk üzerinden katıldı
+[29.06.2026 21:31:05] Seda Acar: ‎Seda Acar topluluk üzerinden katıldı
+[29.06.2026 22:20:33] ‪+90 531 638 32 24‬: ‎‪+90 531 638 32 24‬ topluluk üzerinden katıldı
+[30.06.2026 08:22:27] ~ Ayyüce Gülsüm Baydar: ‎~ Ayyüce Gülsüm Baydar topluluk üzerinden katıldı
+[30.06.2026 10:14:46] ‪+49 176 34612209‬: ‎‪+49 176 34612209‬ topluluk üzerinden katıldı
+[30.06.2026 12:44:13] ~ H.İ.Sayın: ‎~ H.İ.Sayın topluluk üzerinden katıldı
+[30.06.2026 12:58:36] ~ Hakan Özkum: ‎~ Hakan Özkum topluluk üzerinden katıldı
+[30.06.2026 15:36:02] ‪+90 546 211 83 61‬: ‎‪+90 546 211 83 61‬ topluluk üzerinden katıldı
+[30.06.2026 16:07:10] ‪+90 532 555 72 52‬: ‎‪+90 532 555 72 52‬ ayrıldı
+[30.06.2026 17:18:11] ~ fmgenc: ‎~ fmgenc topluluk üzerinden katıldı
+[30.06.2026 17:46:50] ‪+90 535 951 81 08‬: ‎‪+90 535 951 81 08‬ ayrıldı
+[30.06.2026 20:36:10] ‪+90 533 837 51 79‬: ‎‪+90 533 837 51 79‬ topluluk üzerinden katıldı
+[30.06.2026 20:44:53] ‪+90 530 013 61 56‬: ‎‪+90 530 013 61 56‬ topluluk üzerinden katıldı
+[30.06.2026 21:43:26] ‪+90 507 213 49 10‬: ‎‪+90 507 213 49 10‬ topluluk üzerinden katıldı
+[30.06.2026 22:35:48] Özgür Yüksel TP Helpdesk: ‎Özgür Yüksel TP Helpdesk topluluk üzerinden katıldı
+[30.06.2026 23:16:24] ~ Şevki Dodurga: ‎~ Şevki Dodurga topluluk üzerinden katıldı
+[1.07.2026 00:58:11] ‪+90 530 119 44 50‬: ‎‪+90 530 119 44 50‬ topluluk üzerinden katıldı
+[1.07.2026 07:17:06] ‪+90 501 222 29 91‬: ‎‪+90 501 222 29 91‬ topluluk üzerinden katıldı
+[1.07.2026 08:37:23] ‪+90 501 444 06 54‬: ‎‪+90 501 444 06 54‬ topluluk üzerinden katıldı
+[1.07.2026 09:17:44] ‪+90 533 344 47 93‬: ‎‪+90 533 344 47 93‬ topluluk üzerinden katıldı
+[1.07.2026 12:44:57] ‪+90 555 988 81 85‬: ‎‪+90 555 988 81 85‬ topluluk üzerinden katıldı
+[1.07.2026 14:03:55] ~ KerimAkkis: ‎~ KerimAkkis topluluk üzerinden katıldı
+[1.07.2026 14:21:19] ‪+90 543 355 20 71‬: ‎‪+90 543 355 20 71‬ topluluk üzerinden katıldı
+[1.07.2026 14:47:24] ‪+90 545 640 65 25‬: ‎‪+90 545 640 65 25‬ topluluk üzerinden katıldı
+[1.07.2026 17:00:39] Gökhan Yılmaz: ‎Gökhan Yılmaz topluluk üzerinden katıldı
+[1.07.2026 18:48:16] ‪+90 505 279 08 40‬: ‎‪+90 505 279 08 40‬ topluluk üzerinden katıldı
+[1.07.2026 19:28:29] ‪+90 506 382 58 09‬: ‎‪+90 506 382 58 09‬ topluluk üzerinden katıldı
+[1.07.2026 19:30:03] ‪+90 532 278 29 19‬: ‎‪+90 532 278 29 19‬ topluluk üzerinden katıldı
+[1.07.2026 23:16:47] ‪+90 543 355 20 71‬: ‎‪+90 543 355 20 71‬ ayrıldı
+[2.07.2026 00:58:56] ~ Oğuzhan Uygul: ‎~ Oğuzhan Uygul ayrıldı
+[2.07.2026 03:07:42] ~ The Chemist: ‎~ The Chemist topluluk üzerinden katıldı
+[2.07.2026 04:38:10] ~ Perviz Mirzayev: ‎~ Perviz Mirzayev topluluk üzerinden katıldı
+[2.07.2026 07:59:42] ‪+90 505 617 69 09‬: ‎‪+90 505 617 69 09‬ topluluk üzerinden katıldı
+[2.07.2026 12:18:13] ‪+90 505 903 94 08‬: ‎‪+90 505 903 94 08‬ topluluk üzerinden katıldı
+[2.07.2026 12:52:53] ~ Tekelioğlu Gayrimenkul: ‎~ Tekelioğlu Gayrimenkul topluluk üzerinden katıldı
+[2.07.2026 17:32:44] ~ Ertuğ D.: Unutmayalım unutturmayalım :)
+[2.07.2026 21:04:04] ‪+90 505 903 94 08‬: ‎‪+90 505 903 94 08‬ ayrıldı
+[2.07.2026 21:56:29] ~ Metin Mert Altuncan: ‎~ Metin Mert Altuncan topluluk üzerinden katıldı
+[3.07.2026 00:13:57] ‪+90 553 398 11 43‬: ‎‪+90 553 398 11 43‬ topluluk üzerinden katıldı
+[3.07.2026 00:21:47] ~ Kenan Kilic: ‎~ Kenan Kilic topluluk üzerinden katıldı
+[3.07.2026 00:34:35] ~ R…..: ‎~ R….. topluluk üzerinden katıldı
+[3.07.2026 01:00:31] ~ Hersoy 🌪️: ‎~ Hersoy 🌪️ topluluk üzerinden katıldı
+[3.07.2026 07:01:24] ‪+90 544 623 15 25‬: ‎‪+90 544 623 15 25‬ topluluk üzerinden katıldı
+[3.07.2026 07:54:10] ~ Mesut Demirci: ‎~ Mesut Demirci topluluk üzerinden katıldı
+[3.07.2026 08:20:41] ‪+90 542 251 84 06‬: ‎‪+90 542 251 84 06‬ topluluk üzerinden katıldı
+[3.07.2026 08:21:24] ‪+90 552 239 65 34‬: ‎‪+90 552 239 65 34‬ topluluk üzerinden katıldı
+[3.07.2026 09:17:42] ‪+90 533 457 04 52‬: ‎‪+90 533 457 04 52‬ topluluk üzerinden katıldı
+[3.07.2026 14:09:01] ‪+90 539 765 84 56‬: ‎‪+90 539 765 84 56‬ topluluk üzerinden katıldı
+[3.07.2026 16:39:45] ‪+90 546 913 81 58‬: ‎‪+90 546 913 81 58‬ topluluk üzerinden katıldı
+[3.07.2026 17:25:17] ~ Emre K. K.: ‎~ Emre K. K. topluluk üzerinden katıldı
+[4.07.2026 16:27:23] ‪+90 531 666 56 30‬: ‎‪+90 531 666 56 30‬ topluluk üzerinden katıldı
+[4.07.2026 22:48:18] ‪+90 507 213 49 10‬: ‎‪+90 507 213 49 10‬ ayrıldı
+[4.07.2026 23:04:36] ‪+90 532 410 98 04‬: ‎‪+90 532 410 98 04‬ topluluk üzerinden katıldı
+[5.07.2026 01:17:40] ~ Nevzat Koçaş: ‎~ Nevzat Koçaş topluluk üzerinden katıldı
+[5.07.2026 12:17:23] ~ 🍀: ‎~ 🍀 topluluk üzerinden katıldı
+[5.07.2026 13:46:44] ‪+90 538 691 09 33‬: ‎‪+90 538 691 09 33‬ topluluk üzerinden katıldı
+[5.07.2026 16:27:22] ‪+90 535 673 30 81‬: ‎‪+90 535 673 30 81‬ topluluk üzerinden katıldı
+[5.07.2026 20:26:16] ~ Mustafa Öztürk: ‎~ Mustafa Öztürk topluluk üzerinden katıldı
+[5.07.2026 23:56:07] ‪+90 530 072 08 45‬: ‎‪+90 530 072 08 45‬ topluluk üzerinden katıldı
+[6.07.2026 00:13:30] ‪+90 532 342 91 22‬: ‎‪+90 532 342 91 22‬ topluluk üzerinden katıldı
+[6.07.2026 09:43:25] ‪+90 530 149 63 93‬: ‎‪+90 530 149 63 93‬ topluluk üzerinden katıldı
+[6.07.2026 10:23:41] ‪+90 552 427 22 22‬: ‎‪+90 552 427 22 22‬ bir grup bağlantısıyla katıldı
+[6.07.2026 11:17:36] ‪+90 532 410 98 04‬: ‎‪+90 532 410 98 04‬ ayrıldı
+[7.07.2026 03:39:05] ‪+90 543 811 50 93‬: ‎‪+90 543 811 50 93‬ topluluk üzerinden katıldı
+[7.07.2026 05:18:53] Selim DEMİRCAN: ‎Selim DEMİRCAN topluluk üzerinden katıldı
+[7.07.2026 09:29:04] ‪+90 538 714 09 93‬: ‎‪+90 538 714 09 93‬ topluluk üzerinden katıldı
+[7.07.2026 12:00:51] ‪+90 541 488 16 63‬: ‎‪+90 541 488 16 63‬ topluluk üzerinden katıldı
+[7.07.2026 12:02:57] ~ Yalnız Kurt: ‎‪+90 541 488 16 63‬, ~ Yalnız Kurt kişisini ekledi
+[7.07.2026 14:12:30] ‪+90 531 327 47 85‬: ‎‪+90 531 327 47 85‬ topluluk üzerinden katıldı
+[7.07.2026 15:14:46] ~ Ali Eren Kılıç: ‎~ Ali Eren Kılıç topluluk üzerinden katıldı
+[8.07.2026 01:20:28] ~ M. Ali: ‎~ M. Ali topluluk üzerinden katıldı
+[8.07.2026 07:58:56] ‪+90 544 577 14 74‬: ‎‪+90 544 577 14 74‬ topluluk üzerinden katıldı
+[8.07.2026 13:47:50] ‪+90 535 285 01 01‬: ‎‪+90 535 285 01 01‬ topluluk üzerinden katıldı
+[9.07.2026 13:49:32] ~ Umutcan: ‎~ Umutcan topluluk üzerinden katıldı
+[9.07.2026 15:11:56] ~ İnanç: ‎~ İnanç topluluk üzerinden katıldı
+[9.07.2026 22:20:09] ‪+90 544 620 72 75‬: ‎‪+90 544 620 72 75‬ topluluk üzerinden katıldı
+[10.07.2026 02:11:48] ~ Ercan ÖZLER: ‎~ Ercan ÖZLER topluluk üzerinden katıldı
+[10.07.2026 02:14:14] ‪+90 532 320 73 18‬: ‎‪+90 532 320 73 18‬ topluluk üzerinden katıldı
+[10.07.2026 08:48:53] ~ Selen: ‎~ Selen ayrıldı
+[10.07.2026 11:59:42] ~ Nuran Tuncer: ‎~ Nuran Tuncer topluluk üzerinden katıldı
+[10.07.2026 13:16:48] ~ Fatma Kuşçu Koç: ‎~ Fatma Kuşçu Koç topluluk üzerinden katıldı
+[10.07.2026 21:23:22] ‪+90 544 620 72 75‬: ‎‪+90 544 620 72 75‬ ayrıldı
+[10.07.2026 22:09:48] ~ Halil AKAR - İlim Merkezi: ‎~ Halil AKAR - İlim Merkezi topluluk üzerinden katıldı
+[10.07.2026 23:15:56] ~ Yalnız Kurt: ‎~ Yalnız Kurt ayrıldı
+[10.07.2026 23:46:02] ~ Oğuz Gündüz: ‎~ Oğuz Gündüz topluluk üzerinden katıldı
+[11.07.2026 09:46:03] ‪+90 546 767 17 06‬: ‎‪+90 546 767 17 06‬ topluluk üzerinden katıldı
+[11.07.2026 11:44:59] ~ Hasan K.: ‎~ Hasan K. topluluk üzerinden katıldı
+[11.07.2026 13:17:09] ‪+90 542 142 24 36‬: ‎‪+90 542 142 24 36‬ topluluk üzerinden katıldı
+[11.07.2026 14:41:04] ‪+90 532 135 00 98‬: ‎‪+90 532 135 00 98‬ topluluk üzerinden katıldı
+[11.07.2026 14:47:15] ‪+90 506 068 57 23‬: ‎‪+90 506 068 57 23‬ topluluk üzerinden katıldı
+[11.07.2026 18:22:21] ‪+90 555 537 60 45‬: ‎‪+90 555 537 60 45‬ topluluk üzerinden katıldı
+[11.07.2026 19:38:35] ~ Şebnem: ‎~ Şebnem ayrıldı
+[11.07.2026 20:04:37] ‪+90 532 252 33 72‬: ‎‪+90 532 252 33 72‬ topluluk üzerinden katıldı
+[11.07.2026 20:29:54] ‪+90 541 224 46 96‬: ‎‪+90 541 224 46 96‬ topluluk üzerinden katıldı
+[11.07.2026 21:34:27] Okan Tozaraydin: ‎Okan Tozaraydin topluluk üzerinden katıldı
+[11.07.2026 21:48:51] ‪+90 532 714 65 75‬: ‎‪+90 532 714 65 75‬ topluluk üzerinden katıldı
+[11.07.2026 23:09:32] ‪+90 850 303 5353‬: ‎‪+90 850 303 5353‬ topluluk üzerinden katıldı
+[12.07.2026 02:24:06] ~ Mustafa ŞAHBAZ: ‎~ Mustafa ŞAHBAZ bir grup bağlantısıyla katıldı
+[12.07.2026 10:40:38] ~ Serdar: ‎‪+90 505 617 69 09‬, ~ Serdar kişisini ekledi
+[12.07.2026 11:04:34] ‪+90 505 158 88 65‬: ‎‪+90 505 158 88 65‬ topluluk üzerinden katıldı
+[12.07.2026 13:44:44] ‪+90 551 689 02 47‬: ‎‪+90 551 689 02 47‬ topluluk üzerinden katıldı
+[12.07.2026 23:00:32] ‪+90 535 654 69 66‬: ‎‪+90 535 654 69 66‬ topluluk üzerinden katıldı
+[13.07.2026 00:58:53] ‪+90 551 684 14 25‬: ‎‪+90 551 684 14 25‬ topluluk üzerinden katıldı
+[13.07.2026 01:32:35] ~ Can Topsakal: ‎~ Can Topsakal ayrıldı
+[13.07.2026 09:45:54] Özay Göktaş: ‎Özay Göktaş topluluk üzerinden katıldı
+[13.07.2026 13:58:26] ‪+90 533 693 91 84‬: ‎‪+90 533 693 91 84‬ topluluk üzerinden katıldı
+[13.07.2026 13:58:30] ~ Emel ÖNCEL💫: ‎~ Emel ÖNCEL💫 topluluk üzerinden katıldı
+[13.07.2026 13:58:59] ‪+90 535 965 16 60‬: ‎‪+90 535 965 16 60‬ topluluk üzerinden katıldı
+[13.07.2026 13:59:54] ‪+90 545 734 82 79‬: ‎‪+90 545 734 82 79‬ topluluk üzerinden katıldı
+[13.07.2026 14:00:03] ‪+90 537 302 79 17‬: ‎‪+90 537 302 79 17‬ topluluk üzerinden katıldı
+[13.07.2026 14:00:04] ~ .: ‎~ . topluluk üzerinden katıldı
+[13.07.2026 14:01:41] ‪+90 545 978 62 58‬: ‎‪+90 545 978 62 58‬ topluluk üzerinden katıldı
+[13.07.2026 14:01:44] ~ İlknur: ‎~ İlknur topluluk üzerinden katıldı
+[13.07.2026 14:02:39] ‪+90 538 218 31 73‬: ‎‪+90 538 218 31 73‬ topluluk üzerinden katıldı
+[13.07.2026 14:03:37] ‪+90 553 927 94 27‬: ‎‪+90 553 927 94 27‬ topluluk üzerinden katıldı
+[13.07.2026 14:08:21] ‪+90 532 313 91 44‬: ‎‪+90 532 313 91 44‬ topluluk üzerinden katıldı
+[13.07.2026 14:09:11] ‪+90 553 424 06 76‬: ‎‪+90 553 424 06 76‬ topluluk üzerinden katıldı
+[13.07.2026 14:12:23] ‪+90 533 169 15 40‬: ‎‪+90 533 169 15 40‬ topluluk üzerinden katıldı
+[13.07.2026 14:13:05] ‪+90 533 667 95 61‬: ‎‪+90 533 667 95 61‬ topluluk üzerinden katıldı
+[13.07.2026 14:14:29] ‪+90 535 107 37 10‬: ‎‪+90 535 107 37 10‬ topluluk üzerinden katıldı
+[13.07.2026 14:15:11] ‪+90 532 395 08 12‬: ‎‪+90 532 395 08 12‬ topluluk üzerinden katıldı
+[13.07.2026 14:25:01] ‪+90 539 722 44 81‬: ‎‪+90 539 722 44 81‬ topluluk üzerinden katıldı
+[13.07.2026 14:28:02] ~ Umut EROL: ‎~ Umut EROL topluluk üzerinden katıldı
+[13.07.2026 14:29:53] ~ Ceyhan Er: ‎~ Ceyhan Er topluluk üzerinden katıldı
