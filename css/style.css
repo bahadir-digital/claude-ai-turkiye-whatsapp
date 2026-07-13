@@ -101,7 +101,7 @@ a { color: inherit; text-decoration: none; }
 /* ---------- Kart ızgarası ---------- */
 .grid {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
-  gap: 14px; padding-bottom: 48px;
+  gap: 14px; padding-bottom: 26px;
 }
 .card {
   display: flex; flex-direction: column;
@@ -267,28 +267,12 @@ a { color: inherit; text-decoration: none; }
 
 /* ---------- Admin ekibi ---------- */
 .adminscard {
-  margin: 18px 0 0; background: #fff; border: 1px solid var(--line);
+  margin: 0 0 48px; background: #fff; border: 1px solid var(--line);
   border-radius: 18px; padding: 22px; box-shadow: var(--shadow-sm);
 }
-.admins__banner {
-  display: block; position: relative; margin: 0 0 20px;
-  border-radius: 12px; overflow: hidden; border: 1px solid var(--line);
-  line-height: 0; transition: border-color .15s ease, box-shadow .15s ease;
-}
-.admins__banner:hover { border-color: var(--accent); box-shadow: var(--shadow-md); }
-.admins__banner img { width: 100%; height: auto; display: block; }
-.admins__bannerhint {
-  position: absolute; right: 10px; bottom: 10px;
-  background: rgba(43,42,37,.82); color: #fff;
-  font-size: 10px; font-weight: 500; line-height: 1;
-  padding: 6px 10px; border-radius: 999px;
-}
-/* Görsel yüklenemezse: sade metin linkine dön */
-.admins__banner--text { line-height: 1.5; padding: 12px 14px; background: var(--bg-soft); }
-.admins__banner--text img { display: none; }
-.admins__banner--text .admins__bannerhint {
-  position: static; background: none; color: var(--accent);
-  padding: 0; font-size: 11.5px; font-weight: 600;
+.admins__btn {
+  display: inline-flex; width: auto; flex: none;
+  margin: 0 0 20px; padding: 10px 16px;
 }
 .admins__list {
   list-style: none; margin: 0; padding: 0;
