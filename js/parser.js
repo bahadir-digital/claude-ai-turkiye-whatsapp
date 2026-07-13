@@ -30,6 +30,26 @@
       .trim();
   }
 
+  /* Aynı kişiye ait farklı yazımları tek isimde birleştirir.
+     WhatsApp export'unda kendi mesajların "Siz" olarak, bazıları da
+     sadece "Bahadır" olarak görünebiliyor; hepsi "Bahadır Eren" sayılır.
+     Yeni eşleme eklemek için buraya satır ekle (anahtar küçük harf). */
+  var ALIASES = {
+    "siz": "Bahadır Eren",
+    "you": "Bahadır Eren",
+    "bahadır": "Bahadır Eren",
+    "bahadir": "Bahadır Eren",
+    "bahadır eren": "Bahadır Eren",
+    "bahadir eren": "Bahadır Eren"
+  };
+
+  function canon(name) {
+    var n = norm(name);
+    if (!n) return n;
+    var key = n.toLocaleLowerCase("tr");
+    return ALIASES[key] || n;
+  }
+
   // Satır başı: tarih + saat (+ opsiyonel AM/PM). iOS köşeli parantez de olur.
   var LINE_START =
     /^\[?\s*(\d{1,2})[.\/-](\d{1,2})[.\/-](\d{2,4})[,.]?\s+(\d{1,2})[:.](\d{2})(?:[:.](\d{2}))?\s*([APap])?\.?\s*([Mm])?\.?\s*\]?\s*[-–]?\s*/;
@@ -84,16 +104,16 @@
     if (!chunk) return [];
     return chunk
       .split(/,|\s+ve\s+|\s+and\s+/i)
-      .map(function (n) { return norm(n.replace(/['’][^\s]*$/u, "")); })
+      .map(function (n) { return canon(n.replace(/['’][^\s]*$/u, "")); })
       .filter(Boolean);
   }
 
   function handleSystem(text, present, removed) {
     var m;
-    if (RE_SELFJOIN.test(text)) { present.add("Siz"); return true; }
-    if (RE_YOUADDED.test(text)) { present.add("Siz"); return true; }
+    if (RE_SELFJOIN.test(text)) { present.add(canon("Siz")); return true; }
+    if (RE_YOUADDED.test(text)) { present.add(canon("Siz")); return true; }
     if ((m = text.match(RE_CREATED)) || (m = text.match(RE_CREATED2))) {
-      var c = norm(m[1]); if (c) { present.add(c); removed.delete(c); } return true;
+      var c = canon(m[1]); if (c) { present.add(c); removed.delete(c); } return true;
     }
     if ((m = text.match(RE_ADDED)) || (m = text.match(RE_ADDED_EN))) {
       names(m[2]).forEach(function (n) { present.add(n); removed.delete(n); }); return true;
@@ -102,22 +122,22 @@
       names(m[2]).forEach(function (n) { removed.add(n); present.delete(n); }); return true;
     }
     if ((m = text.match(RE_REMOVED_YOU))) {
-      var ry = norm(m[1]); if (ry) { removed.add(ry); present.delete(ry); } return true;
+      var ry = canon(m[1]); if (ry) { removed.add(ry); present.delete(ry); } return true;
     }
     if ((m = text.match(RE_ADDED_YOU))) {
-      var ay = norm(m[1]); if (ay) { present.add(ay); removed.delete(ay); } return true;
+      var ay = canon(m[1]); if (ay) { present.add(ay); removed.delete(ay); } return true;
     }
     if ((m = text.match(RE_JOINED)) || (m = text.match(RE_JOINED_EN))) {
-      var j = norm(m[1]); if (j) { present.add(j); removed.delete(j); } return true;
+      var j = canon(m[1]); if (j) { present.add(j); removed.delete(j); } return true;
     }
     if ((m = text.match(RE_ADDED_PASSIVE))) {
-      var a = norm(m[1]); if (a) { present.add(a); removed.delete(a); } return true;
+      var a = canon(m[1]); if (a) { present.add(a); removed.delete(a); } return true;
     }
     if ((m = text.match(RE_LEFT)) || (m = text.match(RE_LEFT_EN))) {
-      var l = norm(m[1]); if (l) { removed.add(l); present.delete(l); } return true;
+      var l = canon(m[1]); if (l) { removed.add(l); present.delete(l); } return true;
     }
     if ((m = text.match(RE_REMOVED_PASSIVE))) {
-      var r = norm(m[1]); if (r) { removed.add(r); present.delete(r); } return true;
+      var r = canon(m[1]); if (r) { removed.add(r); present.delete(r); } return true;
     }
     for (var i = 0; i < RE_IGNORE.length; i++) if (RE_IGNORE[i].test(text)) return true;
     return false;
@@ -160,7 +180,7 @@
 
       var sep = body.indexOf(": ");
       if (sep < 0 || sep > 60 || body.slice(0, sep).indexOf("\n") !== -1) continue;
-      var sender = norm(body.slice(0, sep));
+      var sender = canon(body.slice(0, sep));
       if (!sender) continue;
       var content = body.slice(sep + 2).trim();
 

@@ -101,13 +101,24 @@
       ? 'Daha fazla kaynak için: <a href="' + esc(site) + '" target="_blank" rel="noopener">bahadir.digital</a> 📚<br />'
       : "";
 
-    document.getElementById("rules-slot").innerHTML =
+    slot("rules-slot").innerHTML =
       '<section class="rulescard">' +
         '<h2 class="rulescard__title">' + esc(cfg.rulesTitle || "Topluluk Kuralları") + "</h2>" +
         (cfg.rulesIntro ? '<p class="rulescard__intro">' + esc(cfg.rulesIntro) + "</p>" : "") +
         '<ol class="rulescard__list">' + items + "</ol>" +
         '<div class="rulescard__foot">' + footLink + esc(cfg.rulesFooter || "") + "</div>" +
       "</section>";
+  }
+
+  // Eksikse alanı kendisi oluşturur (eski index.html ile de çalışsın diye).
+  function slot(id, parent) {
+    var el = document.getElementById(id);
+    if (!el) {
+      el = document.createElement("div");
+      el.id = id;
+      (parent || document.getElementById("app") || document.body).appendChild(el);
+    }
+    return el;
   }
 
   function buildAdmins(cfg) {
@@ -135,28 +146,31 @@
       );
     }).join("");
 
-    var banner = img
-      ? '<a class="admins__banner" href="' + esc(img) + '" target="_blank" rel="noopener" ' +
-        'title="Admin ekibi görselini büyüt">' +
-          '<img src="' + esc(img) + '" alt="Claude.ai Türkiye WhatsApp Topluluğu — Admin Ekibi" loading="lazy" ' +
-          'onerror="this.closest(\'.admins__banner\').classList.add(\'admins__banner--text\')" />' +
-          '<span class="admins__bannerhint">Görseli büyütmek için tıkla ↗</span>' +
+    // Görsel yerine sadece tıklanabilir buton (metin listesi zaten altta).
+    var btn = img
+      ? '<a class="btn btn--ghost admins__btn" href="' + esc(img) + '" target="_blank" rel="noopener">' +
+          "🖼️ Admin ekibi görselini aç ↗" +
         "</a>"
       : "";
 
-    document.getElementById("admins-slot").innerHTML =
+    slot("admins-slot").innerHTML =
       '<section class="adminscard">' +
         '<h2 class="rulescard__title">' + esc(cfg.adminsTitle || "Admin Ekibi") + "</h2>" +
         (cfg.adminsIntro ? '<p class="rulescard__intro">' + esc(cfg.adminsIntro) + "</p>" : "") +
-        banner +
+        btn +
         '<ul class="admins__list">' + cards + "</ul>" +
       "</section>";
   }
 
+  function safe(fn, cfg) {
+    // Bir bölüm hata verse bile diğerleri (özellikle grup listesi) yüklensin.
+    try { fn(cfg); } catch (e) { console.error("Bölüm yüklenemedi:", e); }
+  }
+
   function init(cfg) {
-    document.getElementById("intro-note").textContent = cfg.note || "";
-    buildRules(cfg);
-    buildAdmins(cfg);
+    var note = document.getElementById("intro-note");
+    if (note) note.textContent = cfg.note || "";
+    safe(buildRules, cfg);
 
     var main = cfg.groups.filter(function (g) { return g.main; })[0];
     var rest = cfg.groups.filter(function (g) { return !g.main; });
@@ -182,6 +196,9 @@
         el.innerHTML = statsHTML(fmt(r.s.members), fmt(r.s.messages), mPct, sPct);
       });
     });
+
+    // Admin ekibi en altta (grup kartlarından sonra)
+    safe(buildAdmins, cfg);
   }
 
   fetch("data/groups.json", { cache: "no-cache" })
