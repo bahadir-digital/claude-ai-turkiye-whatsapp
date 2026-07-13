@@ -68,7 +68,16 @@ Dosyayı yükleyince bir sonraki açılışta otomatik gelir.
 
 ## Logo nasıl eklenir
 
-`data/logos/` içine **slug.png** olarak yükle (örn. `code.png`). Kare görsel önerilir.
+`data/logos/` içine **slug** adıyla yükle. **PNG veya JPEG** olabilir; kod ikisini de
+otomatik bulur (`.png`, `.jpg`, `.jpeg`, `.webp` sırayla denenir). Örnek: `code.png`
+veya `skills.jpg`. Kare görsel önerilir. Logo yüklemezsen kart grubun emojisini gösterir.
+
+## Grup kuralları nasıl değiştirilir
+
+`data/groups.json` içindeki `"rules"` dizisini düzenle. Bu kurallar ana sayfada
+"Topluluk Kuralları" bölümünde ve her grup sayfasının sağ panelinde görünür.
+İstersen bir gruba özel kural vermek için o grubun bloğuna kendi `"rules": [...]`
+dizisini ekleyebilirsin; o grupta topluluk kuralları yerine bunlar gösterilir.
 
 ## Yeni grup ekleme / düzenleme
 
