@@ -265,6 +265,43 @@ a { color: inherit; text-decoration: none; }
 .rules-list li b { display: block; color: var(--ink); font-weight: 600; }
 .rules-list li span { color: var(--ink-soft); }
 
+/* ---------- Admin ekibi ---------- */
+.adminscard {
+  margin: 18px 0 0; background: #fff; border: 1px solid var(--line);
+  border-radius: 18px; padding: 22px; box-shadow: var(--shadow-sm);
+}
+.admins__banner {
+  display: block; position: relative; margin: 0 0 20px;
+  border-radius: 12px; overflow: hidden; border: 1px solid var(--line);
+  line-height: 0; transition: border-color .15s ease, box-shadow .15s ease;
+}
+.admins__banner:hover { border-color: var(--accent); box-shadow: var(--shadow-md); }
+.admins__banner img { width: 100%; height: auto; display: block; }
+.admins__bannerhint {
+  position: absolute; right: 10px; bottom: 10px;
+  background: rgba(43,42,37,.82); color: #fff;
+  font-size: 10px; font-weight: 500; line-height: 1;
+  padding: 6px 10px; border-radius: 999px;
+}
+/* Görsel yüklenemezse: sade metin linkine dön */
+.admins__banner--text { line-height: 1.5; padding: 12px 14px; background: var(--bg-soft); }
+.admins__banner--text img { display: none; }
+.admins__banner--text .admins__bannerhint {
+  position: static; background: none; color: var(--accent);
+  padding: 0; font-size: 11.5px; font-weight: 600;
+}
+.admins__list {
+  list-style: none; margin: 0; padding: 0;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 16px 20px;
+}
+.admin { padding-left: 11px; border-left: 2px solid var(--accent-soft); }
+.admin__name { font-size: 12.5px; font-weight: 700; }
+.admin__role { font-size: 11px; color: var(--accent); font-weight: 500; margin-top: 1px; }
+.admin__city { font-size: 10.8px; color: var(--ink-soft); margin-top: 3px; }
+.admin__links { display: flex; flex-direction: column; gap: 2px; margin-top: 6px; }
+.admin__links a { font-size: 10.8px; color: var(--wa-teal-dark); font-weight: 500; word-break: break-all; }
+.admin__links a:hover { color: var(--accent); text-decoration: underline; }
+
 /* ---------- Responsive ---------- */
 @media (max-width: 840px) {
   .gp { grid-template-columns: 1fr; }
