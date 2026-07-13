@@ -1,7 +1,45 @@
 {
   "communityName": "Claude.ai Türkiye",
   "tagline": "WhatsApp Topluluğu Arşivi",
+  "website": "https://bahadir.digital/",
   "note": "Buradaki konuşma geçmişleri, gruplara sonradan katılan üyelerin daha önce neler konuşulduğunu görebilmesi için derlenmiştir.",
+  "rulesTitle": "Claude.ai Türkiye — Topluluk Kuralları 🤝",
+  "rulesIntro": "Burada birlikte öğrenip birlikte üretiyoruz. Herkesin kendini rahat hissetmesi için birkaç ortak kuralımız var:",
+  "rules": [
+    { "t": "Konumuz belli 💡", "d": "Sadece Claude, yapay zeka, teknoloji ve dijital konuları konuşuyoruz. Bunun dışındaki başlıklar (siyaset, din, gündem vb.) için başka ortamlar daha uygun." },
+    { "t": "Her görüşe saygı 🌱", "d": "Kimsenin görüşünü, geçmişini ya da tercihlerini yargılamıyoruz. Burada herkes eşit ve değerli. Öteleştirici, kırıcı veya provoke edici mesajlara yer yok." },
+    { "t": "İkili sohbet yok 💬", "d": "Grup ortak alanımız. Kişiye özel konuşmaları, selamlaşmaları ve özel meseleleri lütfen birebir mesajdan halledelim ki akış herkes için faydalı kalsın." },
+    { "t": "Sessiz saatlere saygı 🌙", "d": "22:00 ile 08:00 arası mesaj atmamaya özen gösterelim. Herkesin huzurlu bir bildirim düzeni olsun." },
+    { "t": "Spam ve reklam yok 🚫", "d": "Alakasız bağlantılar, tanıtım ve toplu iletiler paylaşmıyoruz. Faydalı kaynaklar her zaman değerli." },
+    { "t": "Yardımlaşma esas ✨", "d": "Soru sormak serbest, yardım etmek güzel. Bilmediğimiz bir şey olursa birlikte araştırırız." }
+  ],
+  "rulesFooter": "Bu kurallar hepimizin ortak alanını korumak için. Keyifli paylaşımlar! 🚀",
+
+  "adminsTitle": "Admin Ekibi 🤝",
+  "adminsIntro": "Topluluğu gönüllü olarak birlikte yürüten ekip. Bir sorunuz veya sorununuz olursa çekinmeden yazın.",
+  "adminsImage": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/bahadir/claude_whatsapp_admins.webp",
+  "admins": [
+    { "name": "Bahadır Eren", "role": "TP Türkiye", "city": "İstanbul & İzmir",
+      "linkedin": "bahadireren", "instagram": "bahadir.digital", "web": "bahadir.digital" },
+    { "name": "Tahir Yıldız", "role": "Teknosa", "city": "İstanbul & Aydın",
+      "linkedin": "tahiryildiz", "instagram": "tahiryildiz", "web": "yzokulu.com" },
+    { "name": "Defne İncekara", "role": "Defne İncekara Akademi", "city": "İstanbul",
+      "linkedin": "defneincekara", "instagram": "defneincekara.ai", "web": "defneincekara.com" },
+    { "name": "Timur Nihat Vreskala", "role": "Freelance Eğitmen", "city": "İstanbul",
+      "linkedin": "timurnihat1974", "web": "gelecekte.com.tr" },
+    { "name": "Cem Aktan", "role": "oto.net", "city": "İstanbul",
+      "linkedin": "cem-aktan" },
+    { "name": "Alper Altun", "role": "VTC Enerji", "city": "İzmir",
+      "linkedin": "alperaltun" },
+    { "name": "Özge Demiryol", "role": "Freelance Developer", "city": "İstanbul & Kocaeli",
+      "linkedin": "ozge-demiryol", "web": "ozgedemiryol.com" },
+    { "name": "Özay Göktaş", "role": "Üretim & Tedarik Zinciri Profesyoneli", "city": "İzmir",
+      "linkedin": "ozaygoktas", "web": "ardsistem.net.tr" },
+    { "name": "Sefa Sarıkaya", "role": "TP Türkiye", "city": "Balıkesir",
+      "linkedin": "sefa-sarikaya", "web": "sefasarikaya.com" },
+    { "name": "Arslan Tosun", "role": "TP Türkiye", "city": "Trabzon",
+      "linkedin": "muhammetarslantosun" }
+  ],
   "groups": [
     {
       "slug": "ana-community",
