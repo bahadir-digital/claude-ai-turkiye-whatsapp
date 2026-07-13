@@ -110,9 +110,53 @@
       "</section>";
   }
 
+  function buildAdmins(cfg) {
+    if (!cfg.admins || !cfg.admins.length) return;
+    var img = cfg.adminsImage || "";
+
+    var cards = cfg.admins.map(function (a) {
+      var links = [];
+      if (a.linkedin) {
+        links.push('<a href="https://www.linkedin.com/in/' + esc(a.linkedin) + '" target="_blank" rel="noopener">in/' + esc(a.linkedin) + "</a>");
+      }
+      if (a.instagram) {
+        links.push('<a href="https://instagram.com/' + esc(a.instagram) + '" target="_blank" rel="noopener">@' + esc(a.instagram) + "</a>");
+      }
+      if (a.web) {
+        links.push('<a href="https://' + esc(a.web) + '" target="_blank" rel="noopener">' + esc(a.web) + "</a>");
+      }
+      return (
+        '<li class="admin">' +
+          '<div class="admin__name">' + esc(a.name) + "</div>" +
+          '<div class="admin__role">' + esc(a.role || "") + "</div>" +
+          (a.city ? '<div class="admin__city">📍 ' + esc(a.city) + "</div>" : "") +
+          (links.length ? '<div class="admin__links">' + links.join("") + "</div>" : "") +
+        "</li>"
+      );
+    }).join("");
+
+    var banner = img
+      ? '<a class="admins__banner" href="' + esc(img) + '" target="_blank" rel="noopener" ' +
+        'title="Admin ekibi görselini büyüt">' +
+          '<img src="' + esc(img) + '" alt="Claude.ai Türkiye WhatsApp Topluluğu — Admin Ekibi" loading="lazy" ' +
+          'onerror="this.closest(\'.admins__banner\').classList.add(\'admins__banner--text\')" />' +
+          '<span class="admins__bannerhint">Görseli büyütmek için tıkla ↗</span>' +
+        "</a>"
+      : "";
+
+    document.getElementById("admins-slot").innerHTML =
+      '<section class="adminscard">' +
+        '<h2 class="rulescard__title">' + esc(cfg.adminsTitle || "Admin Ekibi") + "</h2>" +
+        (cfg.adminsIntro ? '<p class="rulescard__intro">' + esc(cfg.adminsIntro) + "</p>" : "") +
+        banner +
+        '<ul class="admins__list">' + cards + "</ul>" +
+      "</section>";
+  }
+
   function init(cfg) {
     document.getElementById("intro-note").textContent = cfg.note || "";
     buildRules(cfg);
+    buildAdmins(cfg);
 
     var main = cfg.groups.filter(function (g) { return g.main; })[0];
     var rest = cfg.groups.filter(function (g) { return !g.main; });
