@@ -4,6 +4,8 @@
 (function () {
   "use strict";
 
+  var SUBCAP = 1024;  // alt grup üye limiti (config'ten güncellenir)
+
   var WA_ICON =
     '<svg class="wa-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M19.05 4.91A9.82 9.82 0 0 0 12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.86 9.86 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.91-7.02ZM12.04 20.2h-.01a8.2 8.2 0 0 1-4.18-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.18 8.18 0 0 1-1.26-4.38c0-4.54 3.7-8.23 8.25-8.23a8.2 8.2 0 0 1 8.23 8.24c0 4.54-3.7 8.23-8.24 8.23Zm4.52-6.16c-.25-.12-1.47-.72-1.69-.81-.23-.08-.39-.12-.56.13-.16.25-.64.81-.79.97-.14.17-.29.19-.54.06-.25-.12-1.05-.39-1.99-1.23-.74-.66-1.23-1.47-1.38-1.72-.14-.25-.01-.38.11-.51.11-.11.25-.29.37-.43.13-.14.17-.25.25-.41.08-.17.04-.31-.02-.43-.06-.12-.56-1.34-.76-1.84-.2-.48-.4-.42-.56-.43-.14 0-.31-.01-.47-.01a.9.9 0 0 0-.65.31c-.22.25-.86.84-.86 2.05 0 1.21.88 2.38 1 2.55.12.17 1.73 2.64 4.2 3.7.59.25 1.04.4 1.4.52.59.19 1.12.16 1.54.1.47-.07 1.47-.6 1.67-1.18.21-.58.21-1.07.14-1.18-.06-.1-.22-.16-.47-.28Z"/></svg>';
 
@@ -50,6 +52,7 @@
           '<span class="hero__badge">Ana Topluluk</span>' +
           '<div class="hero__name">' + esc(g.name) + "</div>" +
           '<p class="hero__desc">' + esc(g.description) + "</p>" +
+          (window.__communityNote || "") +
           '<div class="hero__actions">' +
             '<a class="btn btn--ghost" href="' + groupUrl(g.slug) + '">Konuşma geçmişini gör</a>' +
             '<a class="btn btn--join" href="' + esc(g.invite) + '" target="_blank" rel="noopener">' + WA_ICON + " Gruba Katıl</a>" +
@@ -58,6 +61,12 @@
       "</div>";
     document.getElementById("hero-slot").appendChild(el);
     loadLogo(el.querySelector(".hero__logo"), g.slug, g.emoji);
+  }
+
+  function memberInit(g) {
+    if (g.members == null) return statsHTML("—", "—", 0, 0);
+    var pct = Math.min(100, Math.round((g.members / SUBCAP) * 100));
+    return statsHTML(fmt(g.members), "—", pct, 0);
   }
 
   function buildCard(g) {
@@ -71,7 +80,7 @@
         "</div>" +
         '<p class="card__desc">' + esc(g.description) + "</p>" +
         '<div class="card__stats" id="stats-' + g.slug + '">' +
-          statsHTML("—", "—", 0, 0) +
+          memberInit(g) +
         "</div>" +
       "</a>" +
       '<div class="card__actions">' +
@@ -170,6 +179,27 @@
   function init(cfg) {
     var note = document.getElementById("intro-note");
     if (note) note.textContent = cfg.note || "";
+
+    SUBCAP = cfg.subgroupCap || 1024;
+
+    // Ana topluluk üye/limit notu (hero içinde gösterilecek)
+    if (cfg.communityMembers && cfg.communityCap) {
+      var full = cfg.communityMembers >= cfg.communityCap;
+      window.__communityNote =
+        '<div class="hero__cap">' +
+          '<span class="hero__capbadge">' + fmt(cfg.communityMembers) + " / " + fmt(cfg.communityCap) + " üye" +
+          (full ? " · Dolu" : "") + "</span>" +
+          (cfg.communityNote ? '<span class="hero__capnote">' + esc(cfg.communityNote) + "</span>" : "") +
+        "</div>";
+    }
+
+    // Alt grup limit açıklaması
+    var capNote = document.getElementById("cap-note");
+    if (capNote) {
+      capNote.textContent = "Her alt grup en fazla " + fmt(SUBCAP) +
+        " kişiliktir; üye barı bu limite göre doluyor.";
+    }
+
     safe(buildRules, cfg);
 
     var main = cfg.groups.filter(function (g) { return g.main; })[0];
@@ -190,10 +220,15 @@
       results.forEach(function (r) {
         var el = document.getElementById("stats-" + r.g.slug);
         if (!el) return;
-        if (!r.s) { el.innerHTML = statsHTML("—", "—", 0, 0); return; }
-        var mPct = Math.max(4, Math.round((r.s.members / maxM) * 100));
-        var sPct = Math.max(4, Math.round((r.s.messages / maxS) * 100));
-        el.innerHTML = statsHTML(fmt(r.s.members), fmt(r.s.messages), mPct, sPct);
+        // Üye: config'teki gerçek sayı (yoksa export'tan)
+        var mVal = (r.g.members != null) ? r.g.members : (r.s ? r.s.members : null);
+        var mTxt = (mVal != null) ? fmt(mVal) : "—";
+        var mPct = (mVal != null) ? Math.min(100, Math.round((mVal / SUBCAP) * 100)) : 0;
+        // Mesaj: export'tan
+        var sVal = r.s ? r.s.messages : null;
+        var sTxt = (sVal != null) ? fmt(sVal) : "—";
+        var sPct = (sVal != null) ? Math.max(4, Math.round((sVal / maxS) * 100)) : 0;
+        el.innerHTML = statsHTML(mTxt, sTxt, mPct, sPct);
       });
     });
 

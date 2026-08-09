@@ -176,10 +176,17 @@
     var logo = $("ch-logo");
     loadLogo(logo, g.slug, g.emoji);
 
-    if (stats) {
-      $("ch-meta").textContent = fmt(stats.memberCount) + " üye · " + fmt(stats.messageCount) + " mesaj";
-      $("s-members").textContent = fmt(stats.memberCount);
-      $("s-messages").textContent = fmt(stats.messageCount);
+    // Üye: config'teki gerçek sayı öncelikli (yoksa export'tan)
+    var memberCount = (g.members != null) ? g.members : (stats ? stats.memberCount : null);
+    var msgCount = stats ? stats.messageCount : null;
+
+    if (memberCount != null) $("s-members").textContent = fmt(memberCount);
+    if (msgCount != null) $("s-messages").textContent = fmt(msgCount);
+
+    if (memberCount != null && msgCount != null) {
+      $("ch-meta").textContent = fmt(memberCount) + " üye · " + fmt(msgCount) + " mesaj";
+    } else if (memberCount != null) {
+      $("ch-meta").textContent = fmt(memberCount) + " üye";
     } else {
       $("ch-meta").textContent = "konuşma geçmişi bekleniyor";
     }
