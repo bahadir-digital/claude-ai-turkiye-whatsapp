@@ -223,6 +223,25 @@ a { color: inherit; text-decoration: none; }
 .chat-empty, .chat-error { text-align: center; color: var(--ink-soft); padding: 46px 20px; font-size: 12.5px; }
 .chat-empty b { display: block; color: var(--ink); margin-bottom: 6px; font-size: 13px; font-weight: 600; }
 
+/* ---------- Kartvizit görünümü (tanışma grubu) ---------- */
+.vcards { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.vcard {
+  background: #fff; border: 1px solid var(--line); border-radius: 12px;
+  padding: 13px 14px; box-shadow: var(--shadow-sm);
+  display: flex; flex-direction: column; gap: 9px;
+}
+.vcard__head { display: flex; align-items: center; gap: 10px; }
+.vcard__av {
+  width: 34px; height: 34px; border-radius: 50%; flex: none;
+  display: grid; place-items: center; color: #fff; font-weight: 700; font-size: 12px;
+}
+.vcard__name { font-size: 13px; font-weight: 700; line-height: 1.25; }
+.vcard__body {
+  font-size: 12px; color: var(--ink-soft); line-height: 1.55;
+  white-space: pre-wrap; overflow-wrap: anywhere;
+}
+.vcard__body mark { background: #ffe57a; color: inherit; border-radius: 3px; padding: 0 1px; }
+
 .side { display: flex; flex-direction: column; gap: 14px; position: sticky; top: 16px; }
 .panel { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 15px; box-shadow: var(--shadow-sm); }
 .panel h3 { margin: 0 0 11px; font-size: 10.5px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--ink-soft); }
