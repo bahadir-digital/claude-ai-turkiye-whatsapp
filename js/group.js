@@ -60,7 +60,7 @@
       : '<span class="bubble__text">' + highlight(m.text, q) + "</span>";
     return (
       '<div class="msg"><div class="bubble">' +
-        '<span class="bubble__sender" style="color:' + colorFor(m.sender) + '">' + esc(maskName(m.sender)) + "</span>" +
+        '<span class="bubble__sender" style="color:' + colorFor(m.sender) + '">' + esc(state.cards ? m.sender : maskName(m.sender)) + "</span>" +
         inner +
         '<span class="bubble__time">' + timeLabel(m) + "</span>" +
       "</div></div>"
@@ -230,44 +230,86 @@
       map[m.sender].texts.push(m.text);
     }
     return order.map(function (s) { return map[s]; })
-                .filter(function (c) { return c.texts.length; });
+                .filter(function (c) {
+                  var t = c.texts.join(" ");
+                  // Anlamlı bir tanıtım olsun: ya biraz uzun ya da link/e-posta içersin
+                  return t.length >= 25 || /https?:\/\/|www\.|@[\w.-]+\.\w|[\w.-]+\.(com|net|org|io|co|dev|me|app|ai|tr|info)\b/i.test(t);
+                });
   }
 
-  function vcardHTML(c, q) {
+  // Metinden LinkedIn, site ve e-posta linklerini çıkarır.
+  function extractLinks(text) {
+    var out = [], seen = {}, mailDomains = {};
+    // E-postalar
+    (text.match(/[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}/gi) || []).forEach(function (e) {
+      var k = "m:" + e.toLowerCase();
+      if (seen[k]) return; seen[k] = 1;
+      mailDomains[e.split("@")[1].toLowerCase().replace(/\/$/, "")] = 1;
+      out.push({ url: "mailto:" + e, label: e, kind: "mail" });
+    });
+    // URL'ler (http, www veya çıplak alan adı)
+    var re = /((?:https?:\/\/)?(?:www\.)?[a-z0-9][a-z0-9-]*(?:\.[a-z0-9-]+)+(?:\/[^\s)]*)?)/gi, m;
+    while ((m = re.exec(text))) {
+      var raw = m[1];
+      if (raw.indexOf("@") > -1) continue; // e-posta parçalarını atla
+      if (!/\.(com|net|org|io|co|dev|me|app|ai|gov|edu|info|xyz|site|online|blog|tr|com\.tr|web\.tr|net\.tr|org\.tr)(\/|$)/i.test(raw)) continue;
+      var bare = raw.replace(/^https?:\/\//i, "").replace(/^www\./i, "").replace(/\/$/, "").toLowerCase();
+      if (mailDomains[bare]) continue; // e-posta alan adıyla aynıysa tekrar gösterme
+      var url = /^https?:\/\//i.test(raw) ? raw : "https://" + raw.replace(/^www\./i, "");
+      var k2 = "u:" + url.toLowerCase().replace(/\/$/, "");
+      if (seen[k2]) continue; seen[k2] = 1;
+      var isLi = /linkedin\.com/i.test(raw);
+      out.push({
+        url: url,
+        label: isLi ? "LinkedIn" : raw.replace(/^https?:\/\//i, "").replace(/^www\./i, "").replace(/\/$/, ""),
+        kind: isLi ? "linkedin" : "web"
+      });
+    }
+    // LinkedIn'i öne al
+    out.sort(function (a, b) { return (a.kind === "linkedin" ? -1 : 0) - (b.kind === "linkedin" ? -1 : 0); });
+    return out;
+  }
+
+  var LINK_ICON = {
+    linkedin: '<svg viewBox="0 0 24 24" class="biz-ico"><path d="M4.98 3.5A2.5 2.5 0 1 0 5 8.5a2.5 2.5 0 0 0-.02-5ZM3 9h4v12H3zM9 9h3.8v1.7h.05c.53-1 1.83-2.05 3.77-2.05 4.03 0 4.78 2.65 4.78 6.1V21H20.6v-5.3c0-1.26-.02-2.9-1.77-2.9-1.77 0-2.04 1.38-2.04 2.8V21H13V9Z"/></svg>',
+    web: '<svg viewBox="0 0 24 24" class="biz-ico"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.5a15 15 0 0 0-1.1-3.1A8 8 0 0 1 18.9 8ZM12 4c.7 0 1.6 1.4 2.1 4H9.9C10.4 5.4 11.3 4 12 4ZM4.3 14a8 8 0 0 1 0-4h2.9a17 17 0 0 0 0 4Zm.8 2h2.5c.3 1.2.7 2.2 1.1 3.1A8 8 0 0 1 5.1 16Zm2.5-8H5.1a8 8 0 0 1 3.6-3.1C8.3 5.8 7.9 6.8 7.6 8ZM12 20c-.7 0-1.6-1.4-2.1-4h4.2c-.5 2.6-1.4 4-2.1 4Zm2.4-6H9.6a15 15 0 0 1 0-4h4.8a15 15 0 0 1 0 4Zm.4 5.1c.4-.9.8-1.9 1.1-3.1h2.5a8 8 0 0 1-3.6 3.1ZM16.8 14a17 17 0 0 0 0-4h2.9a8 8 0 0 1 0 4Z"/></svg>',
+    mail: '<svg viewBox="0 0 24 24" class="biz-ico"><path d="M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm0 2 8 5 8-5H4Zm16 12V8l-8 5-8-5v10h16Z"/></svg>'
+  };
+
+  function bizCardHTML(c, q) {
+    var full = c.texts.join("\n");
+    var links = extractLinks(full);
+    var chips = links.map(function (l) {
+      return '<a class="biz-chip biz-chip--' + l.kind + '" href="' + esc(l.url) + '" target="_blank" rel="noopener">' +
+        (LINK_ICON[l.kind] || "") + '<span>' + esc(l.label) + "</span></a>";
+    }).join("");
     return (
-      '<div class="vcard">' +
-        '<div class="vcard__head">' +
-          '<span class="vcard__av" style="background:' + colorFor(c.name) + '">' + esc(initials(c.name)) + "</span>" +
-          '<span class="vcard__name">' + esc(c.name) + "</span>" +
+      '<article class="biz">' +
+        '<div class="biz__accent"></div>' +
+        '<div class="biz__inner">' +
+          '<div class="biz__head">' +
+            '<span class="biz__av" style="background:' + colorFor(c.name) + '">' + esc(initials(c.name)) + "</span>" +
+            '<div class="biz__name">' + esc(c.name) + "</div>" +
+          "</div>" +
+          '<div class="biz__bio">' + highlight(full, q) + "</div>" +
+          (chips ? '<div class="biz__links">' + chips + "</div>" : "") +
         "</div>" +
-        '<div class="vcard__body">' + highlight(c.texts.join("\n"), q) + "</div>" +
-      "</div>"
+      "</article>"
     );
   }
 
-  function renderCards(q) {
-    var chat = $("chat");
+  function renderBizCards() {
+    var slot = document.getElementById("cards-slot");
+    if (!slot) return;
     var data = buildCardsData();
-    if (q) {
-      var ql = q.toLocaleLowerCase("tr");
-      data = data.filter(function (c) {
-        return (c.name + " " + c.texts.join(" ")).toLocaleLowerCase("tr").indexOf(ql) > -1;
-      });
-    }
-    $("search-count").textContent = data.length + " kişi";
-    if (!data.length) {
-      chat.innerHTML = '<div class="chat-empty"><b>' + (q ? "Sonuç yok" : "Henüz kartvizit yok") + "</b>" +
-        (q ? '"' + esc(q) + '" için kişi bulunamadı.'
-           : "Bu grubun konuşma geçmişi eklendiğinde kartvizitler burada görünecek.") + "</div>";
-      return;
-    }
-    chat.innerHTML = '<div class="vcards">' + data.map(function (c) { return vcardHTML(c, q); }).join("") + "</div>";
-    chat.scrollTop = 0;
+    if (!data.length) { slot.innerHTML = ""; return; }
+    slot.innerHTML =
+      '<section class="bizsec">' +
+        '<div class="bizsec__head"><h2>Kartvizitler</h2>' +
+          '<span>' + data.length + " kişi kendini tanıttı</span></div>" +
+        '<div class="bizgrid">' + data.map(function (c) { return bizCardHTML(c, null); }).join("") + "</div>" +
+      "</section>";
   }
-
-  // Düzen seçimi: cards mı normal sohbet mi?
-  function renderMain() { if (state.cards) renderCards(); else renderInitial(); }
-  function renderQuery(q) { if (state.cards) renderCards(q); else renderSearch(q); }
 
   // --- Başlat ---
   var slug = param("g");
@@ -282,33 +324,35 @@
       state.cards = g.layout === "cards";
       setHeader(g, null);
       if (state.cards) {
-        var box = $("search");
-        if (box) box.placeholder = "Kişilerde ara…";
+        // Kartvizit sayfasında "en çok katkı" panelini gizle
+        var cpanel = document.getElementById("contrib");
+        if (cpanel && cpanel.closest(".panel")) cpanel.closest(".panel").style.display = "none";
       }
 
       return fetch("data/chats/" + slug + ".txt", { cache: "no-cache" }).then(function (r) {
-        if (!r.ok) { setHeader(g, null); renderMain(); return; }
+        if (!r.ok) { setHeader(g, null); renderInitial(); return; }
         return r.text().then(function (txt) {
-          if (!txt.trim()) { renderMain(); return; }
+          if (!txt.trim()) { renderInitial(); return; }
           var p = WAParser.parse(txt, cfg.privacy || {});
           state.all = p.messages;
           setHeader(g, { memberCount: p.memberCount, messageCount: p.messageCount });
-          renderContributors(p.contributors);
-          renderMain();
+          if (state.cards) { renderBizCards(); }
+          else { renderContributors(p.contributors); }
+          renderInitial();
         });
       });
     })
     .catch(function () { showError("Veriler yüklenemedi."); });
 
-  // Arama (debounce)
+  // Arama (debounce) — sohbeti filtreler
   var t = null;
   document.addEventListener("input", function (e) {
     if (e.target.id !== "search") return;
     clearTimeout(t);
     var q = e.target.value.trim();
     t = setTimeout(function () {
-      if (!q) { $("search-count").textContent = ""; renderMain(); }
-      else renderQuery(q);
+      if (!q) { $("search-count").textContent = ""; renderInitial(); }
+      else renderSearch(q);
     }, 180);
   });
 })();
