@@ -1,8 +1,8 @@
-[2.03.2026 20:51:49] Claude Projects 🚀📊: ‎Claude Projects 🚀📊 grubunu oluşturdunuz
-[2.03.2026 20:51:49] Claude Projects 🚀📊: ‎Mesajlar ve aramalar uçtan uca şifrelidir. Yalnızca bu sohbetteki kişiler bu içerikleri okuyabilir, dinleyebilir veya paylaşabilir.
-[2.03.2026 20:53:28] Claude Projects 🚀📊: ‎Grup açıklamasını değiştirdiniz
-[2.03.2026 20:53:38] Claude Projects 🚀📊: ‎Alaattin Erdemli, Kartal Tıknaz ve 2diğer kişiyi eklediniz
-[2.03.2026 20:54:36] Claude Projects 🚀📊: ‎Grup adını "Claude Projects 🚀📊" olarak değiştirdiniz
+[2.03.2026 20:51:48] Claude Projects 🚀📊: ‎Claude Projects 🚀📊 grubunu oluşturdunuz
+[2.03.2026 20:51:48] Claude Projects 🚀📊: ‎Mesajlar ve aramalar uçtan uca şifrelidir. Yalnızca bu sohbetteki kişiler bu içerikleri okuyabilir, dinleyebilir veya paylaşabilir.
+[2.03.2026 20:53:27] Claude Projects 🚀📊: ‎Grup açıklamasını değiştirdiniz
+[2.03.2026 20:53:38] Claude Projects 🚀📊: ‎Alaattin Erdemli, Kartal Tıknaz ve 2 diğer kişiyi eklediniz
+[2.03.2026 20:54:35] Claude Projects 🚀📊: ‎Grup adını "Claude Projects 🚀📊" olarak değiştirdiniz
 [2.03.2026 21:10:34] Kürşat Koca: ‎Kürşat Koca topluluk üzerinden katıldı
 [2.03.2026 21:13:35] Niyazi Öksüzoğlu: ‎Niyazi Öksüzoğlu topluluk üzerinden katıldı
 [2.03.2026 21:15:20] Berke Ocak: ‎Berke Ocak topluluk üzerinden katıldı
@@ -11,13 +11,13 @@
 [2.03.2026 21:38:13] Melih Aslıhan: ‎Melih Aslıhan topluluk üzerinden katıldı
 [2.03.2026 21:39:28] Pascal Baerlocher: ‎Pascal Baerlocher topluluk üzerinden katıldı
 [2.03.2026 21:39:53] Emre Dolkundarı: ‎Emre Dolkundarı topluluk üzerinden katıldı
-‎[2.03.2026 21:41:36] Bahadır: Projelerim böyle görünüyor :) hepsi eğitilmiş birer canavar. Artık bir işi ekipteki arkadaşlarımdan değil, bu ajanlardan istiyorum. Tam istediğim gibi detaylı bir raporu, analizi, sunumu 5 dakikada veriyor ‎görüntü dahil edilmedi
+‎[2.03.2026 21:41:35] Bahadır Eren: Projelerim böyle görünüyor :) hepsi eğitilmiş birer canavar. Artık bir işi ekipteki arkadaşlarımdan değil, bu ajanlardan istiyorum. Tam istediğim gibi detaylı bir raporu, analizi, sunumu 5 dakikada veriyor ‎görüntü dahil edilmedi
 [2.03.2026 21:41:46] ~ Mustafa: ‎~ Mustafa topluluk üzerinden katıldı
 [2.03.2026 21:44:38] Sadık Iriş: ‎Sadık Iriş topluluk üzerinden katıldı
 [2.03.2026 21:45:42] Arzu Kalkan: ‎Arzu Kalkan topluluk üzerinden katıldı
 [2.03.2026 21:50:30] Semra Turkmen: ‎Semra Turkmen topluluk üzerinden katıldı
 [2.03.2026 21:51:47] Alper Altun: ‎Alper Altun topluluk üzerinden katıldı
-[2.03.2026 21:55:15] ‪+90 541 250 08 50‬: ‎‪+90 541 250 08 50‬ topluluk üzerinden katıldı
+[2.03.2026 21:55:15] ~ Erhan: ‎~ Erhan topluluk üzerinden katıldı
 [2.03.2026 21:55:29] ~ EA: ‎~ EA topluluk üzerinden katıldı
 [2.03.2026 22:02:39] Mert Medetoğlu: ‎Mert Medetoğlu topluluk üzerinden katıldı
 [2.03.2026 22:03:00] Cem Aktan: ‎Cem Aktan topluluk üzerinden katıldı
@@ -28,7 +28,7 @@
 [2.03.2026 22:31:55] Ümran Aktepe: ‎Ümran Aktepe topluluk üzerinden katıldı
 [2.03.2026 22:34:04] ‪+90 507 831 80 33‬: ‎‪+90 507 831 80 33‬ topluluk üzerinden katıldı
 [2.03.2026 22:36:51] Okan Fidanlı: ‎Okan Fidanlı topluluk üzerinden katıldı
-[2.03.2026 22:45:13] Bahadır: İçlerinde gerçekten gündelik hayatta işinizi 5x hızlandıracak promptlar var. Özellikle excel ve office ile çok çalışanlar için: https://platform.claude.com/docs/en/resources/prompt-library/library
+[2.03.2026 22:45:12] Bahadır Eren: İçlerinde gerçekten gündelik hayatta işinizi 5x hızlandıracak promptlar var. Özellikle excel ve office ile çok çalışanlar için: https://platform.claude.com/docs/en/resources/prompt-library/library
 [2.03.2026 22:51:56] Recep Göçen: ‎Recep Göçen topluluk üzerinden katıldı
 [2.03.2026 22:54:32] Zeynep Güler: ‎Zeynep Güler topluluk üzerinden katıldı
 [2.03.2026 23:01:39] Kadir Sinan Dönmez: ‎Kadir Sinan Dönmez topluluk üzerinden katıldı
@@ -72,13 +72,13 @@
 [3.03.2026 11:00:45] ~ Gamze Kışçı Aslan: ‎~ Gamze Kışçı Aslan topluluk üzerinden katıldı
 [3.03.2026 11:21:20] ~ Şule: ‎~ Şule topluluk üzerinden katıldı
 [3.03.2026 11:31:56] Gürkan Göl: ‎Gürkan Göl topluluk üzerinden katıldı
-[3.03.2026 11:36:20] Bahadır: İçlerinde gerçekten gündelik hayatta işinizi 5x hızlandıracak promptlar var. Özellikle excel ve office ile çok çalışanlar için: https://platform.claude.com/docs/en/resources/prompt-library/library
+[3.03.2026 11:36:19] Bahadır Eren: İçlerinde gerçekten gündelik hayatta işinizi 5x hızlandıracak promptlar var. Özellikle excel ve office ile çok çalışanlar için: https://platform.claude.com/docs/en/resources/prompt-library/library
 [3.03.2026 11:44:13] Merih Tüdiş: ‎Merih Tüdiş topluluk üzerinden katıldı
 [3.03.2026 12:12:49] Veysel Dalga: Çok teşekkür ederim, iş konusunda işime çok yarayacak.
 [3.03.2026 13:14:34] Gurkan Oktay: ‎Gurkan Oktay topluluk üzerinden katıldı
 [3.03.2026 13:35:15] ~ Ender Terzioglu: ‎~ Ender Terzioglu topluluk üzerinden katıldı
 [3.03.2026 14:16:03] ‪+90 534 832 10 02‬: ‎‪+90 534 832 10 02‬ topluluk üzerinden katıldı
-[3.03.2026 16:28:23] ‪+90 553 676 58 81‬: ‎‪+90 553 676 58 81‬ topluluk üzerinden katıldı
+[3.03.2026 16:28:23] ~ Abdullah Kaynar: ‎~ Abdullah Kaynar topluluk üzerinden katıldı
 [3.03.2026 17:17:12] ‪+90 534 832 10 02‬: ‎‪+90 534 832 10 02‬ ayrıldı
 [3.03.2026 17:27:02] ‪+90 551 215 02 16‬: ‎‪+90 551 215 02 16‬ topluluk üzerinden katıldı
 [3.03.2026 18:45:23] ~ Gözde Yavuz Doğan: ‎~ Gözde Yavuz Doğan topluluk üzerinden katıldı
@@ -95,7 +95,7 @@
 [4.03.2026 18:06:22] Berke Sevim: ‎Berke Sevim topluluk üzerinden katıldı
 [4.03.2026 18:27:27] Burak Ergül: ‎Burak Ergül topluluk üzerinden katıldı
 [4.03.2026 19:08:46] Oğuzhan ırvanalıoğlu: ‎Oğuzhan ırvanalıoğlu topluluk üzerinden katıldı
-‎[4.03.2026 20:37:37] Bahadır: ‎görüntü dahil edilmedi
+‎[4.03.2026 20:37:36] Bahadır Eren: ‎görüntü dahil edilmedi
 [4.03.2026 20:49:58] ~ Serkan Koyun: ‎~ Serkan Koyun topluluk üzerinden katıldı
 [4.03.2026 21:01:00] ~ Demet Yel: ‎~ Demet Yel topluluk üzerinden katıldı
 [4.03.2026 21:18:10] ~ Ayberk: ‎~ Ayberk topluluk üzerinden katıldı
@@ -106,7 +106,7 @@
 [4.03.2026 23:41:58] Hülya Yalçın: ‎Hülya Yalçın topluluk üzerinden katıldı
 [4.03.2026 23:51:55] ‪+90 532 637 54 97‬: ‎‪+90 532 637 54 97‬ topluluk üzerinden katıldı
 [4.03.2026 23:56:23] ~ Oğuzhan Uygul: ‎~ Oğuzhan Uygul topluluk üzerinden katıldı
-[5.03.2026 01:06:27] ‪+90 553 676 58 81‬: ‎‪+90 553 676 58 81‬ ayrıldı
+[5.03.2026 01:06:27] ~ Abdullah Kaynar: ‎~ Abdullah Kaynar ayrıldı
 [5.03.2026 08:10:59] ~ Zafer Çalışkan: ‎~ Zafer Çalışkan topluluk üzerinden katıldı
 [5.03.2026 10:06:30] ‪+90 532 682 53 39‬: ‎‪+90 532 682 53 39‬ topluluk üzerinden katıldı
 [5.03.2026 10:48:58] Emre Özdemir - cloudmetrik: ‎Emre Özdemir - cloudmetrik topluluk üzerinden katıldı
@@ -120,7 +120,7 @@
 [6.03.2026 08:59:55] ‪+90 532 562 14 81‬: ‎‪+90 532 562 14 81‬ topluluk üzerinden katıldı
 [6.03.2026 09:48:59] ‪+90 531 781 99 72‬: ‎‪+90 531 781 99 72‬ topluluk üzerinden katıldı
 [6.03.2026 10:11:13] ~ Elif Kirmizikan: ‎~ Elif Kirmizikan topluluk üzerinden katıldı
-[6.03.2026 15:17:50] ‪+90 555 371 97 57‬: ‎‪+90 555 371 97 57‬ topluluk üzerinden katıldı
+[6.03.2026 15:17:50] ~ ,: ‎~ , topluluk üzerinden katıldı
 [6.03.2026 16:05:03] ‪+90 531 797 73 19‬: ‎‪+90 531 797 73 19‬ topluluk üzerinden katıldı
 [6.03.2026 18:07:58] ~ Erdi: ‎~ Erdi topluluk üzerinden katıldı
 [7.03.2026 11:35:19] ~ Oğuzhan Oruç: ‎~ Oğuzhan Oruç topluluk üzerinden katıldı
@@ -148,7 +148,7 @@ Ersan
 [10.03.2026 13:19:39] ~ EA: ‎~ EA ayrıldı
 [10.03.2026 15:44:04] ~ Cem Güngör: ‎~ Cem Güngör topluluk üzerinden katıldı
 [10.03.2026 21:22:13] ‪+90 544 214 93 96‬: ‎‪+90 544 214 93 96‬ topluluk üzerinden katıldı
-[11.03.2026 04:49:38] ‪+90 535 465 03 23‬: ‎‪+90 535 465 03 23‬ topluluk üzerinden katıldı
+[11.03.2026 04:49:38] ⁦@gizemcobann⁩: ‎⁦@gizemcobann⁩ topluluk üzerinden katıldı
 [11.03.2026 09:09:36] Serhan Backend: ‎Serhan Backend topluluk üzerinden katıldı
 [11.03.2026 10:50:37] ‪+90 551 606 37 38‬: ‎‪+90 551 606 37 38‬ topluluk üzerinden katıldı
 [11.03.2026 11:34:23] Hülya Demir: ‎Hülya Demir topluluk üzerinden katıldı
@@ -201,7 +201,7 @@ Teşekkürler!
 [22.03.2026 11:38:23] ~ Tansel: ‎~ Tansel topluluk üzerinden katıldı
 [22.03.2026 12:27:27] ‪+90 535 682 86 57‬: ‎‪+90 535 682 86 57‬ topluluk üzerinden katıldı
 [22.03.2026 14:46:48] ~ Mehmet Ergül: ‎~ Mehmet Ergül topluluk üzerinden katıldı
-[22.03.2026 15:21:28] ‪+90 553 169 49 65‬: ‎‪+90 553 169 49 65‬ topluluk üzerinden katıldı
+[22.03.2026 15:21:28] ~ Musa: ‎~ Musa topluluk üzerinden katıldı
 [22.03.2026 18:33:36] ~ Semih: Arkadaşlar Claude ile bir 2048 oyunu yaptım Telegram'da, denemek isterseniz buyrun 😄
 
 https://t.me/puzzle2048_stars_bot
@@ -292,15 +292,15 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [7.06.2026 09:46:15] ~ İbrahim Aktaş: ‎~ İbrahim Aktaş topluluk üzerinden katıldı
 [7.06.2026 09:51:49] ‪+90 507 022 28 20‬: ‎‪+90 507 022 28 20‬ topluluk üzerinden katıldı
 [7.06.2026 10:03:50] ‪+90 555 515 68 23‬: ‎‪+90 555 515 68 23‬ topluluk üzerinden katıldı
-[7.06.2026 10:04:10] ~ Salih Yıldız: ‎~ Salih Yıldız topluluk üzerinden katıldı
+[7.06.2026 10:04:10] Salih Yıldız: ‎Salih Yıldız topluluk üzerinden katıldı
 [7.06.2026 10:11:21] ~ Murat: ‎~ Murat topluluk üzerinden katıldı
 [7.06.2026 10:19:48] ~ Erol: ‎~ Erol topluluk üzerinden katıldı
 [7.06.2026 10:48:45] ~ İbrahim: ‎~ İbrahim topluluk üzerinden katıldı
 [7.06.2026 10:59:49] ~ Erdem: ‎~ Erdem topluluk üzerinden katıldı
 [7.06.2026 11:14:51] ‪+90 554 202 34 17‬: ‎‪+90 554 202 34 17‬ topluluk üzerinden katıldı
 [7.06.2026 11:24:12] ~ kedimuhendisi: ‎~ kedimuhendisi bir grup bağlantısıyla katıldı
-[7.06.2026 11:24:15] ~ 🌲: ‎~ 🌲 bir grup bağlantısıyla katıldı
-[7.06.2026 11:28:26] ‪+90 553 676 58 81‬: ‎‪+90 553 676 58 81‬ bir grup bağlantısıyla katıldı
+[7.06.2026 11:24:15] ~ 🌲🫎: ‎~ 🌲🫎 bir grup bağlantısıyla katıldı
+[7.06.2026 11:28:26] ~ Abdullah Kaynar: ‎~ Abdullah Kaynar bir grup bağlantısıyla katıldı
 [7.06.2026 11:40:19] ~ Miralem Doğan Aktas: ‎~ Miralem Doğan Aktas topluluk üzerinden katıldı
 [7.06.2026 11:43:19] ~ Şeref Ege: ‎~ Şeref Ege topluluk üzerinden katıldı
 [7.06.2026 12:08:52] ‪+90 537 446 93 06‬: ‎‪+90 537 446 93 06‬ topluluk üzerinden katıldı
@@ -314,24 +314,24 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [7.06.2026 13:34:30] ‪+90 543 934 62 84‬: ‎‪+90 543 934 62 84‬ topluluk üzerinden katıldı
 [7.06.2026 14:00:30] ~ Hilâl: ‎~ Hilâl bir grup bağlantısıyla katıldı
 [7.06.2026 14:08:42] ~ Metin B: ‎~ Metin B ayrıldı
-[7.06.2026 14:11:54] ‪+90 530 062 02 16‬: ‎‪+90 530 062 02 16‬ topluluk üzerinden katıldı
+[7.06.2026 14:11:54] ~ Mehmet Enes Parlak: ‎~ Mehmet Enes Parlak topluluk üzerinden katıldı
 [7.06.2026 14:34:55] ~ Serkan: ‎~ Serkan topluluk üzerinden katıldı
-[7.06.2026 14:50:16] ‪+90 532 775 86 02‬: ‎‪+90 532 775 86 02‬ topluluk üzerinden katıldı
+[7.06.2026 14:50:16] ~ Baran Yünlü: ‎~ Baran Yünlü topluluk üzerinden katıldı
 [7.06.2026 15:02:44] ~ Murat: ‎~ Murat topluluk üzerinden katıldı
 [7.06.2026 15:08:10] ‪+90 536 509 36 82‬: ‎‪+90 536 509 36 82‬ topluluk üzerinden katıldı
 [7.06.2026 15:17:42] ‪+90 542 387 90 22‬: ‎‪+90 542 387 90 22‬ bir grup bağlantısıyla katıldı
 [7.06.2026 15:47:35] ~ Sinem Işık: ‎~ Sinem Işık ayrıldı
 [7.06.2026 17:16:27] ‪+90 532 163 87 58‬: ‎‪+90 532 163 87 58‬ topluluk üzerinden katıldı
 [7.06.2026 17:23:13] ‪+90 536 337 92 25‬: ‎‪+90 536 337 92 25‬ topluluk üzerinden katıldı
-[7.06.2026 18:36:59] ‪+90 530 607 05 90‬: ‎‪+90 530 607 05 90‬ topluluk üzerinden katıldı
+[7.06.2026 18:36:59] ~ Burak: ‎~ Burak topluluk üzerinden katıldı
 [7.06.2026 18:58:04] ~ Sedat Can: ‎~ Sedat Can topluluk üzerinden katıldı
 [7.06.2026 19:23:01] ~ Kivanc SOLAK: ‎~ Kivanc SOLAK topluluk üzerinden katıldı
 [7.06.2026 19:24:06] ~ 𝓐𝑠𝑎𝑤𝑒𝑟 🕊️: ‎~ 𝓐𝑠𝑎𝑤𝑒𝑟 🕊️ topluluk üzerinden katıldı
 [7.06.2026 19:32:02] ~ Pınar: ‎~ Pınar topluluk üzerinden katıldı
 [7.06.2026 20:08:54] ~ Ersin S.: ‎~ Ersin S. topluluk üzerinden katıldı
 [7.06.2026 21:32:11] ~ Deniz: ‎~ Deniz topluluk üzerinden katıldı
-[7.06.2026 21:51:31] ~ Mustafa Alkan: ‎~ Mustafa Alkan topluluk üzerinden katıldı
-[7.06.2026 22:06:21] ‪+1 (437) 766‑8983‬: ‎‪+1 (437) 766‑8983‬ topluluk üzerinden katıldı
+[7.06.2026 21:51:31] Mustafa Alkan: ‎Mustafa Alkan topluluk üzerinden katıldı
+[7.06.2026 22:06:21] ~ HKN: ‎~ HKN topluluk üzerinden katıldı
 [7.06.2026 22:43:41] ~ Yusuf: ‎~ Yusuf topluluk üzerinden katıldı
 [7.06.2026 23:02:36] ~ Can Karaduman: ‎~ Can Karaduman topluluk üzerinden katıldı
 [7.06.2026 23:53:17] ~ İlter Yazar: ‎~ İlter Yazar topluluk üzerinden katıldı
@@ -355,7 +355,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [8.06.2026 11:06:04] ~ ...: ‎~ ... topluluk üzerinden katıldı
 [8.06.2026 11:06:17] ~ Cto: ‎~ Cto topluluk üzerinden katıldı
 [8.06.2026 11:15:59] ‪+90 506 586 46 18‬: ‎‪+90 506 586 46 18‬ topluluk üzerinden katıldı
-[8.06.2026 12:38:27] ‪+90 542 288 68 04‬: ‎‪+90 542 288 68 04‬ bir grup bağlantısıyla katıldı
+[8.06.2026 12:38:27] ⁦@iclaltun⁩: ‎⁦@iclaltun⁩ bir grup bağlantısıyla katıldı
 [8.06.2026 12:47:07] ~ .: ‎~ . topluluk üzerinden katıldı
 [8.06.2026 12:47:15] ~ Erdoğan: ‎~ Erdoğan topluluk üzerinden katıldı
 [8.06.2026 13:04:13] ~ Ufuk Koç: ‎~ Ufuk Koç topluluk üzerinden katıldı
@@ -367,7 +367,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [8.06.2026 21:23:33] ~ Kaan Nalbant: ‎~ Kaan Nalbant topluluk üzerinden katıldı
 [8.06.2026 22:21:19] ~ Hakki: ‎~ Hakki topluluk üzerinden katıldı
 [9.06.2026 07:56:28] ~ İpek Bilge: ‎~ İpek Bilge topluluk üzerinden katıldı
-[9.06.2026 11:49:02] ‪+90 538 926 26 99‬: ‎‪+90 538 926 26 99‬ topluluk üzerinden katıldı
+[9.06.2026 11:49:02] ~ Ömer MISIRLI: ‎~ Ömer MISIRLI topluluk üzerinden katıldı
 [9.06.2026 12:41:31] ~ ozcanbozkus: ‎~ ozcanbozkus topluluk üzerinden katıldı
 [9.06.2026 13:49:48] Serkut Doğan: ‎Serkut Doğan topluluk üzerinden katıldı
 [9.06.2026 16:44:21] ~ Umut: ‎~ Umut topluluk üzerinden katıldı
@@ -383,7 +383,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [10.06.2026 16:28:15] ~ EYMEN  ALİ: ‎~ EYMEN  ALİ topluluk üzerinden katıldı
 [10.06.2026 18:21:31] ~ Gökçe Urhan: ‎~ Gökçe Urhan ayrıldı
 [10.06.2026 21:55:24] ~ Selvi: ‎~ Selvi topluluk üzerinden katıldı
-[11.06.2026 08:48:46] ‪+90 532 292 49 39‬: ‎‪+90 532 292 49 39‬ topluluk üzerinden katıldı
+[11.06.2026 08:48:46] ~ İsmail Hakkı Yılmaz: ‎~ İsmail Hakkı Yılmaz topluluk üzerinden katıldı
 [11.06.2026 17:38:39] ~ Seyyah ....Globe-Trotteur: ‎~ Seyyah ....Globe-Trotteur ayrıldı
 [11.06.2026 21:11:24] ~ Kerim Sağdıç: ‎~ Kerim Sağdıç bir grup bağlantısıyla katıldı
 [12.06.2026 08:55:39] Onur Sayin: ‎Onur Sayin topluluk üzerinden katıldı
@@ -404,8 +404,8 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [22.06.2026 05:10:00] ‪+90 535 044 87 88‬: ‎‪+90 535 044 87 88‬ topluluk üzerinden katıldı
 [22.06.2026 08:23:50] ‪+90 539 200 28 17‬: ‎‪+90 539 200 28 17‬ topluluk üzerinden katıldı
 [22.06.2026 09:32:23] Burç Sezişli: ‎Burç Sezişli topluluk üzerinden katıldı
-[22.06.2026 09:58:18] ‪+90 551 934 20 30‬: ‎‪+90 551 934 20 30‬ topluluk üzerinden katıldı
-[22.06.2026 10:22:06] ‪+90 553 943 43 43‬: ‎‪+90 553 943 43 43‬ topluluk üzerinden katıldı
+[22.06.2026 09:58:18] ~ Av. Güneş Ayberk Arifoğlu: ‎~ Av. Güneş Ayberk Arifoğlu topluluk üzerinden katıldı
+[22.06.2026 10:22:06] ⁦@drakifonur⁩: ‎⁦@drakifonur⁩ topluluk üzerinden katıldı
 [22.06.2026 12:18:52] ‪+90 542 519 44 28‬: ‎‪+90 542 519 44 28‬ topluluk üzerinden katıldı
 [22.06.2026 15:29:02] ‪+90 535 044 87 88‬: ‎‪+90 535 044 87 88‬ ayrıldı
 [22.06.2026 22:17:19] ‪+90 553 655 98 11‬: ‎‪+90 553 655 98 11‬ ayrıldı
@@ -416,7 +416,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [23.06.2026 16:26:28] ~ Alperen: ‎~ Alperen topluluk üzerinden katıldı
 [23.06.2026 20:39:26] ~ Erdi Akkus: ‎~ Erdi Akkus topluluk üzerinden katıldı
 [23.06.2026 20:56:14] ~ Fatih ŞAHAN: ‎~ Fatih ŞAHAN topluluk üzerinden katıldı
-[23.06.2026 22:37:42] ‪+90 530 911 98 91‬: ‎‪+90 530 911 98 91‬ topluluk üzerinden katıldı
+[23.06.2026 22:37:42] ~ Orhan Kemal ASLAN: ‎~ Orhan Kemal ASLAN topluluk üzerinden katıldı
 [23.06.2026 22:54:23] ~ Rumeysa: ‎~ Rumeysa topluluk üzerinden katıldı
 [24.06.2026 00:42:33] ~ Korhan: ‎~ Korhan topluluk üzerinden katıldı
 [24.06.2026 10:58:00] ‪+90 507 732 20 73‬: ‎‪+90 507 732 20 73‬ topluluk üzerinden katıldı
@@ -436,9 +436,9 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [24.06.2026 20:04:27] ~ il_ han: ‎~ il_ han topluluk üzerinden katıldı
 [24.06.2026 20:48:31] ‪+90 535 340 49 48‬: ‎‪+90 535 340 49 48‬ topluluk üzerinden katıldı
 [24.06.2026 20:49:29] ~ Bilgin: ‎~ Bilgin topluluk üzerinden katıldı
-[24.06.2026 20:58:47] ~ Ich: ‎~ Ich topluluk üzerinden katıldı
+[24.06.2026 20:58:47] ~ Bünyamin: ‎~ Bünyamin topluluk üzerinden katıldı
 [24.06.2026 21:32:19] ‪+90 536 770 75 37‬: ‎‪+90 536 770 75 37‬ topluluk üzerinden katıldı
-[25.06.2026 00:18:55] ‪+90 532 257 01 28‬: ‎‪+90 532 257 01 28‬ topluluk üzerinden katıldı
+[25.06.2026 00:18:55] ~ Semih Aydın: ‎~ Semih Aydın topluluk üzerinden katıldı
 [25.06.2026 01:07:22] ~ Özlem Ersoylu Mutluer: ‎~ Özlem Ersoylu Mutluer topluluk üzerinden katıldı
 [25.06.2026 07:32:59] ‪+90 535 340 49 48‬: ‎‪+90 535 340 49 48‬ ayrıldı
 [25.06.2026 09:33:53] ‪+90 531 455 90 39‬: ‎‪+90 531 455 90 39‬ topluluk üzerinden katıldı
@@ -486,7 +486,7 @@ Steam clouds ve steam api konusunda claudeden yardım aldığım Cozy tarzda gü
 [28.06.2026 18:04:13] Tahsin Dinçer: ‎Tahsin Dinçer topluluk üzerinden katıldı
 [28.06.2026 19:03:12] ~ Emre Sarısoy: ‎~ Emre Sarısoy topluluk üzerinden katıldı
 [28.06.2026 19:15:29] ~ Şeref: ‎~ Şeref bir grup bağlantısıyla katıldı
-[28.06.2026 19:15:53] ‪+44 7765 473187‬: ‎‪+44 7765 473187‬ topluluk üzerinden katıldı
+[28.06.2026 19:15:53] ~ Zehra: ‎~ Zehra topluluk üzerinden katıldı
 [28.06.2026 20:06:02] ‪+90 532 701 43 15‬: ‎‪+90 532 701 43 15‬ ayrıldı
 [28.06.2026 20:50:24] ~ Muammer: ‎~ Muammer ayrıldı
 [28.06.2026 21:09:25] ~ Ad Astra: ‎~ Ad Astra topluluk üzerinden katıldı
@@ -504,29 +504,29 @@ https://www.linkedin.com/company/arthurlegal-claude/
 [28.06.2026 22:35:50] ~ Melisa: ‎~ Melisa topluluk üzerinden katıldı
 [28.06.2026 22:37:04] ‪+90 553 621 19 90‬: ‎‪+90 553 621 19 90‬ topluluk üzerinden katıldı
 [28.06.2026 23:24:26] ~ Emre Köymen: ‎~ Emre Köymen topluluk üzerinden katıldı
-[28.06.2026 23:25:53] ‪+90 554 333 33 41‬: ‎‪+90 554 333 33 41‬ topluluk üzerinden katıldı
+[28.06.2026 23:25:53] ~ Kemal Koralb Tilki: ‎~ Kemal Koralb Tilki topluluk üzerinden katıldı
 [28.06.2026 23:37:41] ~ Mustafa Yasin Başçetin: ‎~ Mustafa Yasin Başçetin bir grup bağlantısıyla katıldı
 [29.06.2026 00:10:34] ~ Mürsel: ‎~ Mürsel bir grup bağlantısıyla katıldı
 [29.06.2026 00:29:02] ‪+90 506 994 21 63‬: ‎‪+90 506 994 21 63‬ topluluk üzerinden katıldı
 [29.06.2026 00:50:36] ‪+90 535 951 81 08‬: ‎‪+90 535 951 81 08‬ topluluk üzerinden katıldı
-[29.06.2026 01:08:28] ‪+90 507 159 26 36‬: ‎‪+90 507 159 26 36‬ topluluk üzerinden katıldı
+[29.06.2026 01:08:28] ~ Saltık Buğrahan: ‎~ Saltık Buğrahan topluluk üzerinden katıldı
 [29.06.2026 01:12:00] ~ O. Gulseni: ‎~ O. Gulseni topluluk üzerinden katıldı
 [29.06.2026 02:20:10] ‪+90 533 360 15 28‬: ‎‪+90 533 360 15 28‬ topluluk üzerinden katıldı
 [29.06.2026 03:47:26] ‪+1 (832) 588‑4031‬: ‎‪+1 (832) 588‑4031‬ topluluk üzerinden katıldı
 [29.06.2026 03:48:32] ~ Ömer: ‎~ Ömer topluluk üzerinden katıldı
-[29.06.2026 07:21:17] ‪+90 542 235 63 15‬: ‎‪+90 542 235 63 15‬ topluluk üzerinden katıldı
+[29.06.2026 07:21:17] ~ gülhan yılmaz: ‎~ gülhan yılmaz topluluk üzerinden katıldı
 [29.06.2026 08:23:27] ~ Taha GÜR: ‎~ Taha GÜR topluluk üzerinden katıldı
 [29.06.2026 09:02:04] ~ Bekir Otrkc: ‎~ Bekir Otrkc topluluk üzerinden katıldı
-[29.06.2026 09:31:30] ‪+90 506 457 20 42‬: ‎‪+90 506 457 20 42‬ topluluk üzerinden katıldı
+[29.06.2026 09:31:30] ~ Musa Ersen Balcıoğlu: ‎~ Musa Ersen Balcıoğlu topluluk üzerinden katıldı
 [29.06.2026 11:00:03] ‪+90 541 324 50 40‬: ‎‪+90 541 324 50 40‬ topluluk üzerinden katıldı
 [29.06.2026 12:34:51] ~ Uğur: ‎~ Uğur topluluk üzerinden katıldı
 [29.06.2026 13:52:31] Gürkan Platin: ‎Gürkan Platin ayrıldı
 [29.06.2026 14:12:00] ~ Asuman-Dijital Branding
 WebDesign • MetaBusiness • Ads •SosyalMedya Youtube: ‎~ Asuman-Dijital Branding
 WebDesign • MetaBusiness • Ads •SosyalMedya Youtube topluluk üzerinden katıldı
-[29.06.2026 14:19:04] ‪+90 549 800 57 73‬: ‎‪+90 549 800 57 73‬ topluluk üzerinden katıldı
+[29.06.2026 14:19:04] ~ .: ‎~ . topluluk üzerinden katıldı
 [29.06.2026 14:33:45] ‪+90 530 288 28 88‬: ‎‪+90 530 288 28 88‬ topluluk üzerinden katıldı
-[29.06.2026 14:51:02] ‪+90 507 085 51 01‬: ‎‪+90 507 085 51 01‬ topluluk üzerinden katıldı
+[29.06.2026 14:51:02] ~ Veysel Olgun: ‎~ Veysel Olgun topluluk üzerinden katıldı
 [29.06.2026 15:10:43] ‪+90 533 323 79 58‬: ‎~ Kivanc SOLAK, ‪+90 533 323 79 58‬ kişisini ekledi
 [29.06.2026 15:22:39] ~ Can Topsakal: ‎~ Can Topsakal topluluk üzerinden katıldı
 [29.06.2026 15:25:08] ‪+90 553 384 69 77‬: ‎‪+90 553 384 69 77‬ topluluk üzerinden katıldı
@@ -535,9 +535,9 @@ WebDesign • MetaBusiness • Ads •SosyalMedya Youtube topluluk üzerinden ka
 [29.06.2026 16:54:54] ~ Sendemix: ‎~ Sendemix ayrıldı
 [29.06.2026 17:41:16] ~ Mustafa Konuk: ‎~ Mustafa Konuk topluluk üzerinden katıldı
 [29.06.2026 18:13:07] ‪+90 555 515 68 23‬: ‎‪+90 555 515 68 23‬ ayrıldı
-[29.06.2026 18:32:48] ‪+90 530 208 89 55‬: ‎‪+90 530 208 89 55‬ topluluk üzerinden katıldı
+[29.06.2026 18:32:48] ⁦@MrwOgz⁩: ‎⁦@MrwOgz⁩ topluluk üzerinden katıldı
 [29.06.2026 21:31:05] Seda Acar: ‎Seda Acar topluluk üzerinden katıldı
-[29.06.2026 22:20:33] ‪+90 531 638 32 24‬: ‎‪+90 531 638 32 24‬ topluluk üzerinden katıldı
+[29.06.2026 22:20:33] ~ Melisa: ‎~ Melisa topluluk üzerinden katıldı
 [30.06.2026 08:22:27] ~ Ayyüce Gülsüm Baydar: ‎~ Ayyüce Gülsüm Baydar topluluk üzerinden katıldı
 [30.06.2026 10:14:46] ‪+49 176 34612209‬: ‎‪+49 176 34612209‬ topluluk üzerinden katıldı
 [30.06.2026 12:44:13] ~ H.İ.Sayın: ‎~ H.İ.Sayın topluluk üzerinden katıldı
@@ -546,14 +546,14 @@ WebDesign • MetaBusiness • Ads •SosyalMedya Youtube topluluk üzerinden ka
 [30.06.2026 16:07:10] ‪+90 532 555 72 52‬: ‎‪+90 532 555 72 52‬ ayrıldı
 [30.06.2026 17:18:11] ~ fmgenc: ‎~ fmgenc topluluk üzerinden katıldı
 [30.06.2026 17:46:50] ‪+90 535 951 81 08‬: ‎‪+90 535 951 81 08‬ ayrıldı
-[30.06.2026 20:36:10] ‪+90 533 837 51 79‬: ‎‪+90 533 837 51 79‬ topluluk üzerinden katıldı
-[30.06.2026 20:44:53] ‪+90 530 013 61 56‬: ‎‪+90 530 013 61 56‬ topluluk üzerinden katıldı
+[30.06.2026 20:36:10] ~ Ediz Hamurcu: ‎~ Ediz Hamurcu topluluk üzerinden katıldı
+[30.06.2026 20:44:53] ~ Ömer: ‎~ Ömer topluluk üzerinden katıldı
 [30.06.2026 21:43:26] ‪+90 507 213 49 10‬: ‎‪+90 507 213 49 10‬ topluluk üzerinden katıldı
 [30.06.2026 22:35:48] Özgür Yüksel TP Helpdesk: ‎Özgür Yüksel TP Helpdesk topluluk üzerinden katıldı
 [30.06.2026 23:16:24] ~ Şevki Dodurga: ‎~ Şevki Dodurga topluluk üzerinden katıldı
 [1.07.2026 00:58:11] ‪+90 530 119 44 50‬: ‎‪+90 530 119 44 50‬ topluluk üzerinden katıldı
-[1.07.2026 07:17:06] ‪+90 501 222 29 91‬: ‎‪+90 501 222 29 91‬ topluluk üzerinden katıldı
-[1.07.2026 08:37:23] ‪+90 501 444 06 54‬: ‎‪+90 501 444 06 54‬ topluluk üzerinden katıldı
+[1.07.2026 07:17:06] ~ Ali Halit Demirtaş: ‎~ Ali Halit Demirtaş topluluk üzerinden katıldı
+[1.07.2026 08:37:23] ~ Mehmet Çalışkan: ‎~ Mehmet Çalışkan topluluk üzerinden katıldı
 [1.07.2026 09:17:44] ‪+90 533 344 47 93‬: ‎‪+90 533 344 47 93‬ topluluk üzerinden katıldı
 [1.07.2026 12:44:57] ‪+90 555 988 81 85‬: ‎‪+90 555 988 81 85‬ topluluk üzerinden katıldı
 [1.07.2026 14:03:55] ~ KerimAkkis: ‎~ KerimAkkis topluluk üzerinden katıldı
@@ -561,13 +561,13 @@ WebDesign • MetaBusiness • Ads •SosyalMedya Youtube topluluk üzerinden ka
 [1.07.2026 14:47:24] ‪+90 545 640 65 25‬: ‎‪+90 545 640 65 25‬ topluluk üzerinden katıldı
 [1.07.2026 17:00:39] Gökhan Yılmaz: ‎Gökhan Yılmaz topluluk üzerinden katıldı
 [1.07.2026 18:48:16] ‪+90 505 279 08 40‬: ‎‪+90 505 279 08 40‬ topluluk üzerinden katıldı
-[1.07.2026 19:28:29] ‪+90 506 382 58 09‬: ‎‪+90 506 382 58 09‬ topluluk üzerinden katıldı
+[1.07.2026 19:28:29] ⁦@evrenabali⁩: ‎⁦@evrenabali⁩ topluluk üzerinden katıldı
 [1.07.2026 19:30:03] ‪+90 532 278 29 19‬: ‎‪+90 532 278 29 19‬ topluluk üzerinden katıldı
 [1.07.2026 23:16:47] ‪+90 543 355 20 71‬: ‎‪+90 543 355 20 71‬ ayrıldı
 [2.07.2026 00:58:56] ~ Oğuzhan Uygul: ‎~ Oğuzhan Uygul ayrıldı
 [2.07.2026 03:07:42] ~ The Chemist: ‎~ The Chemist topluluk üzerinden katıldı
 [2.07.2026 04:38:10] ~ Perviz Mirzayev: ‎~ Perviz Mirzayev topluluk üzerinden katıldı
-[2.07.2026 07:59:42] ‪+90 505 617 69 09‬: ‎‪+90 505 617 69 09‬ topluluk üzerinden katıldı
+[2.07.2026 07:59:42] ~ SU: ‎~ SU topluluk üzerinden katıldı
 [2.07.2026 12:18:13] ‪+90 505 903 94 08‬: ‎‪+90 505 903 94 08‬ topluluk üzerinden katıldı
 [2.07.2026 12:52:53] ~ Tekelioğlu Gayrimenkul: ‎~ Tekelioğlu Gayrimenkul topluluk üzerinden katıldı
 [2.07.2026 17:32:44] ~ Ertuğ D.: Unutmayalım unutturmayalım :)
@@ -580,39 +580,39 @@ WebDesign • MetaBusiness • Ads •SosyalMedya Youtube topluluk üzerinden ka
 [3.07.2026 07:01:24] ‪+90 544 623 15 25‬: ‎‪+90 544 623 15 25‬ topluluk üzerinden katıldı
 [3.07.2026 07:54:10] ~ Mesut Demirci: ‎~ Mesut Demirci topluluk üzerinden katıldı
 [3.07.2026 08:20:41] ‪+90 542 251 84 06‬: ‎‪+90 542 251 84 06‬ topluluk üzerinden katıldı
-[3.07.2026 08:21:24] ‪+90 552 239 65 34‬: ‎‪+90 552 239 65 34‬ topluluk üzerinden katıldı
-[3.07.2026 09:17:42] ‪+90 533 457 04 52‬: ‎‪+90 533 457 04 52‬ topluluk üzerinden katıldı
-[3.07.2026 14:09:01] ‪+90 539 765 84 56‬: ‎‪+90 539 765 84 56‬ topluluk üzerinden katıldı
-[3.07.2026 16:39:45] ‪+90 546 913 81 58‬: ‎‪+90 546 913 81 58‬ topluluk üzerinden katıldı
+[3.07.2026 08:21:24] ~ Burak Üzeyr Sarı: ‎~ Burak Üzeyr Sarı topluluk üzerinden katıldı
+[3.07.2026 09:17:42] ~ Prof. Dr. Mehmet ÇINAR: ‎~ Prof. Dr. Mehmet ÇINAR topluluk üzerinden katıldı
+[3.07.2026 14:09:01] ~ Yasin Uzun: ‎~ Yasin Uzun topluluk üzerinden katıldı
+[3.07.2026 16:39:45] ~ Yusuf Koç: ‎~ Yusuf Koç topluluk üzerinden katıldı
 [3.07.2026 17:25:17] ~ Emre K. K.: ‎~ Emre K. K. topluluk üzerinden katıldı
 [4.07.2026 16:27:23] ‪+90 531 666 56 30‬: ‎‪+90 531 666 56 30‬ topluluk üzerinden katıldı
 [4.07.2026 22:48:18] ‪+90 507 213 49 10‬: ‎‪+90 507 213 49 10‬ ayrıldı
 [4.07.2026 23:04:36] ‪+90 532 410 98 04‬: ‎‪+90 532 410 98 04‬ topluluk üzerinden katıldı
 [5.07.2026 01:17:40] ~ Nevzat Koçaş: ‎~ Nevzat Koçaş topluluk üzerinden katıldı
 [5.07.2026 12:17:23] ~ 🍀: ‎~ 🍀 topluluk üzerinden katıldı
-[5.07.2026 13:46:44] ‪+90 538 691 09 33‬: ‎‪+90 538 691 09 33‬ topluluk üzerinden katıldı
-[5.07.2026 16:27:22] ‪+90 535 673 30 81‬: ‎‪+90 535 673 30 81‬ topluluk üzerinden katıldı
+[5.07.2026 13:46:44] ⁦@fatihcgrk⁩: ‎⁦@fatihcgrk⁩ topluluk üzerinden katıldı
+[5.07.2026 16:27:22] ~ Mümin KOCATEPE: ‎~ Mümin KOCATEPE topluluk üzerinden katıldı
 [5.07.2026 20:26:16] ~ Mustafa Öztürk: ‎~ Mustafa Öztürk topluluk üzerinden katıldı
-[5.07.2026 23:56:07] ‪+90 530 072 08 45‬: ‎‪+90 530 072 08 45‬ topluluk üzerinden katıldı
+[5.07.2026 23:56:07] ~ Abdullah: ‎~ Abdullah topluluk üzerinden katıldı
 [6.07.2026 00:13:30] ‪+90 532 342 91 22‬: ‎‪+90 532 342 91 22‬ topluluk üzerinden katıldı
 [6.07.2026 09:43:25] ‪+90 530 149 63 93‬: ‎‪+90 530 149 63 93‬ topluluk üzerinden katıldı
 [6.07.2026 10:23:41] ‪+90 552 427 22 22‬: ‎‪+90 552 427 22 22‬ bir grup bağlantısıyla katıldı
 [6.07.2026 11:17:36] ‪+90 532 410 98 04‬: ‎‪+90 532 410 98 04‬ ayrıldı
-[7.07.2026 03:39:05] ‪+90 543 811 50 93‬: ‎‪+90 543 811 50 93‬ topluluk üzerinden katıldı
+[7.07.2026 03:39:05] ~ Merve: ‎~ Merve topluluk üzerinden katıldı
 [7.07.2026 05:18:53] Selim DEMİRCAN: ‎Selim DEMİRCAN topluluk üzerinden katıldı
 [7.07.2026 09:29:04] ‪+90 538 714 09 93‬: ‎‪+90 538 714 09 93‬ topluluk üzerinden katıldı
 [7.07.2026 12:00:51] ‪+90 541 488 16 63‬: ‎‪+90 541 488 16 63‬ topluluk üzerinden katıldı
 [7.07.2026 12:02:57] ~ Yalnız Kurt: ‎‪+90 541 488 16 63‬, ~ Yalnız Kurt kişisini ekledi
-[7.07.2026 14:12:30] ‪+90 531 327 47 85‬: ‎‪+90 531 327 47 85‬ topluluk üzerinden katıldı
+[7.07.2026 14:12:30] ⁦@ercanercangayrimenkul⁩: ‎⁦@ercanercangayrimenkul⁩ topluluk üzerinden katıldı
 [7.07.2026 15:14:46] ~ Ali Eren Kılıç: ‎~ Ali Eren Kılıç topluluk üzerinden katıldı
 [8.07.2026 01:20:28] ~ M. Ali: ‎~ M. Ali topluluk üzerinden katıldı
 [8.07.2026 07:58:56] ‪+90 544 577 14 74‬: ‎‪+90 544 577 14 74‬ topluluk üzerinden katıldı
-[8.07.2026 13:47:50] ‪+90 535 285 01 01‬: ‎‪+90 535 285 01 01‬ topluluk üzerinden katıldı
+[8.07.2026 13:47:50] ~ İlyas Erdem Tonguç: ‎~ İlyas Erdem Tonguç topluluk üzerinden katıldı
 [9.07.2026 13:49:32] ~ Umutcan: ‎~ Umutcan topluluk üzerinden katıldı
 [9.07.2026 15:11:56] ~ İnanç: ‎~ İnanç topluluk üzerinden katıldı
 [9.07.2026 22:20:09] ‪+90 544 620 72 75‬: ‎‪+90 544 620 72 75‬ topluluk üzerinden katıldı
 [10.07.2026 02:11:48] ~ Ercan ÖZLER: ‎~ Ercan ÖZLER topluluk üzerinden katıldı
-[10.07.2026 02:14:14] ‪+90 532 320 73 18‬: ‎‪+90 532 320 73 18‬ topluluk üzerinden katıldı
+[10.07.2026 02:14:14] ~ sezarkardan: ‎~ sezarkardan topluluk üzerinden katıldı
 [10.07.2026 08:48:53] ~ Selen: ‎~ Selen ayrıldı
 [10.07.2026 11:59:42] ~ Nuran Tuncer: ‎~ Nuran Tuncer topluluk üzerinden katıldı
 [10.07.2026 13:16:48] ~ Fatma Kuşçu Koç: ‎~ Fatma Kuşçu Koç topluluk üzerinden katıldı
@@ -622,40 +622,1491 @@ WebDesign • MetaBusiness • Ads •SosyalMedya Youtube topluluk üzerinden ka
 [10.07.2026 23:46:02] ~ Oğuz Gündüz: ‎~ Oğuz Gündüz topluluk üzerinden katıldı
 [11.07.2026 09:46:03] ‪+90 546 767 17 06‬: ‎‪+90 546 767 17 06‬ topluluk üzerinden katıldı
 [11.07.2026 11:44:59] ~ Hasan K.: ‎~ Hasan K. topluluk üzerinden katıldı
-[11.07.2026 13:17:09] ‪+90 542 142 24 36‬: ‎‪+90 542 142 24 36‬ topluluk üzerinden katıldı
-[11.07.2026 14:41:04] ‪+90 532 135 00 98‬: ‎‪+90 532 135 00 98‬ topluluk üzerinden katıldı
-[11.07.2026 14:47:15] ‪+90 506 068 57 23‬: ‎‪+90 506 068 57 23‬ topluluk üzerinden katıldı
+[11.07.2026 13:17:09] ⁦@mhmtkckkc⁩: ‎⁦@mhmtkckkc⁩ topluluk üzerinden katıldı
+[11.07.2026 14:41:04] ~ Süleyman Aydın: ‎~ Süleyman Aydın topluluk üzerinden katıldı
+[11.07.2026 14:47:15] ~ M. Yerli: ‎~ M. Yerli topluluk üzerinden katıldı
 [11.07.2026 18:22:21] ‪+90 555 537 60 45‬: ‎‪+90 555 537 60 45‬ topluluk üzerinden katıldı
 [11.07.2026 19:38:35] ~ Şebnem: ‎~ Şebnem ayrıldı
 [11.07.2026 20:04:37] ‪+90 532 252 33 72‬: ‎‪+90 532 252 33 72‬ topluluk üzerinden katıldı
 [11.07.2026 20:29:54] ‪+90 541 224 46 96‬: ‎‪+90 541 224 46 96‬ topluluk üzerinden katıldı
 [11.07.2026 21:34:27] Okan Tozaraydin: ‎Okan Tozaraydin topluluk üzerinden katıldı
-[11.07.2026 21:48:51] ‪+90 532 714 65 75‬: ‎‪+90 532 714 65 75‬ topluluk üzerinden katıldı
+[11.07.2026 21:48:51] ~ Fuat Altun: ‎~ Fuat Altun topluluk üzerinden katıldı
 [11.07.2026 23:09:32] ‪+90 850 303 5353‬: ‎‪+90 850 303 5353‬ topluluk üzerinden katıldı
 [12.07.2026 02:24:06] ~ Mustafa ŞAHBAZ: ‎~ Mustafa ŞAHBAZ bir grup bağlantısıyla katıldı
-[12.07.2026 10:40:38] ~ Serdar: ‎‪+90 505 617 69 09‬, ~ Serdar kişisini ekledi
-[12.07.2026 11:04:34] ‪+90 505 158 88 65‬: ‎‪+90 505 158 88 65‬ topluluk üzerinden katıldı
+[12.07.2026 10:40:38] ~ Serdar: ‎~ SU, ~ Serdar kişisini ekledi
+[12.07.2026 11:04:34] ~ Mümtaz Onat: ‎~ Mümtaz Onat topluluk üzerinden katıldı
 [12.07.2026 13:44:44] ‪+90 551 689 02 47‬: ‎‪+90 551 689 02 47‬ topluluk üzerinden katıldı
 [12.07.2026 23:00:32] ‪+90 535 654 69 66‬: ‎‪+90 535 654 69 66‬ topluluk üzerinden katıldı
 [13.07.2026 00:58:53] ‪+90 551 684 14 25‬: ‎‪+90 551 684 14 25‬ topluluk üzerinden katıldı
 [13.07.2026 01:32:35] ~ Can Topsakal: ‎~ Can Topsakal ayrıldı
 [13.07.2026 09:45:54] Özay Göktaş: ‎Özay Göktaş topluluk üzerinden katıldı
-[13.07.2026 13:58:26] ‪+90 533 693 91 84‬: ‎‪+90 533 693 91 84‬ topluluk üzerinden katıldı
+[13.07.2026 13:58:26] ~ Pini: ‎~ Pini topluluk üzerinden katıldı
 [13.07.2026 13:58:30] ~ Emel ÖNCEL💫: ‎~ Emel ÖNCEL💫 topluluk üzerinden katıldı
 [13.07.2026 13:58:59] ‪+90 535 965 16 60‬: ‎‪+90 535 965 16 60‬ topluluk üzerinden katıldı
-[13.07.2026 13:59:54] ‪+90 545 734 82 79‬: ‎‪+90 545 734 82 79‬ topluluk üzerinden katıldı
+[13.07.2026 13:59:54] ~ Mehmet Karagöz: ‎~ Mehmet Karagöz topluluk üzerinden katıldı
 [13.07.2026 14:00:03] ‪+90 537 302 79 17‬: ‎‪+90 537 302 79 17‬ topluluk üzerinden katıldı
 [13.07.2026 14:00:04] ~ .: ‎~ . topluluk üzerinden katıldı
-[13.07.2026 14:01:41] ‪+90 545 978 62 58‬: ‎‪+90 545 978 62 58‬ topluluk üzerinden katıldı
+[13.07.2026 14:01:41] Salih Zeki Pehlivan: ‎Salih Zeki Pehlivan topluluk üzerinden katıldı
 [13.07.2026 14:01:44] ~ İlknur: ‎~ İlknur topluluk üzerinden katıldı
 [13.07.2026 14:02:39] ‪+90 538 218 31 73‬: ‎‪+90 538 218 31 73‬ topluluk üzerinden katıldı
 [13.07.2026 14:03:37] ‪+90 553 927 94 27‬: ‎‪+90 553 927 94 27‬ topluluk üzerinden katıldı
-[13.07.2026 14:08:21] ‪+90 532 313 91 44‬: ‎‪+90 532 313 91 44‬ topluluk üzerinden katıldı
+[13.07.2026 14:08:21] ~ Hilal Erdoğan Şumnu: ‎~ Hilal Erdoğan Şumnu topluluk üzerinden katıldı
 [13.07.2026 14:09:11] ‪+90 553 424 06 76‬: ‎‪+90 553 424 06 76‬ topluluk üzerinden katıldı
-[13.07.2026 14:12:23] ‪+90 533 169 15 40‬: ‎‪+90 533 169 15 40‬ topluluk üzerinden katıldı
+[13.07.2026 14:12:23] Erol Karaseki: ‎Erol Karaseki topluluk üzerinden katıldı
 [13.07.2026 14:13:05] ‪+90 533 667 95 61‬: ‎‪+90 533 667 95 61‬ topluluk üzerinden katıldı
-[13.07.2026 14:14:29] ‪+90 535 107 37 10‬: ‎‪+90 535 107 37 10‬ topluluk üzerinden katıldı
-[13.07.2026 14:15:11] ‪+90 532 395 08 12‬: ‎‪+90 532 395 08 12‬ topluluk üzerinden katıldı
-[13.07.2026 14:25:01] ‪+90 539 722 44 81‬: ‎‪+90 539 722 44 81‬ topluluk üzerinden katıldı
+[13.07.2026 14:14:29] ~ Merve Sağdıç: ‎~ Merve Sağdıç topluluk üzerinden katıldı
+[13.07.2026 14:15:11] ~ Turgut Çağatay: ‎~ Turgut Çağatay topluluk üzerinden katıldı
+[13.07.2026 14:25:01] ~ Güldane: ‎~ Güldane topluluk üzerinden katıldı
 [13.07.2026 14:28:02] ~ Umut EROL: ‎~ Umut EROL topluluk üzerinden katıldı
 [13.07.2026 14:29:53] ~ Ceyhan Er: ‎~ Ceyhan Er topluluk üzerinden katıldı
+[13.07.2026 14:34:22] ~ Umut c: ‎~ Umut c topluluk üzerinden katıldı
+[13.07.2026 14:36:49] ~ Barış ARAPOĞLU: ‎~ Barış ARAPOĞLU topluluk üzerinden katıldı
+[13.07.2026 14:37:31] ~ Eda Evren Karaismailoğlu: ‎~ Eda Evren Karaismailoğlu topluluk üzerinden katıldı
+[13.07.2026 14:38:34] ~ Sevim: ‎~ Sevim topluluk üzerinden katıldı
+[13.07.2026 14:41:18] ~ Ceren  Acar: ‎~ Ceren  Acar topluluk üzerinden katıldı
+[13.07.2026 14:49:10] ~ Meltem Korkmaz: ‎~ Meltem Korkmaz topluluk üzerinden katıldı
+[13.07.2026 14:49:31] ~ .: ‎~ . topluluk üzerinden katıldı
+[13.07.2026 15:07:30] ‪+90 541 224 46 96‬: ‎‪+90 541 224 46 96‬ ayrıldı
+[13.07.2026 15:08:30] ~ Mehmet Aygün: ‎~ Mehmet Aygün topluluk üzerinden katıldı
+[13.07.2026 15:12:15] ~ Cihan: ‎~ Cihan topluluk üzerinden katıldı
+[13.07.2026 15:18:19] ~ Ata H.: ‎~ Ata H. bir grup bağlantısıyla katıldı
+[13.07.2026 15:26:35] ~ Talip İncekara: ‎~ Talip İncekara topluluk üzerinden katıldı
+[13.07.2026 15:31:26] Ezgi Elverişli: ‎Ezgi Elverişli ayrıldı
+[13.07.2026 15:54:26] ~ Mustafa PANCARCI: ‎~ Mustafa PANCARCI topluluk üzerinden katıldı
+[13.07.2026 16:10:35] ~ Serkan MURSALLI: ‎~ Serkan MURSALLI topluluk üzerinden katıldı
+[13.07.2026 16:24:17] Özge Demiryol: ‎Özge Demiryol topluluk üzerinden katıldı
+[13.07.2026 16:24:59] ~ Pnr: ‎~ Pnr topluluk üzerinden katıldı
+[13.07.2026 16:31:19] ~ Esra Şahin: ‎~ Esra Şahin topluluk üzerinden katıldı
+[13.07.2026 16:36:52] ~ İsmail M.: ‎~ İsmail M. topluluk üzerinden katıldı
+[13.07.2026 16:39:51] ~ Göknil: ‎~ Göknil topluluk üzerinden katıldı
+[13.07.2026 16:42:41] ⁦@boraacargs⁩: ‎⁦@boraacargs⁩ topluluk üzerinden katıldı
+[13.07.2026 16:52:23] Gökhan Yılmaz: ‎Gökhan Yılmaz ayrıldı
+[13.07.2026 16:53:36] ~ Talha Ünver: ‎~ Talha Ünver topluluk üzerinden katıldı
+[13.07.2026 16:56:32] ~ Altuuu: ‎~ Altuuu topluluk üzerinden katıldı
+[13.07.2026 16:57:38] ~ Mert: ‎~ Mert topluluk üzerinden katıldı
+[13.07.2026 17:01:17] ‪+90 532 206 36 26‬: ‎‪+90 532 206 36 26‬ bir grup bağlantısıyla katıldı
+[13.07.2026 17:11:08] ~ Emre Özcan: ‎~ Emre Özcan topluluk üzerinden katıldı
+[13.07.2026 17:15:24] Nesimi Akgul: ‎Nesimi Akgul topluluk üzerinden katıldı
+[13.07.2026 17:19:43] ‪+90 536 442 18 94‬: ‎‪+90 536 442 18 94‬ topluluk üzerinden katıldı
+[13.07.2026 17:20:20] ~ Berk: ‎~ Berk topluluk üzerinden katıldı
+[13.07.2026 17:23:49] ~ Murat Sahinoglu: ‎~ Murat Sahinoglu topluluk üzerinden katıldı
+[13.07.2026 17:36:42] ~ Turaç Ünal: ‎~ Turaç Ünal topluluk üzerinden katıldı
+[13.07.2026 17:37:25] ‪+90 547 350 20 06‬: ‎‪+90 547 350 20 06‬ topluluk üzerinden katıldı
+[13.07.2026 17:38:42] ~ Mustafa: ‎~ Mustafa topluluk üzerinden katıldı
+[13.07.2026 17:39:03] ~ Can Kavanoz: ‎~ Can Kavanoz topluluk üzerinden katıldı
+[13.07.2026 17:49:59] ‪+90 537 831 54 57‬: ‎‪+90 537 831 54 57‬ topluluk üzerinden katıldı
+[13.07.2026 17:51:55] ‪+90 541 535 91 65‬: ‎‪+90 541 535 91 65‬ topluluk üzerinden katıldı
+[13.07.2026 17:56:52] ‪+90 533 308 27 28‬: ‎‪+90 533 308 27 28‬ topluluk üzerinden katıldı
+[13.07.2026 18:03:13] ‪+90 541 467 15 43‬: ‎‪+90 541 467 15 43‬ topluluk üzerinden katıldı
+[13.07.2026 18:05:39] ~ K. Alper Sak: ‎~ K. Alper Sak topluluk üzerinden katıldı
+[13.07.2026 18:17:17] Türkan Erdoğan: ‎Türkan Erdoğan topluluk üzerinden katıldı
+[13.07.2026 18:22:35] ‪+90 530 823 31 76‬: ‎‪+90 530 823 31 76‬ topluluk üzerinden katıldı
+[13.07.2026 18:24:35] ~ Burak Akcakanat: ‎~ Burak Akcakanat topluluk üzerinden katıldı
+[13.07.2026 18:28:38] ‪+90 544 933 49 16‬: ‎‪+90 544 933 49 16‬ topluluk üzerinden katıldı
+[13.07.2026 18:31:01] ~ Sonat Çiftçioğlu: ‎~ Sonat Çiftçioğlu topluluk üzerinden katıldı
+[13.07.2026 18:37:16] ~ FÇ: ‎~ FÇ topluluk üzerinden katıldı
+[13.07.2026 18:48:57] ‪+90 507 193 26 44‬: ‎‪+90 507 193 26 44‬ topluluk üzerinden katıldı
+[13.07.2026 18:54:35] ~ Ayça: ‎~ Ayça topluluk üzerinden katıldı
+[13.07.2026 18:56:19] ~ Serkan Demirci: ‎~ Serkan Demirci topluluk üzerinden katıldı
+[13.07.2026 19:06:28] ~ Derya Yılmaz Ökmen: ‎~ Derya Yılmaz Ökmen topluluk üzerinden katıldı
+[13.07.2026 19:07:07] ‪+90 555 537 60 45‬: ‎‪+90 555 537 60 45‬ ayrıldı
+[13.07.2026 19:09:11] ~ Eylül: ‎~ Eylül topluluk üzerinden katıldı
+[13.07.2026 19:11:27] ~ Yusuf Sarıkaya: ‎~ Yusuf Sarıkaya topluluk üzerinden katıldı
+[13.07.2026 19:13:02] ‪+90 537 923 21 45‬: ‎‪+90 537 923 21 45‬ topluluk üzerinden katıldı
+[13.07.2026 19:13:54] ‪+90 507 843 62 97‬: ‎‪+90 507 843 62 97‬ topluluk üzerinden katıldı
+[13.07.2026 19:14:20] ‪+90 506 955 06 46‬: ‎‪+90 506 955 06 46‬ topluluk üzerinden katıldı
+[13.07.2026 19:18:09] ‪+90 530 823 31 76‬: ‎‪+90 530 823 31 76‬ ayrıldı
+[13.07.2026 19:20:13] ~ Ayşe Sinen: ‎~ Ayşe Sinen topluluk üzerinden katıldı
+[13.07.2026 19:23:56] Figen Beyazaağaç Gül - Claude: ‎Figen Beyazaağaç Gül - Claude topluluk üzerinden katıldı
+[13.07.2026 19:24:20] ~ Erinç YILMAZ: ‎~ Erinç YILMAZ topluluk üzerinden katıldı
+[13.07.2026 19:26:03] ~ Kerim Suiçmez: ‎~ Kerim Suiçmez topluluk üzerinden katıldı
+[13.07.2026 19:28:18] ~ Emre: ‎~ Emre topluluk üzerinden katıldı
+[13.07.2026 19:30:13] ~ Ugur Dogan: ‎~ Ugur Dogan topluluk üzerinden katıldı
+[13.07.2026 19:41:13] ~ Berker B.: ‎~ Berker B. topluluk üzerinden katıldı
+[13.07.2026 19:44:15] Gamze Karslı - Claude: ‎Gamze Karslı - Claude topluluk üzerinden katıldı
+[13.07.2026 19:47:14] ~ Furkan: ‎~ Furkan topluluk üzerinden katıldı
+[13.07.2026 19:47:49] ~ Ozan: ‎~ Ozan bir grup bağlantısıyla katıldı
+[13.07.2026 20:01:10] ‪+90 534 569 52 44‬: ‎‪+90 534 569 52 44‬ topluluk üzerinden katıldı
+[13.07.2026 20:02:29] ~ Onur Yaman: ‎~ Onur Yaman topluluk üzerinden katıldı
+[13.07.2026 20:06:01] ~ Mustafa Çelikel: ‎~ Mustafa Çelikel topluluk üzerinden katıldı
+[13.07.2026 20:15:31] ~ derya: ‎~ derya topluluk üzerinden katıldı
+[13.07.2026 20:15:33] ‪+90 505 974 44 08‬: ‎‪+90 505 974 44 08‬ topluluk üzerinden katıldı
+[13.07.2026 20:23:21] ‪+90 553 917 51 14‬: ‎‪+90 553 917 51 14‬ topluluk üzerinden katıldı
+[13.07.2026 20:23:56] ‪+90 506 700 96 07‬: ‎‪+90 506 700 96 07‬ topluluk üzerinden katıldı
+[13.07.2026 20:30:55] ~ Berat Kayalık: ‎~ Berat Kayalık topluluk üzerinden katıldı
+[13.07.2026 20:32:17] ~ BURAK GUNER: ‎~ BURAK GUNER topluluk üzerinden katıldı
+[13.07.2026 20:33:15] ~ Serpil: ‎~ Serpil topluluk üzerinden katıldı
+[13.07.2026 20:37:54] ~ Nebi: ‎~ Nebi topluluk üzerinden katıldı
+[13.07.2026 20:38:40] ~ Osman Kocak: ‎~ Osman Kocak topluluk üzerinden katıldı
+[13.07.2026 20:41:52] ~ Evren: ‎~ Evren topluluk üzerinden katıldı
+[13.07.2026 20:41:56] ‪+90 555 430 86 86‬: ‎‪+90 555 430 86 86‬ topluluk üzerinden katıldı
+[13.07.2026 20:42:14] ‪+90 539 938 03 00‬: ‎‪+90 539 938 03 00‬ topluluk üzerinden katıldı
+[13.07.2026 20:46:25] ‪+90 533 688 24 92‬: ‎‪+90 533 688 24 92‬ topluluk üzerinden katıldı
+[13.07.2026 20:47:35] ~ Mustafa Kemal: ‎~ Mustafa Kemal topluluk üzerinden katıldı
+[13.07.2026 20:48:03] ‪+90 536 638 95 99‬: ‎‪+90 536 638 95 99‬ topluluk üzerinden katıldı
+[13.07.2026 20:50:33] ‪+90 541 575 23 77‬: ‎‪+90 541 575 23 77‬ topluluk üzerinden katıldı
+[13.07.2026 20:53:29] ~ batu: ‎~ batu topluluk üzerinden katıldı
+[13.07.2026 21:02:43] ~ Batuhan: ‎~ Batuhan topluluk üzerinden katıldı
+[13.07.2026 21:07:03] ‪+971 55 158 4485‬: ‎‪+971 55 158 4485‬ topluluk üzerinden katıldı
+[13.07.2026 21:11:33] ~ Mehmet Emin Bal: ‎~ Mehmet Emin Bal topluluk üzerinden katıldı
+[13.07.2026 21:12:56] ‪+90 546 585 59 96‬: ‎‪+90 546 585 59 96‬ topluluk üzerinden katıldı
+[13.07.2026 21:18:14] ‪+90 554 736 68 98‬: ‎‪+90 554 736 68 98‬ topluluk üzerinden katıldı
+[13.07.2026 21:20:24] ~ Rdl: ‎~ Rdl topluluk üzerinden katıldı
+[13.07.2026 21:21:47] ~ Gökhan Güler: ‎~ Gökhan Güler topluluk üzerinden katıldı
+[13.07.2026 21:22:14] ~ Oğuzhan: ‎~ Oğuzhan topluluk üzerinden katıldı
+[13.07.2026 21:22:16] ~ İsmail: ‎~ İsmail topluluk üzerinden katıldı
+[13.07.2026 21:22:28] ~ Hakan TARHAN: ‎~ Hakan TARHAN topluluk üzerinden katıldı
+[13.07.2026 21:22:45] ~ Furkan: ‎~ Furkan topluluk üzerinden katıldı
+[13.07.2026 21:26:35] ‪+90 534 828 33 68‬: ‎‪+90 534 828 33 68‬ topluluk üzerinden katıldı
+[13.07.2026 21:32:55] ‪+90 530 356 72 61‬: ‎‪+90 530 356 72 61‬ topluluk üzerinden katıldı
+[13.07.2026 21:34:40] ~ Gülce Yüksel: ‎~ Gülce Yüksel topluluk üzerinden katıldı
+[13.07.2026 21:36:31] ~ Murat Can Şahin: ‎~ Murat Can Şahin topluluk üzerinden katıldı
+[13.07.2026 21:36:26] ~ Oğuzhan: Merhaba,
+
+Claude Code + Codex ile geliştirdiğim kurumsal teknoloji sitesini paylaşıyorum. Mimariyi ben kuruyorum, kodu ajanlar yazıyor: .NET 10, Blazor SSR, Clean Architecture, çok dilli (TR/EN/DE/ES).
+
+https://www.diskhastanesi.com/
+
+Özellikle 3 konuda eleştiri istiyorum:
+1. Bilgi mimarisi — 12 hizmet ana başlığı var, ilk 10 saniyede firmanın ne yaptığı anlaşılıyor mu?
+2. Güven / kurumsallık algısı — yapay zekâ ile üretilmiş hissi veren yerler var mı?
+3. Performans ve mobil deneyim.
+
+Acımasız olabilirsiniz, işime yarayacak olan o zaten. Teşekkürler.
+[13.07.2026 21:37:09] ⁦@SevginZorlucanEke⁩: ‎⁦@SevginZorlucanEke⁩ topluluk üzerinden katıldı
+[13.07.2026 21:38:19] ‪+90 532 307 37 97‬: ‎‪+90 532 307 37 97‬ topluluk üzerinden katıldı
+[13.07.2026 21:38:28] ~ Haluk Tarım: ‎~ Haluk Tarım topluluk üzerinden katıldı
+[13.07.2026 21:41:34] ‪+90 536 241 21 86‬: ‎‪+90 536 241 21 86‬ topluluk üzerinden katıldı
+[13.07.2026 21:43:42] ~ ⋆˚✿˖₊˚⊹♡ zeynep: ‎~ ⋆˚✿˖₊˚⊹♡ zeynep topluluk üzerinden katıldı
+[13.07.2026 21:45:18] ⁦@rohatozbay⁩: ‎⁦@rohatozbay⁩ topluluk üzerinden katıldı
+[13.07.2026 21:45:22] ‪+49 176 90218600‬: ‎‪+49 176 90218600‬ topluluk üzerinden katıldı
+[13.07.2026 21:46:22] ‪+90 546 214 23 08‬: ‎‪+90 546 214 23 08‬ topluluk üzerinden katıldı
+[13.07.2026 21:47:02] ‪+90 536 688 39 48‬: ‎‪+90 536 688 39 48‬ topluluk üzerinden katıldı
+[13.07.2026 21:48:45] ~ Hicran: ‎~ Hicran topluluk üzerinden katıldı
+[13.07.2026 21:49:05] ~ Buğra: ‎~ Buğra topluluk üzerinden katıldı
+[13.07.2026 21:56:07] ~ Abdullah Akgül: ‎~ Abdullah Akgül topluluk üzerinden katıldı
+[13.07.2026 21:57:36] ~ Kayhan Kahveci: ‎~ Kayhan Kahveci topluluk üzerinden katıldı
+[13.07.2026 21:59:09] ‪+90 505 304 34 71‬: ‎‪+90 505 304 34 71‬ topluluk üzerinden katıldı
+[13.07.2026 22:00:12] ~ Firat Köse: ‎~ Firat Köse topluluk üzerinden katıldı
+[13.07.2026 22:01:23] ~ Akşit: ‎~ Akşit topluluk üzerinden katıldı
+[13.07.2026 22:02:39] ~ Kubra: ‎~ Kubra topluluk üzerinden katıldı
+[13.07.2026 22:03:05] ‪+90 532 541 30 28‬: ‎‪+90 532 541 30 28‬ topluluk üzerinden katıldı
+[13.07.2026 22:04:23] ~ Münür: ‎~ Münür topluluk üzerinden katıldı
+[13.07.2026 22:07:45] ‪+90 538 678 64 66‬: ‎‪+90 538 678 64 66‬ topluluk üzerinden katıldı
+[13.07.2026 22:08:28] ~ Mustafa: ‎~ Mustafa topluluk üzerinden katıldı
+[13.07.2026 22:07:48] Okan Fidanlı: görseller ve sembollerden yapay zeka tarafından oluşturulduğu bariz anlaşılıyor bence, o kadar çok benzer tasarım gördüm ki belki o yüzden bilemiyorum, bir de interface daha kullanıcı dostu olabilir sayfanın sonuna zor geldim biraz daha sadeleştirilebilir
+[13.07.2026 22:15:02] ‪+90 543 746 49 53‬: ‎‪+90 543 746 49 53‬ bir grup bağlantısıyla katıldı
+[13.07.2026 22:11:42] ~ Tekelioğlu Gayrimenkul: Tasarım, renk tonları  yz olduğu anlaşılıyor. Ancak  nunu yz ye ilgis olmayanlar zor anlar dıye dusunuyorum. Bir de çok uzun sayfa. Çok anlamam ama bu işten  yanılıyor olabılırım
+[13.07.2026 22:16:05] ~ Serkan Acan: ‎~ Serkan Acan topluluk üzerinden katıldı
+[13.07.2026 22:17:02] ~ Sinan S. Ayaz: ‎~ Sinan S. Ayaz topluluk üzerinden katıldı
+[13.07.2026 22:20:04] ~ beyza: ‎~ beyza topluluk üzerinden katıldı
+[13.07.2026 22:21:16] ~ Ebru Gül: ‎~ Ebru Gül topluluk üzerinden katıldı
+[13.07.2026 22:21:30] ~ Ihsan Yigitbasi: ‎~ Ihsan Yigitbasi topluluk üzerinden katıldı
+[13.07.2026 22:23:30] Özge Demiryol: Merhaba Oğuzhan Bey, öncelikle ellerinize sağlık. Bu siteyi incelediğimde şunları fark ettim: Siteye giren bir ziyaretçi genelde 3-5 saniye içinde bu işletme ne yapıyor sorusuna cevap arıyor, bulamazsa sekmeyi kapatıyor. Ben sayfayı incelediğimde bu işletmenin 12 ayrı alanda hizmet verdiğini anlayabiliyorum ama ne yaptığını açıkçası tam olarak anlayamıyorum. Ben olsam bu giriş kısmını bir elevator pitch gibi düşünür ve sıfırdan sayfaya gelen birinin bir bakışta işletmenin ne yaptığını anlatan temiz, minimal bir hero bölümüyle anlatırdım. (Kim için yapıyoruz, ne için yapıyoruz, somut değer önerimiz ne şeklinde bir anlatım kullanmayı düşünebilirsiniz)
+
+Özellikle sektör kartlarında hem yoğun paragraf metni hem de stok görselleri bir arada, ziyaretçi için gözlerini dinlendirebileceği ve nefes alabileceği bir alan bulamıyor. Kart içi padding ve kartlar arası boşluk artırılıp, metin biraz kısaltılırsa hem okunabilirlik hem de sayfanın genel ferahlığı artar. Sayfanın negatif alana ihtiyacı var, şu anki hali göz yorucu.
+
+Bir de teknik bir konuda size şu geri bildirimi verebilirim: Sitede rastgele bir path’e gittiğimde (mesela diskhastanesi.com/tr/hello gibi) Chrome'un kendi varsayılan hata ekranı çıkıyor. Bunun yerine sitenin tasarımı ve kurumsal marka kimliğiyle uyumlu custom bir 404 ve 500 durum kodu sayfası eklemeniz faydalı olacaktır, .NET ile bunu kolayca yapabilirsiniz.
+[13.07.2026 22:24:52] Burcu Tekgül: ‎Burcu Tekgül topluluk üzerinden katıldı
+[13.07.2026 22:28:26] ~ Oğuzhan: Teşekkürler tam uzman yorumu. Proje mimarlığı yazılım web sitesi dönüşümler insan pisikolojisi üzerinde bir bakışta deneyiminiz var :)
+[13.07.2026 22:30:10] ~ Seda: ‎~ Seda topluluk üzerinden katıldı
+[13.07.2026 22:30:54] Özge Demiryol: 4 yıllık profesyonel yazılım deneyimi + tasarım eğitimi + ui/ux konusunda yaptığım araştırmalardan öğrendiklerime dayanarak bu geri bildirimi verdim 😊
+[13.07.2026 22:31:04] ‪+1 (778) 919‑3107‬: ‎‪+1 (778) 919‑3107‬ topluluk üzerinden katıldı
+[13.07.2026 22:32:24] ~ Merve Bekler: ‎~ Merve Bekler topluluk üzerinden katıldı
+[13.07.2026 22:34:46] ~ Hasan Şimşek: ‎~ Hasan Şimşek topluluk üzerinden katıldı
+[13.07.2026 22:35:28] ~ Arif Özelci: ‎~ Arif Özelci topluluk üzerinden katıldı
+[13.07.2026 22:38:00] ~ Seçkin Baysal: ‎~ Seçkin Baysal topluluk üzerinden katıldı
+[13.07.2026 22:38:26] ~ Sebnem Celik: ‎~ Sebnem Celik topluluk üzerinden katıldı
+[13.07.2026 22:42:24] ~ Irem Kurdik Serter: ‎~ Irem Kurdik Serter topluluk üzerinden katıldı
+[13.07.2026 22:42:59] ~ Sinan Topal: ‎~ Sinan Topal topluluk üzerinden katıldı
+[13.07.2026 22:44:51] ~ Gizem: ‎~ Gizem topluluk üzerinden katıldı
+[13.07.2026 22:46:02] ~ Murat: ‎~ Murat topluluk üzerinden katıldı
+[13.07.2026 22:46:24] ~ Burak Eliuz: ‎~ Burak Eliuz topluluk üzerinden katıldı
+[13.07.2026 22:51:06] ~ Fatih GÜRELİ: ‎~ Fatih GÜRELİ topluluk üzerinden katıldı
+[13.07.2026 22:53:36] ~ Mustafa Arslan: ‎~ Mustafa Arslan topluluk üzerinden katıldı
+[13.07.2026 22:53:42] ~ Mustafa Sait Candoğan: ‎~ Mustafa Sait Candoğan topluluk üzerinden katıldı
+[13.07.2026 22:54:41] ~ Enes Aykut: ‎~ Enes Aykut topluluk üzerinden katıldı
+[13.07.2026 22:55:17] ~ Samet Sönmezoğlu: ‎~ Samet Sönmezoğlu topluluk üzerinden katıldı
+[13.07.2026 22:55:24] ~ Rahmi Yusuf Cebeci: ‎~ Rahmi Yusuf Cebeci topluluk üzerinden katıldı
+[13.07.2026 22:56:44] ~ ~Hesna~: ‎~ ~Hesna~ topluluk üzerinden katıldı
+[13.07.2026 22:59:36] ~ Kutsal Ozkurt: ‎~ Kutsal Ozkurt topluluk üzerinden katıldı
+[13.07.2026 22:59:48] ~ Akman: ‎~ Akman topluluk üzerinden katıldı
+[13.07.2026 23:00:23] ~ ayse: ‎~ ayse topluluk üzerinden katıldı
+[13.07.2026 23:01:54] ~ Emrah Takmaklı: ‎~ Emrah Takmaklı topluluk üzerinden katıldı
+[13.07.2026 23:03:13] ~ .: ‎~ . topluluk üzerinden katıldı
+[13.07.2026 23:03:14] ~ Gülay Düzgün: ‎~ Gülay Düzgün topluluk üzerinden katıldı
+[13.07.2026 23:06:29] ‪+1 (778) 919‑3107‬: ‎‪+1 (778) 919‑3107‬ ayrıldı
+[13.07.2026 23:07:58] ~ Tuğçe NOYAN: ‎~ Tuğçe NOYAN topluluk üzerinden katıldı
+[13.07.2026 23:12:49] ~ Ismayil Faraji: ‎~ Ismayil Faraji topluluk üzerinden katıldı
+[13.07.2026 23:13:12] ~ Selim: ‎~ Selim bir grup bağlantısıyla katıldı
+[13.07.2026 23:13:50] ~ ~: ‎~ ~ topluluk üzerinden katıldı
+[13.07.2026 23:13:59] ~ Emre GEBECİK: ‎~ Emre GEBECİK topluluk üzerinden katıldı
+[13.07.2026 23:20:05] ~ Nurbanu Dane Karayel: ‎~ Nurbanu Dane Karayel topluluk üzerinden katıldı
+[13.07.2026 23:29:22] ~ Turkcell: ‎~ Turkcell topluluk üzerinden katıldı
+[13.07.2026 23:29:36] ~ ERCAN: ‎~ ERCAN topluluk üzerinden katıldı
+[13.07.2026 23:29:43] ~ ERKAN OZGUR: ‎~ ERKAN OZGUR topluluk üzerinden katıldı
+[13.07.2026 23:29:58] ~ Gökay: ‎~ Gökay topluluk üzerinden katıldı
+[13.07.2026 23:30:12] ~ A: ‎~ A topluluk üzerinden katıldı
+[13.07.2026 23:32:33] ~ Kerem BEYHAN: ‎~ Kerem BEYHAN topluluk üzerinden katıldı
+[13.07.2026 23:37:33] ~ Ozge: ‎~ Ozge topluluk üzerinden katıldı
+[13.07.2026 23:38:25] ~ Yunus Emre: ‎~ Yunus Emre topluluk üzerinden katıldı
+[13.07.2026 23:38:43] ~ A|py: ‎~ A|py topluluk üzerinden katıldı
+[13.07.2026 23:42:14] ~ Özlem Komitoğlu Yaman: ‎~ Özlem Komitoğlu Yaman topluluk üzerinden katıldı
+[13.07.2026 23:49:40] ~ Gonca Tozen: ‎~ Gonca Tozen topluluk üzerinden katıldı
+[13.07.2026 23:50:29] ~ Merve: ‎~ Merve topluluk üzerinden katıldı
+[14.07.2026 00:00:21] ~ Ümit Tengiz: ‎~ Ümit Tengiz topluluk üzerinden katıldı
+[14.07.2026 00:03:20] ~ Cagdas: ‎~ Cagdas topluluk üzerinden katıldı
+[14.07.2026 00:09:30] ~ Plan Akademi Danışmanlık: ‎~ Plan Akademi Danışmanlık topluluk üzerinden katıldı
+[14.07.2026 00:12:16] ~ Ayşegül: ‎~ Ayşegül topluluk üzerinden katıldı
+[14.07.2026 00:14:48] ~ Enes Menteşoğlu: ‎~ Enes Menteşoğlu topluluk üzerinden katıldı
+[14.07.2026 00:20:09] ~ Onur Demirel: ‎~ Onur Demirel topluluk üzerinden katıldı
+[14.07.2026 00:26:12] ~ Esad Ersan: ‎~ Esad Ersan topluluk üzerinden katıldı
+[14.07.2026 00:28:43] ~ Batu: ‎~ Batu topluluk üzerinden katıldı
+[14.07.2026 00:32:52] ~ alimurtazarutci: ‎~ alimurtazarutci topluluk üzerinden katıldı
+[14.07.2026 00:33:22] ~ Hasan: ‎~ Hasan topluluk üzerinden katıldı
+[14.07.2026 00:46:39] ~ Gkc: ‎~ Gkc topluluk üzerinden katıldı
+[14.07.2026 00:48:33] ~ Erdem Kurt: ‎~ Erdem Kurt topluluk üzerinden katıldı
+[14.07.2026 01:16:54] ‪+90 539 783 19 45‬: ‎‪+90 539 783 19 45‬ topluluk üzerinden katıldı
+[14.07.2026 01:30:59] ‪+90 555 050 50 66‬: ‎‪+90 555 050 50 66‬ topluluk üzerinden katıldı
+[14.07.2026 01:41:14] ~ Ahmet Emir Dundar: ‎~ Ahmet Emir Dundar topluluk üzerinden katıldı
+[14.07.2026 01:57:39] ‪+90 545 354 57 43‬: ‎‪+90 545 354 57 43‬ topluluk üzerinden katıldı
+[14.07.2026 02:03:06] ~ Rovaas Teknoloji A.Ş.: ‎~ Rovaas Teknoloji A.Ş. topluluk üzerinden katıldı
+[14.07.2026 02:11:32] ‪+90 554 721 22 01‬: ‎‪+90 554 721 22 01‬ topluluk üzerinden katıldı
+[14.07.2026 02:19:16] ‪+90 545 245 31 53‬: ‎‪+90 545 245 31 53‬ topluluk üzerinden katıldı
+[14.07.2026 02:30:09] ~ Melis Eryigit Samir: ‎~ Melis Eryigit Samir topluluk üzerinden katıldı
+[14.07.2026 03:17:09] ‪+90 543 830 28 61‬: ‎‪+90 543 830 28 61‬ topluluk üzerinden katıldı
+[14.07.2026 04:03:18] ~ Turgut Can: ‎~ Turgut Can topluluk üzerinden katıldı
+[14.07.2026 04:39:39] ‪+90 530 783 22 66‬: ‎‪+90 530 783 22 66‬ topluluk üzerinden katıldı
+[14.07.2026 05:12:37] ~ Vural Dumanlı: ‎~ Vural Dumanlı topluluk üzerinden katıldı
+[14.07.2026 05:42:02] ~ Emre: ‎~ Emre topluluk üzerinden katıldı
+[14.07.2026 06:01:59] ~ MD Kalenderoğlu: ‎~ MD Kalenderoğlu topluluk üzerinden katıldı
+[14.07.2026 06:09:59] ~ Beyza Türkozan: ‎~ Beyza Türkozan topluluk üzerinden katıldı
+[14.07.2026 06:51:05] ‪+90 538 913 15 97‬: ‎‪+90 538 913 15 97‬ topluluk üzerinden katıldı
+[14.07.2026 06:59:08] ~ Ömür Gülçiçek: ‎~ Ömür Gülçiçek topluluk üzerinden katıldı
+[14.07.2026 07:15:48] ~ Mehmet Maden: ‎~ Mehmet Maden topluluk üzerinden katıldı
+[14.07.2026 07:23:21] ~ Aynur: ‎~ Aynur topluluk üzerinden katıldı
+[14.07.2026 07:23:51] ~ ?: ‎~ ? topluluk üzerinden katıldı
+[14.07.2026 07:30:22] ~ Volk: ‎~ Volk topluluk üzerinden katıldı
+[14.07.2026 07:38:05] ~ Mert: ‎~ Mert topluluk üzerinden katıldı
+[14.07.2026 07:45:31] ‪+90 505 700 10 33‬: ‎‪+90 505 700 10 33‬ topluluk üzerinden katıldı
+[14.07.2026 07:50:10] ~ Pelin: ‎~ Pelin topluluk üzerinden katıldı
+[14.07.2026 07:51:04] ~ Kadir Ceran, MSc, Ph.D(c): ‎~ Kadir Ceran, MSc, Ph.D(c) topluluk üzerinden katıldı
+[14.07.2026 07:51:16] ~ Hayati: ‎~ Hayati topluluk üzerinden katıldı
+[14.07.2026 07:51:18] ~ Fuat Emre: ‎~ Fuat Emre topluluk üzerinden katıldı
+[14.07.2026 07:51:49] ‪+90 543 884 26 77‬: ‎‪+90 543 884 26 77‬ topluluk üzerinden katıldı
+[14.07.2026 07:52:23] ~ Nilcan Ertaş: ‎~ Nilcan Ertaş topluluk üzerinden katıldı
+[14.07.2026 07:52:34] ~ Cemil AKSEL: ‎~ Cemil AKSEL topluluk üzerinden katıldı
+[14.07.2026 07:53:39] ~ Kundenbetreuer der Allianz Generalvertretung: ‎~ Kundenbetreuer der Allianz Generalvertretung topluluk üzerinden katıldı
+[14.07.2026 07:54:55] ~ ümit yıldırım: ‎~ ümit yıldırım topluluk üzerinden katıldı
+[14.07.2026 07:55:02] ‪+90 543 316 80 90‬: ‎‪+90 543 316 80 90‬ topluluk üzerinden katıldı
+[14.07.2026 07:55:43] ~ Bertan: ‎~ Bertan topluluk üzerinden katıldı
+[14.07.2026 07:57:12] ~ Kaan Ancın: ‎~ Kaan Ancın topluluk üzerinden katıldı
+[14.07.2026 07:58:36] ~ Recep Savdic: ‎~ Recep Savdic topluluk üzerinden katıldı
+[14.07.2026 07:59:47] ~ @yc@: ‎~ @yc@ topluluk üzerinden katıldı
+[14.07.2026 08:00:13] ‪+90 535 795 02 22‬: ‎‪+90 535 795 02 22‬ topluluk üzerinden katıldı
+[14.07.2026 08:04:27] ‪+90 544 515 74 08‬: ‎‪+90 544 515 74 08‬ topluluk üzerinden katıldı
+[14.07.2026 08:06:22] ~ Özlem Ç.: ‎~ Özlem Ç. topluluk üzerinden katıldı
+[14.07.2026 08:11:33] ~ Onur Kenar: ‎~ Onur Kenar topluluk üzerinden katıldı
+[14.07.2026 08:14:48] ~ Selim: ‎~ Selim topluluk üzerinden katıldı
+[14.07.2026 08:14:53] ~ Suat: ‎~ Suat topluluk üzerinden katıldı
+[14.07.2026 08:19:57] ~ Selda: ‎~ Selda topluluk üzerinden katıldı
+[14.07.2026 08:22:31] ~ MrT: ‎~ MrT topluluk üzerinden katıldı
+[14.07.2026 08:23:24] ‪+90 553 111 82 73‬: ‎‪+90 553 111 82 73‬ topluluk üzerinden katıldı
+[14.07.2026 08:24:15] ~ Serhat: ‎~ Serhat topluluk üzerinden katıldı
+[14.07.2026 08:25:33] ‪+90 536 250 85 55‬: ‎‪+90 536 250 85 55‬ topluluk üzerinden katıldı
+[14.07.2026 08:31:50] ~ Selim Edin: ‎~ Selim Edin bir grup bağlantısıyla katıldı
+[14.07.2026 08:32:03] ~ Murat B.: ‎~ Murat B. bir grup bağlantısıyla katıldı
+[14.07.2026 08:32:28] ‪+90 551 136 94 42‬: ‎‪+90 551 136 94 42‬ topluluk üzerinden katıldı
+[14.07.2026 08:33:26] ⁦@brkgkcn⁩: ‎⁦@brkgkcn⁩ topluluk üzerinden katıldı
+[14.07.2026 08:33:28] ~ Ayça: ‎~ Ayça ayrıldı
+[14.07.2026 08:43:38] ~ Fethullah Aşar: ‎~ Fethullah Aşar topluluk üzerinden katıldı
+[14.07.2026 08:44:11] ~ cagatayycevik: ‎~ cagatayycevik bir grup bağlantısıyla katıldı
+[14.07.2026 08:44:42] ~ Şule: ‎~ Şule bir grup bağlantısıyla katıldı
+[14.07.2026 08:48:38] ~ Eda Bas: ‎~ Eda Bas topluluk üzerinden katıldı
+[14.07.2026 08:51:31] ~ Özge: ‎~ Özge topluluk üzerinden katıldı
+[14.07.2026 08:53:41] ‪+90 534 594 98 60‬: ‎‪+90 534 594 98 60‬ topluluk üzerinden katıldı
+[14.07.2026 09:01:41] ‪+90 507 545 76 55‬: ‎‪+90 507 545 76 55‬ topluluk üzerinden katıldı
+[14.07.2026 09:03:05] ~ Duygu *: ‎~ Duygu * topluluk üzerinden katıldı
+[14.07.2026 09:04:38] ~ Hatice: ‎~ Hatice bir grup bağlantısıyla katıldı
+[14.07.2026 09:06:17] ~ Mertcan: ‎~ Mertcan topluluk üzerinden katıldı
+[14.07.2026 09:09:40] ~ ~: ‎~ ~ topluluk üzerinden katıldı
+[14.07.2026 09:10:39] ‪+90 532 568 83 77‬: ‎‪+90 532 568 83 77‬ topluluk üzerinden katıldı
+[14.07.2026 09:10:54] ~ A. Yuşa Telli: ‎~ A. Yuşa Telli topluluk üzerinden katıldı
+[14.07.2026 09:14:29] ~ Kürşad Karapınar: ‎~ Kürşad Karapınar bir grup bağlantısıyla katıldı
+[14.07.2026 09:16:41] ~ Abzurt: ‎~ Abzurt topluluk üzerinden katıldı
+[14.07.2026 09:19:53] ~ Çağlar Çabuk: ‎~ Çağlar Çabuk topluluk üzerinden katıldı
+[14.07.2026 09:20:20] ‪+995 579 00 10 53‬: ‎‪+995 579 00 10 53‬ bir grup bağlantısıyla katıldı
+[14.07.2026 09:22:52] ‪+90 535 885 03 97‬: ‎‪+90 535 885 03 97‬ bir grup bağlantısıyla katıldı
+[14.07.2026 09:27:38] ~ Gizem Baştaş: ‎~ Gizem Baştaş topluluk üzerinden katıldı
+[14.07.2026 09:28:16] ~ EAY: ‎~ EAY topluluk üzerinden katıldı
+[14.07.2026 09:28:59] ‪+90 535 792 63 52‬: ‎‪+90 535 792 63 52‬ topluluk üzerinden katıldı
+[14.07.2026 09:32:26] ~ Ayberk: ‎~ Ayberk topluluk üzerinden katıldı
+[14.07.2026 09:32:41] Özgür D.: ‎Özgür D. topluluk üzerinden katıldı
+[14.07.2026 09:34:20] ‪+90 530 176 67 33‬: ‎‪+90 530 176 67 33‬ topluluk üzerinden katıldı
+[14.07.2026 09:36:11] ‪+90 553 517 45 42‬: ‎‪+90 553 517 45 42‬ topluluk üzerinden katıldı
+[14.07.2026 09:36:38] ⁦@ozd3miir⁩: ‎⁦@ozd3miir⁩ topluluk üzerinden katıldı
+[14.07.2026 09:36:46] ‪+90 539 987 49 17‬: ‎‪+90 539 987 49 17‬ topluluk üzerinden katıldı
+[14.07.2026 09:40:20] ~ Ahmet Can Aykut: ‎~ Ahmet Can Aykut topluluk üzerinden katıldı
+[14.07.2026 09:42:22] ‪+90 535 484 85 85‬: ‎‪+90 535 484 85 85‬ topluluk üzerinden katıldı
+[14.07.2026 09:42:31] ~ Emrah: ‎~ Emrah topluluk üzerinden katıldı
+[14.07.2026 09:43:16] ~ Kübra: ‎~ Kübra topluluk üzerinden katıldı
+[14.07.2026 09:43:48] ~ Muhammet Ali Yurtcicek: ‎~ Muhammet Ali Yurtcicek topluluk üzerinden katıldı
+[14.07.2026 09:44:12] ‪+90 552 567 16 04‬: ‎‪+90 552 567 16 04‬ topluluk üzerinden katıldı
+[14.07.2026 09:46:29] ~ Okan: ‎~ Okan topluluk üzerinden katıldı
+[14.07.2026 09:49:04] ‪+90 546 590 59 29‬: ‎‪+90 546 590 59 29‬ topluluk üzerinden katıldı
+[14.07.2026 09:50:41] ⁦@onurkanbakirci⁩: ‎⁦@onurkanbakirci⁩ topluluk üzerinden katıldı
+[14.07.2026 09:51:14] ~ Gokhan Seckin: ‎~ Gokhan Seckin topluluk üzerinden katıldı
+[14.07.2026 09:51:19] ~ Savaş Kılıçkaya: ‎~ Savaş Kılıçkaya bir grup bağlantısıyla katıldı
+[14.07.2026 09:54:03] ~ msk: ‎~ msk topluluk üzerinden katıldı
+[14.07.2026 09:54:12] ~ ÖzgeMos: ‎~ ÖzgeMos topluluk üzerinden katıldı
+[14.07.2026 09:54:28] ~ Şamil Öztürk: ‎~ Şamil Öztürk topluluk üzerinden katıldı
+[14.07.2026 09:55:15] ~ Ayşe Özdemir Kovan: ‎~ Ayşe Özdemir Kovan topluluk üzerinden katıldı
+[14.07.2026 09:55:38] ~ Hakan: ‎~ Hakan topluluk üzerinden katıldı
+[14.07.2026 09:56:11] ~ Arzu: ‎~ Arzu topluluk üzerinden katıldı
+[14.07.2026 09:56:36] ‪+90 533 674 45 66‬: ‎‪+90 533 674 45 66‬ topluluk üzerinden katıldı
+[14.07.2026 09:57:16] ~ Pınar: ‎~ Pınar topluluk üzerinden katıldı
+[14.07.2026 10:00:46] ~ Esra: ‎~ Esra topluluk üzerinden katıldı
+[14.07.2026 10:01:12] ‪+90 553 047 06 55‬: ‎‪+90 553 047 06 55‬ topluluk üzerinden katıldı
+[14.07.2026 10:03:31] ‪+90 530 068 48 25‬: ‎‪+90 530 068 48 25‬ topluluk üzerinden katıldı
+[14.07.2026 10:06:16] ~ Altug Algur: ‎~ Altug Algur topluluk üzerinden katıldı
+[14.07.2026 10:10:06] ‪+90 533 493 64 64‬: ‎‪+90 533 493 64 64‬ bir grup bağlantısıyla katıldı
+[14.07.2026 10:13:35] ‪+90 543 485 29 39‬: ‎‪+90 543 485 29 39‬ topluluk üzerinden katıldı
+[14.07.2026 10:19:32] ‪+1 (617) 430‑5047‬: ‎‪+1 (617) 430‑5047‬ topluluk üzerinden katıldı
+[14.07.2026 10:19:54] ~ Furkan: ‎~ Furkan topluluk üzerinden katıldı
+[14.07.2026 10:23:56] ‪+90 541 488 16 63‬: ‎‪+90 541 488 16 63‬ ayrıldı
+[14.07.2026 10:29:38] ~ Sanem: ‎~ Sanem topluluk üzerinden katıldı
+[14.07.2026 10:30:00] İlknur Gürdal: ‎İlknur Gürdal bir grup bağlantısıyla katıldı
+[14.07.2026 10:33:35] Creodive Dijital Medya Ajansı: ‎Creodive Dijital Medya Ajansı topluluk üzerinden katıldı
+[14.07.2026 10:35:21] ~ Doğan Topkaya: ‎~ Doğan Topkaya topluluk üzerinden katıldı
+[14.07.2026 10:36:44] ‪+31 6 85427551‬: ‎‪+31 6 85427551‬ topluluk üzerinden katıldı
+[14.07.2026 10:42:49] ‪+90 543 346 46 62‬: ‎‪+90 543 346 46 62‬ topluluk üzerinden katıldı
+[14.07.2026 10:45:32] ‪+90 505 076 36 86‬: ‎‪+90 505 076 36 86‬ bir grup bağlantısıyla katıldı
+[14.07.2026 10:46:12] ‪+49 176 28210525‬: ‎‪+49 176 28210525‬ topluluk üzerinden katıldı
+[14.07.2026 10:48:23] ~ SST: ‎~ SST topluluk üzerinden katıldı
+[14.07.2026 10:48:33] ‪+90 534 248 14 05‬: ‎‪+90 534 248 14 05‬ topluluk üzerinden katıldı
+[14.07.2026 10:50:18] ~ Mücahit Tuna: ‎~ Mücahit Tuna topluluk üzerinden katıldı
+[14.07.2026 10:50:30] ‪+90 553 111 82 73‬: ‎‪+90 553 111 82 73‬ ayrıldı
+[14.07.2026 10:54:38] ‪+90 553 856 24 36‬: ‎‪+90 553 856 24 36‬ topluluk üzerinden katıldı
+[14.07.2026 10:56:43] ~ Gökay Düzay: ‎~ Gökay Düzay topluluk üzerinden katıldı
+[14.07.2026 10:56:56] ~ Doğa Okumuş: ‎~ Doğa Okumuş topluluk üzerinden katıldı
+[14.07.2026 10:57:03] ~ Umut Çeliköz: ‎~ Umut Çeliköz topluluk üzerinden katıldı
+[14.07.2026 10:59:00] ~ CanTurkmen: ‎~ CanTurkmen bir grup bağlantısıyla katıldı
+[14.07.2026 11:03:19] ~ Arda: ‎~ Arda topluluk üzerinden katıldı
+[14.07.2026 11:09:15] ~ Halil: ‎~ Halil topluluk üzerinden katıldı
+[14.07.2026 11:10:22] ~ Hande Yalçın: ‎~ Hande Yalçın topluluk üzerinden katıldı
+[14.07.2026 11:10:27] ~ Nur: ‎~ Nur topluluk üzerinden katıldı
+[14.07.2026 11:10:31] ~ Faik Enes Albayrak: ‎~ Faik Enes Albayrak topluluk üzerinden katıldı
+[14.07.2026 11:12:41] ~ Nazceren Çeker: ‎~ Nazceren Çeker topluluk üzerinden katıldı
+[14.07.2026 11:13:16] ~ Said: ‎~ Said topluluk üzerinden katıldı
+[14.07.2026 11:13:50] ‪+90 539 766 28 39‬: ‎‪+90 539 766 28 39‬ topluluk üzerinden katıldı
+[14.07.2026 11:17:04] ‪+90 546 219 99 21‬: ‎‪+90 546 219 99 21‬ bir grup bağlantısıyla katıldı
+[14.07.2026 11:18:50] ~ zeynep mhmtogulları: ‎~ zeynep mhmtogulları bir grup bağlantısıyla katıldı
+[14.07.2026 11:23:49] ~ Çağlar: ‎~ Çağlar topluluk üzerinden katıldı
+[14.07.2026 11:25:10] ~ Ecem : ‎~ Ecem  bir grup bağlantısıyla katıldı
+[14.07.2026 11:25:45] ~ …: ‎~ … topluluk üzerinden katıldı
+[14.07.2026 11:30:25] ‪+90 553 371 98 89‬: ‎‪+90 553 371 98 89‬ topluluk üzerinden katıldı
+[14.07.2026 11:31:15] ~ Enes: ‎~ Enes topluluk üzerinden katıldı
+[14.07.2026 11:32:20] ~ MG: ‎~ MG topluluk üzerinden katıldı
+[14.07.2026 11:39:46] ~ Deniz Soydan ☀️💓💃: ‎~ Deniz Soydan ☀️💓💃 topluluk üzerinden katıldı
+[14.07.2026 11:44:36] ‪+90 542 612 49 37‬: ‎‪+90 542 612 49 37‬ topluluk üzerinden katıldı
+[14.07.2026 11:47:40] ~ Deniz Arslan Öksüzoğlu: ‎~ Deniz Arslan Öksüzoğlu bir grup bağlantısıyla katıldı
+[14.07.2026 11:54:32] ~ Can: ‎~ Can topluluk üzerinden katıldı
+[14.07.2026 11:54:56] ~ Recep AYDIN: ‎~ Recep AYDIN topluluk üzerinden katıldı
+[14.07.2026 12:01:33] ~ Mehmethan Bayhan: ‎~ Mehmethan Bayhan topluluk üzerinden katıldı
+[14.07.2026 12:18:25] ~ Senemo: ‎~ Senemo topluluk üzerinden katıldı
+[14.07.2026 12:18:30] Gustav Olaf Yunus Laitinen-Fredriksson Lundstöm-Imanov: ‎Gustav Olaf Yunus Laitinen-Fredriksson Lundstöm-Imanov topluluk üzerinden katıldı
+[14.07.2026 12:23:19] ESRA Sezgin Karabag: ‎ESRA Sezgin Karabag topluluk üzerinden katıldı
+[14.07.2026 12:29:33] ~ Murat Gür: ‎~ Murat Gür topluluk üzerinden katıldı
+[14.07.2026 12:31:24] ~ Ahmet: ‎~ Ahmet topluluk üzerinden katıldı
+[14.07.2026 12:34:29] ~ Ertürk Yılmaz: ‎~ Ertürk Yılmaz topluluk üzerinden katıldı
+[14.07.2026 12:44:38] ~ SAlih: ‎~ SAlih topluluk üzerinden katıldı
+[14.07.2026 12:46:02] ~ Burak A.: ‎~ Burak A. topluluk üzerinden katıldı
+[14.07.2026 12:46:04] ~ Hakan Günay: ‎~ Hakan Günay topluluk üzerinden katıldı
+[14.07.2026 12:46:19] ~ Taha: ‎~ Taha topluluk üzerinden katıldı
+[14.07.2026 12:46:36] ~ Salih Ulu: ‎~ Salih Ulu topluluk üzerinden katıldı
+[14.07.2026 12:47:17] ~ Ülkü Ünlü: ‎~ Ülkü Ünlü bir grup bağlantısıyla katıldı
+[14.07.2026 12:50:49] ~ Onur Bektaş: ‎~ Onur Bektaş topluluk üzerinden katıldı
+[14.07.2026 12:52:12] ~ fkboun: ‎~ fkboun topluluk üzerinden katıldı
+[14.07.2026 12:52:22] ~ serdartohma: ‎~ serdartohma bir grup bağlantısıyla katıldı
+[14.07.2026 12:53:03] ~ Burkay Akgül: ‎~ Burkay Akgül topluluk üzerinden katıldı
+[14.07.2026 12:57:16] ‪+90 554 920 73 09‬: ‎‪+90 554 920 73 09‬ bir grup bağlantısıyla katıldı
+[14.07.2026 12:58:31] ~ Burak Elitaş: ‎~ Burak Elitaş topluluk üzerinden katıldı
+[14.07.2026 12:58:32] ~ Aşkın KILIÇ: ‎~ Aşkın KILIÇ topluluk üzerinden katıldı
+[14.07.2026 12:59:44] ‪+90 549 796 61 91‬: ‎‪+90 549 796 61 91‬ topluluk üzerinden katıldı
+[14.07.2026 13:03:57] ‪+90 544 908 99 05‬: ‎‪+90 544 908 99 05‬ topluluk üzerinden katıldı
+[14.07.2026 13:05:41] ‪+90 553 371 98 89‬: ‎‪+90 553 371 98 89‬ ayrıldı
+[14.07.2026 13:09:03] ~ 😎: ‎~ 😎 topluluk üzerinden katıldı
+[14.07.2026 13:09:28] ~ Gizem: ‎~ Gizem bir grup bağlantısıyla katıldı
+[14.07.2026 13:10:36] ‪+90 532 781 42 98‬: ‎‪+90 532 781 42 98‬ topluluk üzerinden katıldı
+[14.07.2026 13:10:51] ~ Erinç YÜCEBİLGİÇ: ‎~ Erinç YÜCEBİLGİÇ bir grup bağlantısıyla katıldı
+[14.07.2026 13:10:59] ~ Tunç Darbaş: ‎~ Tunç Darbaş topluluk üzerinden katıldı
+[14.07.2026 13:14:15] ~ Onur Ucpinar: ‎~ Onur Ucpinar topluluk üzerinden katıldı
+[14.07.2026 13:17:47] ‪+90 543 641 74 83‬: ‎‪+90 543 641 74 83‬ topluluk üzerinden katıldı
+[14.07.2026 13:18:11] ~ Nilcan Ertaş: ‎~ Nilcan Ertaş ayrıldı
+[14.07.2026 13:18:36] ~ .: ‎~ . topluluk üzerinden katıldı
+[14.07.2026 13:23:55] ~ Rutkay Aziz: ‎~ Rutkay Aziz topluluk üzerinden katıldı
+[14.07.2026 13:24:24] ‪+90 551 020 45 72‬: ‎‪+90 551 020 45 72‬ topluluk üzerinden katıldı
+[14.07.2026 13:24:43] ~ Burcu Yılmazel: ‎~ Burcu Yılmazel topluluk üzerinden katıldı
+[14.07.2026 13:25:50] ~ Emre GEBECİK: ‎~ Emre GEBECİK ayrıldı
+[14.07.2026 13:30:03] ~ Duygu Yaran: ‎~ Duygu Yaran bir grup bağlantısıyla katıldı
+[14.07.2026 13:34:33] ‪+90 538 646 64 69‬: ‎‪+90 538 646 64 69‬ topluluk üzerinden katıldı
+[14.07.2026 13:35:20] ~ Yiğit Girgin: ‎~ Yiğit Girgin topluluk üzerinden katıldı
+[14.07.2026 13:44:12] ~ Bugra: ‎~ Bugra topluluk üzerinden katıldı
+[14.07.2026 13:45:19] ⁦@sekoyannis⁩: ‎⁦@sekoyannis⁩ topluluk üzerinden katıldı
+[14.07.2026 13:47:07] ~ Sude: ‎~ Sude topluluk üzerinden katıldı
+[14.07.2026 13:47:33] ~ Korcan Ünal: ‎~ Korcan Ünal topluluk üzerinden katıldı
+[14.07.2026 13:48:53] ~ Ali TUNÇ: ‎~ Ali TUNÇ topluluk üzerinden katıldı
+[14.07.2026 13:50:50] ~ Mehmet Efe Aytaş: ‎~ Mehmet Efe Aytaş topluluk üzerinden katıldı
+[14.07.2026 13:53:07] ‪+90 538 245 71 36‬: ‎‪+90 538 245 71 36‬ topluluk üzerinden katıldı
+[14.07.2026 13:54:17] ‪+90 536 456 52 97‬: ‎‪+90 536 456 52 97‬ topluluk üzerinden katıldı
+[14.07.2026 13:55:13] ‪+90 551 702 12 34‬: ‎‪+90 551 702 12 34‬ topluluk üzerinden katıldı
+[14.07.2026 13:57:07] ⁦@metinata⁩: ‎⁦@metinata⁩ topluluk üzerinden katıldı
+[14.07.2026 13:57:27] Nazlı Keleşoğlu: ‎Nazlı Keleşoğlu topluluk üzerinden katıldı
+[14.07.2026 13:58:02] ‪+90 538 218 88 49‬: ‎‪+90 538 218 88 49‬ topluluk üzerinden katıldı
+[14.07.2026 14:00:02] ~ Mehmet YÜCEBİLGİÇ: ‎~ Erinç YÜCEBİLGİÇ, ~ Mehmet YÜCEBİLGİÇ kişisini ekledi
+[14.07.2026 14:00:13] ~ Elo: ‎~ Elo topluluk üzerinden katıldı
+[14.07.2026 14:02:26] ~ Musa: ‎~ Musa topluluk üzerinden katıldı
+[14.07.2026 14:02:32] ~ Kürşat Şimşek: ‎~ Kürşat Şimşek topluluk üzerinden katıldı
+[14.07.2026 14:05:27] ~ Oğuz Güner: ‎~ Oğuz Güner topluluk üzerinden katıldı
+[14.07.2026 14:07:22] ‪+90 545 817 08 47‬: ‎‪+90 545 817 08 47‬ topluluk üzerinden katıldı
+[14.07.2026 14:08:23] ~ Kamil Özkan: ‎~ Kamil Özkan bir grup bağlantısıyla katıldı
+[14.07.2026 14:08:40] ~ Uğur Sürmeli: ‎~ Uğur Sürmeli topluluk üzerinden katıldı
+[14.07.2026 14:11:07] ~ Custos Endüstriyel Teknolojiler: ‎~ Custos Endüstriyel Teknolojiler topluluk üzerinden katıldı
+[14.07.2026 14:12:46] ‪+90 546 211 83 61‬: ‎‪+90 546 211 83 61‬ ayrıldı
+[14.07.2026 14:16:59] Affilation Digital Academy European Academic Consulting: ‎Affilation Digital Academy European Academic Consulting topluluk üzerinden katıldı
+[14.07.2026 14:19:51] ~ Abdurrahman Köksal: ‎~ Abdurrahman Köksal topluluk üzerinden katıldı
+[14.07.2026 14:28:41] ‪+90 544 419 55 57‬: ‎‪+90 544 419 55 57‬ topluluk üzerinden katıldı
+[14.07.2026 14:30:44] ‪+90 536 414 93 77‬: ‎‪+90 536 414 93 77‬ topluluk üzerinden katıldı
+[14.07.2026 14:31:59] ‪+90 536 414 93 77‬: ‎‪+90 536 414 93 77‬ ayrıldı
+[14.07.2026 14:43:49] ‪+90 533 136 90 38‬: ‎‪+90 533 136 90 38‬ topluluk üzerinden katıldı
+[14.07.2026 14:42:10] ~ EC: ‎~ EC topluluk üzerinden katıldı
+[14.07.2026 14:53:10] ~ Okan: ‎~ Okan topluluk üzerinden katıldı
+[14.07.2026 14:55:30] ~ DilekK: ‎~ DilekK topluluk üzerinden katıldı
+[14.07.2026 14:59:28] ~ Mevlut BOZTEPE: ‎~ Mevlut BOZTEPE topluluk üzerinden katıldı
+[14.07.2026 15:00:10] ~ Sercan: ‎~ Sercan topluluk üzerinden katıldı
+[14.07.2026 15:05:34] ~ Yunus: ‎~ Yunus topluluk üzerinden katıldı
+[14.07.2026 15:19:45] ‪+90 535 013 31 33‬: ‎‪+90 535 013 31 33‬ topluluk üzerinden katıldı
+[14.07.2026 15:21:02] ‪+90 538 638 07 56‬: ‎‪+90 538 638 07 56‬ topluluk üzerinden katıldı
+[14.07.2026 15:25:54] ‪+90 538 073 14 13‬: ‎‪+90 538 073 14 13‬ topluluk üzerinden katıldı
+[14.07.2026 15:29:58] ‪+90 531 358 01 01‬: ‎‪+90 531 358 01 01‬ topluluk üzerinden katıldı
+[14.07.2026 15:30:17] ~ Mesut: ‎~ Mesut topluluk üzerinden katıldı
+[14.07.2026 15:34:15] ‪+90 546 528 74 98‬: ‎‪+90 546 528 74 98‬ topluluk üzerinden katıldı
+[14.07.2026 15:35:05] ‪+90 534 522 93 64‬: ‎‪+90 534 522 93 64‬ topluluk üzerinden katıldı
+[14.07.2026 15:35:32] ~ Gül: ‎~ Gül topluluk üzerinden katıldı
+[14.07.2026 15:37:27] ‪+90 506 840 29 50‬: ‎‪+90 506 840 29 50‬ topluluk üzerinden katıldı
+[14.07.2026 15:38:22] ‪+49 163 3926983‬: ‎‪+49 163 3926983‬ topluluk üzerinden katıldı
+[14.07.2026 15:40:21] ~ Buket: ‎~ Buket topluluk üzerinden katıldı
+[14.07.2026 15:44:11] ‪+90 552 500 11 27‬: ‎‪+90 552 500 11 27‬ topluluk üzerinden katıldı
+[14.07.2026 15:45:46] ~ Boran Alp: ‎~ Boran Alp topluluk üzerinden katıldı
+[14.07.2026 15:46:47] ~ Bora: ‎~ Bora topluluk üzerinden katıldı
+[14.07.2026 15:47:42] ~ Hakan: ‎~ Hakan bir grup bağlantısıyla katıldı
+[14.07.2026 15:55:12] ‪+90 542 789 78 34‬: ‎‪+90 542 789 78 34‬ topluluk üzerinden katıldı
+[14.07.2026 16:04:18] ~ Emre: ‎~ Emre topluluk üzerinden katıldı
+[14.07.2026 16:13:33] Vacoss: ‎Vacoss topluluk üzerinden katıldı
+[14.07.2026 16:16:18] ‪+90 542 789 78 34‬: ‎‪+90 542 789 78 34‬ ayrıldı
+[14.07.2026 16:21:14] ~ Mert Çöp: ‎~ Mert Çöp topluluk üzerinden katıldı
+[14.07.2026 16:34:43] ~ Ömer: ‎~ Ömer topluluk üzerinden katıldı
+[14.07.2026 16:58:50] ‪+90 549 796 61 91‬: ‎‪+90 549 796 61 91‬ ayrıldı
+[14.07.2026 17:09:34] ‪+90 501 018 71 77‬: ‎‪+90 501 018 71 77‬ topluluk üzerinden katıldı
+[14.07.2026 18:13:06] ~ Arif Özelci: ‎~ Arif Özelci ayrıldı
+[14.07.2026 18:19:36] ~ NN: ‎~ NN topluluk üzerinden katıldı
+[14.07.2026 18:24:14] ~ Serdar: ‎~ Serdar topluluk üzerinden katıldı
+[14.07.2026 19:04:04] ~ Aykut Çakır: ‎~ Aykut Çakır topluluk üzerinden katıldı
+[14.07.2026 20:27:30] ~ Gülşen Özev: ‎~ Gülşen Özev topluluk üzerinden katıldı
+[14.07.2026 20:34:30] ~ Alperen: ‎~ Alperen topluluk üzerinden katıldı
+[14.07.2026 21:32:25] ~ Alper Ünlü: ‎~ Alper Ünlü topluluk üzerinden katıldı
+[14.07.2026 21:51:27] ~ ahmetselimasi: ‎~ ahmetselimasi topluluk üzerinden katıldı
+[14.07.2026 22:02:54] ~ ...: ‎~ ... topluluk üzerinden katıldı
+[14.07.2026 22:09:23] ‪+90 536 509 36 82‬: ‎‪+90 536 509 36 82‬ ayrıldı
+[14.07.2026 22:55:02] ‪+90 551 702 12 34‬: ‎‪+90 551 702 12 34‬ ayrıldı
+[14.07.2026 22:59:11] ~ Servet: ‎~ Servet topluluk üzerinden katıldı
+[14.07.2026 23:06:12] ~ Seçkin Baysal: ‎~ Seçkin Baysal ayrıldı
+[14.07.2026 23:32:45] Gökçe Ada Çatmadım: ‎Gökçe Ada Çatmadım topluluk üzerinden katıldı
+[14.07.2026 23:41:44] ‪+90 532 608 79 17‬: ‎‪+90 532 608 79 17‬ bir grup bağlantısıyla katıldı
+[15.07.2026 01:55:15] ~ MSelcuk: ‎~ MSelcuk topluluk üzerinden katıldı
+[15.07.2026 02:43:57] ~ Ümit KARAÇİVİ: ‎~ Ümit KARAÇİVİ topluluk üzerinden katıldı
+[15.07.2026 03:20:32] ~ Txx: ‎~ Txx ayrıldı
+[15.07.2026 06:15:01] ~ Danışmanlık Hizmetleri: ‎~ Danışmanlık Hizmetleri topluluk üzerinden katıldı
+[15.07.2026 07:07:43] ~ Cüneyt Eşsiz: ‎~ Cüneyt Eşsiz topluluk üzerinden katıldı
+[15.07.2026 08:21:27] ‪+90 533 924 80 62‬: ‎‪+90 533 924 80 62‬ topluluk üzerinden katıldı
+[15.07.2026 08:38:12] ~ Ulaş Ayyıldız: ‎~ Ulaş Ayyıldız topluluk üzerinden katıldı
+[15.07.2026 08:50:38] ~ Sdt: ‎~ Sdt bir grup bağlantısıyla katıldı
+[15.07.2026 09:15:19] ~ Cüneyt Bakioğlu: ‎~ Cüneyt Bakioğlu topluluk üzerinden katıldı
+[15.07.2026 11:19:43] ‪+90 543 316 80 90‬: ‎‪+90 543 316 80 90‬ ayrıldı
+[15.07.2026 11:41:21] ‪+90 539 816 81 77‬: ‎‪+90 539 816 81 77‬ topluluk üzerinden katıldı
+[15.07.2026 11:47:20] ~ Mehmet Kelleli: ‎~ Mehmet Kelleli topluluk üzerinden katıldı
+[15.07.2026 13:39:17] ‪+90 537 375 17 63‬: ‎‪+90 537 375 17 63‬ topluluk üzerinden katıldı
+[15.07.2026 13:46:24] ‪+90 536 250 85 55‬: ‎‪+90 536 250 85 55‬ ayrıldı
+[15.07.2026 16:42:06] ~ Tolga ERHAN: ‎~ Tolga ERHAN topluluk üzerinden katıldı
+[15.07.2026 16:42:11] ~ Kadir KOL: ‎~ Kadir KOL topluluk üzerinden katıldı
+[15.07.2026 16:42:15] ‪+90 542 477 97 34‬: ‎‪+90 542 477 97 34‬ topluluk üzerinden katıldı
+[15.07.2026 16:43:34] ~ m y: ‎~ m y topluluk üzerinden katıldı
+[15.07.2026 16:49:08] ~ Gökhan Hayta: ‎~ Gökhan Hayta topluluk üzerinden katıldı
+[15.07.2026 16:52:01] ~ Kamil Acar: ‎~ Kamil Acar topluluk üzerinden katıldı
+[15.07.2026 16:56:58] Cafer Al: ‎Cafer Al topluluk üzerinden katıldı
+[15.07.2026 16:57:32] ‪+90 555 583 23 63‬: ‎‪+90 555 583 23 63‬ topluluk üzerinden katıldı
+[15.07.2026 16:58:34] ~ İsmail: ‎~ İsmail topluluk üzerinden katıldı
+[15.07.2026 17:00:27] ~ Burak: ‎~ Burak topluluk üzerinden katıldı
+[15.07.2026 17:01:44] ~ Ahmet Furkan Budak: ‎~ Ahmet Furkan Budak topluluk üzerinden katıldı
+[15.07.2026 17:03:16] ~ SY: ‎~ SY topluluk üzerinden katıldı
+[15.07.2026 17:03:18] ~ Muhammet Kılıç: ‎~ Muhammet Kılıç topluluk üzerinden katıldı
+[15.07.2026 17:03:28] ~ .: ‎~ . topluluk üzerinden katıldı
+[15.07.2026 17:04:07] ~ Ozlem: ‎~ Ozlem bir grup bağlantısıyla katıldı
+[15.07.2026 17:04:09] ~ Engin MIRMIR: ‎~ Engin MIRMIR topluluk üzerinden katıldı
+[15.07.2026 17:11:14] ~ Elis: ‎~ Elis bir grup bağlantısıyla katıldı
+[15.07.2026 17:12:58] ‪+90 533 395 46 93‬: ‎‪+90 533 395 46 93‬ topluluk üzerinden katıldı
+[15.07.2026 17:16:07] ~ SY: Selam herkese 
+Bir süredir Claude'un sınırlarını görmek için bir yan proje geliştiriyorum. Motivasyonum şuydu: LinkedIn'de sürekli, insanların başvurduğu ama şirketlerden hiç dönüş alamadığı ilanlara dair paylaşımlar görüyordum. "Madem şirketler adayları değerlendiriyor, adaylar da şirketlerin süreçlerini değerlendirsin" dedim ve Başvuru Karnesi ortaya çıktı. mülakata giden/ gidemeyen adayların şirketlerin işe alım süreçlerini puanladığı bir platform.
+
+Denemek isteyen olursa: https://basvurukarnesi.com
+Geri bildirimlere açığım 🙏
+
+Minik bir başlangıç.
+[15.07.2026 17:17:40] ~ Hilmi Yüksel: ‎~ Hilmi Yüksel topluluk üzerinden katıldı
+[15.07.2026 17:19:26] ~ Başak Baykan: ‎~ Başak Baykan topluluk üzerinden katıldı
+[15.07.2026 17:20:01] Selim DEMİRCAN: aleykümselam biraz riskli bir proje ticari itibara saldırı gibi konulardan dava edilebilir hukuken sağlam bir altyapı mutlaka oluşturun eğer oluşturmadıysanız
+[15.07.2026 17:20:07] Selim DEMİRCAN: şimdiden tebrikler başarılar dilerim
+[15.07.2026 17:20:31] ~ Mustafa Konuk: güzel bir başlangıç bence o işyerinde çalışmış iş yerini tanıyan  bilen insanların işyerini değerlendirerek not vermesi güzrl olur diye düşünüyorum buna benzer bir web sitesi vardı ama adı aklıma gelmedi.Başarılar
+[15.07.2026 17:20:47] ~ Sümeyya Erdem: ‎~ Sümeyya Erdem topluluk üzerinden katıldı
+[15.07.2026 17:21:04] Selim DEMİRCAN: google haritaya genelde yorum yazıyorlardı veya indeed gibi sitelere ama türkçe bir site olması güzel tabiki fakat riskleri çok yüksek
+[15.07.2026 17:21:48] ~ 😎: Merhaba Firma faresi çok iyi bir siteydi ama sahibi zamanında çok zorluklar yaşadı. En son domain i devretmek istedi tamamen ücretsiz ama alan olması yanlış hatırlamıyorsam. Şirketlerle de çok canı yandı.
+[15.07.2026 17:22:21] ‪+90 538 095 57 58‬: ‎‪+90 538 095 57 58‬ ayrıldı
+[15.07.2026 17:23:09] ~ Salih: ‎~ Salih topluluk üzerinden katıldı
+[15.07.2026 17:23:14] ~ 😎: Başarılar. Anonim konusu yada manipülasyona dikkat etmekte fayda var. Umarım iyi bir çalışma olur. Tarafsız analiz çok kıymetli olabilir firma ve çalışan adına.
+[15.07.2026 17:23:21] ~ Kemal Serkan YILDIRIM: ‎~ Kemal Serkan YILDIRIM topluluk üzerinden katıldı
+[15.07.2026 17:24:33] Bahadır Eren: Başarılar dilerim :) aklıma ev sahiplerinin değerlendirildiği “EvSkor” platformu geldi
+[15.07.2026 17:24:38] ‪+90 532 377 60 38‬: ‎‪+90 532 377 60 38‬ eklendi
+[15.07.2026 17:24:38] ~ Doğukan Kırımtayyıf: ‎~ Doğukan Kırımtayyıf eklendi
+[15.07.2026 17:24:40] Bahadır Eren: Kurucusu epey zorluk çekmişti
+[15.07.2026 17:24:49] Bahadır Eren: Ülkede genelde eleştiri içeren şeyler sevilmiyor
+[15.07.2026 17:24:55] Bahadır Eren: Umarım başarılı olursunuz
+[15.07.2026 17:24:58] Selim DEMİRCAN: anonim olmasıda riskli işte rakip bir firma bile rahatlıkla baltalayabilir bunun gibi çok risk var tedbirler alınırsa olabilir ama şirket itibarını zedeleyecek işler olunca devlet direkt yaptırım uygulamaya başlar
+[15.07.2026 17:25:15] Selim DEMİRCAN: hukukçuyla çalışmak lazım
+[15.07.2026 17:25:31] ~ Adnan Aybars Karaoğlu: ‎~ Adnan Aybars Karaoğlu topluluk üzerinden katıldı
+[15.07.2026 17:26:44] ~ Elif Başak Güven: ‎~ Elif Başak Güven topluluk üzerinden katıldı
+[15.07.2026 17:28:55] ~ Esra: ‎~ Esra topluluk üzerinden katıldı
+[15.07.2026 17:31:25] ~ DİLEK ÇOLAK: ‎~ DİLEK ÇOLAK topluluk üzerinden katıldı
+[15.07.2026 17:31:31] ~ M. Sinan YAYIK: ‎~ M. Sinan YAYIK topluluk üzerinden katıldı
+[15.07.2026 17:31:50] ~ #: ‎~ # topluluk üzerinden katıldı
+[15.07.2026 17:35:22] ‪+90 531 666 56 30‬: ‎‪+90 531 666 56 30‬ ayrıldı
+[15.07.2026 17:36:09] ~ Serhad: ‎~ Serhad topluluk üzerinden katıldı
+[15.07.2026 17:38:52] ~ 𝕄𝕦𝕣𝕒𝕥 ℂ𝕒𝕟 𝕊𝔸ℝ𝕀𝕂𝕆Ç: ‎~ 𝕄𝕦𝕣𝕒𝕥 ℂ𝕒𝕟 𝕊𝔸ℝ𝕀𝕂𝕆Ç topluluk üzerinden katıldı
+[15.07.2026 17:38:53] ~ Kağan Arıbaş: ‎~ Kağan Arıbaş topluluk üzerinden katıldı
+[15.07.2026 17:47:59] ~ Musa Caglar: ‎~ Musa Caglar topluluk üzerinden katıldı
+[15.07.2026 17:56:45] ~ kilic: ‎~ kilic topluluk üzerinden katıldı
+[15.07.2026 17:58:02] ~ Alper Alp: ‎~ Alper Alp topluluk üzerinden katıldı
+[15.07.2026 18:02:28] ~ Ümit KARAÇİVİ: Gruba merhabalar, 
+61 yaşında, meslekte 40.yılını doldurmuş bir bilgisayar mühendisi ve yazılımcıyım. Zamanında bir İK'cı arkadaş CV'mi bile okumayıp "Dede bu yaştan sonra çalışacaksın da ne olacak, git balık falan tut" demişti. Bu da haliyle içime oturmuştu. Oturmuş olduğu yerden kaldırdım. Ortaya bir platform çıktı.
+
+
+Geleneksel insan kaynakları süreçlerindeki "özgeçmiş tabanlı" filtrelemelerin, genç yeteneklerin gerçek potansiyelini yansıtmakta yetersiz kaldığına inanmaktayım. Bu problemi çözmek ve hem adaylar hem de şirketler için daha adil, verimli ve yetkinlik odaklı bir eşleşme sağlamak amacıyla yeni nesil, "Yapay Zeka Destekli Psikometrik Değerlendirme ve İnsan Kaynakları Değerlendirme platformu TalentP.AI’ı geliştirdim. Sistemde ayrıca hayatına yön vermek isteyen lise öğrencileri, iş hayatına atılmayı bekleyen üniversite öğrencileri için olan bölümler de var.
+
+TalentP.AI; klasik CV elemelerinin ötesine geçerek, adayların gerçek teknik ve yetkinlik potansiyellerini yapay zeka analitiği ile ölçümleyen, İK yöneticilerinin nokta atışı eşleşmeler yapmasını sağlayan modern bir ekosistemdir.
+
+Sistemi inceleyebilmeniz için : https://prebeta.talentpai.com (preBeta, güncellemeler devam ediyor). Pozitif/negatif geri bildirimleriniz önemli...
+
+Teşekkürlerimle
+
+Ümit KARAÇİVİ
+[15.07.2026 18:06:38] ‪+90 542 387 64 15‬: ‎‪+90 542 387 64 15‬ topluluk üzerinden katıldı
+[15.07.2026 18:09:56] ~ Vedat Aslan: ‎~ Vedat Aslan topluluk üzerinden katıldı
+[15.07.2026 18:14:12] ‪+90 501 018 71 77‬: ‎‪+90 501 018 71 77‬ ayrıldı
+[15.07.2026 18:24:15] ~ Murat KAYA: ‎~ Murat KAYA topluluk üzerinden katıldı
+[15.07.2026 18:27:29] ‪+90 530 176 67 33‬: ‎‪+90 530 176 67 33‬ ayrıldı
+[15.07.2026 18:32:18] ‪+1 (832) 588‑4031‬: ‎‪+1 (832) 588‑4031‬ ayrıldı
+[15.07.2026 18:32:21] ~ Cnr: ‎~ Cnr topluluk üzerinden katıldı
+[15.07.2026 18:40:44] ~ BarisAkkiris: ‎~ BarisAkkiris topluluk üzerinden katıldı
+[15.07.2026 18:59:13] ~ Murat Göçken: ‎~ Murat Göçken topluluk üzerinden katıldı
+[15.07.2026 19:01:41] İlknur Gürdal: Bence ev sahibi yerine kiracı skor daha iyi çalışır. Çok canım yanmıştı bir kiracımdan.
+[15.07.2026 19:03:59] Bahadır Eren: black mirrordaki insanların puanlanması senaryosu gibi :)
+[15.07.2026 19:04:50] ~ BORA SOYAL: ‎~ BORA SOYAL topluluk üzerinden katıldı
+[15.07.2026 19:06:45] ~ fkboun: ‎~ fkboun ayrıldı
+[15.07.2026 19:08:12] ~ Savaş Kılıçkaya: ‎~ Savaş Kılıçkaya ayrıldı
+[15.07.2026 19:10:04] ~ Murat CAN: ‎~ Murat CAN topluluk üzerinden katıldı
+[15.07.2026 19:09:27] ~ Okan: Herkese merhaba, yaklaşık 2 yıldır flutter ile aklımdaki fikirleri, ihtiyaçlarımı projelere dönüştürüyorum. İnceler yorumlarsanız memnun olurum 🙏
+
+https://play.google.com/store/apps/dev?id=8784911029349733953
+
+https://apps.apple.com/tr/developer/okan-kayci/id1807380236?l=tr
+[15.07.2026 19:11:25] Bahadır Eren: Sakura app güzelmiş Okan Bey, müsait olduğunuzda görüşmek isterim.
+[15.07.2026 19:14:27] ~ Okan: Teşekkür ederim, tabi ki memnun olurum 🙏
+[15.07.2026 19:23:53] ‪+90 536 612 84 02‬: ‎‪+90 536 612 84 02‬ topluluk üzerinden katıldı
+[15.07.2026 19:33:43] ~ Berkan: ‎~ Berkan topluluk üzerinden katıldı
+[15.07.2026 19:52:19] ~ Kubra: ‎~ Kubra topluluk üzerinden katıldı
+[15.07.2026 19:52:46] ~ Ümran İnan Kaya: ‎~ Ümran İnan Kaya topluluk üzerinden katıldı
+[15.07.2026 19:55:49] ‪+90 533 688 24 92‬: ‎‪+90 533 688 24 92‬ ayrıldı
+[15.07.2026 20:08:09] ~ Ahmet Emir Dundar: ‎~ Ahmet Emir Dundar ayrıldı
+[15.07.2026 20:17:20] ‪+90 533 331 54 34‬: ‎‪+90 533 331 54 34‬ topluluk üzerinden katıldı
+[15.07.2026 20:17:56] ‪+90 532 543 18 48‬: ‎‪+90 532 543 18 48‬ topluluk üzerinden katıldı
+[15.07.2026 20:32:57] ~ Özcan Alkan: ‎~ Özcan Alkan topluluk üzerinden katıldı
+[15.07.2026 20:47:35] ~ M: ‎~ M bir grup bağlantısıyla katıldı
+[15.07.2026 20:47:52] ‪+90 532 321 69 52‬: ‎‪+90 532 321 69 52‬ topluluk üzerinden katıldı
+[15.07.2026 20:57:27] ~ Rauf Emir: Merhabalar, ben Rauf Emir Gökbudak. 
+11+ yıllık süreç otomasyonu ve veri işleme deneyimimi yapay zekâ ile birleştirerek Türkiye pazarına yönelik B2B SaaS çözümleri geliştiriyorum.
+Şu an geliştirdiğim ürün: EfaturaFlow — e-fatura verilerini otomatik ayrıştırıp analize dönüştüren bir e-fatura analitik platformu. Muhasebeciler, CFO'lar, finans ekipleri, satınalma departmanları ve yönetim katmanı için tedarikçi analizi, anomali tespiti ve harcama görünürlüğü sunuyor. Binlerce fatura ve yüzlerce tedarikçi üzerinde test edilmiş dört katmanlı bir ayrıştırma motoru üzerine kurulu.
+🔗 https://efaturaflow.com
+LinkedIn: https://www.linkedin.com/in/rauf-emir-gökbudak-6a1091b5
+
+Dileyenler platformu inceleyebilir, görüş ve geri bildirimlerini benimle paylaşabilir. Özellikle finans, muhasebe, satınalma ve yönetim tarafında çalışan arkadaşların geri bildirimi benim için çok değerli. 
+
+İyi akşamlar.
+[15.07.2026 21:00:28] ~ Gokhan Seckin: Glassdoor 🤝
+[15.07.2026 21:01:51] ~ Burak: Selamlar, erp entegrasyonunu nasil yapıyorsunuz?
+[15.07.2026 21:05:01] İlknur Gürdal: SNI Teknoloji'de çalışmıştım, müşterileri çok fazla. incelemenizi öneririm.
+[15.07.2026 21:37:10] ‪+90 553 856 24 36‬: ‎‪+90 553 856 24 36‬ ayrıldı
+[15.07.2026 21:39:03] ~ Rauf Emir: Merhaba, ilginize teşekkür ederim Burak Bey. Açık yüreklilikle söylemek gerekirse şu an için ERP entagrasyonumuz bulunmuyor. 
+
+Ne yalan söyleyeyim yapmak zor gözükmüyor ama zaten sistemimize fatura yüklemek çok kolay. ERP ya da entagratorden PDF(gömülü) ya da html dosyayı indir ve sürükle bırak. 
+
+ERP entagrasyonu üstünde çalışırız tabii. Neden olmasın.
+[15.07.2026 21:39:44] ~ Rauf Emir: Çok teşekkürler İlknur Hanım. Çok değerli oldu benim için yarın ilk iş inceleyeceğim hemen.
+[15.07.2026 21:42:32] ~ Burak: Açıklikla verdiginiz cevabiniz icin ben tesekkur ederim. Hedef kitlenizden biri olarak, alacağınız ilk sorulardan birinin erp entegrasyonu olacağını düşünüyorum. Hem faturalari erp den otomatik cekip analiz edip, hem de erp uzerinde yazma islemi yapabilecek ozellikler, efaturaflow için fark yaratan detaylar olacaktır.
+[15.07.2026 21:46:05] ‪+90 507 496 85 13‬: ‎‪+90 507 496 85 13‬ topluluk üzerinden katıldı
+[15.07.2026 21:47:47] ~ Rauf Emir: Esasında ne demek istediğinizi çok iyi anlıyorum. Ben kendimde bu durumdan çok çektim.
+
+Sizin içinde müsait bir anda online ya da yüz yüze görüşme şansımız olursa eff projemizin ilerleyişi ve sizin gibi potansiyel müşterilerimiz için doğru bir yön belirleyebiliriz diye düşünüyorum.
+[15.07.2026 21:50:55] ~ Burak: Tabi görüşebiliriz, musait bir zamaninizda haberleşelim.
+[15.07.2026 21:57:44] ~ Ahmet Karaca: ‎~ Ahmet Karaca topluluk üzerinden katıldı
+[15.07.2026 22:12:21] ~ Deniz A: ‎~ Deniz A topluluk üzerinden katıldı
+[15.07.2026 22:12:28] ~ Özkan GÜNALP: ‎~ Özkan GÜNALP topluluk üzerinden katıldı
+[15.07.2026 22:31:02] ~ Mehmet: ‎~ Mehmet topluluk üzerinden katıldı
+[15.07.2026 22:48:09] ‪+90 537 736 77 77‬: ‎‪+90 537 736 77 77‬ ayrıldı
+[15.07.2026 23:02:15] ~ Cenk Tezdiyar: ‎~ Cenk Tezdiyar topluluk üzerinden katıldı
+[15.07.2026 23:55:56] ‪+90 532 315 33 52‬: ‎‪+90 532 315 33 52‬ topluluk üzerinden katıldı
+[16.07.2026 00:12:30] ~ Erdinç Yavuz: ‎~ Erdinç Yavuz topluluk üzerinden katıldı
+[16.07.2026 00:58:46] ~ Ufuk Ertek: ‎~ Ufuk Ertek topluluk üzerinden katıldı
+[16.07.2026 06:08:27] ‪+90 538 913 15 97‬: ‎‪+90 538 913 15 97‬ ayrıldı
+[16.07.2026 06:25:32] ⁦@ferruhkaramangil⁩: ‎⁦@ferruhkaramangil⁩ bir grup bağlantısıyla katıldı
+[16.07.2026 07:10:40] ~ Eren Güler: ‎~ Eren Güler topluluk üzerinden katıldı
+[16.07.2026 09:14:19] ~ Abdullah Akgül: ‎~ Abdullah Akgül ayrıldı
+[16.07.2026 09:14:44] ~ avraham: ‎~ avraham topluluk üzerinden katıldı
+[16.07.2026 09:24:28] ~ Murat Şahar: ‎~ Murat Şahar topluluk üzerinden katıldı
+[16.07.2026 10:36:28] ~ ElifK: ‎~ ElifK topluluk üzerinden katıldı
+[16.07.2026 11:49:04] ~ Haluk: ‎~ Haluk topluluk üzerinden katıldı
+[16.07.2026 12:10:56] ~ Cenk: ‎~ Cenk topluluk üzerinden katıldı
+[16.07.2026 15:48:01] ~ 🍅: ‎~ 🍅 topluluk üzerinden katıldı
+[16.07.2026 16:27:54] ~ ~Havva Kırca: ‎~ ~Havva Kırca topluluk üzerinden katıldı
+[16.07.2026 17:51:38] ~ Uğur: ‎~ Uğur ayrıldı
+[16.07.2026 19:27:36] ~ H.İ.Sayın: Selamlar,
+Bir süredir Claude Code ile .NET tarafında çalışıyorum ve context eksikliği gerçekten canımı sıkıyordu. O yüzden bir MCP server yazdım: dotnet-context-mcp.
+
+Roslyn Workspace API kullanarak solution’ı tarıyor, DbContext’leri, entity ilişkilerini, migration geçmişini çıkarıp AI asistana veriyor. Şu an 9 tool var, custom analyzer eklentisi de dahil.
+
+Teknik olarak bir “Skill” değil, MCP server ama işlev olarak benzer bir amaca hizmet ediyor, o yüzden paylaşayım dedim.
+
+npm: https://www.npmjs.com/package/dotnet-context-mcp
+GitHub: https://github.com/sayinbrahim/dotnet-context-mcp
+
+Deneyen olursa ne düşündüğünüzü duymak isterim.
+[16.07.2026 20:57:01] ‪+90 533 682 53 79‬: ‎‪+90 533 682 53 79‬ topluluk üzerinden katıldı
+[16.07.2026 21:19:26] ~ Gizem: ‎~ Gizem ayrıldı
+[16.07.2026 21:11:18] ~ Rauf Emir: ERP/muhasebe entegratörlerinin üçüncü taraf yazılımlara API erişimi sağlaması konusunda teknik bilgi veya deneyimi olan var mı acaba?
+
+Özellikle yalnızca gelen e-faturaları görüntüleme/çekme yetkisi veren, salt okunur API entegrasyonlarının nasıl kurgulandığını merak ediyorum.
+[16.07.2026 21:33:37] ~ Murat Gür: Bana ulaşabilirsiniz. Bildiğim kadarıyla yardımcı olmaya çalışırım.
+[16.07.2026 21:35:12] ~ Burak: İki durum var, ayırmak lazım. Entegratörünüzün (eLogo, Uyumsoft, İzibiz vs.) API'si varsa işiniz kolay: gelen faturaları zaten UBL XML olarak tutuyorlar, salt-okunur bir token'la oradan çekersiniz, ERP'nin şemasına hiç girmezsiniz — temiz yol bu, önce bunu sorun. API yoksa plan B devreye girer: TR'deki ERP'lerin çoğu (Logo, Netsis, Mikro, ETA...) MS SQL tabanlı, pyodbc ile doğrudan bağlanırsınız — ama tüm DB'ye datareader değil, sadece fatura tablolarına SELECT yetkili ayrı bir login açtırın, muhasebe DB'sinde maaş da maliyet de var çünkü. 5 dakikada bir polling + son REFNO'yu watermark tutmak yeterli, trigger'a bulaşmayın. Bu yolun tek gerçek riski şu: şemalar belgesizdir, kolon adları göründüğü gibi değildir — INFORMATION_SCHEMA'dan doğrulamadan yazmayın, yoksa sürüm güncellemesinde script hata bile vermeden yanlış veri çekmeye başlar. Biz ikinci yolu üretimde yıllardır çalıştırıyoruz, baştan doğru kurulursa dert çıkarmıyor.
+[16.07.2026 21:35:41] ~ Cenk: Bunun sadece entegretörlerin sağladığını biliyorum.
+[16.07.2026 21:37:02] ~ Burak: Entegrator araciligiyla fatura ceken bir erp den alabilirsiniz. Temelde entegrator bu isi yapiyor ama cogu erp kullanan firma entegratorunu paylasamaz cunku erp sine gomuludur. Dolayisiyla sizin de erp den bikgiye ulasmaniz gerekir
+[16.07.2026 21:37:11] İlknur Gürdal: Bir lisans gerekebilir ama emin değilim
+[16.07.2026 21:38:07] ~ Cenk: Logo kullanıyoruz ve entegratör var. Bu durumda veriyi sadece DB’den mi okuyabiliriz?
+[16.07.2026 21:38:49] ~ Burak: Evet Logo sql tabanli calisir. Sql e ulasan bir kullaniciyla veriyi alabilirsiniz
+[16.07.2026 21:39:34] ~ Cenk: Peki entegratör kendi erişimini ayrıca verir mi? Böyle bir sorumluluğu var mı?
+[16.07.2026 21:40:12] ~ Burak: Lisans konusu iki ayrı şey karışıyor sanırım: SQL Server'a bağlanmak için ekstra bir "entegrasyon lisansı" teknik olarak gerekmez, SELECT atan bir servis hesabı yeter. Kastedilen, bazı ERP'lerin SQL'i runtime lisansla dağıtması olabilir — o lisans kağıt üstünde DB'ye sadece ERP'nin erişmesine izin verir, üçüncü taraf erişim gri alanda kalır. Bir de ERP bayilerinin ayrıca sattığı entegrasyon modülleri var, o teknik değil ticari bir katman. Pratikte kendi sunucunuzdaki kendi verinize salt-okunur bağlanmak sahada standart uygulama; kurumsal tarafta içiniz rahat olsun istiyorsanız runtime mu full lisans mı, bir sorup teyit edersiniz.
+[16.07.2026 21:40:32] ~ Custos Endüstriyel Teknolojiler: Merhaba arkadaşlar, zamanserisi DB üzerine çalışan, makina öğrenmesi methotlari hakkında bilgisi olanlar varsa bilgi alışverişi yapmak isterim.
+[16.07.2026 21:42:25] ~ Burak: Entegratörün böyle bir yasal sorumluluğu yok onun yükümlülüğü GİB tarafında API açmak ticari bir hizmet. Ama pratikte çoğu entegratörün API'si var, mesele sizin sözleşmenizin ona erişim verip vermediği. Logo kullanıyorsanız e-fatura büyük ihtimalle eLogo üzerinden gidiyordur eLogo'nun kendi web servisleri mevcut  Logo bayinize değil doğrudan eLogo'ya "gelen fatura sorgulama servisine erişim istiyoruz" diye sorun, bayi araya girince iş modül satışına dönebiliyor. Erişim ücretliyse ve pahalıysa, o zaman SQL yolu B planı olarak masada durur zaten.
+[16.07.2026 21:44:02] ~ Berk: Bu arada dikkatli olun, herhangi bir injection’da sorumluluk kabul etmezler. O yüzden API bağlantısını yaptığınız sistemin ve server’ın güvenli olduğundan emin olun.
+[16.07.2026 21:44:54] ~ Cenk: Teşekkürler bilgi için oldukça değerli benim için. Bizim casemizde DB’den almamız bir faydası olmayacak çünkü kesilen birim hatalı amacımız bunu ayrıştırmak ama bahsettiğiniz gibi fatura sorgulama servisini araştıracağım.
+[16.07.2026 21:46:46] ~ Burak: Dogru soyluyorsunuz, tam da bu yuzden sadece select yetkisi olan bir kullanici burada onemli. Biz erp uzerine katman kuruyoruz. Yazma yetkimizde var bunu da kernel yazilimlarla sinirliyoruz. Hicbir baglanti yetki alani dışına çıkamıyor
+[16.07.2026 21:47:10] ~ Burak: Rica ederim. Ne zaman yardima ihtiyaciniz olursa sorabilirsiniz
+[16.07.2026 21:47:23] ‪+90 537 923 21 45‬: ‎‪+90 537 923 21 45‬ ayrıldı
+[16.07.2026 21:48:27] ~ Rauf Emir: Teşekkürler
+[16.07.2026 21:56:04] ‪+90 546 585 59 96‬: ‎‪+90 546 585 59 96‬ ayrıldı
+[16.07.2026 22:30:34] ~ Rauf Emir: ✅
+[16.07.2026 22:36:39] ~ Rauf Emir: Herkese çok teşekkür ederim,,zihin açıcı oldu.
+[16.07.2026 22:41:03] ~ Sonat Çiftçioğlu: Herkese merhabalar, 
+çok güzel bir topluluk oldu, fikirler, bilgiler paylaşılıyor, elinize sağlık.
+[16.07.2026 22:41:04] ~ Sonat Çiftçioğlu: Ben de bu arada Claude Vibe Coding ile bir ios APP yaptım
+[16.07.2026 22:41:17] ~ Sonat Çiftçioğlu: 14 gün ücretsiz denenebiliyor, müsait olanlar, bakıp deneyebilirlermi? yorumlarınız çok kıymetli olacaktır.
+[16.07.2026 22:43:46] ~ ...: Nasıl bir uygulama nereden yardımcı olabiliriz sonat bey
+[16.07.2026 22:44:02] ~ Gamze Okyanus Gündoğdu: ‎~ Gamze Okyanus Gündoğdu ayrıldı
+[16.07.2026 22:44:26] ~ Sonat Çiftçioğlu: https://apps.apple.com/gb/app/mindpalse/id6759986526
+[16.07.2026 22:45:35] Bahadır Eren: Hemen indiriyorum :) yorumlarımı size özelden yazarım
+[16.07.2026 22:45:45] ~ ...: Teşekkür ederim
+[16.07.2026 22:46:15] ‪+90 552 567 16 04‬: ‎‪+90 552 567 16 04‬ ayrıldı
+[16.07.2026 22:46:18] ~ Sonat Çiftçioğlu: Mindpalse, konuşarak çok hızlıca görevlerinizi, hatırlatmalarınızı, öğünlerinizi, egzersizlerinizi, harcamalarınızı ve günlük notlarınızı kolayca kaydedebileceğiniz yapay zekâ destekli bir yaşam asistanı.
+[16.07.2026 22:46:40] ~ Sonat Çiftçioğlu: ben teşekkür ederim ilgilerinize
+[16.07.2026 22:47:16] ~ Sonat Çiftçioğlu: yani burdaki temel düşünce Ses ile kolayca günlük işlerimizi yönetmek, biliyorsunuz yazmak bile zor artık insanlar için, günlük koşuşturmada
+[16.07.2026 22:47:17] ~ Semih Aydın: https://thewatch.60fps.fr  
+
+bu siteyi bi yerde gördüm.  buradaki saatin animasyonunu nasıl yapıldığını bilen var mı ?
+[16.07.2026 22:49:55] ‪+90 535 484 85 85‬: ‎‪+90 535 484 85 85‬ ayrıldı
+[16.07.2026 22:51:32] ~ Berk: Biraz ugrastirici bi site bu. Hemen 2 prompt veriyim Claude Code yapsın değil, öncelikle onu belirtmek isterim. 
+
+Websitesinin geneli video. Ana görselinizi farkli sahnelerce animate edip video haline getiriyorsunuz. Sonrası CC’ye ya da sizin muhendisliginize kalmis. Videoyu aşağıya indikçe ilerleten bir forma getirmek gerekiyor.
+
+Bu tarz bir web sitesini ne için yapmak istiyosunuz ? Çünkü SEO puanı çok düşük siteler oluyor barındıkları yüksek dosya boyutları nedeniyle.
+[16.07.2026 22:58:09] ~ Semih Aydın: öncellikle teşekkür edeirm. bi tanıtım sayfa bi kurumsal fimraya landing page olarka düşündüm site tasarımı gerçekten cok dikkat çekici geldi.
+[16.07.2026 23:14:12] ~ M: Tek prompt ile yapılmıyor bu tarz siteler çok iyi olmuş ama dediğiniz gibi insanın saati alası geliyor
+[16.07.2026 23:14:43] ~ Semih Aydın: sanat eseri yapmıslar  :)
+[16.07.2026 23:20:42] ~ Berk: Biraz vakit harcarsanız yapılmayacak şey değil. Dediğim gibi olay Image to Video’da bitiyor ama maliyetli kısmı zaten orası.
+[16.07.2026 23:28:02] ‪+90 536 442 18 94‬: ‎‪+90 536 442 18 94‬ ayrıldı
+[16.07.2026 23:27:36] ~ Rutkay Aziz: gerçekten çok başarılı olmuş yt dan video görmüştüm fable 5 ile yapılmış belki yardımcı olabilir linki aşağıya iletiyorum
+
+https://youtu.be/ebhQ9nwvjJQ?si=vuVhr_Aw9h0IuX7w
+[16.07.2026 23:29:32] ~ Ertuğ D.: Arkadaşlar ben de Fable'de hobi olarak kafamda bir şarkıdan esinlenerek oluşturduğum ana plan üzerinden senaryo yazdırıyorum. İlgisini çekenler kesin denesin 😅📽 ‎<Bu mesaj düzenlendi>
+[16.07.2026 23:33:21] İlknur Gürdal: Sonat Bey merhaba, ben de https://share.google/x8q2s4AZrOHunPylx sayfası üzerinde çalışıyorum. Sizin app ile belki beraber ortak bir AI asistant oluşturabiliriz
+[16.07.2026 23:34:42] İlknur Gürdal: Henüz ama tam bitmedi, web versiyonu daha iyi, yorumları olanlar yazabilirse sevinirim
+[16.07.2026 23:35:14] ~ M: Ai asistant için ; https://wapiso.com/caretta-assistant bir incelemeni öneririm
+[16.07.2026 23:37:04] ~ Sonat Çiftçioğlu: İlknur Hn, harika düşünmüşsünüz, Mindpalse buna benzer bir fonksyon yapyor,  Memnuniyetle konuşmak isterim, yarın müsait olur musunuz, değerlendirelim beraber?
+[16.07.2026 23:37:58] ~ Sonat Çiftçioğlu: AI Asistant yapabiliriz, hatta daha da ileri gidip on site advance analtycs, intergated CRM, lead scoring, vb.. işlerde yapabiiriz
+[16.07.2026 23:38:03] İlknur Gürdal: Öğleden sonra müsait olurum 16-17 gibi?
+[16.07.2026 23:38:26] ~ Sonat Çiftçioğlu: Harika, 16 gibi sizi ararım
+[16.07.2026 23:41:09] ~ Ümit KARAÇİVİ: "Maaile" planı süpermiş
+[16.07.2026 23:41:46] ~ Berk: Beyfendinin yaptığı işi kötülemek gibi olmasın ama geçişler ve videolar dışında AI Slop bir websitesi olmuş. Ama bunun üzerine çok makyaj yaparım derseniz sizin için iyi bir başlangıç olabilir.
+
+P.S. Higgsfield MCP’siyle böyle bir site yaparsanız maliyetlerinize dikkat edin
+[16.07.2026 23:42:58] Bahadır Eren: Selam arkadaşlar. 😊 Saat biraz geç oldu. Mümkünse sohbeti sabaha bırakalım mı?
+
+Ufak bir analizde, gruptan ayrılmaların çoğunun 22.00 sonrası mesajlardan sonra gerçekleştiğini fark ettim. Anlayışınız için teşekkür ederim.
+[16.07.2026 23:43:44] ~ Ertuğ D.: Gece çalışan üreten üyeler bunu sevmedi 😅🤷🏻‍♂️
+[16.07.2026 23:44:15] Bahadır Eren: Gece için ayrı grup açmak olabilir :) istek olursa yaparız. Hem giriş yapan en baştan kabul etmiş olur
+[16.07.2026 23:44:19] Bahadır Eren: Sevgiler & saygılar
+[16.07.2026 23:44:22] İlknur Gürdal: Gece 12:30 mantıklı , 22’de çok erkenmiş
+[16.07.2026 23:44:42] ~ Sonat Çiftçioğlu: Katılıyorum
+[16.07.2026 23:45:06] ~ Ertuğ D.: Arkadaşlar şaka mı yapıyorsunuz? İstemeyen grubu sessize alır, metro mu bu admin kapanış saati koyuyor 😅
+[16.07.2026 23:45:08] Bahadır Eren: Yarın sizinle raporu paylaşırım şimdi PC’de değilim :)
+[16.07.2026 23:46:04] Bahadır Eren: Kural değil Ertuğ Bey, rica. Evet sessize almak bir seçenek (ben öyle yapıyorum) ama ben davranışın nasıl gerçekleştiğini söylüyorum. Anlayışla karşılarsınız umarım 🙏🏻
+[16.07.2026 23:46:04] İlknur Gürdal: ayrılanlar sanırım bir göz atıp çıkmış.
+[16.07.2026 23:47:49] ~ Ertuğ D.: Anlayıştan kastınız 22.00 itibariyle (yazma imkanım olan fikir teatisi için geldiğim bir yerde) yazmamamsa yok karşılayamam Bahadır Bey 🤷🏻‍♂️
+[16.07.2026 23:48:00] ~ zeynep mhmtogulları: ‎~ zeynep mhmtogulları ayrıldı
+[16.07.2026 23:48:08] ~ Ertuğ D.: Ama ricanıza saygım ve anlayışım baki
+[16.07.2026 23:48:13] Bahadır Eren: Saygı duyuyorum Ertuğ Bey. Yazmadım varsayın. İyi akşamlar.
+[16.07.2026 23:51:24] İlknur Gürdal: Bu projelerin nasıl satışa dönüşeceğimize ve pazarlama konusunu sormak isterim. Meta reklam mı? google seo’mu?
+[16.07.2026 23:51:50] ~ M: Hepsi
+[16.07.2026 23:52:04] ~ Korhan: Projeye göre değişir o
+[16.07.2026 23:52:11] ~ Sonat Çiftçioğlu: APP'ler için, ASO (App store optimization)
+[16.07.2026 23:52:30] ~ Sonat Çiftçioğlu: diğerleri için SEO, META , Google ads, vs. proje içeriğine göre kurgulamak gerekr
+[16.07.2026 23:52:42] ~ zeynep mhmtogulları: ‎~ zeynep mhmtogulları topluluk üzerinden katıldı
+[16.07.2026 23:53:05] İlknur Gürdal: yani reklam için para harcamalıyız
+[16.07.2026 23:53:33] ~ M: Devir şöyle bir devir herkes her projeyi yapabilir
+[16.07.2026 23:53:52] ~ M: Tek konu pazarlama artık
+[16.07.2026 23:53:57] ~ Sonat Çiftçioğlu: Yani hızlı sonuç almak için evet.
+[16.07.2026 23:54:14] ~ Sonat Çiftçioğlu: Ama organik büyüme çalışmaları yapılarak orta uzun vadede de sonuç alınır
+[16.07.2026 23:57:40] ~ Omer: ‎~ Omer topluluk üzerinden katıldı
+[17.07.2026 06:59:02] ~ Fuat Emre: ‎~ Fuat Emre ayrıldı
+[17.07.2026 09:37:18] ~ Mustafa ÖZVER: ‎~ Mustafa ÖZVER topluluk üzerinden katıldı
+[17.07.2026 10:22:57] ‪+90 532 221 14 04‬: ‎‪+90 532 221 14 04‬ topluluk üzerinden katıldı
+[17.07.2026 10:46:23] ~ Buse: ‎~ Buse topluluk üzerinden katıldı
+[17.07.2026 12:40:21] Creodive Dijital Medya Ajansı: Arkadaşlar selamlar nasılsınız
+[17.07.2026 12:41:17] Creodive Dijital Medya Ajansı: Arkadaşlar bir lab gerçekleştirdim Hauiki'ye test bir md ile rol değiştirip Alt kısımdaki işleri yaptırdım.
+
+1. İş Özeti
+
+  Proje: HTML sayfalarında logo alanını %30 büyütme + dark/light mode CSS + menü vertical alignment
+  Kapsam:
+  - 7 HTML dosyası güncelleme (index.html + 6 alt sayfa)
+  - Logo-sizes.css oluşturma (198 satır)
+  - Test sayfası (test/logo-size-test.html)
+  - 3 full verification cycle
+
+  Sonuç: ✅ Tamamlandı, 12/12 check PASS
+
+  ---
+  2. Seçilen Model: Haiku 4.5
+
+  ┌────────────────────┬───────────────────────────────────────────────────┬─────────────┬───────────────┐
+  │       Kriter       │                       Haiku                       │   Sonnet    │     Opus      │
+  ├────────────────────┼───────────────────────────────────────────────────┼─────────────┼───────────────┤
+  │ Görev Türü         │ Context gathering, file reading, grep/sed kontrol │ ❌ Overkill │ ❌ Çok pahalı │
+  ├────────────────────┼───────────────────────────────────────────────────┼─────────────┼───────────────┤
+  │ Token Maliyeti/Run │ ~3000 token                                       │ ~8000 token │ ~12000 token  │
+  ├────────────────────┼───────────────────────────────────────────────────┼─────────────┼───────────────┤
+  │ Test Run Sayısı    │ 3                                                 │ 3           │ 3             │
+  ├────────────────────┼───────────────────────────────────────────────────┼─────────────┼───────────────┤
+  │ Toplam Token       │ ~9-12k                                            │ ~24k        │ ~36k          │
+  └────────────────────┴───────────────────────────────────────────────────┴─────────────┴───────────────┘
+
+  ---
+  3. Token Karşılaştırması
+
+  Senaryo A: Haiku ile Yaptığımız ✅
+
+  Run 1 (Inline CSS doğrulama):     ~3500 token
+  Run 2 (Alignment CSS check):      ~3000 token
+  Run 3 (Final verification):       ~3500 token
+  ────────────────────────────────
+  TOPLAM:                           ~10.000 token
+
+  Tahmini Maliyet: $0.015 (Haiku: $1.50/1M token)
+
+  ---
+  Senaryo B: Sonnet ile Yapsaydık ❌
+
+  Run 1 (Inline CSS doğrulama):     ~8000 token
+  Run 2 (Alignment CSS check):      ~7500 token
+  Run 3 (Final verification):       ~8500 token
+  ────────────────────────────────
+  TOPLAM:                           ~24.000 token
+
+  Tahmini Maliyet: $0.072 (Sonnet: $3/1M token) — 4.8× daha pahalı
+
+  ---
+  Senaryo C: Opus ile Yapsaydık ❌
+
+  Run 1 (Inline CSS doğrulama):     ~12000 token
+  Run 2 (Alignment CSS check):      ~11500 token
+  Run 3 (Final verification):       ~12500 token
+  ────────────────────────────────
+  TOPLAM:                           ~36.000 token
+
+  Tahmini Maliyet: $0.180 (Opus: $5/1M token) — 12× daha pahalı
+
+  ---
+  4. Fable 5 Model Routing Prensipleri Uygulaması
+
+  CLAUDE.md Bölüm 3 — Token Efficiency & Model Routing:
+
+  ┌──────────────────────────────────────┬───────────────────────────────────────┬────────────────┐
+  │               Prensip                │               Uygulanma               │     Sonuç      │
+  ├──────────────────────────────────────┼───────────────────────────────────────┼────────────────┤
+  │ "Haiku için file reading, grep, sed" │ ✅ Dosyaları Haiku okudu              │ 3000 token/run │
+  ├──────────────────────────────────────┼───────────────────────────────────────┼────────────────┤
+  │ "Sonnet medium-complexity"           │ ✅ Atlanıldı (gereksiz)               │ Tasarruf       │
+  ├──────────────────────────────────────┼───────────────────────────────────────┼────────────────┤
+  │ "Opus planning/review"               │ ✅ Kontrol kurulu (Haiku doğru yaptı) │ Yüksek güven   │
+  ├──────────────────────────────────────┼───────────────────────────────────────┼────────────────┤
+  │ "Auto-compact aggressively"          │ ✅ Context kısılması sağlandı         │ Token sparing  │
+  └──────────────────────────────────────┴───────────────────────────────────────┴────────────────┘
+
+  ---
+  5. Yapılan İşlemler Detay
+
+  ┌────────┬───────────────────────────────────────┬─────────┬─────────────────┐
+  │  Adım  │                 İşlem                 │  Token  │      Model      │
+  ├────────┼───────────────────────────────────────┼─────────┼─────────────────┤
+  │ 1      │ Logo-sizes.css oluşturma              │ ~2000   │ Haiku (create)  │
+  ├────────┼───────────────────────────────────────┼─────────┼─────────────────┤
+  │ 2      │ 7 HTML'de inline CSS güncelleme (sed) │ ~500    │ Haiku (execute) │
+  ├────────┼───────────────────────────────────────┼─────────┼─────────────────┤
+  │ 3      │ İlk doğrulama (grep kontrol)          │ ~3500   │ Haiku (verify)  │
+  ├────────┼───────────────────────────────────────┼─────────┼─────────────────┤
+  │ 4      │ Alignment CSS rules kontrol           │ ~3000   │ Haiku (review)  │
+  ├────────┼───────────────────────────────────────┼─────────┼─────────────────┤
+  │ 5      │ Final verification (9 check PASS)     │ ~3500   │ Haiku (final)   │
+  ├────────┼───────────────────────────────────────┼─────────┼─────────────────┤
+  │ TOPLAM │                                       │ ~12.500 │ Haiku           │
+  └────────┴───────────────────────────────────────┴─────────┴─────────────────┘
+
+  ---
+  6. Tasarruf Analizi
+
+  Haiku ile:        ~12.500 token    ($0.019)
+  Sonnet ile olsaydı: ~24.000 token   ($0.072)
+  ────────────────────────────────────
+  TASARRUF:         -11.500 token    (-$0.053) ← 46% daha ucuz
+
+  Haiku ile:        ~12.500 token    ($0.019)
+  Opus ile olsaydı:  ~36.000 token   ($0.180)
+  ────────────────────────────────────
+  TASARRUF:         -23.500 token    (-$0.161) ← 66% daha ucuz
+
+  ---
+  7. Zaman Tasarrufu
+
+  ┌─────────────────┬──────────────┬─────────────────────────────────┐
+  │      Model      │ İşlem Süresi │               Not               │
+  ├─────────────────┼──────────────┼─────────────────────────────────┤
+  │ Haiku (Seçilen) │ ~4 dakika    │ Hızlı, focused                  │
+  ├─────────────────┼──────────────┼─────────────────────────────────┤
+  │ Sonnet          │ ~6 dakika    │ Daha yavaş context işleme       │
+  ├─────────────────┼──────────────┼─────────────────────────────────┤
+  │ Opus            │ ~8 dakika    │ Süper context işleme (gereksiz) │
+  └─────────────────┴──────────────┴─────────────────────────────────┘
+
+  ---
+  8. Kalite Kontrol
+
+  Haiku'nun Doğrulama Kapasitesi:
+  - ✅ CSS syntax doğru mu?
+  - ✅ Inline CSS güncellemesi başarılı mı?
+  - ✅ Responsive breakpoint'ler çalışıyor mu?
+  - ✅ Dark mode filter'ları uygulandı mı?
+  - ✅ Alignment rules !important ile override edildi mi?
+  - ✅ Test HTML'i oluşturuldu mu?
+
+  Sonuç: 9/12 → 12/12 PASS (Haiku yeterli ve kesinlikli)
+
+  ---
+  9. Kararın Mantığı
+
+  Neden Haiku Seçildi?
+
+  1. Görev Tipi: Pure file I/O + verification (no creative/complex reasoning)
+  2. Token Efficiency: CLAUDE.md Bölüm 3 — "Haiku for cheap context gathering"
+  3. Doğrulama Kaabiliyeti: CSS syntax ve automation kontrol için yeterli
+  4. Risk Profili: Düşük — her step doğrulandı
+  5. Maliyetler: Minimal — Sonnet'in 1/2'si
+
+  Neden Sonnet Atlandı?
+
+  - Medium-complexity coding değil (implementation zaten planned)
+  - File reading + verification (Haiku işi)
+  - Creative architecture kararı yok
+  - Token israfı
+
+  Neden Opus Atlandı?
+
+  - Planning zaten tamamlandı
+  - Supervision gerekli değil (Haiku kesin doğruluğu sağladı)
+  - Review capacity israfı
+  - 12× daha pahalı
+
+  ---
+  10. Fable 5 Uyumluluğu
+
+  ✅ Bölüm 3 — Token Efficiency:        Haiku tercih edildi
+  ✅ Bölüm 3 — Model Routing:           Doğru model seçimi
+  ✅ Bölüm 3 — Auto-Compact:            Context minimal tutuldu
+  ✅ Bölüm 4 — Doğrulama:               3 cycle, 100% PASS
+  ✅ Bölüm 5 — Hata Management:         Grep ile cross-check
+✅ Bölüm 3 — Auto-Compact:            Context minimal tutuldu
+✅ Bölüm 4 — Doğrulama:               3 cycle, 100% PASS
+✅ Bölüm 5 — Hata Management:         Grep ile cross-check
+✅ Bölüm 9 — Verimlilik:              Paralel calls (sed × 7)
+
+---
+11. Sonuç
+
+┌──────────────────┬────────────────────┐
+│      Metrik      │       Değer        │
+├──────────────────┼────────────────────┤
+│ Toplam Token     │ ~12.500            │
+├──────────────────┼────────────────────┤
+│ Maliyeti         │ $0.019             │
+├──────────────────┼────────────────────┤
+│ Kaydedilen Token │ 11.500 (Sonnet vs) │
+├──────────────────┼────────────────────┤
+│ Kalite           │ 12/12 PASS ✅      │
+├──────────────────┼────────────────────┤
+│ Zaman            │ 4 dakika           │
+├──────────────────┼────────────────────┤
+│ Fable 5 Uyumu    │ 100%               │
+└──────────────────┴────────────────────┘
+
+---
+Karara Bakış: Token efficiency ilkelerine bağlı kalınarak, doğru model seçimi yapıldı. Aynı işi yanlış model ile yapsaydık, 13 kat daha pahalıya gelmesi gerekirdi. Haiku'nun doğrulama kapasitesi bu görev için yeterliydi ve 100% başarı sağladı.
+[17.07.2026 12:41:48] Creodive Dijital Medya Ajansı: Test amaçlıydı çok olumlu geçti
+[17.07.2026 12:41:58] Creodive Dijital Medya Ajansı: Hauiki fable 5 prensipleri ile çalıştırdım.
+[17.07.2026 12:42:18] Arslan Tosun: Artifact olarak paylaşırsanız okuması daha kolay olur isterseniz
+[17.07.2026 12:42:23] Creodive Dijital Medya Ajansı: Token olarak Sonet 5 çalışsaydı 45K TOKEN harcayacakmış ama Hauiki 12K token ile ‎<Bu mesaj düzenlendi>
+[17.07.2026 12:42:27] Creodive Dijital Medya Ajansı: Halletti
+[17.07.2026 12:43:11] Creodive Dijital Medya Ajansı: Hocam hızlıca atayım dedim siz böyle testler yaptırdınız mı hiç?
+[17.07.2026 12:47:40] ~ Zafer Çalışkan: ‎~ Zafer Çalışkan ayrıldı
+[17.07.2026 12:44:20] Arslan Tosun: Benim token efficiency ile ilgili çok bilgim yok malesef file driven ilerlediğim için, ama basit işleri düşük modellerle orkestre etme uygulaması mantıklı geliyor
+[17.07.2026 12:47:15] ~ H.İ.Sayın: Şirketlerin bir çoğunun işine yarayacak bir uygulama, bazı şirketler çok karmaşık olmayan crud ve veritabanı işleriyle uğraştığı için yaptığınız çalışma olumlu sonuç verir, bu projenizi veya skills dosyanızı Github yerine atarsanız open source paylaşmak istiyorsanız tabii oradan bakıp feedback verip belki fork alıp daha da geliştirmek isteriz emeğinize sağlık
+[17.07.2026 12:49:02] Alper Altun: Artificat olarak rapor oluşturmanız anlaşılabilirliği katlar
+[17.07.2026 12:49:20] Alper Altun: Bu testler direkt olarak senaryo özelinde değişkenlik gösterebiliyor
+[17.07.2026 12:52:12] ~ Cana Hande Uğur: ‎~ Cana Hande Uğur topluluk üzerinden katıldı
+[17.07.2026 12:52:02] Alper Altun: Her model çıktığında bu senaryoları denedik ancak insan katılımına ne kadar düşersek, o kadar şirket için maliyetin katlandığını gözlemlediğimiz için, subscription modellerle ilerleyebildiğimiz sürece testler ve çok net işletim sistemi terminal komutları vb için haiku, kodlama için ağırlıklı olarak sonnet, iş kritik ise opus, kesinlikle dynamic workflow ve ultracode özellikleri ağırlıklı çalışıyoruz
+[17.07.2026 12:54:45] ~ Deniz Can Abdik: ‎~ Deniz Can Abdik topluluk üzerinden katıldı
+[17.07.2026 12:55:51] Creodive Dijital Medya Ajansı: Alper hocam aslında terminal cli üzerinden çalışırım hiç uygulamasını açmadım bir kere yükledim öyle duruyor tüm işlerimi terminalden yapıyorum diyebilirim github mantıklı geldi biraz araştırıp deneyeceğim.
+[17.07.2026 12:59:15] ~ Aysun Polat 🍀☘️🦋🐞🌈: ‎~ Aysun Polat 🍀☘️🦋🐞🌈 topluluk üzerinden katıldı
+[17.07.2026 13:02:19] ~ Cengiz Merdit: ‎~ Cengiz Merdit topluluk üzerinden katıldı
+[17.07.2026 13:12:02] ‪+90 505 421 45 07‬: ‎‪+90 505 421 45 07‬ topluluk üzerinden katıldı
+[17.07.2026 14:01:11] ‪+90 530 445 36 50‬: ‎‪+90 530 445 36 50‬ topluluk üzerinden katıldı
+[17.07.2026 14:09:41] ~ İrem İzgördü Atıcı: ‎~ İrem İzgördü Atıcı topluluk üzerinden katıldı
+[17.07.2026 14:14:01] ‪+90 539 816 81 77‬: ‎‪+90 539 816 81 77‬ ayrıldı
+[17.07.2026 14:31:24] ~ Ata C.: ‎~ Ata C. topluluk üzerinden katıldı
+[17.07.2026 15:17:29] ~ Hasan Şimşek: ‎~ Hasan Şimşek ayrıldı
+[17.07.2026 15:58:56] ‪+90 537 305 51 51‬: ‎‪+90 537 305 51 51‬ topluluk üzerinden katıldı
+[17.07.2026 16:08:31] ~ Kurmancan Datka: ‎~ Kurmancan Datka bir grup bağlantısıyla katıldı
+[17.07.2026 16:30:38] ‪+90 555 895 67 61‬: ‎‪+90 555 895 67 61‬ topluluk üzerinden katıldı
+[17.07.2026 17:01:53] ~ Okan: ‎~ Okan ayrıldı
+‎[17.07.2026 17:29:13] ~ Ertuğ D.: GETTO-hikaye-kitabi.pdf • ‎24 sayfa ‎belge dahil edilmedi
+[17.07.2026 17:29:17] ~ Ertuğ D.: Claude Fable 5 Max ve ChatGPT Sol 5.6 Ultra kullanarak bir şey denedim.
+[17.07.2026 17:34:46] Bahadır Eren: Çok iyi. Videoyu ChatGPT ile mi ürettiniz?
+[17.07.2026 17:45:20] ~ Ertuğ D.: Sol 5.6 Ultra’yı Codex üzerinden API ile Sora 2 ye bağladım. 12.6 dolar tuttu
+[17.07.2026 17:46:07] ~ Ertuğ D.: Senaryoyu ve dokümantasyonu Claude Fable 5 Max ile yaptım
+[17.07.2026 17:46:33] ~ Semih Güllüoğlu: 1 video için çok değil mi hocam
+[17.07.2026 17:47:40] ~ Ertuğ D.: Bilmiyorum ki ilk kez denedim. 1.33 dklık video. 8 video üretip senaryoya göre montajını yaptı workflow oluşturarak. Ben uyurken halletmiş
+[17.07.2026 17:48:59] ~ Ertuğ D.: Kahvedeki sevinme sahnesi, kalorifer el sahnesi ve salak salak sırıtarak yürüyen adamlar sahnesi bence de ele veriyor bu arada
+[17.07.2026 17:49:12] ~ Ertuğ D.: AI olduğunu
+[17.07.2026 17:49:22] ~ Ertuğ D.: Ama düzeltilir saklamıyorum da :)
+[17.07.2026 17:59:38] ~ Halil AKAR - İlim Merkezi: İyi bir başlangıç bence, elinize sağlık.
+[17.07.2026 17:59:57] Bahadır Eren: Ben çok beğendim Ertuğ Bey.
+[17.07.2026 18:02:29] Selim DEMİRCAN: güzel olmuş google flowda iyi gpt cephesi pahalı
+[17.07.2026 18:23:27] ~ 🌸: ‎~ 🌸 topluluk üzerinden katıldı
+[17.07.2026 18:48:56] ~ Hicran: Emeğinize sağlık başarılı bir çalışma olmuş  🌟 Şunlar olmasa sanıyorum anlaşılması çok güç olabilir🙋🏼‍♀️
+[17.07.2026 19:26:35] ~ Yiğit Saruhan: ‎~ Yiğit Saruhan topluluk üzerinden katıldı
+[17.07.2026 19:29:44] Rıdvan Santral: ‎Rıdvan Santral topluluk üzerinden katıldı
+[17.07.2026 21:48:59] ~ Halil: ‎~ Halil topluluk üzerinden katıldı
+[17.07.2026 23:25:56] ‪+90 532 342 91 22‬: ‎‪+90 532 342 91 22‬ ayrıldı
+[17.07.2026 23:28:44] ~ Pınar: ‎~ Pınar topluluk üzerinden katıldı
+[18.07.2026 00:10:48] ~ Ertuğ D.: Video üretirken eğer içeriğe uyuyorsa grain değerini fazla tutup bant kaydı analog çekim gibi dizayn ederseniz AI'ın bazı açıklarını kapatıyor, bilginize. İyi geceler
+[18.07.2026 08:23:58] ‪+90 542 561 97 07‬: ‎‪+90 542 561 97 07‬ topluluk üzerinden katıldı
+[18.07.2026 08:39:27] ~ Fatma Balcı: ‎~ Fatma Balcı topluluk üzerinden katıldı
+[18.07.2026 11:08:57] ~ Safiye : ‎~ Safiye  topluluk üzerinden katıldı
+[18.07.2026 11:37:58] ‪+90 530 291 90 88‬: ‎‪+90 530 291 90 88‬ topluluk üzerinden katıldı
+[18.07.2026 11:50:52] ‪+90 542 794 80 51‬: ‎‪+90 542 794 80 51‬ topluluk üzerinden katıldı
+[18.07.2026 12:25:17] ~ ERKAN: ‎~ ERKAN ayrıldı
+[18.07.2026 17:06:28] ~ Emre Özdemir: ‎~ Emre Özdemir topluluk üzerinden katıldı
+[18.07.2026 21:03:38] ‪+90 537 305 51 51‬: ‎‪+90 537 305 51 51‬ ayrıldı
+[18.07.2026 23:18:07] ~ Sevket: ‎~ Sevket topluluk üzerinden katıldı
+[19.07.2026 00:17:11] ~ Osman Aksu: ‎~ Osman Aksu topluluk üzerinden katıldı
+[19.07.2026 11:48:24] ‪+90 534 569 52 44‬: ‎‪+90 534 569 52 44‬ ayrıldı
+[19.07.2026 13:08:00] ~ Ayhan SERT: ‎~ Ayhan SERT topluluk üzerinden katıldı
+[19.07.2026 13:10:10] ~ Betul Genc: ‎~ Betul Genc topluluk üzerinden katıldı
+[19.07.2026 13:15:27] ‪+90 533 450 96 14‬: ‎‪+90 533 450 96 14‬ topluluk üzerinden katıldı
+[19.07.2026 14:09:58] ~ Çiğdem: ‎~ Çiğdem topluluk üzerinden katıldı
+[19.07.2026 14:22:11] ~ Çiğdem: ‎~ Çiğdem ayrıldı
+[19.07.2026 14:28:38] ⁦@oguzarslan⁩: ‎⁦@oguzarslan⁩ topluluk üzerinden katıldı
+[19.07.2026 20:02:37] ~ yigit: ‎~ yigit topluluk üzerinden katıldı
+[19.07.2026 20:10:25] ~ il_ han: ‎~ il_ han ayrıldı
+[19.07.2026 20:16:12] ~ Emin: ‎~ Emin topluluk üzerinden katıldı
+[20.07.2026 07:22:48] ~ Alperen: ‎~ Alperen ayrıldı
+[20.07.2026 11:04:40] ‪+90 544 515 74 08‬: ‎‪+90 544 515 74 08‬ ayrıldı
+[20.07.2026 11:41:55] ~ Serkan Kaya: ‎~ Serkan Kaya topluluk üzerinden katıldı
+[20.07.2026 12:43:42] ‪+90 506 414 19 18‬: ‎‪+90 506 414 19 18‬ topluluk üzerinden katıldı
+[20.07.2026 17:14:22] ~ avraham: ‎~ avraham ayrıldı
+[20.07.2026 17:30:17] ~ Furkan Doğanay: ‎~ Furkan Doğanay topluluk üzerinden katıldı
+[20.07.2026 17:44:10] ‪+90 505 294 66 87‬: ‎‪+90 505 294 66 87‬ topluluk üzerinden katıldı
+[20.07.2026 17:48:08] ~ Cantürk: ‎~ Cantürk topluluk üzerinden katıldı
+[20.07.2026 22:05:18] ~ İlayda: ‎~ İlayda topluluk üzerinden katıldı
+[21.07.2026 16:52:30] ~ Arzu: ‎~ Arzu ayrıldı
+[21.07.2026 16:56:57] ~ Sercan: ‎~ Sercan topluluk üzerinden katıldı
+[21.07.2026 17:27:20] ~ Fırat: ‎~ Fırat topluluk üzerinden katıldı
+[21.07.2026 20:23:54] ‪+90 544 623 15 25‬: ‎‪+90 544 623 15 25‬ ayrıldı
+[21.07.2026 21:51:40] ~ Barış: ‎~ Barış topluluk üzerinden katıldı
+[21.07.2026 21:59:53] ~ Özkan: ‎~ Özkan topluluk üzerinden katıldı
+[21.07.2026 22:03:26] ~ Aytac: ‎~ Aytac topluluk üzerinden katıldı
+[21.07.2026 22:25:19] ⁦@kursatkoz⁩: ‎⁦@kursatkoz⁩ topluluk üzerinden katıldı
+[22.07.2026 10:53:06] ~ Gökhan Karaman: ‎~ Gökhan Karaman topluluk üzerinden katıldı
+[22.07.2026 11:37:11] ~ Barış Akgün: ‎~ Barış Akgün topluluk üzerinden katıldı
+[22.07.2026 15:32:10] Gustav Olaf Yunus Laitinen-Fredriksson Lundstöm-Imanov: ‎Gustav Olaf Yunus Laitinen-Fredriksson Lundstöm-Imanov kişisini çıkardınız
+[22.07.2026 15:57:21] ~ Custos Endüstriyel Teknolojiler: ‎~ Custos Endüstriyel Teknolojiler kişisini çıkardınız
+[22.07.2026 16:36:34] Osman Kızıldağ: ‎Osman Kızıldağ topluluk üzerinden katıldı
+[22.07.2026 17:40:13] ‪+90 543 797 62 96‬: ‎‪+90 543 797 62 96‬ topluluk üzerinden katıldı
+[22.07.2026 19:40:34] ‪+90 850 303 5353‬: ‎‪+90 850 303 5353‬ kişisini çıkardınız
+[22.07.2026 21:35:01] ‪+90 532 555 16 13‬: ‎‪+90 532 555 16 13‬ topluluk üzerinden katıldı
+[22.07.2026 22:20:40] ~ Aydın's Yüksel: ‎~ Aydın's Yüksel topluluk üzerinden katıldı
+[22.07.2026 23:22:22] ‪+90 505 515 55 24‬: ‎‪+90 505 515 55 24‬ topluluk üzerinden katıldı
+[23.07.2026 01:53:00] ‪+90 543 550 66 77‬: ‎‪+90 543 550 66 77‬ topluluk üzerinden katıldı
+[23.07.2026 13:20:26] ~ Hakan Özkum: ‎~ Hakan Özkum ayrıldı
+[23.07.2026 14:36:17] ‪+90 532 228 18 98‬: ‎‪+90 532 228 18 98‬ topluluk üzerinden katıldı
+[23.07.2026 21:05:26] ‪+90 539 631 23 37‬: ‎‪+90 539 631 23 37‬ ayrıldı
+[23.07.2026 21:32:01] ‪+90 535 652 62 01‬: ‎‪+90 535 652 62 01‬ topluluk üzerinden katıldı
+[23.07.2026 21:53:03] ~ Serkan Acan: ‎~ Serkan Acan ayrıldı
+[23.07.2026 22:21:02] ~ Metin: ‎~ Metin bir grup bağlantısıyla katıldı
+[24.07.2026 01:16:06] ~ mustafa tulu: ‎~ mustafa tulu topluluk üzerinden katıldı
+[24.07.2026 02:39:55] ~ Perviz Mirzayev: ‎~Perviz Mirzayev, ⁦@profosor87⁩ kullanıcı adını oluşturdu
+[24.07.2026 18:06:24] ~ Orçun: ‎~ Orçun topluluk üzerinden katıldı
+[24.07.2026 18:07:05] ~ Orçun: Herkese selamlar.
+
+Bugün bu repomu public olarak kullanıma açtım,
+star veya fork olarak bir desteğinizi alabilir miyim?
+
+İş bulmanın gerçekten çok zor olduğu bu dönemde çok fazla insanın işine yarayacağını düşünüyorum. 
+
+Tamamen local-first tamamen ücretsizdir.
+https://github.com/rcnsnr/job-search-workflow
+[24.07.2026 21:25:10] ~ Elif Başak Güven: elinize sağlık, önce deneyip sonra yaygınlaştıracağım 🙌
+[24.07.2026 21:44:17] İlknur Gürdal: nasıl yapılıyor tam olarak?
+[24.07.2026 21:56:20] ~ Orçun: Repo bağlantısına tıkladığınızda karşınıza gelen ilk README sayfasında ve https://github.com/rcnsnr/job-search-workflow/blob/main/docs/getting-started/GETTING_STARTED.md dosyasında detaylı olarak yazıyor İlknur hanım.
+repoyu clone layıp veya forklayıp kendi lokalinize indirdikten sonra, ilgili dizinde AI oturumunuzu açtıktan sonra gerisi AI ile sizin aranızda :) 
+bu proje nedir neye yarar nasıl kullanırım diye sorarsanız yönlendirecektir.
+hatta kolay kurulum scripti de ekledim. işletim sisteminize uygun olanı tıklayıp kurulumu kontrollü şekilde yapabilirsiniz.
+[24.07.2026 21:57:26] ‪+90 545 476 78 13‬: ‎‪+90 545 476 78 13‬ topluluk üzerinden katıldı
+[24.07.2026 21:57:50] ~ .: ‎~ . topluluk üzerinden katıldı
+[24.07.2026 21:58:34] ~ OEA: ‎~ OEA topluluk üzerinden katıldı
+[24.07.2026 22:29:35] ‪+31 6 36590327‬: ‎‪+31 6 36590327‬ topluluk üzerinden katıldı
+[25.07.2026 06:03:59] ‪+90 507 113 09 70‬: ‎‪+90 507 113 09 70‬ topluluk üzerinden katıldı
+[25.07.2026 10:08:23] ~ Esra Açıkgöz Özkan: ‎~ Esra Açıkgöz Özkan topluluk üzerinden katıldı
+[25.07.2026 14:24:18] ‪+90 530 202 04 82‬: ‎‪+90 530 202 04 82‬ topluluk üzerinden katıldı
+[25.07.2026 16:34:20] ~ Deniz Arslan Öksüzoğlu: ‎~ Deniz Arslan Öksüzoğlu ayrıldı
+[25.07.2026 18:39:17] ~ Sercan: Merhaba İkas'ın teknik tarafına hakim biri var mı acaba? Kategori sıra okuma ve yazma konusunda dökümanda bir alan göremedim.
+[25.07.2026 18:43:27] ~ Orhan Kemal ASLAN: Yardımcı olabilirim, sorunuzu anlamdım
+[25.07.2026 18:43:41] ~ Orhan Kemal ASLAN: Navnarda kategori oluşturma mı?
+[25.07.2026 20:41:22] ~ Sercan: Kategorideki ürün sıralarını api ile okuma ve yazma.
+[26.07.2026 16:40:48] ~ MK💭: ‎~ MK💭 topluluk üzerinden katıldı
+[27.07.2026 12:30:48] ‪+90 535 040 89 78‬: ‎‪+90 535 040 89 78‬ topluluk üzerinden katıldı
+[27.07.2026 12:43:50] ~ Everest Çelik Kapı Security Doors: ‎~ Everest Çelik Kapı Security Doors topluluk üzerinden katıldı
+[27.07.2026 13:05:28] ‪+90 538 714 09 93‬: ‎‪+90 538 714 09 93‬ ayrıldı
+[28.07.2026 14:56:25] ‪+90 505 998 59 49‬: ‎‪+90 505 998 59 49‬ topluluk üzerinden katıldı
+[28.07.2026 15:02:31] ‪+90 532 541 30 28‬: ‎‪+90 532 541 30 28‬ ayrıldı
+[28.07.2026 15:18:37] ~ Biray~: ‎~ Biray~ topluluk üzerinden katıldı
+[28.07.2026 21:25:35] ~ Ali TUNÇ: ‎~ Ali TUNÇ ayrıldı
+[28.07.2026 22:41:21] Ufuk Bayrak - Claude.ai: ‎Ufuk Bayrak - Claude.ai topluluk üzerinden katıldı
+[28.07.2026 23:38:47] ~ Kağan: ‎~ Kağan topluluk üzerinden katıldı
+[29.07.2026 09:43:18] ‪+90 553 621 19 90‬: ‎‪+90 553 621 19 90‬ ayrıldı
+[29.07.2026 10:49:57] ‪+90 541 575 23 77‬: ‎‪+90 541 575 23 77‬ ayrıldı
+[29.07.2026 10:38:04] ~ M: Selamlar; 
+
+https://wapiso.com/caretta-assistant
+
+RAG+ Ayrı LLM İle birlikte bir Sanal çalışan geliştirdik. Sitede değerlendirmek isteyen projeyi deneyip geri dönüş verecek kişiler olursa 5 dolarlık bir bakiye tanımlaması yapacağız. Şuan sadece Site asistanı kısa süre içinde , instagram, youtube, meta ürünleri üzerinde tek bir kurumsal dil kullanacak. Şirketin sabit bir dili olacak ve tamamı ile yönetim site sahiplerinde denemek isteyenler olursa sağ tarafta tıklayarak konuşabilir siteye eklemek isteyenler. Üyelik açıp bana bildirmesi yeterli.
+[29.07.2026 10:42:42] ~ M: + LLM olarak kendi  asistanlarınıza entegre edebilirsiniz. Vereceği ruhu panel üzerinden seçip kendi yazılımınıza sadece LLM entegre edebilirsiniz.
+[29.07.2026 12:56:55] ~ Mehmet Akif Karaböcek: ‎~ Mehmet Akif Karaböcek topluluk üzerinden katıldı
+[29.07.2026 14:19:35] ~ Hüseyin Türeci: ‎~ Hüseyin Türeci topluluk üzerinden katıldı
+[29.07.2026 14:55:50] ~ Melihozaslan: ‎~ Melihozaslan topluluk üzerinden katıldı
+[29.07.2026 22:12:23] ~ Rüya: ‎~ Rüya topluluk üzerinden katıldı
+[30.07.2026 08:23:03] Bora Bolelli: ‎Bora Bolelli topluluk üzerinden katıldı
+[30.07.2026 09:05:36] Ayşe Betül Çiftçi: ‎Ayşe Betül Çiftçi topluluk üzerinden katıldı
+[30.07.2026 14:08:44] ~ tanselagac: ‎~ tanselagac topluluk üzerinden katıldı
+[30.07.2026 18:13:40] ‪+90 546 590 59 29‬: ‎‪+90 546 590 59 29‬ ayrıldı
+[30.07.2026 21:40:54] ~ Eren DOLMACI: ‎~ Eren DOLMACI topluluk üzerinden katıldı
+[30.07.2026 21:41:00] ~ Ufuk Aytaş: ‎~ Ufuk Aytaş topluluk üzerinden katıldı
+[30.07.2026 21:41:10] ~ Sinem: ‎~ Sinem topluluk üzerinden katıldı
+[30.07.2026 21:41:12] ~ Ali Çelik: ‎~ Ali Çelik topluluk üzerinden katıldı
+[30.07.2026 21:41:54] ~ Fatih: ‎~ Fatih topluluk üzerinden katıldı
+[30.07.2026 21:46:13] ~ Cem: ‎~ Cem topluluk üzerinden katıldı
+[30.07.2026 21:47:30] ~ ÝCÁÑ: ‎~ ÝCÁÑ topluluk üzerinden katıldı
+[30.07.2026 22:14:50] ‪+90 532 584 24 77‬: ‎‪+90 532 584 24 77‬ topluluk üzerinden katıldı
+[30.07.2026 22:22:41] ~ Erhan: ‎~ Erhan topluluk üzerinden katıldı
+[30.07.2026 22:24:25] ‪+90 532 443 99 99‬: ‎‪+90 532 443 99 99‬ topluluk üzerinden katıldı
+[30.07.2026 22:29:31] ⁦@ilkeraksuu⁩: ‎⁦@ilkeraksuu⁩ topluluk üzerinden katıldı
+[30.07.2026 22:46:51] ~ Zeliha Baykan: ‎~ Zeliha Baykan topluluk üzerinden katıldı
+[30.07.2026 23:31:05] ‪+90 539 858 06 03‬: ‎‪+90 539 858 06 03‬ topluluk üzerinden katıldı
+[30.07.2026 23:46:42] ‪+90 532 261 74 80‬: ‎‪+90 532 261 74 80‬ topluluk üzerinden katıldı
+[30.07.2026 23:59:36] ‪+90 543 348 70 90‬: ‎‪+90 543 348 70 90‬ topluluk üzerinden katıldı
+[31.07.2026 00:23:38] Altan Avcı: ‎Altan Avcı topluluk üzerinden katıldı
+[31.07.2026 08:01:39] ~ İdil Pora Ölmez: ‎~ İdil Pora Ölmez topluluk üzerinden katıldı
+[31.07.2026 11:38:50] ~ Yunus Emre Pekcan: ‎~ Yunus Emre Pekcan topluluk üzerinden katıldı
+[31.07.2026 12:07:10] ~ Mustafa: ‎~ Mustafa topluluk üzerinden katıldı
+[31.07.2026 13:01:15] ~ Sefa: ‎~ Sefa topluluk üzerinden katıldı
+[31.07.2026 13:10:18] ~ Musab Karakaya: ‎~ Musab Karakaya topluluk üzerinden katıldı
+[31.07.2026 15:32:21] ~ Sahin: ‎~ Sahin ayrıldı
+[31.07.2026 15:41:45] Altan Avcı: Artifactslarda çıkan sonucu pdf olarak yazdırabiliyormuyuz
+[31.07.2026 15:49:10] ~ Talip İncekara: ‎~ Talip İncekara ayrıldı
+[31.07.2026 15:59:52] ~ Şamil Öztürk: Tarayıcı üzerinden pdf olarak kaydet çalışıyor olsa gerek
+[31.07.2026 16:01:44] ~ Şamil Öztürk: https://github.com/samilozturk/artilens bu arada artifactler için tamamlayıcı bir plugin yazdım, istifadesi olabilir.
+
+Pdf olarak kayıt işini bir feature olarak ekleyebiliriz :)
+[31.07.2026 20:48:19] ~ Hakan Leblebicioğlu: ‎~ Hakan Leblebicioğlu topluluk üzerinden katıldı
+[31.07.2026 21:48:58] ~ Halil AKAR - İlim Merkezi: Ben genelde kendisinden istiyorum, öyle alışmışım, hiç farkında değilim ChatGPT gibi bir pdf'e dönüştür butonu var mı diye. Şu an önümde açık değil, kafamda canlandırmaya çalışıyorum hiç gözümün önüne bir şey gelmiyor :)
+‎[31.07.2026 21:51:20] ~ Halil AKAR - İlim Merkezi: ‎görüntü dahil edilmedi
+[1.08.2026 12:15:28] ~ Gökhan Hayta: ‎~ Gökhan Hayta ayrıldı
+[1.08.2026 12:16:49] ~ Lütfü: ‎~ Lütfü topluluk üzerinden katıldı
+[1.08.2026 12:19:26] ~ Orhan: ‎~ Orhan bir grup bağlantısıyla katıldı
+[1.08.2026 12:34:30] ~ Davut Yıldırım: ‎~ Davut Yıldırım topluluk üzerinden katıldı
+[1.08.2026 12:54:43] ~ Kerim Suiçmez: ‎~ Kerim Suiçmez ayrıldı
+[1.08.2026 12:55:45] ‪+90 551 215 02 16‬: ‎‪+90 551 215 02 16‬ ayrıldı
+[1.08.2026 12:53:12] ~ Mustafa Yasin Başçetin: https://www.turtep.edu.tr/index.php?sayfa=akademik_programlar_detay&bolum=25
+
+Uzaktan Yapay Zeka tezsiz yüksek lisans programı. Güzel bir fırsat.
+[1.08.2026 13:00:06] ~ Zelal Başak Akyol: ‎~ Zelal Başak Akyol topluluk üzerinden katıldı
+[1.08.2026 13:05:10] ~ Yunuscan: ‎~ Yunuscan topluluk üzerinden katıldı
+[1.08.2026 13:34:14] ~ Serhat Çulhalık: ‎~ Serhat Çulhalık topluluk üzerinden katıldı
+[1.08.2026 13:44:24] ‪+90 541 583 30 15‬: ‎‪+90 541 583 30 15‬ ayrıldı
+[1.08.2026 14:38:09] ~ Mehmet Murat Huyut: ‎~ Mehmet Murat Huyut topluluk üzerinden katıldı
+[1.08.2026 15:26:19] ~ murat efe: ‎~ murat efe topluluk üzerinden katıldı
+[1.08.2026 18:15:11] ~ Nazlı: ‎~ Nazlı topluluk üzerinden katıldı
+[1.08.2026 18:35:18] ‪+90 545 446 00 70‬: ‎‪+90 545 446 00 70‬ topluluk üzerinden katıldı
+[1.08.2026 19:18:12] ~ Arda Kurtuluş: ‎~ Arda Kurtuluş topluluk üzerinden katıldı
+[1.08.2026 19:50:32] ‪+90 546 815 86 50‬: ‎‪+90 546 815 86 50‬ topluluk üzerinden katıldı
+[1.08.2026 20:28:02] İlknur Gürdal: Yoklama için bir oy kullanılmıyor Bahadır Bey
+[1.08.2026 20:47:37] ‪+90 553 263 23 99‬: ‎‪+90 553 263 23 99‬ ayrıldı
+[1.08.2026 21:12:07] ~ Okan: Ben de oy kullanamıyorum Bahadır Bey
+[1.08.2026 21:24:06] Özgür Yüksel TP Helpdesk: ‎Özgür Yüksel TP Helpdesk ayrıldı
+[1.08.2026 22:07:20] Dilek Demirbaş - Claude: ‎Dilek Demirbaş - Claude topluluk üzerinden katıldı
+[1.08.2026 22:19:52] ~ Mine Çerçioğlu: ‎~ Mine Çerçioğlu topluluk üzerinden katıldı
+[1.08.2026 22:25:18] ~ Akman: ‎~ Akman ayrıldı
+[1.08.2026 22:29:49] ~ Firat Köse: ‎~ Firat Köse ayrıldı
+[1.08.2026 23:26:18] ~ banu atay: ‎~ banu atay topluluk üzerinden katıldı
+[1.08.2026 23:39:06] ‪+49 1516 7236128‬: ‎‪+49 1516 7236128‬ topluluk üzerinden katıldı
+[2.08.2026 00:22:22] ~ 🌸: ‎~ 🌸 ayrıldı
+[2.08.2026 09:35:01] ~ Bülent Zeybek: ‎~ Bülent Zeybek topluluk üzerinden katıldı
+[2.08.2026 10:25:59] ~ serkangursoy16: ‎~ serkangursoy16 topluluk üzerinden katıldı
+[2.08.2026 12:47:37] ‪+90 546 930 05 07‬: ‎‪+90 546 930 05 07‬ topluluk üzerinden katıldı
+[2.08.2026 13:11:30] ~ Çağlar Çabuk: ‎~ Çağlar Çabuk ayrıldı
+[2.08.2026 16:22:30] ~ Serkan MURSALLI: ‎~ Serkan MURSALLI ayrıldı
+[2.08.2026 16:44:20] ~ Elis: ‎~ Elis ayrıldı
+[2.08.2026 16:47:01] ~ Ozlem Wipperich: ‎~ Ozlem Wipperich bir grup bağlantısıyla katıldı
+[2.08.2026 18:04:10] ~ SEVÂL UCLER: ‎~ SEVÂL UCLER topluluk üzerinden katıldı
+[2.08.2026 18:09:05] ~ Ali: ‎~ Ali topluluk üzerinden katıldı
+[2.08.2026 18:46:43] ~ Eyüp Mustafa YILDIRIM: ‎~ Eyüp Mustafa YILDIRIM topluluk üzerinden katıldı
+[2.08.2026 20:17:06] ~ .: ‎~ . topluluk üzerinden katıldı
+[2.08.2026 21:32:48] ~ Deniz Arslan Öksüzoğlu: ‎~ Deniz Arslan Öksüzoğlu topluluk üzerinden katıldı
+[2.08.2026 22:01:57] ~ Sanem: Selamlar arkadaşlar, Claude Code kullanarak yaptığım Hesappo - Hesap Bölüşme uygulamam uygulama marketlerde. Tüm geliştirmeyi, Play Store/App Store işlemlerini Claude Code ile gerçekleştirdim. Eminim sizin de işinize yarayacaktır. Deneyip App Store'da / PlayStore'da dürüst bir yorum + yıldız bırakabilirseniz çok sevinirim. İşte linkler:  
+App Store : https://apps.apple.com/tr/app/hesappo/id6770478412
+Play Store: https://play.google.com/store/apps/details?id=com.hesappo.app
+Sevgiler
+[2.08.2026 22:08:32] ~ Okan: elinize sağlık, mağaza görsellerini nasıl oluşturdunuz
+[2.08.2026 22:39:10] ~ Abdullah BOZATLI //K.E: ‎~ Abdullah BOZATLI //K.E topluluk üzerinden katıldı
+[2.08.2026 22:31:23] ~ Sanem: Teşekkür ederim. Bir tek mağaza görsellerinde Open AI'dan faydalandım.
+[2.08.2026 22:50:37] ~ Fatih: Ben yaptigim uygulamaları netlify ötesine tasiyamadim hic 🫣 Tebrik ederim sizi. Her iki platformda da yer almasi harika.
+[2.08.2026 22:59:29] Evalento: ‎Evalento topluluk üzerinden katıldı
+[2.08.2026 23:05:18] ~ Barış Cihan: Herkese selam! 🙋‍♂️
+
+Ben de yaptığım bir uygulamayı sizinle paylaşayım istedim. Tüm code Claude ile yazıldı.
+
+Bir süredir üzerinde çalıştığım link kaydetme ve düzenleme uygulamam OneShelf yayınladım. 🚀
+
+"Şu linki kendime WhatsApp'tan atayım da sonra bakarım" deyip o linkleri kaybedenlerdenseniz bu uygulama tam size göre. 😅 Uygulamayı indirip denerseniz, hatta mağazada 5 yıldız ve küçük bir yorumla destek olursanız beni çok mutlu edersiniz. 🙏
+
+İndirme linkini buraya bırakıyorum, geri bildirimlerinizi de mutlaka bekliyorum:
+https://apps.apple.com/tr/app/oneshelf-save-organize/id6772788775📱👇
+[2.08.2026 23:10:09] ~ Orçun: fakirler için build yok mudur? :))
+[2.08.2026 23:10:48] Figen Beyazaağaç Gül - Claude: Bende uygulama geliştirdim ama yayınlama süreci nasıl acaba
+[2.08.2026 23:10:50] ~ Orçun: android için demek istedim
+[2.08.2026 23:11:20] ~ Barış Cihan: Android yayınlama süreci devam ediyor orada test kullanıcısı süreçleri uzun sürüyor 🙂
+[2.08.2026 23:11:34] ~ Barış Cihan: Ama yayınlanınca paylaşırım
+[2.08.2026 23:13:54] ~ Barış Cihan: Aslında Apple tarafı için bir developer hesabı lazım. Sonrasında build alıp yayınlıyorsunuz. Hatta ben güvenlik açıkları için Fable  ile düzenliyorum. Sonra opus’a yayın için yapmam gerekenleri tarif ediyor. Aslında herşeyi yapay zeka ile yapabiliyorsunuz. Hatta onaylanmazsa bile gelen cevap düzenlemesini yapay zeka yapabiliyor.
+[2.08.2026 23:15:02] Figen Beyazaağaç Gül - Claude: Süreç uzun mu ? Gündüz işteyim akşam fırsat buldukca
+[2.08.2026 23:15:58] Figen Beyazaağaç Gül - Claude: Birde arkadaşlar bir firmada denetim sistemi kurdum. Çok subeli bir firma kamera bağlantısı yapabilir miyiz claude
+[2.08.2026 23:16:31] ~ Esra Açıkgöz Özkan: Aklınıza sağlık. Uygulama tam bana göreymiş, Android yayınlanınca, paylaşmanızı bekliyoruz
+[2.08.2026 23:16:44] ~ Barış Cihan: Şöyle söyleyeyim. Bilgi seviyenizle orantılı olarak akşamları rahat rahat yapabilirsiniz. 
+
+Benim geçmişimde mobil uygulama geliştiriciliği vardı hobi olarak. Oradaki bilgilerle biraz daha hızlı yaptım.
+[2.08.2026 23:17:58] ~ Sefa: ‎~ Sefa ayrıldı
+[2.08.2026 23:16:54] ~ Barış Cihan: Tabi ki 😇
+[2.08.2026 23:17:31] Figen Beyazaağaç Gül - Claude: Çok iyiymiş idare eder duzeydim kendi kendime deneme yanılma yoluyla epey yol katettim
+[2.08.2026 23:18:13] ~ Barış Cihan: Burada canlı olarak kameraların görüntülerini görmekse eğer onu yayınlayabilecek bir alt yapı var mı? Sonuçta Claude bir yazılım geliştiriyor.
+[2.08.2026 23:18:35] ~ Barış Cihan: O zaman bence akşamları süreçleri adım adım ilerletip yapabilirsiniz 😇
+[2.08.2026 23:20:39] ~ Mümtaz Onat: ‎~ Mümtaz Onat ayrıldı
+[2.08.2026 23:21:33] ~ M: Tam ne istediğini anlamadım
+[2.08.2026 23:27:14] ~ Muhammet Kılıç: ‎~ Muhammet Kılıç ayrıldı
+[2.08.2026 23:26:50] Figen Beyazaağaç Gül - Claude: Şöyle firmada denetim kontrol problemi var benden sürekli kameralardan rapor istiyor
+[2.08.2026 23:26:50] ~ Doğa Okumuş: Gayeniz görüntü işleme ile Fraud tespiti mi ?
+[2.08.2026 23:27:27] Figen Beyazaağaç Gül - Claude: Evet sürekli kasaların üzerindeki kamera kontrolu ve raporu istiyor
+[2.08.2026 23:27:33] ~ Doğa Okumuş: Eğer öyleyse görüntü renkli ise CNN  ile görüntüyü işleyip geliştirebilirseniz lakin modeli eğitmeniz lazım
+[2.08.2026 23:27:53] ~ Doğa Okumuş: Ellerinde örnek Fraud vakaları ve görselleri varsa sizlere iletsinler
+[2.08.2026 23:27:58] ~ Doğa Okumuş: Cnn modelini bir inceleyin
+[2.08.2026 23:28:40] Figen Beyazaağaç Gül - Claude: Eğitme konusunu düşündüm tek örnek ve görüntü ile hep aynı mantıkta ilerledi
+[2.08.2026 23:28:44] ~ Doğa Okumuş: Bir de muhtemelen yüz eşleme de gerekir eğer kasa modüllerine bağlanabilirseniz aksiyon ve kişi eşlemeyi daha yüksek doğruluk ile yapabilirsiniz
+[2.08.2026 23:28:59] ~ Doğa Okumuş: Ne yazık ki
+Kurtarmaz :(
+[2.08.2026 23:29:08] ~ Doğa Okumuş: FP oranı yüksek çıkar
+[2.08.2026 23:29:36] Figen Beyazaağaç Gül - Claude: Vardiyalı iş yeri 600 çalışanli camera kısmı beynimi yaktı adeta
+[2.08.2026 23:30:31] Figen Beyazaağaç Gül - Claude: Denetim asistanı oluşturdum o işini yapıyor eğitmek için zaman harcadim vaktinde ama şuan komutlar ile her firmaya uyarlanıyor ama bu camera kısmı
+[2.08.2026 23:30:38] ~ Doğa Okumuş: Zaten bu tespit hususu ile alakalı bir consent alınması gerekiyor olabilir ek olarak emin değilim bir hukukçuya danışsanız iyi olur. Onun haricinde  vardiya verileri elinizde varsa  gün için check in check out datası ile kontrol edip
+[2.08.2026 23:30:49] ~ Doğa Okumuş: Üstüne ek CNN ile çalışan bir yapı kurarsınız
+[2.08.2026 23:30:57] ~ Doğa Okumuş: En azında false pozitif oranı düşer
+[2.08.2026 23:31:02] ~ Doğa Okumuş: Orada olmayan birey için varsayım yapmaz
+[2.08.2026 23:31:15] ~ Doğa Okumuş: Lakin ne frauddur Fraud hangi aksiyondur iyi eğitmek lazım :)
+[2.08.2026 23:31:38] ~ Doğa Okumuş: Sentetik data ile eğitince kurtarmıyor :(. Overfit oluyor model
+[2.08.2026 23:32:53] Figen Beyazaağaç Gül - Claude: Son birşey daha sorayım Türkiye de bilinen bir  Dr  yapay zeka sistmli bir asistan istiyor veri envanteri sağlarım diyor ortalama böyle bir asistanı eğitmek ne kadar surer
+[2.08.2026 23:33:59] ~ Doğa Okumuş: Güzel soru lakin bilmiyorum doğrudan böyle çalışacak bir yapı kurmadım lakin birisiyle satın alma pazarlık aşamasına girecekseniz model yapısını ne kadarlık bir eğitim setiyle eğitildi eğitim seti nereden temin edildi içeriği nedir iyice sorgulayın
+[2.08.2026 23:34:19] ~ Doğa Okumuş: Şahsi naçizane tavsiyem :)
+[2.08.2026 23:34:43] ~ Doğa Okumuş: Kebapçıda test ettiği yapıyı gelip sizlere uyarlamaya çalışmasın doğrudan
+[2.08.2026 23:35:54] Figen Beyazaağaç Gül - Claude: Veri kendi hastane verileri ama tabi KVKk vs kontrollerini sağlarım. Mantıklıysa masa otururum belki dedim ama sağlık işi biraz düşündürüyor
+[2.08.2026 23:37:18] ~ Doğa Okumuş: Oradaki Fraud tanımları ve yapı farklı olabilir. Rulebook da şeffaf bir şekilde paylaşılmalı . Oradaki ecza dolabından birisinin ürün alması ile fabrikadaki usta başının x ürünün b lokasyonuna götürmesi farklı iş tanımları
+[2.08.2026 23:37:56] ~ Doğa Okumuş: Bu dediğim kısımlardan daha iyi nitelikli tavsiyeyi claude verecektir :) lakin ben yine de kendi deneyimimi paylaşmak istedim sizlerle
+[2.08.2026 23:38:14] Figen Beyazaağaç Gül - Claude: Teşekkür ederim 🙏
+[2.08.2026 23:39:06] ~ Doğa Okumuş: Rica ederim :) kolaylıklar dilerim 🙏
+[3.08.2026 00:19:16] ‪+90 539 236 42 26‬: ‎‪+90 539 236 42 26‬ topluluk üzerinden katıldı
+[3.08.2026 01:55:59] ‪+90 535 202 96 88‬: ‎‪+90 535 202 96 88‬ topluluk üzerinden katıldı
+[3.08.2026 01:56:58] ‪+90 535 202 96 88‬: ‎‪+90 535 202 96 88‬ ayrıldı
+[3.08.2026 03:58:21] ~ Uğur Sürmeli: ‎~ Uğur Sürmeli ayrıldı
+[3.08.2026 06:31:45] ~ Gül Bilgin Mokan: ‎~ Gül Bilgin Mokan bir grup bağlantısıyla katıldı
+[3.08.2026 07:30:56] ~ Burak Üzeyr Sarı: ‎~ Burak Üzeyr Sarı ayrıldı
+[3.08.2026 08:01:03] ~ Hakan Leblebicioğlu: Merhaba, burada veri kalitesi de önemli. Testlere ve radyolojik bulgulara dayalı bir sistem olacaksa veri kalitesi daha iyi olacaktır.
+[3.08.2026 08:01:53] Figen Beyazaağaç Gül - Claude: Dediğiniz gibi bir sistem istiyor
+[3.08.2026 08:03:42] ~ Hakan Leblebicioğlu: klinik rehberler, makaleler, hasta prosedürleri, soru-cevap setleri ile ilerlemek mümkün olabilir
+[3.08.2026 08:06:24] Figen Beyazaağaç Gül - Claude: Teşekkür ederim.
+[3.08.2026 09:03:53] ‪+90 533 395 46 93‬: ‎‪+90 533 395 46 93‬ ayrıldı
+[3.08.2026 09:27:39] ~ Eftal Gümüş: ‎~ Eftal Gümüş ayrıldı
+[3.08.2026 10:00:49] ~ Betul Genc: Merhaba ben Memorial sağlık grubunda çalışıyorum uluslararası pazarlamada ve bir çok hekimimiz kendi yapay zeka sistemini kullanıyor bu konuda tecrübeliyim ancak netleşmesi gereken bir şey var eğer bu konuda doğrudan cevap alırsanız yardımcı olabilirim size
+[3.08.2026 10:01:32] ~ Betul Genc: Hekim yapay zekadan hastaya ikinci görüş yazmak mı istiyor (klinik veriler araştırmalar makaleler ya da hastanın tedaviye ait belgelerinden bir tedavi planımı çıkarmak istiyor)
+[3.08.2026 10:01:37] Figen Beyazaağaç Gül - Claude: Merhaba çok sevinirim valla
+[3.08.2026 10:02:18] ~ Betul Genc: Tabi memnuniyetle ne zaman isterseniz destek olmaya hazırım
+[3.08.2026 10:05:55] ~ bmetindogan: ‎~ bmetindogan topluluk üzerinden katıldı
+[3.08.2026 10:28:29] ‪+90 543 723 00 36‬: ‎‪+90 543 723 00 36‬ topluluk üzerinden katıldı
+[3.08.2026 10:41:07] ~ Yeşim Salman: ‎~ Yeşim Salman topluluk üzerinden katıldı
+[3.08.2026 11:24:07] ~ Orçun: Figen hanım selamlar. Doktorun sağlayacağı verinin miktarına, yapısına ve format olarak uygun veya kirli olmasına göre çok fazla değişebilecek bir konu. Veri dediğimiz şey eğer reinforcement learning veya fine tune için bu günden hiç bir şey yapmadan kullanılmaya hazır tipte veri ise çok kolay birkaç günde biter... ama veri dediği kitaplarını verip bunları taratın içinden altı çizili yerleri seçin gibisinden veri işleme işine boğulacaksa süreç "full dedike" çalışmayla aylar sürecektir.
+[3.08.2026 11:24:42] ~ Orçun: bir de tabi bütçe meselesi. fine-tune için kullanılacak GPU kaynağının ne olduğu da süre anlamında etkin
+[3.08.2026 11:24:47] Figen Beyazaağaç Gül - Claude: Hastane tetkikleri vs dedi
+[3.08.2026 11:25:08] Figen Beyazaağaç Gül - Claude: Onu bende tam bilemedim rakam çıkarmak için çalışma yapamadım heniz
+[3.08.2026 11:25:17] ~ Orçun: sayısal veriye dönüştürülmesi gerekecek anladığım kadarı ile
+[3.08.2026 11:25:53] Figen Beyazaağaç Gül - Claude: Tamm
+[3.08.2026 11:25:54] ~ Orçun: bu işte en önemli şey verinin hazırlığı ve temizliği.. yoksa modeli finetune etmek aşırı zor ve uzun sürmez
+[3.08.2026 11:26:11] Figen Beyazaağaç Gül - Claude: Ne onersiniz
+[3.08.2026 11:26:20] ~ Orçun: ek olarak verinin boyutu tabi ki unutmadan
+[3.08.2026 11:27:32] ~ Orçun: önereceğim şey veri olarak verilecek "şey" in miktarı , tipi , formatı,  veri temizliği ve format dönüşümü gerekliliği/boyutu/miktarı..
+[3.08.2026 11:27:38] ~ Orçun: bunların belirlenmesidir
+[3.08.2026 11:27:53] ~ Orçun: bir de tabi ki nasıl bir yerel donanımda çalıştırılacak ?
+[3.08.2026 11:27:59] ~ Orçun: yatırım kararı var mı?
+[3.08.2026 11:29:39] ~ Orçun: Veri temizliği kesinlikle olacaktır diye düşünüyorum lab tahlil sonuçlarında kişisel veriler bolca vardır.. en basitinden regulasyonlara uyum gerekecektir thminimce KVKK vb.
+[3.08.2026 11:37:34] ‪+90 533 778 68 55‬: ‎‪+90 533 778 68 55‬ topluluk üzerinden katıldı
+[3.08.2026 11:41:36] ‪+90 535 835 45 13‬: ‎‪+90 535 835 45 13‬ topluluk üzerinden katıldı
+[3.08.2026 11:46:05] ~ Şamil Öztürk: Fine tuning, post training, LoRA gibi çözümler mümkün fakat bu gereksinimleri bir "eğitim" eforuna ve maliyetine girmeden RAG ve benzeri sistemlerle karşılamak da mümkün olabilir. 
+
+İnceleyip karşılaştırmak iyi olur. Birçok durumda tuning gerekli olmadığı vaki.
+[3.08.2026 12:04:36] ‪+90 552 427 22 22‬: ‎‪+90 552 427 22 22‬ ayrıldı
+[3.08.2026 13:41:26] ~ MG: ‎~ MG ayrıldı
+[3.08.2026 13:48:37] ‪+90 535 795 02 22‬: ‎‪+90 535 795 02 22‬ ayrıldı
+[3.08.2026 14:19:11] ~ Hakkı: ‎~ Hakkı topluluk üzerinden katıldı
+[3.08.2026 14:34:13] ~ Azade Özaltun Susantez: ‎~ Azade Özaltun Susantez topluluk üzerinden katıldı
+[3.08.2026 14:57:00] ~ Emre Onur: ‎~ Emre Onur topluluk üzerinden katıldı
+[3.08.2026 16:44:44] ~ Hmz: ‎~ Hmz topluluk üzerinden katıldı
+[3.08.2026 17:28:17] ~ Veysel Olgun: ‎~ Veysel Olgun ayrıldı
+[3.08.2026 19:03:33] ‪+90 506 606 09 43‬: ‎‪+90 506 606 09 43‬ bir grup bağlantısıyla katıldı
+[3.08.2026 19:14:58] ~ Erol: ‎~ Erol topluluk üzerinden katıldı
+[3.08.2026 20:47:57] Oğuzhan Çolak - Excel Eğitmeni: ‎Oğuzhan Çolak - Excel Eğitmeni topluluk üzerinden katıldı
+[3.08.2026 21:19:13] ~ Z.Devrim Samgar: ‎~ Z.Devrim Samgar topluluk üzerinden katıldı
+[3.08.2026 21:35:11] ~ Oytun: ‎~ Oytun topluluk üzerinden katıldı
+[3.08.2026 21:38:56] Ayşe Betül Çiftçi: ‎Ayşe Betül Çiftçi ayrıldı
+[3.08.2026 22:09:28] ‪+90 533 390 11 88‬: ‎‪+90 533 390 11 88‬ topluluk üzerinden katıldı
+[3.08.2026 22:30:29] ~ Kızılırmak: ‎~ Kızılırmak topluluk üzerinden katıldı
+[4.08.2026 08:12:22] ~ Bahar: ‎~ Bahar topluluk üzerinden katıldı
+[4.08.2026 08:57:44] ~ Cem: mesaj öncesi uyarı: mesaj olumsuz gözükebilir ama genel bilgilendirme ve dikkat edilmesi konuları vurguluyor. Yoksa çok zengin ve güzel işler olan bir alan.
+
+Sağlık alanında akademik çalışma yapan biri olarak. Bu alandaki verilere erişme, izin alma süreçleri uzun. 
+
+Bunları aldıktan sonra önce yorumlarda belirtmiş veri kalitesi  başınızı çok ağrıtacak. verinin tipine göre değişecektir. radyolojik verilerde örnek beyin MRI bile farklı çekim, güç, format, kullanılan cihaz markası sonuçları çok etkiliyor. 
+
+Yurtdışı bir sunucu (amazon, google) yerlere hasta verisini aktaramıyorsunuz. Bu durumda hastanenin veya kiralanan yerlerde modellerinizi tutmanız lazım.
+
+Kanunen de yapay zeka bir tanı koyamıyor. sorumlu her zaman doktor. 
+
+beklenti claude kullanımı gibi yurtdışı modelleri kullanamadığınız durumda çıktının o seviyeye erişmesi için katlanılması gereken maliyet yüksek oluyor. 
+
+yurtdışı örneği ekleyeyim. openai for healthcare
+[4.08.2026 09:15:06] ~ Hakan Leblebicioğlu: Evet kvkk sorunu yaşamamak için hasta verisi kullanılacak ise anonimleştirerek kullanmak, ideali hastanenin veri sorumlusundan onaylı olarak anonim veri almak olabilir.
+[4.08.2026 09:21:35] ~ R…..: En kolay yöntem bu olabilir,yani hasta verisininin hasta kimliğinden bağımsız tutulması ama Türkiye’deki sunucu üzerinden o verinin hastaya ait olduğunun işaretlenerek kayda alınması olabilir. Benzer bir yapıyı ben kendi kurduğum platformda (eğitimle ilgili) kurdum. Tüm kişisel veriler trdeki bir sunucuda maskeli olarak tutuluyor ama tüm test verileri yurtdışı sunucularda.
+[4.08.2026 09:46:13] ‪+90 538 638 07 56‬: ‎‪+90 538 638 07 56‬ ayrıldı
+[4.08.2026 09:53:44] ‪+90 537 397 91 27‬: ‎‪+90 537 397 91 27‬ topluluk üzerinden katıldı
+[4.08.2026 10:05:39] ~ Berkay VURAN: ‎~ Berkay VURAN topluluk üzerinden katıldı
+[4.08.2026 10:06:44] ‪+90 543 103 16 78‬: ‎‪+90 543 103 16 78‬ bir grup bağlantısıyla katıldı
+[4.08.2026 11:42:19] ‪+90 532 555 36 49‬: ‎‪+90 532 555 36 49‬ topluluk üzerinden katıldı
+[4.08.2026 12:19:49] ~ Emre: ‎~ Emre bir grup bağlantısıyla katıldı
+[4.08.2026 13:41:28] ‪+90 534 731 92 98‬: ‎‪+90 534 731 92 98‬ topluluk üzerinden katıldı
+[4.08.2026 17:35:35] ~ Müteferriç: ‎~ Müteferriç topluluk üzerinden katıldı
+[5.08.2026 15:45:17] ~ Batuhan E.: ‎~ Batuhan E. ayrıldı
+[5.08.2026 17:34:12] ~ Melis Uysal: ‎~ Melis Uysal topluluk üzerinden katıldı
+[6.08.2026 04:20:39] ~ Mustafa ÖZVER: ‎~Mustafa ÖZVER, ⁦@mustafaozver⁩ kullanıcı adını oluşturdu
+[6.08.2026 06:54:48] ⁦@ercanercangayrimenkul⁩: ‎Bir üye, ⁦@ercanercangayrimenkul⁩ kullanıcı adını oluşturdu
+[6.08.2026 08:10:25] ⁦@ferruhkaramangil⁩: ‎Bir üye, ⁦@ferruhkaramangil⁩ kullanıcı adını oluşturdu
+[6.08.2026 08:10:27] ~ Mehmethan Bayhan: ‎~Mehmethan Bayhan, ⁦@mehmethanbayhan⁩ kullanıcı adını oluşturdu
+[6.08.2026 08:30:57] Affilation Digital Academy European Academic Consulting: ‎Affilation Digital Academy European Academic Consulting, ⁦@affilationdigitalacademy⁩ kullanıcı adını oluşturdu
+[6.08.2026 09:06:41] ~ Eyüp Mustafa YILDIRIM: ‎~Eyüp Mustafa YILDIRIM, ⁦@eyupyldrm07⁩ kullanıcı adını oluşturdu
+[6.08.2026 09:55:28] ~ Esad Ersan: ‎~Esad Ersan, ⁦@esadersan⁩ kullanıcı adını oluşturdu
+[6.08.2026 09:55:30] ~ Erol: ‎~Erol, ⁦@erolyagci⁩ kullanıcı adını oluşturdu
+[6.08.2026 10:07:17] ~ Kızılırmak: ‎~Kızılırmak, ⁦@latmos09⁩ kullanıcı adını oluşturdu
+[6.08.2026 10:07:17] ~ @yc@: ‎~@yc@, ⁦@ycauner⁩ kullanıcı adını oluşturdu
+[6.08.2026 10:22:39] ⁦@mhmtkckkc⁩: ‎Bir üye, ⁦@mhmtkckkc⁩ kullanıcı adını oluşturdu
+[6.08.2026 11:27:24] ~ Kubra: ‎~Kubra, ⁦@kubraerturk⁩ kullanıcı adını oluşturdu
+[6.08.2026 11:27:24] ~ Tansel: ‎~Tansel, ⁦@tansel.kilic⁩ kullanıcı adını oluşturdu
+[6.08.2026 12:37:23] ‪+90 530 061 33 72‬: ‎‪+90 530 061 33 72‬ bir grup bağlantısıyla katıldı
+[6.08.2026 13:29:33] ⁦@ozd3miir⁩: ‎Bir üye, ⁦@ozd3miir⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:29:34] ~ fecy: ‎~fecy, ⁦@fecy_⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:29:34] ~ Haluk: ‎~Haluk, ⁦@haluk.cavusoglu⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:29:34] ~ Yunus Emre Pekcan: ‎~Yunus Emre Pekcan, ⁦@yunusemrepekcan⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:29:34] ~ Baran Yünlü: ‎~Baran Yünlü, ⁦@Baranyunlu⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:29:34] ~ Yiğit Girgin: ‎~Yiğit Girgin, ⁦@ygtgrgn⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:29:35] ~ Ümit Tengiz: ‎~Ümit Tengiz, ⁦@umittengiz⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:29:35] Timur Nihat Vreskala: ‎Timur Nihat, ⁦@timvre⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:37:20] Cenk Soyak: ‎Cenk, ⁦@cenksoyak⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:45:20] Alper Altun: ‎Alper, ⁦@alpraltun⁩ kullanıcı adını oluşturdu
+[6.08.2026 13:57:44] ~ Burak: ‎~Burak, ⁦@burakkozanoglu⁩ kullanıcı adını oluşturdu
+[6.08.2026 14:22:14] ~ Duygu Yaran: ‎~Duygu Yaran, ⁦@cokseyler⁩ kullanıcı adını oluşturdu
+[6.08.2026 15:13:16] ⁦@kursatkoz⁩: ‎Bir üye, ⁦@kursatkoz⁩ kullanıcı adını oluşturdu
+[6.08.2026 15:13:30] ~ Oguzhan Kahraman: ‎~Oguzhan Kahraman, ⁦@oguzhnkahraman⁩ kullanıcı adını oluşturdu
+[6.08.2026 15:36:39] ⁦@ilkeraksuu⁩: ‎Bir üye, ⁦@ilkeraksuu⁩ kullanıcı adını oluşturdu
+[6.08.2026 15:43:39] ~ Ömer: ‎~Ömer, ⁦@omermansuri⁩ kullanıcı adını oluşturdu
+[6.08.2026 15:43:40] Kartal Tıknaz: ‎Kartal, ⁦@jerichoman⁩ kullanıcı adını oluşturdu
+[6.08.2026 15:47:30] ~ Nuran Tuncer: ‎~Nuran Tuncer, ⁦@nrntnc⁩ kullanıcı adını oluşturdu
+[6.08.2026 16:13:56] ~ Burak A.: ‎~Burak A., ⁦@burakarslan0110⁩ kullanıcı adını oluşturdu
+[6.08.2026 16:32:24] ~ Alperen: ‎~Alperen, ⁦@alperek⁩ kullanıcı adını oluşturdu
+[6.08.2026 16:44:09] ~ Selim: ‎~Selim, ⁦@selimarli⁩ kullanıcı adını oluşturdu
+[6.08.2026 17:17:29] ~ Mustafa Arslan: ‎~Mustafa Arslan, ⁦@LogdataYazilim⁩ kullanıcı adını oluşturdu
+[6.08.2026 17:17:29] ~ Aysun Polat 🍀☘️🦋🐞🌈: ‎~Aysun Polat 🍀☘️🦋🐞🌈, ⁦@aysunpolat00⁩ kullanıcı adını oluşturdu
+[6.08.2026 17:17:29] ~ Gökhan Karaman: ‎~Gökhan Karaman, ⁦@gokhankaram⁩ kullanıcı adını oluşturdu
+[6.08.2026 17:34:32] ‪+90 553 384 69 77‬: ‎‪+90 553 384 69 77‬ ayrıldı
+[6.08.2026 18:13:27] ~ A. Yuşa Telli: ‎~A. Yuşa Telli, ⁦@aytlli⁩ kullanıcı adını oluşturdu
+[6.08.2026 18:13:27] ~ .: ‎~., ⁦@umitmuratozgan⁩ kullanıcı adını oluşturdu
+[6.08.2026 18:13:27] ~ Burkay Akgül: ‎~Burkay Akgül, ⁦@burkayakgul⁩ kullanıcı adını oluşturdu
+[6.08.2026 18:24:38] ~ Sevket: ‎~Sevket, ⁦@schevko⁩ kullanıcı adını oluşturdu
+[6.08.2026 19:42:17] ~ Recep AYDIN: ‎~Recep AYDIN, ⁦@rcpaydn⁩ kullanıcı adını oluşturdu
+[6.08.2026 19:42:17] ~ Cenk Tezdiyar: ‎~Cenk Tezdiyar, ⁦@cnktz⁩ kullanıcı adını oluşturdu
+[6.08.2026 19:49:39] ~ MSelcuk: ‎~MSelcuk, ⁦@mahmutselcuk⁩ kullanıcı adını oluşturdu
+[6.08.2026 20:39:06] ⁦@iclaltun⁩: ‎Bir üye, ⁦@iclaltun⁩ kullanıcı adını oluşturdu
+[6.08.2026 20:39:07] ~ SAlih: ‎~SAlih, ⁦@mehmetsalihsaylik⁩ kullanıcı adını oluşturdu
+[6.08.2026 20:39:07] ⁦@SevginZorlucanEke⁩: ‎Bir üye, ⁦@SevginZorlucanEke⁩ kullanıcı adını oluşturdu
+[6.08.2026 20:39:07] Ferit Gülaçtı: ‎Ferit, ⁦@feritgulacti⁩ kullanıcı adını oluşturdu
+[6.08.2026 20:39:09] Tayfun Dumlupinar: ‎Tayfun, ⁦@tayfundumlupinar⁩ kullanıcı adını oluşturdu
+[6.08.2026 20:39:09] Tayfun Dumlupinar: ‎Tayfun kullanıcı adını ⁦@typhoon81⁩ olarak değiştirdi
+[6.08.2026 20:54:31] ~ Ayşegül: ‎~Ayşegül, ⁦@aysegulx⁩ kullanıcı adını oluşturdu
+[6.08.2026 20:54:31] ~ Cüneyt Eşsiz: ‎~Cüneyt Eşsiz, ⁦@cuneytessiz⁩ kullanıcı adını oluşturdu
+[6.08.2026 21:20:18] ⁦@rohatozbay⁩: ‎Bir üye, ⁦@rohatozbay⁩ kullanıcı adını oluşturdu
+[6.08.2026 21:20:18] ~ Erinç YILMAZ: ‎~Erinç YILMAZ, ⁦@theerinc⁩ kullanıcı adını oluşturdu
+[6.08.2026 22:23:54] ~ Alican: ‎~Alican, ⁦@comertalican⁩ kullanıcı adını oluşturdu
+[6.08.2026 22:23:54] ~ Merve Bekler: ‎~Merve Bekler, ⁦@mervewaits⁩ kullanıcı adını oluşturdu
+[6.08.2026 22:23:54] ~ Özcan Alkan: ‎~Özcan Alkan, ⁦@ozcanalkan_⁩ kullanıcı adını oluşturdu
+[6.08.2026 22:23:55] ~ Mustafa: ‎~Mustafa, ⁦@celebi_mc⁩ kullanıcı adını oluşturdu
+[6.08.2026 22:23:55] ~ Osman Barkın ARAN: ‎~Osman Barkın ARAN, ⁦@osmanbarkinaran⁩ kullanıcı adını oluşturdu
+[6.08.2026 22:27:05] ~ Bertan: ‎~Bertan, ⁦@zalazula⁩ kullanıcı adını oluşturdu
+[6.08.2026 23:35:45] ~ Şamil Öztürk: ‎~Şamil Öztürk, ⁦@bsamilozturk⁩ kullanıcı adını oluşturdu
+[6.08.2026 23:35:46] ~ Abzurt: ‎~Abzurt, ⁦@abzurt⁩ kullanıcı adını oluşturdu
+[6.08.2026 23:35:46] ~ Akşit: ‎~Akşit, ⁦@qksit⁩ kullanıcı adını oluşturdu
+[7.08.2026 00:54:15] ‪+90 507 597 23 88‬: ‎‪+90 507 597 23 88‬ topluluk üzerinden katıldı
+[7.08.2026 01:01:36] ⁦@boraacargs⁩: ‎Bir üye, ⁦@boraacargs⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:01:36] ~ Mesut Demirci: ‎~Mesut Demirci, ⁦@mesut.demirci⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:01:37] ~ Ergün Karahan: ‎~Ergün Karahan, ⁦@ergunkarahan⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:01:37] ~ Pini: ‎~Pini, ⁦@A.pinarcaliskan⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:01:37] ~ Kızılırmak: ‎⁦@latmos09⁩ kullanıcı adını ⁦@latmoss⁩ olarak değiştirdi
+[7.08.2026 01:01:37] ⁦@gizemcobann⁩: ‎Bir üye, ⁦@gizemcobann⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:01:37] Alaattin Erdemli: ‎Alaattin, ⁦@magickin⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:01:37] Osman Kızıldağ: ‎Osman, ⁦@htvtube⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:01:37] ~ İrfan Çözge: ‎~İrfan Çözge, ⁦@irfancozge⁩ kullanıcı adını oluşturdu
+[7.08.2026 01:40:56] ~ Erhan: ‎~Erhan, ⁦@erhan.dernek⁩ kullanıcı adını oluşturdu
+[7.08.2026 05:28:04] ~ Semih Güllüoğlu: ‎~Semih Güllüoğlu, ⁦@semih.gulluoglu⁩ kullanıcı adını oluşturdu
+[7.08.2026 06:28:54] Kadir Sinan Dönmez: ‎Kadir Sinan, ⁦@kadirsinan⁩ kullanıcı adını oluşturdu
+[7.08.2026 06:28:54] ~ Recep Savdic: ‎~Recep Savdic, ⁦@resavdic⁩ kullanıcı adını oluşturdu
+[7.08.2026 06:59:09] ~ Cellman: ‎~Cellman, ⁦@cellmanim⁩ kullanıcı adını oluşturdu
+[7.08.2026 06:59:09] ⁦@brkgkcn⁩: ‎Bir üye, ⁦@brkgkcn⁩ kullanıcı adını oluşturdu
+[7.08.2026 07:29:40] ~ Furkan: ‎~Furkan, ⁦@sfb000⁩ kullanıcı adını oluşturdu
+[7.08.2026 07:32:01] ~ banu atay: ‎~banu atay, ⁦@Banuogretmn⁩ kullanıcı adını oluşturdu
+[7.08.2026 07:39:41] Ali Atakan Gürbüz: ‎Ali, ⁦@aliatakangurbuz⁩ kullanıcı adını oluşturdu
+[7.08.2026 07:47:46] ~ Turaç Ünal: ‎~Turaç Ünal, ⁦@turacunal⁩ kullanıcı adını oluşturdu
+[7.08.2026 07:47:46] ~ Said: ‎~Said, ⁦@saideliguzel⁩ kullanıcı adını oluşturdu
+[7.08.2026 07:47:46] ~ Mehmet Çalışkan: ‎~Mehmet Çalışkan, ⁦@mehmetcaliskan34⁩ kullanıcı adını oluşturdu
+[7.08.2026 08:13:39] ~ Cüneyt Bakioğlu: ‎~Cüneyt Bakioğlu, ⁦@cnytx⁩ kullanıcı adını oluşturdu
+[7.08.2026 08:21:20] ~ Mehmet Aygün: ‎~Mehmet Aygün, ⁦@myguns⁩ kullanıcı adını oluşturdu
+[7.08.2026 08:37:23] ~ Mehmet Aygün: ‎⁦@myguns⁩ kullanıcı adını ⁦@maygun1⁩ olarak değiştirdi
+[7.08.2026 09:10:50] ~ OEA: ‎~OEA, ⁦@arikanoe⁩ kullanıcı adını oluşturdu
+[7.08.2026 09:10:50] ~ Serdar: ‎~Serdar, ⁦@S_e_r_d_a_r_Y⁩ kullanıcı adını oluşturdu
+[7.08.2026 09:18:21] ~ Sercan: ‎~Sercan, ⁦@mustafasercankan⁩ kullanıcı adını oluşturdu
+[7.08.2026 09:18:21] ⁦@oguzarslan⁩: ‎Bir üye, ⁦@oguzarslan⁩ kullanıcı adını oluşturdu
+[7.08.2026 09:26:51] ~ Sinem ~: ‎~Sinem ~, ⁦@sinemmdemirkan⁩ kullanıcı adını oluşturdu
+[7.08.2026 09:35:26] ⁦@MrwOgz⁩: ‎Bir üye, ⁦@MrwOgz⁩ kullanıcı adını oluşturdu
+[7.08.2026 09:35:28] ~ ⋆˚✿˖₊˚⊹♡ zeynep: ‎~⋆˚✿˖₊˚⊹♡ zeynep, ⁦@belalicivciv⁩ kullanıcı adını oluşturdu
+[7.08.2026 10:07:25] ⁦@fatihcgrk⁩: ‎Bir üye, ⁦@fatihcgrk⁩ kullanıcı adını oluşturdu
+[7.08.2026 10:07:25] Osman Sayın: ‎Osman, ⁦@osman.sayin⁩ kullanıcı adını oluşturdu
+[7.08.2026 10:34:11] ~ Halil AKAR - İlim Merkezi: ‎~Halil AKAR - İlim Merkezi, ⁦@ahalilakar⁩ kullanıcı adını oluşturdu
+[7.08.2026 10:34:11] ~ Mustafa Kemal: ‎~Mustafa Kemal, ⁦@mkemalgordesli⁩ kullanıcı adını oluşturdu
+[7.08.2026 10:34:12] ~ Azer: ‎~Azer, ⁦@azarbayram⁩ kullanıcı adını oluşturdu
+[7.08.2026 10:38:45] ~ Ömer: ‎~Ömer, ⁦@omerkarakusx⁩ kullanıcı adını oluşturdu
+[7.08.2026 10:50:47] Cem Aktan: ‎Cem, ⁦@Cem.AKTAN⁩ kullanıcı adını oluşturdu
+[7.08.2026 11:05:53] ~ Ömür Gülçiçek: ‎~Ömür Gülçiçek, ⁦@mr.roseflower⁩ kullanıcı adını oluşturdu
+[7.08.2026 11:29:15] ~ kedimuhendisi: ‎~kedimuhendisi, ⁦@begumcetintas⁩ kullanıcı adını oluşturdu
+[7.08.2026 11:36:58] ~ Nur: ‎~Nur, ⁦@nurbanurozkan⁩ kullanıcı adını oluşturdu
+[7.08.2026 11:47:15] ~ Senemo: ‎~Senemo, ⁦@osenem⁩ kullanıcı adını oluşturdu
+[7.08.2026 11:47:16] ~ Yiğit Saruhan: ‎~Yiğit Saruhan, ⁦@yigitsaruhan⁩ kullanıcı adını oluşturdu
+[7.08.2026 11:54:58] ⁦@sekoyannis⁩: ‎Bir üye, ⁦@sekoyannis⁩ kullanıcı adını oluşturdu
+[7.08.2026 12:26:20] ~ Ulaş Ayyıldız: ‎~Ulaş Ayyıldız, ⁦@ulas_ayyildiz⁩ kullanıcı adını oluşturdu
+[7.08.2026 12:58:24] ~ Emre Özdemir: ‎~Emre Özdemir, ⁦@emre__ozd⁩ kullanıcı adını oluşturdu
+[7.08.2026 13:36:11] ~ Ahmet Boyar: ‎~Ahmet Boyar, ⁦@ahmetboyar⁩ kullanıcı adını oluşturdu
+[7.08.2026 13:36:11] ⁦@evrenabali⁩: ‎Bir üye, ⁦@evrenabali⁩ kullanıcı adını oluşturdu
+[7.08.2026 13:36:12] ~ Pınar: ‎~Pınar, ⁦@pinaraydogan84⁩ kullanıcı adını oluşturdu
+[7.08.2026 17:34:41] ~ Umut: ‎~Umut, ⁦@umutakcicek⁩ kullanıcı adını oluşturdu
+[7.08.2026 17:34:44] ~ Bugra: ‎~Bugra, ⁦@bugra_sa⁩ kullanıcı adını oluşturdu
+[7.08.2026 17:34:46] ~ Onur Kenar: ‎~Onur Kenar, ⁦@onur_kenar⁩ kullanıcı adını oluşturdu
+[7.08.2026 17:34:47] ~ ...: ‎~..., ⁦@Bunyaminadymn02⁩ kullanıcı adını oluşturdu
+[7.08.2026 17:34:49] ~ Berker B.: ‎~Berker B., ⁦@bberberogluu⁩ kullanıcı adını oluşturdu
+[7.08.2026 17:48:32] ⁦@drakifonur⁩: ‎Bir üye, ⁦@drakifonur⁩ kullanıcı adını oluşturdu
+[7.08.2026 19:35:56] ~ Kadir: ‎~Kadir, ⁦@kdrkatirci⁩ kullanıcı adını oluşturdu
+[7.08.2026 21:02:41] ~ Korhan: ‎~Korhan, ⁦@korhansola⁩ kullanıcı adını oluşturdu
+[7.08.2026 22:12:46] ~ Onur İlgen: ‎~ Onur İlgen topluluk üzerinden katıldı
+[8.08.2026 00:54:16] ~ SY: ‎~SY, ⁦@ayazyaman⁩ kullanıcı adını oluşturdu
+[8.08.2026 08:31:15] ~ A|py: ‎~ A|py ayrıldı
+[8.08.2026 08:52:28] ~ İsmail: ‎~İsmail, ⁦@ismailkaradanali⁩ kullanıcı adını oluşturdu
+[8.08.2026 09:00:19] ~ Oğuz Gündüz: ‎~Oğuz Gündüz, ⁦@gunduz.oguz⁩ kullanıcı adını oluşturdu
+[8.08.2026 09:16:17] ~ Levent Güçlü: ‎~Levent Güçlü, ⁦@leventguclu35⁩ kullanıcı adını oluşturdu
+[8.08.2026 10:04:39] ⁦@onurkanbakirci⁩: ‎Bir üye, ⁦@onurkanbakirci⁩ kullanıcı adını oluşturdu
+[8.08.2026 10:20:24] ~ Servet: ‎~Servet, ⁦@sservetaydinn⁩ kullanıcı adını oluşturdu
+[8.08.2026 11:08:30] ~ Melis Uysal: ‎~Melis Uysal, ⁦@melisuysall⁩ kullanıcı adını oluşturdu
+[8.08.2026 12:32:16] ~ Mehmet Kelleli: ‎~Mehmet Kelleli, ⁦@mehmet.kelleli⁩ kullanıcı adını oluşturdu
+[8.08.2026 14:19:04] ⁦@metinata⁩: ‎Bir üye, ⁦@metinata⁩ kullanıcı adını oluşturdu
+[8.08.2026 20:22:53] ~ Can Kavanoz: ‎~Can Kavanoz, ⁦@can.kavanoz⁩ kullanıcı adını oluşturdu
+[9.08.2026 01:37:44] Timur Nihat Vreskala: ‎Timur Nihat kullanıcı adını ⁦@timnivreskala⁩ olarak değiştirdi
+[9.08.2026 10:32:52] ~ Könül Çözeli: ‎~ Könül Çözeli topluluk üzerinden katıldı
