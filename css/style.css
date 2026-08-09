@@ -223,24 +223,44 @@ a { color: inherit; text-decoration: none; }
 .chat-empty, .chat-error { text-align: center; color: var(--ink-soft); padding: 46px 20px; font-size: 12.5px; }
 .chat-empty b { display: block; color: var(--ink); margin-bottom: 6px; font-size: 13px; font-weight: 600; }
 
-/* ---------- Kartvizit görünümü (tanışma grubu) ---------- */
-.vcards { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
-.vcard {
-  background: #fff; border: 1px solid var(--line); border-radius: 12px;
-  padding: 13px 14px; box-shadow: var(--shadow-sm);
-  display: flex; flex-direction: column; gap: 9px;
+/* ---------- Kartvizitler (tanışma grubu — ayrı tasarım) ---------- */
+.bizsec { margin: 4px 0 22px; }
+.bizsec__head { display: flex; align-items: baseline; gap: 10px; margin: 0 2px 14px; }
+.bizsec__head h2 { font-size: 15px; font-weight: 700; margin: 0; letter-spacing: -.2px; }
+.bizsec__head span { font-size: 11.5px; color: var(--ink-soft); font-weight: 400; }
+.bizgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+
+.biz {
+  display: flex; background: #fff; border: 1px solid var(--line);
+  border-radius: 16px; overflow: hidden; box-shadow: var(--shadow-sm);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
 }
-.vcard__head { display: flex; align-items: center; gap: 10px; }
-.vcard__av {
-  width: 34px; height: 34px; border-radius: 50%; flex: none;
-  display: grid; place-items: center; color: #fff; font-weight: 700; font-size: 12px;
+.biz:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); border-color: var(--line-strong); }
+.biz__accent { width: 6px; flex: none; background: linear-gradient(180deg, var(--accent), var(--wa-teal)); }
+.biz__inner { flex: 1; min-width: 0; padding: 16px 17px; display: flex; flex-direction: column; gap: 11px; }
+.biz__head { display: flex; align-items: center; gap: 11px; }
+.biz__av {
+  width: 42px; height: 42px; border-radius: 50%; flex: none;
+  display: grid; place-items: center; color: #fff; font-weight: 700; font-size: 14px;
 }
-.vcard__name { font-size: 13px; font-weight: 700; line-height: 1.25; }
-.vcard__body {
-  font-size: 12px; color: var(--ink-soft); line-height: 1.55;
+.biz__name { font-size: 14.5px; font-weight: 700; line-height: 1.2; letter-spacing: -.2px; }
+.biz__bio {
+  font-size: 12px; color: var(--ink); line-height: 1.6;
   white-space: pre-wrap; overflow-wrap: anywhere;
 }
-.vcard__body mark { background: #ffe57a; color: inherit; border-radius: 3px; padding: 0 1px; }
+.biz__bio mark { background: #ffe57a; color: inherit; border-radius: 3px; padding: 0 1px; }
+.biz__links { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 2px; }
+.biz-chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 11px; font-weight: 600; padding: 5px 10px; border-radius: 999px;
+  border: 1px solid var(--line-strong); color: var(--ink); background: var(--bg-soft);
+  max-width: 100%; transition: background .15s ease, border-color .15s ease, color .15s ease;
+}
+.biz-chip span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.biz-chip:hover { border-color: var(--accent); color: var(--accent); }
+.biz-chip--linkedin { background: #eaf1f8; border-color: #cfe0f0; color: #0a66c2; }
+.biz-chip--linkedin:hover { background: #dfeaf6; color: #0a66c2; border-color: #0a66c2; }
+.biz-ico { width: 13px; height: 13px; fill: currentColor; flex: none; }
 
 .side { display: flex; flex-direction: column; gap: 14px; position: sticky; top: 16px; }
 .panel { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 15px; box-shadow: var(--shadow-sm); }
