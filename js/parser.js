@@ -71,6 +71,11 @@
   var RE_REMOVED_EN = rx("^(.*?)\\s+removed\\s+(.+?)\\.?$");
   var RE_REMOVED_PASSIVE = rx("^(.*?)\\s+(?:gruptan\\s+)?çıkarıldı" + NB + ".*$");
 
+  // "~Metin, @mtngvnm kullanıcı adını oluşturdu" / "Bir üye, @x kullanıcı adını oluşturdu"
+  // Kişi zaten üyedir; sohbette gizlenir, üye olarak sayılır. İsmi ilk parça,
+  // yoksa @handle kullanılır.
+  var RE_USERNAME = rx("^(.*?),\\s+(@[^\\s]+)\\s+kullanıcı\\s+adını\\s+oluşturdu" + NB + ".*$");
+
   // "Ahmet kişisini çıkardınız" (siz/admin çıkardı) -> çıkarılan = isim
   var RE_REMOVED_YOU = rx("^(.*?)\\s+kişisini\\s+(?:gruptan\\s+)?çıkardın(?:ız)?" + NB + ".*$");
   // "Ahmet kişisini eklediniz" (siz/admin ekledi) -> eklenen = isim
@@ -138,6 +143,13 @@
     }
     if ((m = text.match(RE_REMOVED_PASSIVE))) {
       var r = canon(m[1]); if (r) { removed.add(r); present.delete(r); } return true;
+    }
+    if ((m = text.match(RE_USERNAME))) {
+      // İsim kısmı "Bir üye" gibi jenerikse @handle'ı kullan.
+      var raw = canon(m[1]);
+      var who = (!raw || /^bir\s+üye$/i.test(raw)) ? canon(m[2]) : raw;
+      if (who) { present.add(who); removed.delete(who); }
+      return true;
     }
     for (var i = 0; i < RE_IGNORE.length; i++) if (RE_IGNORE[i].test(text)) return true;
     return false;
