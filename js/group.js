@@ -8,7 +8,7 @@
   var SEARCH_CAP = 600;      // arama sonucu üst sınırı
   var MONTHS = ["Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"];
 
-  var state = { all: [], rendered: 0, group: null };
+  var state = { all: [], rendered: 0, group: null, cards: false };
 
   function $(id) { return document.getElementById(id); }
   function param(k) { return new URLSearchParams(location.search).get(k); }
@@ -166,7 +166,7 @@
           '<span class="contrib__rank">' + (i + 1) + "</span>" +
           '<span class="contrib__av" style="background:' + colorFor(c.name) + '">' + esc(initials(c.name)) + "</span>" +
           '<span class="contrib__info">' +
-            '<span class="contrib__name">' + esc(maskName(c.name)) + "</span>" +
+            '<span class="contrib__name">' + esc(state.cards ? c.name : maskName(c.name)) + "</span>" +
             '<span class="contrib__bar"><i style="width:' + pct + '%"></i></span>' +
           "</span>" +
           '<span class="contrib__num">' + fmt(c.count) + "</span>" +
@@ -218,6 +218,57 @@
     }).join("");
   }
 
+  // ---- Kartvizit görünümü (tanışma grubu) ----
+  // Her kişi için: TAM ad (maskesiz) + kendi yazdığı mesajlar (telefon zaten
+  // parser'da gizlenmiş). İsimsiz (numaralı -> "Üye") kişiler kartta gösterilmez.
+  function buildCardsData() {
+    var map = {}, order = [];
+    for (var i = 0; i < state.all.length; i++) {
+      var m = state.all[i];
+      if (m.sender === "Üye" || m.media) continue;
+      if (!map[m.sender]) { map[m.sender] = { name: m.sender, texts: [] }; order.push(m.sender); }
+      map[m.sender].texts.push(m.text);
+    }
+    return order.map(function (s) { return map[s]; })
+                .filter(function (c) { return c.texts.length; });
+  }
+
+  function vcardHTML(c, q) {
+    return (
+      '<div class="vcard">' +
+        '<div class="vcard__head">' +
+          '<span class="vcard__av" style="background:' + colorFor(c.name) + '">' + esc(initials(c.name)) + "</span>" +
+          '<span class="vcard__name">' + esc(c.name) + "</span>" +
+        "</div>" +
+        '<div class="vcard__body">' + highlight(c.texts.join("\n"), q) + "</div>" +
+      "</div>"
+    );
+  }
+
+  function renderCards(q) {
+    var chat = $("chat");
+    var data = buildCardsData();
+    if (q) {
+      var ql = q.toLocaleLowerCase("tr");
+      data = data.filter(function (c) {
+        return (c.name + " " + c.texts.join(" ")).toLocaleLowerCase("tr").indexOf(ql) > -1;
+      });
+    }
+    $("search-count").textContent = data.length + " kişi";
+    if (!data.length) {
+      chat.innerHTML = '<div class="chat-empty"><b>' + (q ? "Sonuç yok" : "Henüz kartvizit yok") + "</b>" +
+        (q ? '"' + esc(q) + '" için kişi bulunamadı.'
+           : "Bu grubun konuşma geçmişi eklendiğinde kartvizitler burada görünecek.") + "</div>";
+      return;
+    }
+    chat.innerHTML = '<div class="vcards">' + data.map(function (c) { return vcardHTML(c, q); }).join("") + "</div>";
+    chat.scrollTop = 0;
+  }
+
+  // Düzen seçimi: cards mı normal sohbet mi?
+  function renderMain() { if (state.cards) renderCards(); else renderInitial(); }
+  function renderQuery(q) { if (state.cards) renderCards(q); else renderSearch(q); }
+
   // --- Başlat ---
   var slug = param("g");
   if (!slug) { location.href = "index.html"; return; }
@@ -228,18 +279,22 @@
       var g = cfg.groups.filter(function (x) { return x.slug === slug; })[0];
       if (!g) { showError("Grup bulunamadı."); return; }
       state.group = g;
+      state.cards = g.layout === "cards";
       setHeader(g, null);
-      renderRules(cfg.rules, g.rules);
+      if (state.cards) {
+        var box = $("search");
+        if (box) box.placeholder = "Kişilerde ara…";
+      }
 
       return fetch("data/chats/" + slug + ".txt", { cache: "no-cache" }).then(function (r) {
-        if (!r.ok) { setHeader(g, null); renderInitial(); return; }
+        if (!r.ok) { setHeader(g, null); renderMain(); return; }
         return r.text().then(function (txt) {
-          if (!txt.trim()) { renderInitial(); return; }
+          if (!txt.trim()) { renderMain(); return; }
           var p = WAParser.parse(txt, cfg.privacy || {});
           state.all = p.messages;
           setHeader(g, { memberCount: p.memberCount, messageCount: p.messageCount });
           renderContributors(p.contributors);
-          renderInitial();
+          renderMain();
         });
       });
     })
@@ -252,8 +307,8 @@
     clearTimeout(t);
     var q = e.target.value.trim();
     t = setTimeout(function () {
-      if (!q) { $("search-count").textContent = ""; renderInitial(); }
-      else renderSearch(q);
+      if (!q) { $("search-count").textContent = ""; renderMain(); }
+      else renderQuery(q);
     }, 180);
   });
 })();
