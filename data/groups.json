@@ -111,6 +111,20 @@
       "name": "Claude Design",
       "description": "Tasarım ve görsel üretim",
       "invite": "https://chat.whatsapp.com/Ldpn43i3HFvK754KiQEEXu?s=cl&p=i&ilr=1"
+    },
+    {
+      "slug": "tanisma-kartvizit",
+      "emoji": "🤝🪪",
+      "name": "Tanışma & Kartvizit Paylaşımı",
+      "description": "Üyelerin birbirini tanıması ve kartvizit/iletişim paylaşımı",
+      "invite": "https://chat.whatsapp.com/JWCgOaHHC5a0TdQm6Z9h8S"
+    },
+    {
+      "slug": "etkinlikler",
+      "emoji": "📅🎤",
+      "name": "Claude Etkinlikleri",
+      "description": "Topluluk etkinlikleri, buluşmalar ve duyurular",
+      "invite": "https://chat.whatsapp.com/KnyuIH9t5N5Ft89hvnItJg"
     }
   ]
 }
