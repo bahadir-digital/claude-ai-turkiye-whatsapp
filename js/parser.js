@@ -82,6 +82,11 @@
   var RE_ADDED_YOU = rx("^(.*?)\\s+kişisini\\s+(?:gruba\\s+)?ekledin(?:iz)?" + NB + ".*$");
 
   var RE_IGNORE = [
+    // Kullanıcı adı oluşturma/değiştirme sistem bildirimleri
+    /kullanıcı\s+adını\s+oluşturdu/i,
+    /kullanıcı\s+adını\s+@?\S+\s+olarak\s+değiştirdi/i,
+    /kullanıcı\s+adını\s+değiştirdi/i,
+    /changed\s+(?:their|his|her)\s+username/i,
     // Katılma isteği GÖNDEREN kişi henüz ÜYE DEĞİLDİR; gizle ve sayma.
     /katılma\s+isteği\s+gönderdi/i, /requested\s+to\s+join/i,
     /katılma\s+isteğini?\s+(?:onayladı|reddetti|geri\s+çek|iptal)/i,
