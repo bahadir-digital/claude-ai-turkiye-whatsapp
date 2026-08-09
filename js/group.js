@@ -33,6 +33,14 @@
     var b = parts.length > 1 ? parts[parts.length - 1][0] : "";
     return (a + b).toUpperCase();
   }
+  // Gizlilik: her isim/soyisim parçasının ilk 2 harfi görünür, gerisi ***
+  // ("Bahadır Eren" -> "Ba*** Er***"). "Üye" gibi anonim etiketler değişmez.
+  function maskName(name) {
+    if (!name || name === "Üye") return name;
+    return name.split(/\s+/).map(function (w) {
+      return w.length <= 2 ? w : w.slice(0, 2) + "***";
+    }).join(" ");
+  }
   function dayKey(m) { return m.y + "-" + m.mo + "-" + m.d; }
   function dayLabel(m) { return m.d + " " + MONTHS[m.mo - 1] + " " + m.y; }
   function timeLabel(m) {
@@ -52,7 +60,7 @@
       : '<span class="bubble__text">' + highlight(m.text, q) + "</span>";
     return (
       '<div class="msg"><div class="bubble">' +
-        '<span class="bubble__sender" style="color:' + colorFor(m.sender) + '">' + esc(m.sender) + "</span>" +
+        '<span class="bubble__sender" style="color:' + colorFor(m.sender) + '">' + esc(maskName(m.sender)) + "</span>" +
         inner +
         '<span class="bubble__time">' + timeLabel(m) + "</span>" +
       "</div></div>"
@@ -158,7 +166,7 @@
           '<span class="contrib__rank">' + (i + 1) + "</span>" +
           '<span class="contrib__av" style="background:' + colorFor(c.name) + '">' + esc(initials(c.name)) + "</span>" +
           '<span class="contrib__info">' +
-            '<span class="contrib__name">' + esc(c.name) + "</span>" +
+            '<span class="contrib__name">' + esc(maskName(c.name)) + "</span>" +
             '<span class="contrib__bar"><i style="width:' + pct + '%"></i></span>' +
           "</span>" +
           '<span class="contrib__num">' + fmt(c.count) + "</span>" +
