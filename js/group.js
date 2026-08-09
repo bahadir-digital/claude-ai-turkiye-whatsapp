@@ -227,7 +227,7 @@
         if (!r.ok) { setHeader(g, null); renderInitial(); return; }
         return r.text().then(function (txt) {
           if (!txt.trim()) { renderInitial(); return; }
-          var p = WAParser.parse(txt);
+          var p = WAParser.parse(txt, cfg.privacy || {});
           state.all = p.messages;
           setHeader(g, { memberCount: p.memberCount, messageCount: p.messageCount });
           renderContributors(p.contributors);

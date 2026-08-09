@@ -155,7 +155,38 @@
     return false;
   }
 
-  function parse(raw) {
+  // Bir gönderenin telefon numarası olup olmadığını anlar (isim değil).
+  function isPhone(s) {
+    var cleaned = (s || "").replace(/[\s()\-.\u2011\u2013]/g, "");
+    return /^\+?\d{7,}$/.test(cleaned);
+  }
+
+  // Mesaj metnindeki telefon numaralarını gizler.
+  function maskPhones(text) {
+    return (text || "").replace(/\+?\d[\d\s()\-.]{6,}\d/g, function (m) {
+      return m.replace(/\D/g, "").length >= 9 ? "[numara gizlendi]" : m;
+    });
+  }
+
+  function parse(raw, opts) {
+    opts = opts || {};
+    var hideNumbers = opts.hideNumbers !== false; // varsayılan: açık
+    // Tamamen kaldırılacak kişiler (isim ve/veya numara)
+    var redactNames = new Set();
+    var redactNums = new Set();
+    (opts.redact || []).forEach(function (x) {
+      var v = String(x || "").trim();
+      if (!v) return;
+      redactNames.add(canon(v).toLocaleLowerCase("tr"));
+      var d = v.replace(/\D/g, "");
+      if (d.length >= 7) redactNums.add(d);
+    });
+    function isRedacted(sender) {
+      if (redactNames.has(sender.toLocaleLowerCase("tr"))) return true;
+      var d = sender.replace(/\D/g, "");
+      return d.length >= 7 && redactNums.has(d);
+    }
+
     var lines = clean(raw || "").split("\n");
     var entries = [];
     var cur = null;
@@ -196,9 +227,18 @@
       if (!sender) continue;
       var content = body.slice(sep + 2).trim();
 
+      // GİZLİLİK: tamamen kaldırılacak kişilerin mesajını hiç ekleme
+      if (isRedacted(sender)) continue;
+
       present.add(sender);
       removed.delete(sender);
-      counts[sender] = (counts[sender] || 0) + 1;
+
+      // Telefon numaralı gönderenleri anonimleştir ("Üye")
+      var display = sender, anon = false;
+      if (hideNumbers && isPhone(sender)) { display = "Üye"; anon = true; }
+
+      // Anonim olmayanları katkı sıralamasına ekle
+      if (!anon) counts[display] = (counts[display] || 0) + 1;
 
       var isMedia =
         /<\s*medya\s+dahil\s+edilmedi\s*>/i.test(content) ||
@@ -206,7 +246,9 @@
         /(görsel|video|ses|belge|çıkartma|gif|sticker)\s+dahil\s+edilmedi/i.test(content) ||
         /(image|video|audio|document|sticker|gif)\s+omitted/i.test(content);
 
-      messages.push({ sender: sender, text: content, media: isMedia,
+      if (!isMedia) content = maskPhones(content); // metindeki numaraları gizle
+
+      messages.push({ sender: display, text: content, media: isMedia,
                       y: e.y, mo: e.mo, d: e.d, hh: e.hh, mi: e.mi });
     }
 
