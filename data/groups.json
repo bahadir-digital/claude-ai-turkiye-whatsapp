@@ -206,7 +206,8 @@
       "name": "Tanışma & Kartvizit Paylaşımı",
       "description": "Üyelerin birbirini tanıması ve kartvizit/iletişim paylaşımı",
       "members": 422,
-      "invite": "https://chat.whatsapp.com/JWCgOaHHC5a0TdQm6Z9h8S"
+      "invite": "https://chat.whatsapp.com/JWCgOaHHC5a0TdQm6Z9h8S",
+      "layout": "cards"
     },
     {
       "slug": "etkinlikler",
