@@ -176,7 +176,7 @@
   }
 
   function setHeader(g, stats) {
-    document.title = g.name + " — Claude.ai Türkiye";
+    document.title = g.name + " · Claude.ai Türkiye 🇹🇷";
     $("ch-name").textContent = g.name;
     $("s-desc").textContent = g.description || "";
     $("join").href = g.invite;
