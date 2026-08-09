@@ -7,6 +7,13 @@
   "communityMembers": 2000,
   "communityNote": "Topluluğumuz WhatsApp'ın 2.000 kişilik sınırında dolu. Yeni katılımları, yer açıldıkça bekleme sırasındaki arkadaşlardan alıyoruz.",
   "subgroupCap": 1024,
+  "privacy": {
+    "hideNumbers": true,
+    "redact": [
+      "Cem Ege Karaca",
+      "+32 472 68 30 18"
+    ]
+  },
   "rulesTitle": "Claude.ai Türkiye — Topluluk Kuralları 🤝",
   "rulesIntro": "Burada birlikte öğrenip birlikte üretiyoruz. Herkesin kendini rahat hissetmesi için birkaç ortak kuralımız var:",
   "rules": [
